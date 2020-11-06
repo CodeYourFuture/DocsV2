@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Second Page](second-page.md)
 
 ## GroupA
 
-* [GroupAPage](groupa/groupapage.md)
+* [GroupAPage](groupa/groupapage/README.md)
+  * [Second Page](groupa/groupapage/second-page.md)
 
