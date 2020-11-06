@@ -3,9 +3,9 @@ id: online-teaching
 title: Online Teaching
 ---
 
-# Online - Teaching
+# Teaching Notes
 
-[Online-teaching: Home](online-teaching.md) \| [Start-of-class checklists](online-start-of-class-checklists.md) \| [Online fun](online-fun.md) \| [Zoom training call overview](../../../organisation/zoom-training-call-overview.md)
+[Online-teaching: Home](online-teaching.md) \| [Start-of-class checklists](online-start-of-class-checklists.md) \| [Online fun](online-fun.md) \| [Zoom training call overview](zoom-training-call-overview.md)
 
 ## Zoom Client Setup \(everyone\)
 
@@ -135,10 +135,10 @@ Don't hesitate to edit this page to add a recommendation!
 
 We use Zoom training calls to up-skill our volunteers and students.
 
-* You can find the agenda for such a call here: [Zoom training call overview](../../../organisation/zoom-training-call-overview.md)
+* You can find the agenda for such a call here: [Zoom training call overview](zoom-training-call-overview.md)
 * Teachers can request a training call from Neill Bogie on Slack or ask in \#zoom-questions
 
 ## Who to ask for help
 
-[Online-teaching: Home](online-teaching.md) \| [Start-of-class checklists](online-start-of-class-checklists.md) \| [Online fun](online-fun.md) \| [Zoom training call overview](../../../organisation/zoom-training-call-overview.md)
+[Online-teaching: Home](online-teaching.md) \| [Start-of-class checklists](online-start-of-class-checklists.md) \| [Online fun](online-fun.md) \| [Zoom training call overview](zoom-training-call-overview.md)
 

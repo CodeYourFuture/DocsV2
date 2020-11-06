@@ -3,7 +3,7 @@ id: online-start-of-class-checklists
 title: Start-of-class checklists (for online classes)
 ---
 
-# Online - Start of Class Checklist
+# Start of Class Checklist
 
 [Online-teaching: Home](online-teaching.md) \| [Start-of-class checklists](online-start-of-class-checklists.md) \| [Online fun](online-fun.md) \| [Zoom training call overview](https://github.com/CodeYourFuture/DocsV2/tree/e9aebc0f2d97ba4e65a510fcf287c1d11f6ee70d/organisation/zoom-training-call-overview/README.md)
 

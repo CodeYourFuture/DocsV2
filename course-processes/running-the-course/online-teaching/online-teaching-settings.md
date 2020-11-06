@@ -3,7 +3,7 @@ id: online-teaching-config
 title: Online Teaching Config
 ---
 
-# Online - Teaching Settings
+# Teaching Settings
 
 [Back to Online-teaching: Home](online-teaching.md)
 

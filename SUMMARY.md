@@ -11,7 +11,6 @@
 * [Our Student Backgrounds](organisation/understand-students.md)
 * [Joining](organisation/joining.md)
 * [FAQs](organisation/faqs.md)
-* [Zoom Training](organisation/zoom-training-call-overview.md)
 
 ## Course Processes
 
@@ -27,10 +26,11 @@
 * [Running the Course](course-processes/running-the-course/README.md)
   * [Welcome Event](course-processes/running-the-course/welcome-event.md)
   * [Online Teaching](course-processes/running-the-course/online-teaching/README.md)
-    * [Online - Teaching Settings](course-processes/running-the-course/online-teaching/online-teaching-settings.md)
-    * [Online - Start of Class Checklist](course-processes/running-the-course/online-teaching/online-start-of-class-checklists.md)
+    * [Teaching Notes](course-processes/running-the-course/online-teaching/online-teaching.md)
+    * [Teaching Settings](course-processes/running-the-course/online-teaching/online-teaching-settings.md)
+    * [Start of Class Checklist](course-processes/running-the-course/online-teaching/online-start-of-class-checklists.md)
+    * [Zoom Training](course-processes/running-the-course/online-teaching/zoom-training-call-overview.md)
     * [Online Fun](course-processes/running-the-course/online-teaching/online-fun.md)
-    * [Online - Teaching](course-processes/running-the-course/online-teaching/online-teaching.md)
   * [Full Stack Course](course-processes/running-the-course/the-course.md)
   * [Hackathons](course-processes/running-the-course/hackathons.md)
   * [Study Groups](course-processes/running-the-course/study-groups.md)
