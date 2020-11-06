@@ -24,6 +24,7 @@
   * [Selection Day](course-processes/joining-the-course/selection-day.md)
   * [Re-entry to Course](course-processes/joining-the-course/re-entry.md)
 * [Running the Course](course-processes/running-the-course/README.md)
+  * [Running A Class](course-processes/running-the-course/running-a-class.md)
   * [Welcome Event](course-processes/running-the-course/welcome-event.md)
   * [Online Teaching](course-processes/running-the-course/online-teaching/README.md)
     * [Teaching Notes](course-processes/running-the-course/online-teaching/online-teaching.md)
@@ -34,7 +35,6 @@
   * [Full Stack Course](course-processes/running-the-course/the-course.md)
   * [Hackathons](course-processes/running-the-course/hackathons.md)
   * [Study Groups](course-processes/running-the-course/study-groups.md)
-  * [Running A Class](course-processes/running-the-course/running-a-class.md)
 
 ## Teams
 
