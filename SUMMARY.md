@@ -33,6 +33,7 @@
   * [Full Stack Course](course-processes/running-the-course/the-course.md)
   * [Hackathons](course-processes/running-the-course/hackathons.md)
   * [Study Groups](course-processes/running-the-course/study-groups.md)
+* [After the Course](course-processes/after-the-course.md)
 
 ## Teams
 
