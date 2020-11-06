@@ -48,3 +48,20 @@ These problems can manifest themselves in students not understanding key concept
 
 You can find our teacher training resources here: [https://teachertraining.codeyourfuture.io/](https://teachertraining.codeyourfuture.io/)
 
+## Github Repositories
+
+### Syllabus
+
+* [`CodeYourFuture/syllabus`](https://github.com/CodeYourFuture/syllabus/tree/master)
+  * This is the CodeYourFuture syllabus
+  * We use the contents of this as the single source of truth for our teaching material
+  * https://syllabus.codeyourfuture.io
+
+## Wiki
+
+* [`CodeYourFuture/wiki/`](https://github.com/CodeYourFuture/wiki/)
+  * This is the repo for this website
+  * We use this as the single website where students and mentors can find all the information they need regarding CodeYourFuture
+    * This portal is the single source of truth for Cities, Students and Volunteers
+  * We give this link to students and mentors
+
