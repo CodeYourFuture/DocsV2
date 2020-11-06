@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to CodeYourFuture
 
 CodeYourFuture is a non-profit volunteer-run coding school for refugees and asylum seekers. We offer a free nine-month web development program with the aim of preparing the students for a job as a junior developer. The course contains:
 
@@ -20,3 +20,4 @@ We are currently looking at expanding to
 ```text
 Cape Town
 ```
+
