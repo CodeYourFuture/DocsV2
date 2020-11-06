@@ -5,7 +5,7 @@ title: Online Teaching
 
 # Online - Teaching
 
-[Online-teaching: Home](online-teaching.md) \| [Start-of-class checklists](online-start-of-class-checklists.md) \| [Online fun](online-fun.md) \| [Zoom training call overview](zoom-training-call-overview.md)
+[Online-teaching: Home](online-teaching.md) \| [Start-of-class checklists](online-start-of-class-checklists.md) \| [Online fun](online-fun.md) \| [Zoom training call overview](../../../organisation/zoom-training-call-overview.md)
 
 ## Zoom Client Setup \(everyone\)
 
@@ -104,7 +104,7 @@ Students should be directed to ask questions in the Slack Channel. We suggest cr
   * For example in this Slack post the teacher uses a confused emoji to tell if some students don't understand the question
   * It's important that you add the emoji first yourself so that it's easy for students to follow
 
-![image-20200320142026383](../.gitbook/assets/image-20200320142026383.png)
+![image-20200320142026383](../../../.gitbook/assets/image-20200320142026383.png)
 
 * Use the webcam to your advantage
   * To check if students are understanding ask them to nod or shake their head to answer
@@ -135,10 +135,10 @@ Don't hesitate to edit this page to add a recommendation!
 
 We use Zoom training calls to up-skill our volunteers and students.
 
-* You can find the agenda for such a call here: [Zoom training call overview](zoom-training-call-overview.md)
+* You can find the agenda for such a call here: [Zoom training call overview](../../../organisation/zoom-training-call-overview.md)
 * Teachers can request a training call from Neill Bogie on Slack or ask in \#zoom-questions
 
 ## Who to ask for help
 
-[Online-teaching: Home](online-teaching.md) \| [Start-of-class checklists](online-start-of-class-checklists.md) \| [Online fun](online-fun.md) \| [Zoom training call overview](zoom-training-call-overview.md)
+[Online-teaching: Home](online-teaching.md) \| [Start-of-class checklists](online-start-of-class-checklists.md) \| [Online fun](online-fun.md) \| [Zoom training call overview](../../../organisation/zoom-training-call-overview.md)
 

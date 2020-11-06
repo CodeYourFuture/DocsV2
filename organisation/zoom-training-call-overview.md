@@ -5,7 +5,7 @@ title: Zoom training call overview
 
 # Zoom Training
 
-[Online-teaching: Home](online-teaching.md) \| [Start-of-class checklists](online-start-of-class-checklists.md) \| [Zoom training call overview](https://github.com/CodeYourFuture/DocsV2/tree/e9aebc0f2d97ba4e65a510fcf287c1d11f6ee70d/organisation/zoom-training-call-overview/README.md)
+[Online-teaching: Home](../course-processes/running-the-course/online-teaching/online-teaching.md) \| [Start-of-class checklists](../course-processes/running-the-course/online-teaching/online-start-of-class-checklists.md) \| [Zoom training call overview](https://github.com/CodeYourFuture/DocsV2/tree/e9aebc0f2d97ba4e65a510fcf287c1d11f6ee70d/organisation/zoom-training-call-overview/README.md)
 
 ## Zoom Training Call - Student version
 
@@ -76,5 +76,5 @@ title: Zoom training call overview
   * restore original host
   * ask to be made co-host again
 
-[Online-teaching: Home](online-teaching.md) \| [Start-of-class checklists](online-start-of-class-checklists.md) \| [Zoom training call overview](https://github.com/CodeYourFuture/DocsV2/tree/e9aebc0f2d97ba4e65a510fcf287c1d11f6ee70d/organisation/zoom-training-call-overview/README.md)
+[Online-teaching: Home](../course-processes/running-the-course/online-teaching/online-teaching.md) \| [Start-of-class checklists](../course-processes/running-the-course/online-teaching/online-start-of-class-checklists.md) \| [Zoom training call overview](https://github.com/CodeYourFuture/DocsV2/tree/e9aebc0f2d97ba4e65a510fcf287c1d11f6ee70d/organisation/zoom-training-call-overview/README.md)
 
