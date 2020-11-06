@@ -3,6 +3,8 @@ id: homework-feedback
 title: Homework Feedback
 ---
 
+# Coursework Feedback
+
 Giving effective, actionable feedback is one of the ways that we can best help our students learn and grow.
 
 ## 1. Giving Feedback
@@ -17,7 +19,7 @@ Above all else be positive and be kind. Our students want to learn and want to u
 
 You should pull out small wins from bad code and encourage them to continue and try again. Many of our students suffer from low confidence and a well timed comment of motivation can be all it takes to push them to success.
 
-If in doubt, consult our [key rules](/volunteers/education/teaching-tips#the-rules). 
+If in doubt, consult our [key rules](https://github.com/CodeYourFuture/DocsV2/tree/600f9105c4db70d16abccc962441cf765c539a18/volunteers/education/teaching-tips/README.md#the-rules).
 
 **Directing to Resources**
 
@@ -55,7 +57,7 @@ It never hurts to remind the student of the importance of proper formatting and 
 
 The VS Code studio plug-in can help speed up moving between pull requests and making comments.
 
-https://github.com/microsoft/vscode-pull-request-github
+[https://github.com/microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
 
 It allows you to make comments from directly inside and VS Code and allows each comparision between Pull Requests.
 
@@ -63,7 +65,7 @@ It allows you to make comments from directly inside and VS Code and allows each 
 
 Using Github Desktop makes it easy to see all of the open pull requests for a Repository and move quickly between them.
 
-![Fork Button](assets/homework-feedback/pull-request.png)
+![Fork Button](https://github.com/CodeYourFuture/DocsV2/tree/600f9105c4db70d16abccc962441cf765c539a18/organisation/education/assets/homework-feedback/pull-request.png)
 
 Simply navigate to the Branch tab at the top of the screen then select the Pull Request tab
 
@@ -71,12 +73,11 @@ Simply navigate to the Branch tab at the top of the screen then select the Pull 
 
 This not only get's the students used to using it, but also make it easier for other reviewers to know if work has been reviewed. [The process is documented here at point 7](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request).
 
-- If the work is good and doesn't require changes, select "Approve"
-- If the work needs work, select "Request changes"
-- If you've done a review, but don't have time to complete it, but the comments are valuable, select comment.
+* If the work is good and doesn't require changes, select "Approve"
+* If the work needs work, select "Request changes"
+* If you've done a review, but don't have time to complete it, but the comments are valuable, select comment.
 
-You will then be able to filter the pull request list by what needs approving.
-<img width="353" alt="Screenshot 2020-02-28 at 13 58 24" src="https://user-images.githubusercontent.com/31692/75577343-bbf1da00-5a59-11ea-9608-b4b880585d25.png">
+You will then be able to filter the pull request list by what needs approving. ![Screenshot 2020-02-28 at 13 58 24](https://user-images.githubusercontent.com/31692/75577343-bbf1da00-5a59-11ea-9608-b4b880585d25.png)
 
 ### Labelling the Pull Request
 
@@ -94,50 +95,54 @@ If you suspect a student has copied code please report this back to the Educatio
 
 For our records and to track student progress it is important that we track how well the student is progressing through our course. This can happen in a variety of places.
 
-- Class Tracking Spreadsheet
-- Google Classroom
-- Trello Cards
+* Class Tracking Spreadsheet
+* Google Classroom
+* Trello Cards
 
 Please consult your Class Coordinators for the best place to record this information as it will vary from class to class.
 
 Grades should be given on the follow criteria
 
-- The completeness of the homework
-- How much you believe the student understands the content
-- How well executed the homework is
+* The completeness of the homework
+* How much you believe the student understands the content
+* How well executed the homework is
 
 This is, above all else, an indicator of the students abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this.
- 
-Although grading makes the tracking easier, we aim to give students feedback rather than grades. 
 
-A rough guide (to be taken with a pinch of salt):
+Although grading makes the tracking easier, we aim to give students feedback rather than grades.
 
-- 0
-  - Work is not handed in
-- 1, 2, 3
-  - Work has been handed in but does not meet the criteria/ demonstrates a lack of understanding
-- 4, 5, 6
-  - Work is okay, demonstrate an understanding of this weeks’ material and the task.
-- 7, 8, 9
-  - Work is good, the student demonstrates a strong understanding of this weeks’ material and the task and uses it with thought.
-- 10
-  - Work is perfect, the student demonstrates a deep understanding of this week’s material and the task, a fluent use of code with very minimals errors or improvements
+A rough guide \(to be taken with a pinch of salt\):
+
+* 0
+  * Work is not handed in
+* 1, 2, 3
+  * Work has been handed in but does not meet the criteria/ demonstrates a lack of understanding
+* 4, 5, 6
+  * Work is okay, demonstrate an understanding of this weeks’ material and the task.
+* 7, 8, 9
+  * Work is good, the student demonstrates a strong understanding of this weeks’ material and the task and uses it with thought.
+* 10
+  * Work is perfect, the student demonstrates a deep understanding of this week’s material and the task, a fluent use of code with very minimals errors or improvements
 
 ## 3. Mentor Responsibility
 
 Education volunteers are responsible for a group of students to track their progress through the course.
 
 **They are responsible for**
-- Ensuring that students complete their homework each week
-- Giving them feedback
-- Recording the student progress for their assigned students
+
+* Ensuring that students complete their homework each week
+* Giving them feedback
+* Recording the student progress for their assigned students
 
 _Please consult your Class Coordinators for the best place to record this information as it will vary from class to class._
 
 **If you are unable**
-- You are responsible for communicating with other education team volunteers to find someone to cover these responsibilities
-- If you have completed your marking and you feel able to do more
-- Please offer your time to other volunteers to help them
+
+* You are responsible for communicating with other education team volunteers to find someone to cover these responsibilities
+* If you have completed your marking and you feel able to do more
+* Please offer your time to other volunteers to help them
 
 **If students haven’t completed their homework**
-- Please liaise with the student’s PD team lead to follow up with that student
+
+* Please liaise with the student’s PD team lead to follow up with that student
+
