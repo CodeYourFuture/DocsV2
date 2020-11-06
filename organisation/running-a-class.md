@@ -3,30 +3,32 @@ id: running-a-class
 title: Running A Class
 ---
 
+# Running A Class
+
 ## Pre-Class Checklist
 
-- Lead Teachers understand the content that they will be teaching
-  - This includes the teaching for the day and the homework
-- All volunteers know when and where they should be attending
-- Volunteers attending for this first time have somebody to greet them and show them how CYF works
-- Students know when and where they will be attending the class
-- Somebody has been chosen to run energisers during the day 
-- If lunch is being provided - somebody is in charge of coorinating it
+* Lead Teachers understand the content that they will be teaching
+  * This includes the teaching for the day and the homework
+* All volunteers know when and where they should be attending
+* Volunteers attending for this first time have somebody to greet them and show them how CYF works
+* Students know when and where they will be attending the class
+* Somebody has been chosen to run energisers during the day 
+* If lunch is being provided - somebody is in charge of coorinating it
 
 ## Schedule
 
 Here is an example schedule of a day events at a normal class
 
-- 10:30 - Students and Volunteers Arrive
-- 11:00 - [Arrange Classroom](#arrange-classroom) & [Morning Energiser](#energisers)
-- 11:15 - [Students Retrospective](#student-retrospective) // [Volunteers Kick-off](#volunteer-kick-off)
-- 11:45 - [Morning Teaching](#morning-teaching)
-- 14:00 - [Lunch](#lunch)
-- 14:45 - [Afternoon Energiser](#energisers)
-- 15:00 - [Afternoon Teaching](#afternoon-teaching)
-- 17:00 - [Homework Briefing](#homework-briefing)
-- 17:15 - [Tidy Up](#tidy-up) // [Volunteers Retrospective](#volunteers-retrospective)
-- 18:00 - Hometime
+* 10:30 - Students and Volunteers Arrive
+* 11:00 - [Arrange Classroom](running-a-class.md#arrange-classroom) & [Morning Energiser](running-a-class.md#energisers)
+* 11:15 - [Students Retrospective](running-a-class.md#student-retrospective) // [Volunteers Kick-off](running-a-class.md#volunteer-kick-off)
+* 11:45 - [Morning Teaching](running-a-class.md#morning-teaching)
+* 14:00 - [Lunch](running-a-class.md#lunch)
+* 14:45 - [Afternoon Energiser](running-a-class.md#energisers)
+* 15:00 - [Afternoon Teaching](running-a-class.md#afternoon-teaching)
+* 17:00 - [Homework Briefing](running-a-class.md#homework-briefing)
+* 17:15 - [Tidy Up](running-a-class.md#tidy-up) // [Volunteers Retrospective](running-a-class.md#volunteers-retrospective)
+* 18:00 - Hometime
 
 ## Activity Breakdown
 
@@ -78,10 +80,10 @@ As well as simulating a real life work environment it is helpful for the student
 
 At the beginning of each day it is important that all of our volunteers understand the objectives of the day. This meeting ussually includes:
 
-- Introducing new volunteers to the group
-- Discussing what will be taught in todays lesson
-- Students we should be giving particular help to
-- Thanking the volunteers for attending
+* Introducing new volunteers to the group
+* Discussing what will be taught in todays lesson
+* Students we should be giving particular help to
+* Thanking the volunteers for attending
 
 **Who runs this?**
 
@@ -99,7 +101,7 @@ The teaching section of the day is the core part of our classes.
 
 **Who runs this?**
 
-This is coordinated and delivered by the Education Team. More information about the classroom roles can be found [here](/volunteers/education/education-roles).
+This is coordinated and delivered by the Education Team. More information about the classroom roles can be found [here](https://github.com/CodeYourFuture/DocsV2/tree/c265f38db4043052aa0d06e2868151793028f82b/volunteers/education/education-roles/README.md).
 
 **Why do we do this?**
 
@@ -121,7 +123,7 @@ Teaching is what we're here to do! Normally this section of the day will expand 
 
 **Who runs this?**
 
-This is coordinated and delivered by the Education Team. More information about the classroom roles can be found [here](/volunteers/education/education-roles).
+This is coordinated and delivered by the Education Team. More information about the classroom roles can be found [here](https://github.com/CodeYourFuture/DocsV2/tree/c265f38db4043052aa0d06e2868151793028f82b/volunteers/education/education-roles/README.md).
 
 ### Homework Briefing
 
@@ -131,7 +133,7 @@ Giving the students a summary of their homework and work they are expected to do
 
 **Who runs this?**
 
-This is run by an Education Team Volunteer (preferrably one of the Classroom Assistants).
+This is run by an Education Team Volunteer \(preferrably one of the Classroom Assistants\).
 
 **Why do we do this?**
 
@@ -143,10 +145,10 @@ So that the students understand what homework they have got to do by the next we
 
 We run a short retrospective where we dicuss:
 
-- Which students did well
-- Which students struggled in this lesson
-- What went well with our teaching and delivery
-- What could be improved for our next lesson
+* Which students did well
+* Which students struggled in this lesson
+* What went well with our teaching and delivery
+* What could be improved for our next lesson
 
 **Who runs this?**
 
@@ -160,14 +162,14 @@ It's important that students are tracked as they move through the course so that
 
 **What is this?**
 
-When we're in a physical classroom (i.e. not an online lesson) we need to make sure everything is clean and tidy for when the next people use the space. This is important as we're normally hosted in another companies office!
+When we're in a physical classroom \(i.e. not an online lesson\) we need to make sure everything is clean and tidy for when the next people use the space. This is important as we're normally hosted in another companies office!
 
-We need to make sure that 
+We need to make sure that
 
-- All tables are back to where they should be
-- All washing up is clean and put away
-- Teaching space is tiday
-- Projectors and lights are turned off
+* All tables are back to where they should be
+* All washing up is clean and put away
+* Teaching space is tiday
+* Projectors and lights are turned off
 
 **Who runs this?**
 
@@ -176,3 +178,4 @@ This is coordinated and completed by the students.
 **Why do we do this?**
 
 To be respectful of the space that we're using to run our classes
+
