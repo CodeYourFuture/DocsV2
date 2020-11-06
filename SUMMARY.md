@@ -39,7 +39,7 @@
 
 * [Team Overview](teams/teams.md)
 * [Education](teams/education/README.md)
-  * [Overview](teams/education/overview.md)
+  * [Overview](teams/education/overview-education.md)
   * [Coursework Feedback](teams/education/homework-feedback.md)
   * [Teaching Tips](teams/education/teaching-tips.md)
   * [Syllabus](teams/education/syllabus.md)
