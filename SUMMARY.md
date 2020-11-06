@@ -24,7 +24,6 @@
 - [Study Groups](organisation/study-groups.md)
 - [Team Responsibilities](organisation/teams-list.md)
 - [Teams](organisation/teams.md)
-- [Full Stack Course](organisation/the-course.md)
 - [Welcome Event](organisation/welcome-event.md)
 - [Full Stack Course](organisation/the-course.md)
 - [Zoom Training](organisation/zoom-training-call-overview.md)
