@@ -3,7 +3,7 @@ id: teams
 title: Local Teams
 ---
 
-# Team Overview
+# Overview
 
 CYF local leadership team is divided in four teams: _Outreach, Personal Development, Education and Tech Projects_. The main responsibilities are:
 
