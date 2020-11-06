@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to CodeYourFuture](README.md)
+* [Welcome to CodeYourFuture Docs](README.md)
 * [Syllabus](https://syllabus.codeyourfuture.io)
 * [Teacher Training](https://teachertraining.codeyourfuture.io)
 
