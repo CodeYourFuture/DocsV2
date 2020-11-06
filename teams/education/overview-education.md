@@ -3,18 +3,20 @@ id: overview-education
 title: Overview
 ---
 
+# Overview
+
 In this section you'll find all the information to do with the education team.
 
 ## Responsibilities
 
 The function of this team varies due to the stage within the cohort:
 
-- Initially, the Education Team is responsible for finalising the syllabus & scheduling the course
-- From here, the team must welcome & onboard mentors, and organise mentor/assistant distribution throughout the course
-- The role then shifts to focusing on general class admin, covering class organisation, homework, assessments etc.
-- As a cohort nears completion, the education team then focus on managing final projects, and assisting students to continue these beyond graduation
+* Initially, the Education Team is responsible for finalising the syllabus & scheduling the course
+* From here, the team must welcome & onboard mentors, and organise mentor/assistant distribution throughout the course
+* The role then shifts to focusing on general class admin, covering class organisation, homework, assessments etc.
+* As a cohort nears completion, the education team then focus on managing final projects, and assisting students to continue these beyond graduation
 
-![Education Roles](./assets/role-edu.png)
+![Education Roles](https://github.com/CodeYourFuture/DocsV2/tree/db45891d5bc6fc531461a723f7173496beaf86bb/teams/education/assets/role-edu.png)
 
 ## Meeting Documentation
 
@@ -44,5 +46,5 @@ The problem lies in the fact that we are people who are passionate about teachin
 
 These problems can manifest themselves in students not understanding key concepts, struggling with homework or becoming discouraged with the course.
 
-You can find our teacher training resources here:
-[https://teachertraining.codeyourfuture.io/](https://teachertraining.codeyourfuture.io/)
+You can find our teacher training resources here: [https://teachertraining.codeyourfuture.io/](https://teachertraining.codeyourfuture.io/)
+
