@@ -3,6 +3,8 @@ id: cyf-dashboard
 title: Dashboard
 ---
 
+# Dashboard
+
 ## Dashboard Training
 
 You can find the slides for the dashboard training [here](https://docs.google.com/presentation/d/1XG0KQvT4b7NrXUa4y7bBcvI6cZkMRv6ybejvCA5wIEA/edit#slide=id.g81d5c2e1cb_1_0).
@@ -11,7 +13,7 @@ This training is given to people who want to start helping with evaluating appli
 
 ## Where is this?
 
-https://dashboard.codeyourfuture.io/
+[https://dashboard.codeyourfuture.io/](https://dashboard.codeyourfuture.io/)
 
 ## What is this?
 
@@ -21,17 +23,17 @@ The dashboard is the key organisation tool that we use to coodinate CodeYourFutu
 
 Currently it supports the following features:
 
-- [Application Process](volunteers/application-process.md)
-  - Including managing the steps that applicants have to complete to join the course
-- Volunteer Sign Ups
-- Cities
-- Teams
+* [Application Process](https://github.com/CodeYourFuture/DocsV2/tree/e9aebc0f2d97ba4e65a510fcf287c1d11f6ee70d/organisation/volunteers/application-process.md)
+  * Including managing the steps that applicants have to complete to join the course
+* Volunteer Sign Ups
+* Cities
+* Teams
 
 We also have these feature in development
 
-- Volunteer CRM
-- Events
-- Expenses
+* Volunteer CRM
+* Events
+* Expenses
 
 ## What problem does it solve?
 
@@ -42,3 +44,4 @@ As we've grown, we've found that this has become a a bottleneck for the organisa
 ## How do I get access?
 
 You can sign up on the website and then talk to a city coordinator to be accepted.
+

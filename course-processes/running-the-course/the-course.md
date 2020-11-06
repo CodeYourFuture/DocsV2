@@ -3,17 +3,19 @@ id: the-course
 title: Full Stack Web Development Course
 ---
 
+# Full Stack Course
+
 ## Aims
 
 The aim of this course is to provide the student with enough programming knowledge to be able to get a job as a programmer. Everything else is details.
 
 A student who completes our Full Stack Web Development course will:
 
-- Have the ability to build a basic modern full-stack web application (using NodeJS, MySQL and React)
-- Get experience with working in teams using Agile principles
-- Know how to learn and self-teach new programming concepts
-- Know how to use third-party libraries/APIs
-- Have a basic understanding of what it means to work on digital products
+* Have the ability to build a basic modern full-stack web application \(using NodeJS, MySQL and React\)
+* Get experience with working in teams using Agile principles
+* Know how to learn and self-teach new programming concepts
+* Know how to use third-party libraries/APIs
+* Have a basic understanding of what it means to work on digital products
 
 ## Delivery
 
@@ -25,17 +27,17 @@ Out-of-classroom support is given in a Slack Channel where students can collabor
 
 ## Syllabus
 
-You can find our syllabus online here: https://syllabus.codeyourfuture.io/
+You can find our syllabus online here: [https://syllabus.codeyourfuture.io/](https://syllabus.codeyourfuture.io/)
 
 ## Personal Development
 
-Just as essential as the programming side of the course is that our students have the soft skills required to get and hold a job. These include: 
+Just as essential as the programming side of the course is that our students have the soft skills required to get and hold a job. These include:
 
-- Time management
-- Planning
-- Communications
-- Teamwork
-- Public Speaking
+* Time management
+* Planning
+* Communications
+* Teamwork
+* Public Speaking
 
 ## Programming Content
 
@@ -43,7 +45,7 @@ Just as essential as the programming side of the course is that our students hav
 
 In this module students will learn the basic building blocks of the web: HTML and CSS. HTML gives us the power to add text, images and videos to a page. CSS enables us to organize these parts and make it look nice.
 
-The products of HTML and CSS comprise two-thirds of what is called frontend (the final third is client-side JavaScript, which they will learn about in later modules). What is frontend? It's another word for the presentational part of a piece of software. In terms of web development we're talking about "what you see" when you go to any website.
+The products of HTML and CSS comprise two-thirds of what is called frontend \(the final third is client-side JavaScript, which they will learn about in later modules\). What is frontend? It's another word for the presentational part of a piece of software. In terms of web development we're talking about "what you see" when you go to any website.
 
 Think of it like this: if a webpage were a person, the HTML would be the skeleton and CSS the skin and clothing!
 
@@ -53,7 +55,7 @@ In this module our students make a start into the wonderful world of programming
 
 ### JavaScript 2
 
-In JavaScript 2 our students will learn all about how to use JavaScript within the browser. First, they'll learn about how HTML is structured within their browser: we call this the Document Object Model (DOM). Once they've gotten the hang of that we'll apply JavaScript to it, in order to manipulate the elements and make our pages more interactive. We call this DOM manipulation and it's one of the most interesting things about JavaScript.
+In JavaScript 2 our students will learn all about how to use JavaScript within the browser. First, they'll learn about how HTML is structured within their browser: we call this the Document Object Model \(DOM\). Once they've gotten the hang of that we'll apply JavaScript to it, in order to manipulate the elements and make our pages more interactive. We call this DOM manipulation and it's one of the most interesting things about JavaScript.
 
 ### JavaScript 3
 
@@ -67,7 +69,7 @@ It is mainly used to create dynamic user interfaces, changing the data a user se
 
 ### Databases
 
-In this module our students will learn all about a fundamental part of any software application: how to (safely) store data, so that it can be used on-demand. The students will learn how to structure and group data so their apps know where to find and store the correct data.
+In this module our students will learn all about a fundamental part of any software application: how to \(safely\) store data, so that it can be used on-demand. The students will learn how to structure and group data so their apps know where to find and store the correct data.
 
 ### Node.js
 
@@ -84,3 +86,4 @@ Along with practicing their programming skills, they will also be working on imp
 This project will form part of a student's portfolio that they can take to employers to help them secure a job.
 
 ## More Resources
+

@@ -3,7 +3,7 @@ id: interview-english
 title: English Reading Task - Interviewer's Guide
 ---
 
-# Interview - English
+# Interview - Technical
 
 ## What's the aim?
 
