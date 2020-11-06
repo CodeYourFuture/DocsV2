@@ -3,16 +3,6 @@ id: fundamentals
 title: Fundamentals Course
 ---
 
-## Aims
-
-## Delivery
-
-## Syllabus
-
-You can find our syllabus online here:
+Full Details about the Fundamentals Course can be found here:
 
 https://fundamentals.codeyourfuture.io
-
-## Content
-
-## More Resources
