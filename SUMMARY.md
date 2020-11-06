@@ -9,7 +9,6 @@
 - [Our Student Backgrounds](organisation/understand-students.md)
 - [Running A Class](organisation/running-a-class.md)
 - [Course Eligibility](organisation/course-eligibility.md)
-- [Running a Class](organisation/running-a-class.md)
 - [Dashboard](organisation/cyf-dashboard.md)
 - [FAQs](organisation/faqs.md)
 - [Hackathons](organisation/hackathons.md)
