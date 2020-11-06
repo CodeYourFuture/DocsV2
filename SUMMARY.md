@@ -7,7 +7,6 @@
 * [History of CodeYourFuture](organisation/history.md)
 * [Working Principles](organisation/working-principles.md)
 * [Our Student Backgrounds](organisation/understand-students.md)
-* [Course Processes](organisation/course-processes.md)
 * [Running A Class](organisation/running-a-class.md)
 * [Course Eligibility](organisation/course-eligibility.md)
 
