@@ -1,9 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+- [Initial page](README.md)
 
-## GroupA
+## Organisation
 
-* [GroupAPage](groupa/groupapage/README.md)
-  * [Second Page](groupa/groupapage/second-page.md)
-
+- [Application Process](organisation/application-process.md)
