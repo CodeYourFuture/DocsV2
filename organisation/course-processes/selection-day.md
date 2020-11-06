@@ -110,7 +110,7 @@ Be sure to communicate the results of the Selection Day to applicants as soon as
 
 Applicants should be ranked on a scale of 1-10 where
 
-![drawing](../.gitbook/assets/ranking.png)
+![drawing](../../.gitbook/assets/ranking.png)
 
 You can **only** rank applicants in whole numbers \(i.e. 5.5 is **not** allowed\)
 

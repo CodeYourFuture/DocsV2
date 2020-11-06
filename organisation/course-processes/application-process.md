@@ -43,7 +43,7 @@ Next step of the application process is the Product Landing Page Challenge. This
 
 In order to carry out this step, navigate to the Dashboard and view the Step 3 & Step 4 panels for each student.
 
-![image-20200225161303081](../.gitbook/assets/image-20200225161303081.png)
+![image-20200225161303081](../../.gitbook/assets/image-20200225161303081.png)
 
 All applicants should tick all the of the checkboxes before they can complete the step.
 
@@ -51,7 +51,7 @@ All applicants should tick all the of the checkboxes before they can complete th
 
 Iteration is a crucial part of the CYF culture - we want to ensure that students continually learn and strive to improve whatever it is they are doing and developing. That's why it is important to start building this habit from the very beginning. The ways in which applicants respond to feedback can also serve as an indicator of their aptitude for the course.
 
-![image-20200225161338547](../.gitbook/assets/image-20200225161338547.png)
+![image-20200225161338547](../../.gitbook/assets/image-20200225161338547.png)
 
 ## 9: Interview Scheduling and Invites
 
