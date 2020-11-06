@@ -3,7 +3,7 @@ id: understand-students
 title: Understand our students' backgrounds
 ---
 
-# Our Student Backgrounds
+# Student Backgrounds
 
 While volunteering with CodeYourFuture, you will meet many kinds of students. Broadly, we offer our programme to refugees, asylum seekers and people from a number of disadvantaged backgrounds. This page will help you better understand the situations of some of our students as well as the proper etiquette to use.
 

@@ -24,7 +24,7 @@ Make sure you have all of this information before you have your first interview
    * If you do not have access, speak to your coordinator
 2. Read this document fully
 3. Make sure you have access to the interview form mentioned in the `Interview Days` section
-4. Make sure you have read the [Interview Rubric](https://github.com/CodeYourFuture/DocsV2/tree/c265f38db4043052aa0d06e2868151793028f82b/volunteers/interview-rubric/README.md)
+4. Make sure you have read the [Interview Rubric](interview-rubric.md)
 
 ## Roles
 
@@ -66,11 +66,11 @@ Technical interviewers should focus on questions surrounding
 
 This will mostly be the second section of the form.
 
-You can find a guide for this section of the interview [here](https://github.com/CodeYourFuture/DocsV2/tree/c265f38db4043052aa0d06e2868151793028f82b/volunteers/interview-technical/README.md)
+You can find a guide for this section of the interview [here](interview-technical.md)
 
 ## Who are our applicants?
 
-Our applicants come from a wide variety of backgrounds. You can see lots of background information on our students [here](https://github.com/CodeYourFuture/DocsV2/tree/c265f38db4043052aa0d06e2868151793028f82b/volunteers/understand-students/README.md)
+Our applicants come from a wide variety of backgrounds. You can see lots of background information on our students [here](../../../organisation/understand-students.md)
 
 ## Interview Days
 
@@ -88,13 +88,13 @@ We ask that you arrive at least ten minutes before the interview that you will b
 
 ### Technical Assessment
 
-You can find a guide for the technical section of the interview [here](https://github.com/CodeYourFuture/DocsV2/tree/c265f38db4043052aa0d06e2868151793028f82b/volunteers/interview-technical/README.md)
+You can find a guide for the technical section of the interview [here](interview-technical.md)
 
 ### English Assessment
 
 You can find an English Assessment test [here](https://codepen.io/enz0/full/eYzOeVg).
 
-The guide for the assessment can be found [here](https://github.com/CodeYourFuture/DocsV2/tree/c265f38db4043052aa0d06e2868151793028f82b/volunteers/interview-english/README.md)
+The guide for the assessment can be found [here](interview-english.md)
 
 ### Feeding Back on Students
 
@@ -104,7 +104,7 @@ It is important to be firm but fair in grading applicants. Do not give a applica
 
 We will be cross-referencing scores against feedback recorded so it is important to always give a full description of how applicants responded to questions in the interview.
 
-You should make sure you use the [Interview Rubric](https://github.com/CodeYourFuture/DocsV2/tree/c265f38db4043052aa0d06e2868151793028f82b/volunteers/interview-rubric/README.md) to grade students responses.
+You should make sure you use the [Interview Rubric](interview-rubric.md) to grade students responses.
 
 ### Upper Bounds & Lower Bounds
 
