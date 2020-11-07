@@ -3,7 +3,22 @@ id: history
 title: History of Code Your Future
 ---
 
-# History of CodeYourFuture
+# Mission & Values
+
+## Mission
+
+We believe in a future where everyone can lead a thriving life
+
+## Values
+
+Our organisation values are as follows:
+
+* We believe in creating a **supportive family** where everyone belongs
+* Everything we do, we do with **kindness and respect**
+* We believe in the **equality of all voices**
+* We firmly believe that through **challenge**, people can achieve their best
+* We **empower** our students, and **they represent us**
+* Everything we do creates an **impact** in the world
 
 ## History
 
@@ -30,21 +45,6 @@ In January 2017 Mozafar, one of our London mentors, relocated to Glasgow and sta
 In 2020, we started in Birmingham in Partnership with Capgemini and the West Midlands Digital Skills Partnership. The South African chapter is due to begin its first class in Cape Town mid-2020.
 
 Our goal is to create a grassroots movement that anyone around the world can replicate in their city.
-
-## Mission
-
-We believe in a future where everyone can lead a thriving life
-
-## Values
-
-Our organisation values are as follows:
-
-* We believe in creating a **supportive family** where everyone belongs
-* Everything we do, we do with **kindness and respect**
-* We believe in the **equality of all voices**
-* We firmly believe that through **challenge**, people can achieve their best
-* We **empower** our students, and **they represent us**
-* Everything we do creates an **impact** in the world
 
 ## People supporting the core structure of the organisation
 

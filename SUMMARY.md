@@ -6,7 +6,7 @@
 
 ## Organisation
 
-* [History of CodeYourFuture](organisation/history.md)
+* [Mission & Values](organisation/history.md)
 * [Working Principles](organisation/working-principles.md)
 * [Student Backgrounds](organisation/understand-students.md)
 
