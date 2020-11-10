@@ -21,7 +21,7 @@
 - [Fundamentals Course](our-courses/fundamentals.md)
 - [Full Stack Course](our-courses/the-course.md)
 
-## 🖋 Course Processes
+## Course Processes
 
 - [Joining the Course](course-processes/joining-the-course/README.md)
   - [Getting Setup](course-processes/joining-the-course/getting-setup.md)
@@ -71,7 +71,7 @@
   - [Template Agenda](teams/personal-development/template-agenda.md)
   - [Mentor Guide](teams/personal-development/mentor-guide.md)
 
-## 🛠 Tools
+## 🔨 Tools
 
 - [Dashboard](tools/cyf-dashboard.md)
 - [Slack](tools/slack-volunteers.md)
