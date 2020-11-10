@@ -17,6 +17,10 @@ A student who completes our Full Stack Web Development course will:
 * Know how to use third-party libraries/APIs
 * Have a basic understanding of what it means to work on digital products
 
+## Syllabus
+
+You can find our syllabus online here: [https://syllabus.codeyourfuture.io/](https://syllabus.codeyourfuture.io/)
+
 ## Delivery
 
 Our course is split into three-week modules. It is the responsibility of the Lead Teachers to deliver the module to the students supported by a team of teaching assistants.
@@ -24,10 +28,6 @@ Our course is split into three-week modules. It is the responsibility of the Lea
 We teach one day per week in a physical location and then support the students during the week while they complete their coursework. This is primarily a self-taught course with a rigorous support structure in place to guide our students on their journey to becoming developers.
 
 Out-of-classroom support is given in a Slack Channel where students can collaborate and ask questions to their peers and teachers. We encourage online collaboration in the form of video calls and screensharing. We also support our students with online drop-in sessions with volunteers, homework clubs and mentoring.
-
-## Syllabus
-
-You can find our syllabus online here: [https://syllabus.codeyourfuture.io/](https://syllabus.codeyourfuture.io/)
 
 ## Personal Development
 
