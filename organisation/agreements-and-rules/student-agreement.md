@@ -3,6 +3,8 @@ id: student-agreement
 title: Student Agreement
 ---
 
+# Student Agreement
+
 CodeYourFuture is made possible by teams of Volunteers who give their time to help you.
 
 To show your respect for the time they commit and the community that you are part of we expect you to fulfil the following commitments.
@@ -17,11 +19,11 @@ You can find our Code of Conduct [here](https://codeyourfuture.io/about/code-of-
 
 I confirm that I will
 
-- Follow all of the rules set out in the Code of Conduct
+* Follow all of the rules set out in the Code of Conduct
 
 If I do not do so then I will
 
-- Be removed from the course
+* Be removed from the course
 
 ## Coursework
 
@@ -37,20 +39,20 @@ A lot of effort goes into organising coursework marking so it is essential that 
 
 I confirm that I will
 
-- Spend at least 20 hours a week outside of class working on coursework
-- Complete and submit all coursework for each week, before the start of the next class
-- Ask for help from teachers, mentors, buddies and other students if I need help
-- Not copy any coursework from another student
+* Spend at least 20 hours a week outside of class working on coursework
+* Complete and submit all coursework for each week, before the start of the next class
+* Ask for help from teachers, mentors, buddies and other students if I need help
+* Not copy any coursework from another student
 
 If I can cannot do my coursework on time I must
 
-- Message my Teachers and Buddies to tell them why I cannot complete my coursework and how I will catch up
+* Message my Teachers and Buddies to tell them why I cannot complete my coursework and how I will catch up
 
 If I do not complete the coursework on time and do not complete the above steps then I will
 
-- Not have my coursework marked
-- Not have access to Volunteers to help me catch up
-- Be considered to be removed from the course
+* Not have my coursework marked
+* Not have access to Volunteers to help me catch up
+* Be considered to be removed from the course
 
 Failure to complete all coursework by the end of a module is grounds for automatic dismissal from the course.
 
@@ -58,9 +60,9 @@ Failure to complete all coursework by the end of a module is grounds for automat
 
 The following reasons are not permitted for non-completion of coursework
 
-- Not knowing you had coursework or how to complete it
-  - It is your responsibility to understand the coursework or to ask for help
-- Not being able to complete coursework because you didn’t ask for help
+* Not knowing you had coursework or how to complete it
+  * It is your responsibility to understand the coursework or to ask for help
+* Not being able to complete coursework because you didn’t ask for help
 
 ### Collaboration Policy
 
@@ -80,16 +82,16 @@ For this reason you must make every effort to attend class.
 
 I confirm that I will
 
-- Attend and be present for at least 90% of classes
+* Attend and be present for at least 90% of classes
 
 If I cannot attend class I must
 
-- Message on Slack before class starts to say that I cannot attend with a valid reason for non-attendance
+* Message on Slack before class starts to say that I cannot attend with a valid reason for non-attendance
 
 If I do not attend class and do not message then I will
 
-- Be considered to be removed from the course
-- Not have access to Volunteers to catch up
+* Be considered to be removed from the course
+* Not have access to Volunteers to catch up
 
 Continued non-attendance without good reason is grounds for automatic dismissal from the course.
 
@@ -99,14 +101,14 @@ Slack is the main tool that we use to communicate and keep the community alive.o
 
 I confirm that I will
 
-- Install Slack on the computer that I do my work on
-- Install Slack on my phone
-- Answer all direct messages within 48 hours of receiving them
-- Actively participate in class learning by asking or answering at least 2 questions a week in the main class channel
+* Install Slack on the computer that I do my work on
+* Install Slack on my phone
+* Answer all direct messages within 48 hours of receiving them
+* Actively participate in class learning by asking or answering at least 2 questions a week in the main class channel
 
 If I do not take these steps, I understand I will
 
-- Be at risk of being removed from the class
+* Be at risk of being removed from the class
 
 ## Withdrawing From The Course
 
@@ -114,13 +116,13 @@ If you wish to stop attending the course you must contact us so we can help you 
 
 I confirm that I will
 
-- Complete the CodeYourFuture [Withdrawal Request Form](https://forms.gle/b3119NXGHLRcS26s5) if I wish to stop attending the course.
-- Return any laptops, laptop chargers, webcams or internet dongles I received from CodeYourFuture.
-- Await a reply from my city coordinator to confirm my request to withdraw.
+* Complete the CodeYourFuture [Withdrawal Request Form](https://forms.gle/b3119NXGHLRcS26s5) if I wish to stop attending the course.
+* Return any laptops, laptop chargers, webcams or internet dongles I received from CodeYourFuture.
+* Await a reply from my city coordinator to confirm my request to withdraw.
 
 Failure to do so will result in
 
-- An automatic rejection if you wish to rejoin in the future
+* An automatic rejection if you wish to rejoin in the future
 
 ## Removal From Course
 
@@ -129,3 +131,4 @@ Attendance to the course is overseen completely by CodeYourFuture staff and Volu
 You can find our Complaints Procedure [here](https://codeyourfuture.io/about/comments-compliments-complaints/).
 
 Under some circumstances you may be allowed to re-apply to our next class. See here for [our policy](https://docs.codeyourfuture.io/volunteers/re-entry).
+
