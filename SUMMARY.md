@@ -11,10 +11,10 @@
 * [Working Principles](organisation/working-principles.md)
 * [Our Student Backgrounds](organisation/understand-students.md)
 * [Agreements & Rules](organisation/agreements-and-rules/README.md)
+  * [House Rules](organisation/agreements-and-rules/house-rules.md)
+  * [Student Agreement](organisation/agreements-and-rules/student-agreement.md)
   * [Complaints Procedure](https://codeyourfuture.io/about/comments-compliments-complaints/)
   * [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/)
-  * [Student Agreement](organisation/agreements-and-rules/student-agreement.md)
-  * [House Rules](organisation/agreements-and-rules/house-rules.md)
 
 ## 📜 Our Courses
 
