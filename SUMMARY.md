@@ -76,14 +76,14 @@
 * [Dashboard](tools/cyf-dashboard.md)
 * [Slack](tools/slack-volunteers.md)
 
-## ⏩ Joining CodeYourFuture
+## ⏩ Volunteering at CodeYourFuture <a id="volunteering-codeyourfuture"></a>
 
-* [Joining](joining-codeyourfuture/joining.md)
-* [Onboarding Process](joining-codeyourfuture/onboarding-process/README.md)
-  * [Step 1](joining-codeyourfuture/onboarding-process/onboarding-one.md)
-  * [Step 2](joining-codeyourfuture/onboarding-process/onboarding-two.md)
-  * [Step 3](joining-codeyourfuture/onboarding-process/onboarding-three.md)
-  * [Step 4](joining-codeyourfuture/onboarding-process/onboarding-four.md)
+* [Joining](volunteering-codeyourfuture/joining.md)
+* [Onboarding Process](volunteering-codeyourfuture/onboarding-process/README.md)
+  * [Step 1](volunteering-codeyourfuture/onboarding-process/onboarding-one.md)
+  * [Step 2](volunteering-codeyourfuture/onboarding-process/onboarding-two.md)
+  * [Step 3](volunteering-codeyourfuture/onboarding-process/onboarding-three.md)
+  * [Step 4](volunteering-codeyourfuture/onboarding-process/onboarding-four.md)
 
 ## 👩‍🎓 Students
 
