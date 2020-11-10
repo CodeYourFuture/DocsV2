@@ -88,6 +88,11 @@
 ## 👩‍🎓 Students
 
 - [Useful Links](useful-links.md)
+- [Common Responses](common-responses/README.md)
+  - [Create an example](common-responses/create-a-minimal-reproducible-example.md)
+  - [Don't ask to ask](common-responses/dont-ask-to-ask.md)
+  - [Read the error message](common-responses/read-the-error-message.md)
+  - [Reply in thread](common-responses/reply-in-thread.md)
 - [Guides](guides/README.md)
   - [Online Lessons for Students](guides/online-lessons.md)
   - [Naming Accounts Consistently](guides/naming-accounts-consistently.md)
