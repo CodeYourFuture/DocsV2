@@ -11,6 +11,5 @@ CodeYourFuture currently operates in the follow cities:
 * Manchester
 * Birmingham
 * Rome 
-* Medellín
 * Cape Town
 
