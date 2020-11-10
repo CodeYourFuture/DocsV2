@@ -18,9 +18,6 @@
 
 ## Course Processes
 
-* [Our Courses](course-processes/our-courses/README.md)
-  * [Fundamentals Course](course-processes/our-courses/fundamentals.md)
-  * [Full Stack Course](course-processes/our-courses/the-course.md)
 * [Joining the Course](course-processes/joining-the-course/README.md)
   * [Getting Setup](course-processes/joining-the-course/getting-setup.md)
   * [Course Eligibility](course-processes/joining-the-course/course-eligibility.md)
@@ -97,4 +94,9 @@
   * [Google Classroom for Students](guides/google-classroom.md)
   * [Slack for Students](guides/slack-students.md)
   * [CORS](guides/cors.md)
+
+## Our Courses
+
+* [Fundamentals Course](our-courses/fundamentals.md)
+* [Full Stack Course](our-courses/the-course.md)
 
