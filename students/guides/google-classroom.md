@@ -15,13 +15,13 @@ There are three main tabs in the Classroom: **Stream**, **Classwork** and **Peop
 
 ### Stream
 
-![stream view of google classroom](../.gitbook/assets/streamtab.png)
+![stream view of google classroom](../../.gitbook/assets/streamtab.png)
 
 Stream works a little bit like a social media feed. Here, you'll be able to see announcements and assignments from the mentors. Announcements may be important information about classes or homework. You can add comments to these posts by using 'add a comment' underneath the specific post. Assignments are homework. You will usually have a deadline by which you must submit your homework. Any homework you have will be visible in the classwork tab.
 
 ### Classwork
 
-![an example of an assignment](../.gitbook/assets/classworktab.png)
+![an example of an assignment](../../.gitbook/assets/classworktab.png)
 
 To see what a piece of homework is, you can click 'view assignment' or the title of the homework. You will then see instructions on what the task is and what you need to submit to complete the homework. This can be anything from leaving a link to your GitHub to a short piece of writing. If you are ever confused by the instructions, please let your mentors know and they can explain the task again or even update the instructions to make them clearer for everyone.
 
@@ -31,7 +31,7 @@ If you would like to edit a piece of homework, click 'unsubmit', make any edits,
 
 ### People
 
-![an example of an assignment](../.gitbook/assets/peopletab.png)
+![an example of an assignment](../../.gitbook/assets/peopletab.png)
 
 \(Student and teacher names have been changed to protect privacy.\)
 
