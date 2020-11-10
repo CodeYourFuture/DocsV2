@@ -18,6 +18,7 @@
 
 ## 📜 Our Courses
 
+* [Intro to Coding Course](our-courses/intro-to-coding-course.md)
 * [Fundamentals Course](our-courses/fundamentals.md)
 * [Full Stack Course](our-courses/the-course.md)
 
