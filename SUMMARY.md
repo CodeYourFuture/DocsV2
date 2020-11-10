@@ -87,9 +87,9 @@
 
 ---
 
-* [Online Lessons for Students](online-lessons.md)
 * [Useful Links](useful-links.md)
 * [Guides](guides/README.md)
+  * [Online Lessons for Students](guides/online-lessons.md)
   * [Naming Accounts Consistently](guides/naming-accounts-consistently.md)
   * [Hosting on Netlify](guides/hosting-netlify.md)
   * [Asking Questions](guides/asking-questions.md)
