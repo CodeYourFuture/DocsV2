@@ -130,5 +130,5 @@ Attendance to the course is overseen completely by CodeYourFuture staff and Volu
 
 You can find our Complaints Procedure [here](https://codeyourfuture.io/about/comments-compliments-complaints/).
 
-Under some circumstances you may be allowed to re-apply to our next class. See here for [our policy](https://docs.codeyourfuture.io/volunteers/re-entry).
+Under some circumstances you may be allowed to re-apply to our next class. See here for [our policy](../../course-processes/joining-the-course/re-entry-to-course.md).
 
