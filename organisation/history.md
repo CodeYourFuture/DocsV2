@@ -3,7 +3,7 @@ id: history
 title: History of Code Your Future
 ---
 
-# History of CodeYourFuture
+# Mission & Values
 
 ## Mission
 
