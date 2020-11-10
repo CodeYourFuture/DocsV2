@@ -39,6 +39,20 @@
   - [Study Groups](course-processes/running-the-course/study-groups.md)
 - [After the Course](course-processes/after-the-course/after-the-course.md)
   - [After Graduation](organisation/after-the-course/after-graduation.md)
+- [Getting a Job](organisation/getting-a-job.md)
+- [Getting Setup](organisation/getting-setup.md)
+- [House Rules](organisation/house-rules.md)
+- [Naming Accounts Consistently](organisation/naming-accounts-consistently.md)
+- [Slack for Students](organisation/slack-students.md)
+- [Student Agreement](organisation/student-agreement.md)
+- [Useful Links](organisation/useful-links.md)
+- [Getting a Job](organisation/getting-a-job.md)
+- [Asking Questions](organisation/asking-questions.md)
+- [CORS](organisation/CORS.md)
+- [Google Classroom for Students](organisation/google-classroom.md)
+- [Hosting on Netlify](organisation/hosting-netlify.md)
+- [Node Version Manager](organisation/node.md)
+- [Online Lessons for Students](organisation/online-lessons.md)
 
 ## Teams
 
