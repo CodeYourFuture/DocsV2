@@ -7,7 +7,7 @@
 
 ## 🏨 Organisation
 
-* [History of CodeYourFuture](organisation/history.md)
+* [Mission & Values](organisation/history.md)
 * [Working Principles](organisation/working-principles.md)
 * [Our Student Backgrounds](organisation/understand-students.md)
 * [Agreements & Rules](organisation/agreements-and-rules/README.md)
@@ -21,7 +21,7 @@
 * [Fundamentals Course](our-courses/fundamentals.md)
 * [Full Stack Course](our-courses/the-course.md)
 
-## Course Processes
+## 📝 Course Processes
 
 * [Joining the Course](course-processes/joining-the-course/README.md)
   * [Getting Setup](course-processes/joining-the-course/getting-setup.md)
