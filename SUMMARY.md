@@ -38,6 +38,7 @@
   - [Hackathons](course-processes/running-the-course/hackathons.md)
   - [Study Groups](course-processes/running-the-course/study-groups.md)
 - [After the Course](course-processes/after-the-course.md)
+  - [After Graduation](organisation/after-graduation.md)
 
 ## Teams
 
