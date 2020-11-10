@@ -26,5 +26,3 @@ Also, it is considered a basic sign of respect for those who are volunteering th
 * check that it really doesn't have any code that is irrelevant to the problem
 * post your example on the Slack thread
 
-TODO: this is a placeholder and needs work.
-

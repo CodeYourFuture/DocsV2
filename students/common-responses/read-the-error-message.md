@@ -32,5 +32,3 @@ Also, it is considered a basic sign of respect towards those who are volunteerin
   * What the error was
   * What the relevant part of the error message was that describes the error, so that you are more likely to recognise it in future.  You will find that the same error messages come up time and time and time again.
 
-TODO: this is a placeholder and needs work.
-
