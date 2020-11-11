@@ -1,4 +1,4 @@
-# Before the Course
+# Joining the Course
 
 Joining a course
 
