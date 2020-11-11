@@ -8,8 +8,8 @@
 ## 🏨 Organisation
 
 * [Mission & Values](organisation/history.md)
-* [Working Principles](organisation/working-principles.md)
 * [Our Student Backgrounds](organisation/understand-students.md)
+* [Working Principles](organisation/working-principles.md)
 * [Agreements & Rules](organisation/agreements-and-rules/README.md)
   * [House Rules](organisation/agreements-and-rules/house-rules.md)
   * [Student Agreement](organisation/agreements-and-rules/student-agreement.md)
