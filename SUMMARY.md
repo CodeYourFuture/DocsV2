@@ -22,8 +22,6 @@
   * [Course Materials](https://introtocoding.codeyourfuture.io/)
 * [Fundamentals Course](our-courses/fundamentals/README.md)
   * [Course Materials](https://fundamentals.codeyourfuture.io/)
-* [Full Stack Course](course-processes/running-the-course/full-stack-course/README.md)
-  * [Course Materials](https://syllabus.codeyourfuture.io/)
 
 ## 📝 Course Processes
 
@@ -46,8 +44,6 @@
     * [Start of Class Checklist](course-processes/running-the-course/online-teaching/online-start-of-class-checklists.md)
     * [Zoom Training](course-processes/running-the-course/online-teaching/zoom-training-call-overview.md)
     * [Online Fun](course-processes/running-the-course/online-teaching/online-fun.md)
-  * [Full Stack Course](course-processes/running-the-course/full-stack-course/README.md)
-    * [Course Materials](https://syllabus.codeyourfuture.io/)
   * [Hackathons](course-processes/running-the-course/hackathons.md)
   * [Study Groups](course-processes/running-the-course/study-groups.md)
 * [After the Course](course-processes/after-the-course/README.md)
