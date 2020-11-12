@@ -19,7 +19,7 @@ These sessions are potential volunteers first contact with CodeYourFuture and on
 
 The presentation we use can be found here
 
-[https://docs.google.com/presentation/d/1aXYe1iguIp-xUaDM0qw7QNs5p12ocigxmbi2Za\_gHhE/edit](https://docs.google.com/presentation/d/1aXYe1iguIp-xUaDM0qw7QNs5p12ocigxmbi2Za_gHhE/edit)
+[https://docs.google.com/presentation/d/1aXYe1iguIp-xUaDM0qw7QNs5p12ocigxmbi2Za\_gHhE/edit\#slide=id.g720190f409\_2\_1](https://docs.google.com/presentation/d/1aXYe1iguIp-xUaDM0qw7QNs5p12ocigxmbi2Za_gHhE/edit#slide=id.g720190f409_2_1)
 
 ### Sign-up Sheet
 
