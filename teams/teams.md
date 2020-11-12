@@ -16,12 +16,12 @@ CYF local leadership team is divided in four teams: _Outreach, Personal Developm
   * Check weekly how students are doing
   * Organise support for students with most needs
   * Coordinate soft skills day sessions
-  * You can read more about the PD roles here: [https://docs.codeyourfuture.io/volunteers/personaldevelopment/pd-roles](https://docs.codeyourfuture.io/volunteers/personaldevelopment/pd-roles)
+  * You can read more about the PD roles [here](personal-development/roles.md)
 * **Education**
-  * Coordinate face-to-face classes and homework
-  * Organize homework review
+  * Coordinate and teach classes
+  * Organize homework marking
   * Track student performance
-  * You can read more about the roles here: [https://docs.codeyourfuture.io/volunteers/education/education-roles](https://docs.codeyourfuture.io/volunteers/education/education-roles)
+  * You can read more about the roles [here](education/education-roles.md)
 * **Tech Projects**
   * Coordinate final projects and tech projects \(post-graduation\)
   * Oversee tech content in final presentation \(graduation\)

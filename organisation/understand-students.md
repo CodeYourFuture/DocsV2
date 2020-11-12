@@ -67,5 +67,5 @@ Currently, CYF currently considers applications from the following groups, most 
 * Individuals from minority backgrounds who are under-represented or face discrimination in pursuing careers
 * Individuals who have been unemployed for a long period of time
 
-The only one of these that may require some explaining is minority backgrounds. This may differ from country to country, but largely it refers to those of a BAME \(Black, Asian, minority ethnicity\) background, women and non-binary individuals, all of whom are largely under-represented for various reasons in both tech and more widely in the job market. For details on how we make decisions on accepting individuals from any of the above groups in this section, see the [Course Eligibility](https://docs.codeyourfuture.io/volunteers/course-eligibility) page.
+The only one of these that may require some explaining is minority backgrounds. This may differ from country to country, but largely it refers to those of a BAME \(Black, Asian, minority ethnicity\) background, women and non-binary individuals, all of whom are largely under-represented for various reasons in both tech and more widely in the job market. For details on how we make decisions on accepting individuals from any of the above groups in this section, see the [Course Eligibility](../course-processes/before-the-course/course-eligibility.md) page.
 
