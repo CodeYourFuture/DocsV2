@@ -18,7 +18,7 @@ title: Working Principles
 
 * Transactional classes or events without interactions, discussions, fun or community aspects
 * Classes and events where attendees are sitting all day
-* Masterclass/boardoom/lecture atmosphere and dynamics
+* Masterclass/boardroom/lecture atmosphere and dynamics
 * One person controlling all the agenda and leading all day
 * Volunteers being told what to do on the day
 
