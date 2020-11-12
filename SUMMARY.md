@@ -22,6 +22,8 @@
   * [Course Materials](https://introtocoding.codeyourfuture.io/)
 * [Fundamentals Course](our-courses/fundamentals/README.md)
   * [Course Materials](https://fundamentals.codeyourfuture.io/)
+* [Full Stack Course](our-courses/full-stack-course/README.md)
+  * [Course Materials](https://syllabus.codeyourfuture.io)
 
 ## 📝 Course Processes
 
