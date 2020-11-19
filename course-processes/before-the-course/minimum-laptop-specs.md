@@ -1,3 +1,7 @@
+---
+description: 'Updated: 19/11/2020'
+---
+
 # Minimum Laptop Specs
 
 These specifications should be used as guidelines for recommending laptops to students and a baseline for laptops that we purchase for students.
