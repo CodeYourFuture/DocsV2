@@ -7,7 +7,15 @@ title: Getting Setup
 
 In this guide we'll explain everything you need to get ready for our course.
 
-## Operating System
+## 1\) Your Laptop
+
+Please make sure that the laptop you are using meets the minimum specification for our course. 
+
+Check [here](minimum-laptop-specs.md).
+
+If your laptop does not meet the minimum specification - please contact us for a replacement. 
+
+## 2\) Operating System
 
 You can complete our course on any Operating System we recommend that you use Linux.
 
@@ -25,7 +33,7 @@ If you're using Windows we ask that you install this program to make it easier f
 
 [Enable and install here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
-## Visual Studio Code
+## 3\) Visual Studio Code
 
 We use VS Code to write all of our code in the course. It is known as an Integrated Developer Environment and really helps you write great code!
 
@@ -65,7 +73,7 @@ We also suggest that you enable format on save so that your code stays formatted
 2. Search for `editor format`
 3. Set `editor.formatOnSave` and `editor.formatOnPaste` to true
 
-## Software
+## 4\) Software
 
 Although you _can_ install some of the following software onto a phone, it is required you install it onto your _laptop_.
 
@@ -107,7 +115,7 @@ We use this tool to make it easier to use Git since it can be quite hard for a b
 
 [Download and install here](https://desktop.github.com/)
 
-## Websites
+## 5\) Websites
 
 ### Gmail
 
