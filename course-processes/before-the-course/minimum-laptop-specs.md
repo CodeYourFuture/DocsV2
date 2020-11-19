@@ -14,7 +14,7 @@ These specifications should be used as guidelines for recommending laptops to st
 
 These laptops are **only** used by students doing the Into To Coding Course. They should be capable of running browser based coding programs and joining Zoom calls.
 
-* 2.5 GHz Intel i3 processor 
+* 2 GHz Intel i3 processor 
   * or AMD equivalent
 * 40GB Hard Disk Drive
 * 1600 x 900 or greater screen resolution
