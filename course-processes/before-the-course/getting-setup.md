@@ -13,7 +13,7 @@ You can complete our course on any Operating System we recommend that you use Li
 
 If you need a laptop, please speak an organisers and we can provide you with one.
 
-### Ubuntu (Optional)
+### Ubuntu \(Optional\)
 
 We recommend using Ubuntu Linux to complete this course. This is an advanced computing skill but if you are comfortable installing this by yourself then you are welcome to, otherwise we can help you with this step.
 
@@ -41,27 +41,27 @@ A guide to installing extentions [can be found here](https://code.visualstudio.c
 
 **Essential**
 
-- Prettier - Code formatter - Format your code automatically
-  - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-- ESLint - Linter - Tells you when your code is wrong
-  - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-- Code Spell Checker - Tells you when you've spelt something wrong
-  - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+* Prettier - Code formatter - Format your code automatically
+  * [https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* ESLint - Linter - Tells you when your code is wrong
+  * [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* Code Spell Checker - Tells you when you've spelt something wrong
+  * [https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
 **Helpful**
 
-- GitLens — Git supercharged - Connect with GitHub/Git
-  - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-- Live Server - Run your code in the browser
-  - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-- Live Share - Share your project with a team
-  - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+* GitLens — Git supercharged - Connect with GitHub/Git
+  * [https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+* Live Server - Run your code in the browser
+  * [https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* Live Share - Share your project with a team
+  * [https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 ### Enable formatting on save
 
 We also suggest that you enable format on save so that your code stays formatted
 
-1. In Visual Studio open the settings file (see [here](https://code.visualstudio.com/docs/getstarted/settings#_creating-user-and-workspace-settings))
+1. In Visual Studio open the settings file \(see [here](https://code.visualstudio.com/docs/getstarted/settings#_creating-user-and-workspace-settings)\)
 2. Search for `editor format`
 3. Set `editor.formatOnSave` and `editor.formatOnPaste` to true
 
@@ -120,3 +120,4 @@ We use a lot of Google products in the class so it's essential that everyone has
 We use Github to submit our homework and to share code with each other. Please make sure that you have created an account and are logged in before you attend your first lesson.
 
 [Create account here](https://github.com/join)
+
