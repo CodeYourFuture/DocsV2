@@ -12,7 +12,7 @@ These specifications should be used as guidelines for recommending laptops to st
 
 ### Intro to Coding Specs
 
-These laptops are **only** used by students doing the Into To Coding Course. They should be capable of running browser based coding programs and joining video calls.
+These laptops are **only** used by students doing the [Into To Coding Course](../../our-courses/intro-to-coding-course/). They should be capable of running browser based coding programs and joining video calls.
 
 * 2 GHz Intel i3 processor 
   * or AMD equivalent
@@ -24,7 +24,7 @@ These laptops are **only** used by students doing the Into To Coding Course. The
 
 ### Minimum Specs
 
-These laptops are the minimum that we expect students to use to complete the Fundamentals and Full Stack Coding Courses.
+These laptops are the minimum that we expect students to use to complete the [Fundamentals ](../../our-courses/fundamentals/)and [Full Stack Coding Courses](../../our-courses/full-stack-course/).
 
 * 2.2 GHz Intel i5 processor 
   * or AMD equivalent
@@ -36,7 +36,7 @@ These laptops are the minimum that we expect students to use to complete the Fun
 
 ### Recommended Specs
 
-These laptops are the recommended specs that we expect students to use to complete the Fundamentals and Full Stack Coding Courses
+These laptops are the recommended specs that we expect students to use to complete the [Fundamentals ](../../our-courses/fundamentals/)and [Full Stack Coding Courses](../../our-courses/full-stack-course/)
 
 * 2.5 GHz Intel i5 or Intel i7 or better processor
   * or AMD equivalent
