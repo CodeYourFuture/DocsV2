@@ -9,6 +9,10 @@ title: Joining as a volunteer
 
 You can join as a volunteer by filling out a [volunteer form on our website](https://codeyourfuture.io/volunteers/).
 
+## Who can be a volunteer?
+
+The only case in which you cannot be a volunteer is if you are or plan to be a student at CodeYourFuture. All students are encouraged to volunteer after attending the Full Stack course to support our community.
+
 ## When can I join?
 
 You can join anytime as there is always something you can help out with all year round.
