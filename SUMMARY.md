@@ -53,7 +53,7 @@
   * [After Graduation](course-processes/after-the-course/after-graduation.md)
   * [Getting a Job](course-processes/after-the-course/getting-a-job.md)
 
-## 👥 Teams
+## 👥 Volunteer Teams <a id="teams"></a>
 
 * [Overview](teams/teams.md)
 * [Education](teams/education/README.md)
