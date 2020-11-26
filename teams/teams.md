@@ -8,7 +8,7 @@ title: Local Teams
 CYF local leadership team is divided in four teams: _Outreach, Personal Development, Education and Tech Projects_. The main responsibilities are:
 
 * **Ambassadors**
-  * Help arrange events
+  * Help Promoting the Organisation 
   * Share social updates on events and class
   * Find and welcome new applicants and volunteers
   * Connect with NGO partners for referrals

@@ -73,7 +73,6 @@
   * [Social Media Guide](teams/ambassadors/social-media-guide.md)
   * [Applicant Outreach](teams/ambassadors/applicant-outreach.md)
   * [Volunteer Outreach](teams/ambassadors/volunteer-outreach.md)
-  * [Hiring Outreach](teams/ambassadors/hiring-outreach.md)
 * [Personal Development](teams/personal-development/README.md)
   * [Roles](teams/personal-development/roles.md)
   * [Template Agenda](teams/personal-development/template-agenda.md)
