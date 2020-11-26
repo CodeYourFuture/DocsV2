@@ -59,6 +59,7 @@
 * [Overview](teams/teams.md)
 * [Education](teams/education/README.md)
   * [Overview](teams/education/overview-education.md)
+  * [Lead Teacher](teams/education/lead-teacher.md)
   * [Education Roles](teams/education/education-roles.md)
   * [Coursework Feedback](teams/education/homework-feedback.md)
   * [Teaching Tips](teams/education/teaching-tips.md)
