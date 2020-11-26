@@ -13,3 +13,7 @@ CodeYourFuture currently operates in the follow cities:
 * Rome 
 * Cape Town
 
+## Editing this Website
+
+This website is hosted on [Gitbook](https://www.gitbook.com/). To get edit access, please speak to a CodeYourFuture Coordinator.
+
