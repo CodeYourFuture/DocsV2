@@ -9,6 +9,9 @@ An outreach volunteer uses their communication or organisational skills to help 
 
 **The Outreach team will share responsibilities for the following;**
 
+* Help Promoting the Organisation
+* Help building relationships for and with students
+* Help welcoming new volunteers
 * Posting on social media
 * Taking photos or organising photography
 * Organising events and welcoming guests
