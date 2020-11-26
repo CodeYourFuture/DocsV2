@@ -9,25 +9,21 @@ An outreach volunteer uses their communication or organisational skills to help 
 
 **The Outreach team will share responsibilities for the following;**
 
-* Help Promoting the Organisation
-* Help building relationships for and with students
-* Help welcoming new volunteers
-* Posting on social media
-* Taking photos or organising photography
-* Organising events and welcoming guests
-* Contacting partners - NGOs, hiring companies, etc.
-* Creating or organising content creation - photos, blogs, video, etc.
-* Connecting with companies for fundraising or sponsorship
-* Finding partnerships for final projects
-* Seek out potential employment opportunities for students
+* Help Promoting the Organisation 
+  * Identify and engage with key social media groups to promote CYF organically \(e.g. promote courses, volunteering opportunities, wider activities\)
+  * Write and schedule story posts on social
+* Help building relationships for and with students 
+  * Reach out to NGOs and community organisations and build meaningful relationships to find students \(important orgs in regions, but not key partners\)
+  * Identify volunteers that can help us reaching out to potential hiring companies
+  * Reach out to new students to support them in their first step on this journey
+  * Organise Demo Day/Graduation 
+* Help welcoming new volunteers 
+  * Organise Volunteer Event and find people from other teams to co-run it
+  * Welcome new volunteers and buddy up with them to intro them to teams
 
 You don’t have to be a professional content creator - just organised and pro-active - we’ll provide necessary training.
 
-**The following roles require an ongoing commitment of 3-5 hours a week**
-
-* Social Media posting and analysis
-* Running events
-* Partner outreach for employment opportunities, etc.
+**The role require an ongoing commitment of 3-5 hours a week**
 
 **The following roles are occasionally required in a one-off capacity**
 
