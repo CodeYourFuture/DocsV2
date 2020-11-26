@@ -14,9 +14,9 @@ An outreach volunteer uses their communication or organisational skills to help 
   * Write and schedule story posts on social
 * Help building relationships for and with students 
   * Reach out to NGOs and community organisations and build meaningful relationships to find students \(important orgs in regions, but not key partners\)
-  * Identify volunteers that can help us reaching out to potential hiring companies
   * Reach out to new students to support them in their first step on this journey
   * Organise Demo Day/Graduation 
+  * Identify volunteers that can help us reaching out to potential hiring companies
 * Help welcoming new volunteers 
   * Organise Volunteer Event and find people from other teams to co-run it
   * Welcome new volunteers and buddy up with them to intro them to teams
