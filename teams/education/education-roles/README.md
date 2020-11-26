@@ -41,6 +41,14 @@ They should also attend a weekly meeting to feedback on their students progress 
 
 Read more about this role [here](education-buddy.md)
 
+## Syllabus Team
+
+**Time Commitment:** One meeting every two weeks, as much time as you can commit in between
+
+This Syllabus Team is responsible for keeping our develop new content for our Syllabus and keep it up to date. 
+
+Read more about this [role on the Syllabus](https://syllabus.codeyourfuture.io/contributing/team)
+
 ## Additional Roles
 
 ### Mid-week help
