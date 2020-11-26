@@ -25,6 +25,10 @@ We can offer you a range of support whilst you are studying with us this include
 * Internet access
 * Travel costs
 
+**Please note:** Some of these levels of support may not be possible in the city that you attend. Please check with your city coordinator.
+
+Please read [this page](requesting-a-laptop-or-support.md) for more details on how to access these services.
+
 ## 3\) Operating System
 
 You can complete our course on any Operating System we recommend that you use Linux.
