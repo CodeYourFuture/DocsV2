@@ -9,7 +9,7 @@ CYF local leadership team is divided in four teams: _Outreach, Personal Developm
 
 * **Ambassadors**
   * Help Promoting the Organisation 
-  *  * Help building relationships for and with students 
+  * Help building relationships for and with students 
   * Find and welcome new applicants and volunteers
   * Connect with NGO partners for referrals
 * **Personal Development \(PD\):**
