@@ -13,7 +13,7 @@ title: Running A Class
 * Volunteers attending for this first time have somebody to greet them and show them how CYF works
 * Students know when and where they will be attending the class
 * Somebody has been chosen to run energisers during the day 
-* If lunch is being provided - somebody is in charge of coorinating it
+* If lunch is being provided - somebody is in charge of coordinating it
 
 ## Schedule
 
@@ -36,7 +36,7 @@ Here is an example schedule of a day events at a normal class
 
 **What is this?**
 
-Before every class we need to layout the classroom so that it's ready for the day. This ussually means arranging the classroom into small groups of 4 or 5 per table so that people can work together easily.
+Before every class we need to layout the classroom so that it's ready for the day. This usually means arranging the classroom into small groups of 4 or 5 per table so that people can work together easily.
 
 **Who runs this?**
 
@@ -78,10 +78,10 @@ As well as simulating a real life work environment it is helpful for the student
 
 **What is this?**
 
-At the beginning of each day it is important that all of our volunteers understand the objectives of the day. This meeting ussually includes:
+At the beginning of each day it is important that all of our volunteers understand the objectives of the day. This meeting usually includes:
 
 * Introducing new volunteers to the group
-* Discussing what will be taught in todays lesson
+* Discussing what will be taught in today's lesson
 * Students we should be giving particular help to
 * Thanking the volunteers for attending
 
@@ -129,11 +129,11 @@ This is coordinated and delivered by the Education Team. More information about 
 
 **What is this?**
 
-Giving the students a summary of their homework and work they are expected to do throught the week.
+Giving the students a summary of their homework and work they are expected to do through the week.
 
 **Who runs this?**
 
-This is run by an Education Team Volunteer \(preferrably one of the Classroom Assistants\).
+This is run by an Education Team Volunteer \(preferably one of the Classroom Assistants\).
 
 **Why do we do this?**
 
@@ -143,7 +143,7 @@ So that the students understand what homework they have got to do by the next we
 
 **What is this?**
 
-We run a short retrospective where we dicuss:
+We run a short retrospective where we discuss:
 
 * Which students did well
 * Which students struggled in this lesson
@@ -168,7 +168,7 @@ We need to make sure that
 
 * All tables are back to where they should be
 * All washing up is clean and put away
-* Teaching space is tiday
+* Teaching space is tidy
 * Projectors and lights are turned off
 
 **Who runs this?**
@@ -195,26 +195,16 @@ To be respectful of the space that we're using to run our classes
    1. The same people will answer most questions to the whole class and you will have a false awareness of class understanding
 2. Avoid speaking for more than 20 mins at the time. 
 3. Organise short group discussions to encourage communication
-   1. Big group discussions allow people to disconnect and zone out 
+   1. Big group discussions allow people to disconnect and zone out
+4. Don’t ask ‘does everybody see…‘ instead ask for the opposite: ‘who does not have clear x or y?’ If nobody offers an answer, then prompt a couple of people and if they don’t know ask for others that don’t know.
+5. Assess student attention. People looking down or with the hands in their faces \(especially around their forehead\) indicate that they are either confused or tired or bored.
+6. Ensure that most people in your class ask a question or make a comment during your session. Encourage everybody to speak either by prompting individually or asking those to raise their hands who know the answer to a question and haven’t contributed to class
 
-3. Don’t ask ‘does everybody see…‘ instead ask for the opposite: ‘who does not have clear x or y?’ If nobody offers an answer, then prompt a couple of people and if they don’t know ask for others that don’t know.  
+### Ideas for Teachers
 
+While one trainer is leading the class, have another trainer observe and note people that are not speaking. Intervene when necessary.
 
-4. Assess student attention. People looking down or with the hands in their faces \(especially around their forehead\) indicate that they are either confused or tired or bored.  
-
-
-5. Ensure that most people in your class ask a question or make a comment during your session. Encourage everybody to speak either by prompting individually or asking those to raise their hands who know the answer to a question and haven’t contributed to class.  
-
-
-Ideas for trainers  
-
-
-While one trainer is leading the class, have another trainer observe and note people that are not speaking. Intervene when necessary.  
-  
-
-
-Guidelines for floaters  
-
+### Guidelines for Teaching Assistants
 
 * Don’t hijack the keyboard 
 * Don’t give direct answers
