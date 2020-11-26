@@ -28,7 +28,8 @@
 ## 📝 Course Processes
 
 * [Joining the Course](course-processes/before-the-course/README.md)
-  * [Getting Setup](course-processes/before-the-course/getting-setup.md)
+  * [Getting Setup](course-processes/before-the-course/getting-setup/README.md)
+    * [Requesting a Laptop or Support](course-processes/before-the-course/getting-setup/requesting-a-laptop-or-support.md)
   * [Minimum Laptop Specs](course-processes/before-the-course/minimum-laptop-specs.md)
   * [Course Eligibility](course-processes/before-the-course/course-eligibility.md)
   * [Application Process](course-processes/before-the-course/application-process.md)
