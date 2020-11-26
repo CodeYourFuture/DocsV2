@@ -21,7 +21,7 @@ CYF local leadership team is divided in four teams: _Outreach, Personal Developm
   * Coordinate and teach classes
   * Organize homework marking
   * Track student performance
-  * You can read more about the roles [here](education/education-roles.md)
+  * You can read more about the roles [here](education/education-roles/)
 * **Tech Projects**
   * Coordinate final projects and tech projects \(post-graduation\)
   * Oversee tech content in final presentation \(graduation\)
