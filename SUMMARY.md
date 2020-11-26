@@ -16,6 +16,10 @@
   * [Complaints Procedure](https://codeyourfuture.io/about/comments-compliments-complaints/)
   * [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/)
 
+## 🌍 Starting a Chapter
+
+* [Starting a New Chapter](starting-a-chapter/starting-a-new-chapter.md)
+
 ## 📜 Our Courses
 
 * [Intro to Coding Course](our-courses/intro-to-coding-course/README.md)
@@ -111,8 +115,4 @@
   * [Node Version Manager](students/guides/node.md)
   * [Google Classroom for Students](students/guides/google-classroom.md)
   * [CORS](students/guides/cors.md)
-
-## 🌍 Starting a Chapter
-
-* [Starting a New Chapter](starting-a-chapter/starting-a-new-chapter.md)
 
