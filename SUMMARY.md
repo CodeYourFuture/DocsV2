@@ -112,3 +112,7 @@
   * [Google Classroom for Students](students/guides/google-classroom.md)
   * [CORS](students/guides/cors.md)
 
+## Starting a Chapter
+
+* [Starting a New Chapter](starting-a-chapter/starting-a-new-chapter.md)
+
