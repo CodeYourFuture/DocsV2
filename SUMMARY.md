@@ -98,6 +98,7 @@
   * [Read the error message](students/common-responses/read-the-error-message.md)
   * [Reply in thread](students/common-responses/reply-in-thread.md)
 * [Guides](students/guides/README.md)
+  * [How to get a bank account](students/guides/how-to-get-a-bank-account.md)
   * [Online Lessons for Students](students/guides/online-lessons.md)
   * [Naming Accounts Consistently](students/guides/naming-accounts-consistently.md)
   * [Hosting on Netlify](students/guides/hosting-netlify.md)
