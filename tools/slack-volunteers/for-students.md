@@ -186,7 +186,7 @@ See for more [how to set reminder](https://slack.com/intl/en-hu/help/articles/20
 
 Accessing the right information in Slack is key to working smarter, faster, and more productively.
 
-Click the 🔍 search field in the top right to open the search window, type what you are looking for into the search field, and optionally add [_modifiers_](slack-students.md#search%20modifier) to narrow the scope. Slack will suggest relevant channels, files, and recent searches. Choose a suggested option in the list to open it.
+Click the 🔍 search field in the top right to open the search window, type what you are looking for into the search field, and optionally add [_modifiers_](for-students.md#search%20modifier) to narrow the scope. Slack will suggest relevant channels, files, and recent searches. Choose a suggested option in the list to open it.
 
 #### Search modifier
 

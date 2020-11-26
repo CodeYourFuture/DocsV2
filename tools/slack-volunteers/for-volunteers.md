@@ -1,9 +1,4 @@
----
-id: slack-volunteers
-title: Slack
----
-
-# Slack
+# Slack for Volunteers
 
 ## Introduction
 
