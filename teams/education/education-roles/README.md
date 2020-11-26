@@ -19,7 +19,9 @@ The module leaders lead the preparation of a module's lessons and exercises and 
 
 Lead Teachers are the people that deliver the content inside our weekly lessons. 
 
-Read more about these roles [here](lead-teacher.md)
+They are responsible for coordinating the classroom. making use of Teaching Assistants, delivering taught content and assigning exercises.
+
+Read more about this role [here](lead-teacher.md)
 
 ## Teaching Assistant
 
