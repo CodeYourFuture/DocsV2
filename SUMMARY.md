@@ -79,9 +79,9 @@
 ## 🔨 Tools
 
 * [Dashboard](tools/cyf-dashboard.md)
-* [Slack](tools/slack-volunteers/README.md)
-  * [Slack for Volunteers](tools/slack-volunteers/for-volunteers.md)
-  * [Slack for Students](tools/slack-volunteers/for-students.md)
+* [Slack](tools/slack/README.md)
+  * [Slack for Volunteers](tools/slack/for-volunteers.md)
+  * [Slack for Students](tools/slack/for-students.md)
 
 ## ⏩ Volunteering at CodeYourFuture <a id="volunteering-codeyourfuture"></a>
 
