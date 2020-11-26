@@ -71,7 +71,6 @@
 * [Ambassadors](teams/ambassadors/README.md)
   * [Outreach Roles](teams/ambassadors/outreach-roles.md)
   * [Social Media Guide](teams/ambassadors/social-media-guide.md)
-  * [Partnership Options](teams/ambassadors/partnership-options.md)
   * [Volunteer Outreach](teams/ambassadors/volunteer-outreach.md)
   * [Hiring Outreach](teams/ambassadors/hiring-outreach.md)
   * [Applicant Outreach](teams/ambassadors/applicant-outreach.md)
