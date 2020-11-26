@@ -59,7 +59,7 @@
 * [Overview](teams/teams.md)
 * [Education](teams/education/README.md)
   * [Overview](teams/education/overview-education.md)
-  * [Education Roles](teams/education/education-roles/README.md)
+  * [Roles](teams/education/education-roles/README.md)
     * [Lead Teacher](teams/education/education-roles/lead-teacher.md)
     * [Teaching Assitant](teams/education/education-roles/teaching-assitant.md)
     * [Syllabus Team](teams/education/education-roles/syllabus-team.md)
