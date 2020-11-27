@@ -5,6 +5,8 @@ title: Course Eligibility
 
 # Course Eligibility
 
+## **Who can apply for our courses?**
+
 * **Asylum Seekers**
 * **Refugees**
 * **People from** **disadvantaged backgrounds** that are:
@@ -23,6 +25,18 @@ Refugees have the right to work. There are no restrictions on the type of work t
 **Can asylum seekers work?**
 
 It depends on the country. In the UK asylum seekers do not have the right to work.
+
+## Minimum Entry Qualifications
+
+CYF welcomes applications from wide range of backgrounds. The admissions staff for each course are responsible for determining the qualifications that are appropriate for admission.
+
+The general minimum institutional requirements are:
+
+* Applicants must meet age requirements specified for a course at the time of applying.
+* Applicants must be from a disadvantaged background.
+* Applicants must meet English Language Requirements specified for a course. 
+* Applicants must be able to commit to a course for its entire duration. 
+* Applicants must be able to commit to all required sessions and time requirements specified by the course.
 
 ## Our Ideal Student
 
