@@ -2,12 +2,6 @@
 
 ## Some nice Energisers and Icebreakers for your events
 
-
-
-  
-  
-****
-
 **18 & under**
 
 This is an engaging way to get to know your teammates better and share funny or interesting stories with each other. Simply take turns and share one accomplishment each that you had before you turned 18. You might learn that “I bought a Playstation when I was 10” or “I won the school football championship”. Maybe you will discover some hidden skills in your colleagues that you never expected.  
