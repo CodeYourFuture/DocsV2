@@ -28,7 +28,7 @@ It depends on the country. In the UK asylum seekers do not have the right to wor
 
 ## Minimum Entry Qualifications
 
-CYF welcomes applications from wide range of backgrounds. The admissions staff for each course are responsible for determining the qualifications that are appropriate for admission.
+CYF welcomes applications from wide range of backgrounds. The volunteer teams for each course are responsible for determining the qualifications that are appropriate for admission.
 
 The general minimum institutional requirements are:
 
