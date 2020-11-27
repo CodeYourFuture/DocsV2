@@ -1,14 +1,10 @@
 # Calling Applicants
 
-
-
-## Calling Applicants
-
 There are three stages for an applicant:
 
-* An online course - tutorials and the creation of mini web projects. If they succeed in this, they are invited for an interview \(if they pass the eligability criteria. These tutorials and mini projects usually take a few weeks - longer if people haven't coded before: [https://docs.codeyourfuture.io/volunteers/application-process](https://docs.codeyourfuture.io/volunteers/application-process). 
-* A fundamentals intensive - a month long, with classes on the weekends: [https://docs.codeyourfuture.io/volunteers/fundamentals](https://docs.codeyourfuture.io/volunteers/fundamentals)
-* The full 8-month course: [https://docs.codeyourfuture.io/volunteers/the-course](https://docs.codeyourfuture.io/volunteers/the-course)
+* \*\*\*\*[**'Intro To Coding'**](https://docs.codeyourfuture.io/course-processes/before-the-course/application-process) - An online course tutorials and the creation of mini web projects. If they succeed in this, they are invited for an interview \(if they pass the eligibility criteria. These tutorials and mini projects usually take a few weeks - longer if people haven't coded before. Find here the [Application Process](https://docs.codeyourfuture.io/course-processes/before-the-course/application-process)
+* \*\*\*\*[**The fundamental**](https://docs.codeyourfuture.io/our-courses/fundamentals) ****- an intensive month long course, with classes on the weekends 
+* [**The Full Stack 8-month course**](https://docs.codeyourfuture.io/our-courses/full-stack-course)\*\*\*\*
 
 While the applicants are working on the tutorials, it is important at this time to call an applicant and ensure that they are clear about the process, are receiving emails and are actively working on the tutorials.
 
