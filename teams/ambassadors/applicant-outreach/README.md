@@ -5,12 +5,6 @@ title: Applicant Outreach
 
 # Applicant Outreach
 
-## 
-
-
-
-
-
 ## Reaching to NGOs for new cities
 
 1. Research and collate contact details of a significant number of charities, NGOs, educational establishments for adults, training centres, and community groups that work with refugees, asylum seekers, and other disadvantaged \(i.e. low-income, disabilities etc.\) As a starting point, we recommend at least 50 organisations, and ideally 100+ organisations.
@@ -18,9 +12,7 @@ title: Applicant Outreach
 
 ## Reaching to NGOs for established cities
 
-\*\*\*\*
-
-1. Start calling NGOs - your City Coordinator will give you access to the list. 
+1. Start calling NGOs - your City Coordinator will give you access to the dashboard. 
 2. Making a call takes around 10mins - best done during the day when the NGOs are open. Lunch times have worked well in the past.
 3. The first email will be sent from by a volunteer or CYF staff member with a CYF email address. Your role is to follow up that email with a call.
 4. Try to speak to the right contact at the NGO - or if not, get their name for a follow up call.
