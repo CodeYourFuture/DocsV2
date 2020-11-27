@@ -17,9 +17,7 @@ These sessions are potential volunteers first contact with CodeYourFuture and on
 
 ### Presentation
 
-The presentation we use can be found here
-
-[https://docs.google.com/presentation/d/1aXYe1iguIp-xUaDM0qw7QNs5p12ocigxmbi2Za\_gHhE/edit\#slide=id.g720190f409\_2\_1](https://docs.google.com/presentation/d/1aXYe1iguIp-xUaDM0qw7QNs5p12ocigxmbi2Za_gHhE/edit#slide=id.g720190f409_2_1)
+The presentation we use can be found [here](https://docs.google.com/presentation/d/1aXYe1iguIp-xUaDM0qw7QNs5p12ocigxmbi2Za_gHhE/edit#slide=id.g720190f409_2_1)
 
 ### Sign-up Sheet
 
@@ -43,7 +41,7 @@ All Welcome Events are hosted on this Zoom call
 ## Roles
 
 1. **Organiser**
-   * See ‘Before the Call’ and ‘After the Call’ above
+   * See ‘Before the Call’ and ‘After the Call’ below
 2. **Presenter**
    * Introduce CYF story, discuss mission and values, give overview of Onboarding process \(run the presentation, see above\)
 3. **Zoom admin/manager**
@@ -54,20 +52,20 @@ All Welcome Events are hosted on this Zoom call
    * Make other volunteers co-hosts so they can move between rooms if necessary
    * _**This role can be shared with the Organiser role or the Energizer role if we are short on numbers.**_
 4. **Energizer \(and welcomer\)**
-   * Run a fun 5-10 minute energiser/icebreaker at the start of the call. You can look [here](https://docs.google.com/document/d/1r-JE1vc3QcBO27_ySArDZWgM3p0O523sHjYv-TTsNck/edit) for ideas. Keep in mind we work with large groups \(usually between 20 and 30 participants\).
+   * Run a fun 5-10 minute energiser/icebreaker at the start of the call. You can look [here](https://docs.google.com/document/d/1___-Og_ZF39WVUZST5rd9TqiicLYrE3oQmazfXqw2X4/edit#heading=h.6wmm7sx39k1j) for ideas. Keep in mind we work with large groups \(usually between 20 and 30 participants\).
 5. **Edu team volunteer**
-   * To talk about the team and the volunteering opportunities \(use slides in Presentation, above\)
+   * To talk about the team and the volunteering opportunities 
 6. **Ambassador team volunteer**
-   * To talk about the team and the volunteering opportunities \(use slides in Presentation, above\)
+   * To talk about the team and the volunteering opportunities 
 7. **PD team volunteer**
-   * To talk about the team and the volunteering opportunities \(use slides in Presentation, above\)
+   * To talk about the team and the volunteering opportunities 
 8. **Graduate** \(Optional\)
    * For graduate story
    * Can replace graduate video and they can fulfil one of the other responsibilities above!
 
 ## Event Overview
 
-### Before The Call
+### Before The Event
 
 * Promote the event on Slack and on social media \(liaise with `@ambassadors` group on Slack\).
   * Eventbrite event can be found [here](https://www.eventbrite.co.uk/e/volunteer-with-codeyourfuture-find-out-more-tickets-104630296032).
@@ -78,10 +76,10 @@ All Welcome Events are hosted on this Zoom call
     * Get Eventbrite statistics from someone with access to our account \(likely someone from `@cyf-mgmt`\)
     * You can ask volunteers to share the Eventbrite link in their own social media networks to advertise the event
 
-#### 4 days Before The Call
+#### 4 days Before The Event
 
 * Enlist specific folks for the roles below \(use [sign up sheet here](https://docs.google.com/spreadsheets/d/1rCLQlLzybu2A19Lxehhk7uV8GnUHicIhRfloSqawN4g/edit)\) - make sure they are familiar with their role and this agenda document.
-* Check the material is current \(presentation is [here](https://docs.google.com/presentation/d/1yL7e201eBj2aPJqZKAxg4Bh1iRTP9tP4gYa2S3aeP2s/edit#slide=id.g60ad391a5b_0_254)\). If it needs adjusting, ask for updates in the cyf-ambassadors channel
+* Check the material is current \(presentation is [here](https://docs.google.com/presentation/u/1/d/1aXYe1iguIp-xUaDM0qw7QNs5p12ocigxmbi2Za_gHhE/edit#slide=id.g720190f409_2_1)\). If it needs adjusting, ask for updates in the cyf-ambassadors channel
 
 #### 30 Minutes Before The Call
 
@@ -104,7 +102,7 @@ All Welcome Events are hosted on this Zoom call
 
 6.45 - 7.00pm: Team Q&As - with Volunteer from each team answering questions from guests about their team
 
-7.00 - 7.05pm: Redirect people to sign up form \(however, they are also automatically - [https://bit.ly/cyf-volunteering](https://bit.ly/cyf-volunteering)
+7.00 - 7.05pm: Redirect people to sign up form [https://bit.ly/cyf-volunteering](https://bit.ly/cyf-volunteering)
 
 7.05pm: Thanks / more chats if people stick around
 
