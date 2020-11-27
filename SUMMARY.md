@@ -69,8 +69,6 @@
     * [Syllabus Team](https://syllabus.codeyourfuture.io/contributing/team)
   * [Coursework Feedback](teams/education/homework-feedback.md)
   * [Teaching Tips](teams/education/teaching-tips.md)
-  * [Syllabus](teams/education/syllabus.md)
-  * [Google Classroom](teams/education/google-classroom.md)
 * [Ambassadors](teams/ambassadors/README.md)
   * [Outreach Roles](teams/ambassadors/outreach-roles.md)
   * [Social Media Guide](teams/ambassadors/social-media-guide/README.md)
@@ -90,6 +88,9 @@
 ## 🔨 Tools
 
 * [Dashboard](tools/cyf-dashboard.md)
+* [Google Classroom](tools/google-classroom/README.md)
+  * [Google Classroom For Volunteers](tools/google-classroom/google-classroom-for-volunteers.md)
+  * [Google Classroom for Students](tools/google-classroom/for-students.md)
 * [Slack](tools/slack/README.md)
   * [Slack for Volunteers](tools/slack/for-volunteers.md)
   * [Slack for Students](tools/slack/for-students.md)
@@ -118,6 +119,5 @@
   * [Hosting on Netlify](students/guides/hosting-netlify.md)
   * [Asking Questions](students/guides/asking-questions.md)
   * [Node Version Manager](students/guides/node.md)
-  * [Google Classroom for Students](students/guides/google-classroom.md)
   * [CORS](students/guides/cors.md)
 
