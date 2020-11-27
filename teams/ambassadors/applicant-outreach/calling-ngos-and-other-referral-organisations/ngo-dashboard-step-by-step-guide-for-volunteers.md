@@ -22,3 +22,5 @@ West Midlands - Claire Bickley \(@Claire or [claire@codeyourfuture.io](mailto:cl
 If you find any bugs or problems when using these resources, please fill in the [bug reporting document](https://docs.google.com/spreadsheets/d/1U-bttrxIFQFNZOreNHgkoJm8UOox7VJ1pQ-uHSfHEDU/edit#gid=0) \(up to column D\) and inform @Claire once complete.  
 
 
+_Training on how to use the dashboard will be provided in details_
+
