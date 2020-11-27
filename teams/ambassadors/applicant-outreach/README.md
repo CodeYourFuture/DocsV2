@@ -12,20 +12,15 @@ title: Applicant Outreach
 
 ## Reaching to NGOs for established cities
 
-1. Start calling NGOs - your City Coordinator will give you access to the dashboard. 
+1. Start calling NGOs - your City Coordinator will give you access to the [**dashboard**](https://docs.codeyourfuture.io/teams/ambassadors/applicant-outreach/ngo-dashboard-step-by-step-guide-for-volunteers)**.** 
 2. Making a call takes around 10mins - best done during the day when the NGOs are open. Lunch times have worked well in the past.
 3. The first email will be sent from by a volunteer or CYF staff member with a CYF email address. Your role is to follow up that email with a call.
 4. Try to speak to the right contact at the NGO - or if not, get their name for a follow up call.
-5. Attached a flyer to the follow up email, copy a local codeyourfuture person \(their name will be in your material\) and send the email. Organisations can print flyers out or and pass them onto students directly - it is a physical manifestation of an opportunity. You will be sent the latest flyer. If you don't have a flyer, ask CYF.
-6. Update the list with the next steps, eg. Jo from Refuaid was happy hear from us and is going to refer a student.
-7. As a volunteer, you are likely only to call NGOs once. If you are a new CYF city, you may need to organise that other volunteers call the NGO back. NGOs are often busy doing other things, so a second call, especailly to big referrers, is critical.
+5. As a volunteer, you are likely only to call NGOs once. If you are a new CYF city, you may need to organise that other volunteers call the NGO back. NGOs are often busy doing other things, so a second call, especailly to big referrers, is critical.
 
-**Material for calling NGOs will be sent via Slack**
+_Training on how to use the dashboard will be provided in details_ 
 
-* The list of NGOs to call
-* The NGO script to use when calling
-* Emails and flyers to send to NGOs 
-* F.A.Q. - especailly useful when calling NGOs and Applicants: [https://codeyourfuture.io/faq/](https://codeyourfuture.io/faq/)
+\_\_[_F.A.Q_](https://codeyourfuture.io/faq/)_. - especially useful when calling NGOs and Applicants_ 
 
 ## Calling Applicants
 
