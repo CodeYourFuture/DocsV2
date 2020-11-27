@@ -72,6 +72,7 @@
   * [Syllabus](teams/education/syllabus.md)
   * [Google Classroom](teams/education/google-classroom.md)
 * [Ambassadors](teams/ambassadors/README.md)
+  * [Energisers and Icebreakers](teams/ambassadors/energisers-and-icebreakers.md)
   * [Outreach Roles](teams/ambassadors/outreach-roles.md)
   * [Social Media Guide](teams/ambassadors/social-media-guide/README.md)
     * [Plan and schedule Social Media](teams/ambassadors/social-media-guide/plan-and-schedule-social-media.md)
