@@ -52,7 +52,7 @@ All Welcome Events are hosted on this Zoom call
    * Make other volunteers co-hosts so they can move between rooms if necessary
    * _**This role can be shared with the Organiser role or the Energizer role if we are short on numbers.**_
 4. **Energizer \(and welcomer\)**
-   * Run a fun 5-10 minute energiser/icebreaker at the start of the call. You can look [here](https://docs.google.com/document/d/1___-Og_ZF39WVUZST5rd9TqiicLYrE3oQmazfXqw2X4/edit#heading=h.6wmm7sx39k1j) for ideas. Keep in mind we work with large groups \(usually between 20 and 30 participants\).
+   * Run a fun 5-10 minute energiser/icebreaker at the start of the call. You can look [here](https://docs.codeyourfuture.io/teams/ambassadors/energisers-and-icebreakers) for ideas. Keep in mind we work with large groups \(usually between 20 and 30 participants\).
 5. **Edu team volunteer**
    * To talk about the team and the volunteering opportunities 
 6. **Ambassador team volunteer**
