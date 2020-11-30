@@ -79,6 +79,7 @@
     * [Calling Applicants](teams/ambassadors/applicant-outreach/calling-applicants.md)
   * [Volunteer Outreach](teams/ambassadors/volunteer-outreach/README.md)
     * [Welcome Event](teams/ambassadors/volunteer-outreach/welcome-event.md)
+  * [Approaching Potential Partners](teams/ambassadors/approaching-potential-partners.md)
   * [Energisers and Icebreakers](teams/ambassadors/energisers-and-icebreakers.md)
 * [Personal Development](teams/personal-development/README.md)
   * [Roles](teams/personal-development/roles.md)
