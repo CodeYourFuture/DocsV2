@@ -12,7 +12,8 @@
 * [Our Student Backgrounds](organisation/understand-students.md)
 * [Agreements & Rules](organisation/agreements-and-rules/README.md)
   * [House Rules](organisation/agreements-and-rules/house-rules.md)
-  * [Student Agreement](organisation/agreements-and-rules/student-agreement.md)
+  * [Student Agreement](organisation/agreements-and-rules/student-agreement/README.md)
+    * [Course Withdrawal Request](organisation/agreements-and-rules/student-agreement/course-withdrawal-request.md)
   * [Complaints Procedure](https://codeyourfuture.io/about/comments-compliments-complaints/)
   * [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/)
 
