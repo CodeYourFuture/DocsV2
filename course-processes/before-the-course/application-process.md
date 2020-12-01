@@ -86,51 +86,20 @@ Throughout the day and while students are waiting for their interview, engage st
 
 Split interviewers into pairs - you will need at least 1 technical mentor in each pair to ensure that the technical aspects of the Product Landing Page can be assessed. All interviewers in an interview group should fill in their own interviewer form - this way we can get 2 or more feedback points for each interview.
 
-CYF Template Interview Form: [Link](https://drive.google.com/open?id=1Ps6CEPPr_50hBmmXBPKwogAGRwnGnJr7GccUekdHqjM). It is a template that does not accept responses, to use it please copy the form and enable responses.
+Please review the [Student Interview](student-interviews/) section for more details.
 
-The interview form consists of three sections:
+## 14: Selection Day
 
-### 1. General Questions and Information
+In this step we try to work out who should be given a place on the course.
 
-This section assesses the motivation of the student, their experience throughout the application process, their attitude to problem solving and team-work, etc. Instruct interviewers to make general brief notes throughout so they can reference these in Section 3.
-
-When asking questions regarding availability for sessions and homework, look for evidence of proper planning and forethought. CYF offers a very intensive course that requires a lot of time. Thus, applicants who are already lacking for time \(i.e. working and studying at the same time already\) are unlikely to have sufficient time for the CYF course.
-
-### 2. Technical Review
-
-This section acts as both the Second Product Landing Review \(carrying on from Step 9\) and an opportunity to assess a candidate's knowledge. Ask mentors to assess Product Landing Page for evidence of improvement following the first round of feedback. This should be done against the remaining checklists on the applicant’s Trello Card. At the same time, mentors can ask applicants questions on how they approached the Product Landing Page challenge and their response to feedback.
-
-Following the questions, ask the applicant to explain some aspects of their code, why they used it and its functionality. Look for evidence of comprehension and understanding of the purpose of the code. In special cases, look for evidence of code copying - where there is evidence of coping without understanding, interviewers can challenge the origin of the code. Some copying can be permissible though will need to be fixed by rewriting the code, but outright plagiarism cannot be tolerated.
-
-### 3. Interviewer Feedback
-
-At this time the interviewee can be allowed to go. In Section 3, interviewers are asked to rate an applicant against a number of statements on a 1 to 10 scale. They are also asked to provide feedback on interviewees as a statement.
-
-## 14: Collating Interview Data
-
-Collate data from the interviews into a format shown in the template file [here](https://docs.google.com/spreadsheets/d/1KZqDX7oxFEv17WDEkg87q5c7HAVlw62F-IayOksvgNA/edit?usp=sharing).
-
-### Legend
-
-* Days since first feedback round - a count of days without Product Landing Page improvement since feedback was sent.
-* Days since applied - a count of days since the applicant applied and they had to complete the application process.
-* Offer - scholarship offer status.
-* Avrg. Interviewer Score - is the average score from both interviewers from all 1 to 10 statements from Section 3.
-* Code Explanation - is the score interviewees receive in Section 2.
-* Webpage Score - is the score of the Product Landing Page as based on the Trello Card score i.e 22/28 = 79%.
-* Details - brief summary where applicants disclosed circumstances of the challenging circumstances they are facing.
-* Interviewer Feedback - interviewer statement from Section 3.
-* Applicant Team Feedback - feedback from the team that worked with an applicants with regards to personal circumstances and constraints not mentioned elsewhere, communication, feedback response, general motivation etc.
+Please read more details on the [Selection Day](selection-day.md) page
 
 ## 15: Selection
 
 Once all data is collected, you can make suggestions for applicant offers or next steps. These are:
 
-* Conditional Scholarship Offer - applicant shows clear aptitude for the course and scores highly in at least 2 of the 3 categories. It is important to make it clear that all offers extended to applicants are conditional on their performance running up to and during the course.
-* Request for Product Landing Page Improvement - applicant shows aptitude for the course and scores at least higher than 7 in interviewer scores. However the page score is low and needs improvement and further assessment.
+* Offer - applicant shows clear aptitude for the course and scores highly in at least 2 of the 3 categories. It is important to make it clear that all offers extended to applicants are conditional on their performance running up to and during the course.
 * No Offer - applicant is not currently ready to join the course and will be encouraged to continue studying in order to be considered for the next course.
 
-Where requests for further product landing page improvement are made, applicants will need to be notified and supplied with feedback on improvements to be made. If possible, they should also undergo another round of interviews.
-
-Once the summary is complete and proposals for offers have been made, share the summary with the selection team to ensure a fair assessment and selection process. Ask members to review offer proposals to be made and provide feedback with regards to any concerns they may have.
+Once the summary is complete and proposals for offers have been made, share the summary with the team to ensure a fair assessment and selection process. Ask members to review offer proposals to be made and provide feedback with regards to any concerns they may have.
 
