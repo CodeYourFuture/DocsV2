@@ -10,14 +10,10 @@ We are currently at Stage 1 of the dashboard - gathering data from calls to NGOs
 
 If you would like to suggest an NGO we should make contact with, please fill in [this form](https://forms.gle/Ycs2iP9cm1CXQftg7) then inform the relevant City Coordinator \(listed below\) once complete.
 
-London - Liliana Bermudes \(@Liliana or [lili@codeyourfuture.io](mailto:lili@codeyourfuture.io)\)
-
-Scotland - Gianluca Palombo \(@Gianluca or [gianluca@codeyourfuture.io](mailto:gianluca@codeyourfuture.io)\)
-
-North West - Barny Dathan \(@Barnaby Dathan or [barnaby@codeyourfuture.io](mailto:barnaby@codeyourfuture.io)\)
-
-West Midlands - Claire Bickley \(@Claire or [claire@codeyourfuture.io](mailto:claire@codeyourfuture.io)\)  
-
+* London - Liliana Bermudes \(@Liliana or [lili@codeyourfuture.io](mailto:lili@codeyourfuture.io)\)
+* Scotland - Gianluca Palombo \(@Gianluca or [gianluca@codeyourfuture.io](mailto:gianluca@codeyourfuture.io)\)
+* North West - Barny Dathan \(@Barnaby Dathan or [barnaby@codeyourfuture.io](mailto:barnaby@codeyourfuture.io)\)
+* West Midlands - Claire Bickley \(@Claire or [claire@codeyourfuture.io](mailto:claire@codeyourfuture.io)\)
 
 If you find any bugs or problems when using these resources, please fill in the [bug reporting document](https://docs.google.com/spreadsheets/d/1U-bttrxIFQFNZOreNHgkoJm8UOox7VJ1pQ-uHSfHEDU/edit#gid=0) \(up to column D\) and inform @Claire once complete.  
 
