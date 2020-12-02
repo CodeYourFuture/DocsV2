@@ -26,9 +26,9 @@ Your should also attend a weekly meeting to feedback on their students progress 
         <p>In these sessions you should make sure you access the students understanding
           of the content they&apos;ve been covering recently.</p>
         <p></p>
-        <p>If they need it, you should also find them the resouces they need to succeed
-          - including mentoring support, online study resources and access to study
-          groups or peer learning.</p>
+        <p>If they need it, you should also find them the resources they need to
+          succeed - including mentoring support, online study resources and access
+          to study groups or peer learning.</p>
       </td>
       <td style="text-align:left">
         <p>It is your responsibility to make sure that students are submitting their
@@ -42,7 +42,16 @@ Your should also attend a weekly meeting to feedback on their students progress 
         <p>It is important that we impress on our students how important the homework
           is.</p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>As the person who works closest with the student you will have some of
+          the best insights into how well they are performing in the course. For
+          this reason, it&apos;s important that you share what you know with the
+          rest of the team.</p>
+        <p></p>
+        <p>This is important because if one of our students has an issue then that
+          is an isolated issue - however if lots of students have the same problem
+          then we have a systemic issue which should be fixed at the class level.</p>
+      </td>
     </tr>
   </tbody>
 </table>
