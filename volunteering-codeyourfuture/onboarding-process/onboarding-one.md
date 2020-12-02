@@ -13,9 +13,11 @@ During your first training session, you will learn about the first volunteering 
 
 ## Your first general tasks at CodeYourFuture:
 
-**1. Sign the CYF Volunteer Agreement** **2. Attend the Intro to Coding workshop \(you can learn more about this in the training session\)** **2. Call new students OR review ITC module steps \(if you know how to code\)**
+1. **Sign the CYF Volunteer Agreement** 
+2. **Attend the Intro to Coding workshop \(you can learn more about this in the training session\)**
+3. **Call new students OR review ITC module steps \(if you know how to code\)**
 
-Once you have completed these tasks - congrats - you can consider youself an inducted volunteer of CodeYourFuture.
+Once you have completed these tasks - congrats - you can consider yourself an inducted volunteer of CodeYourFuture.
 
 You will be invited to chat with your local city organiser, and you can move onto your next stage of volunteering!
 
