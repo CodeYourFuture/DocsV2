@@ -24,7 +24,11 @@ Your should also attend a weekly meeting to feedback on their students progress 
           need it.</p>
         <p></p>
         <p>In these sessions you should make sure you access the students understanding
-          of the conten they&apos;ve been covering recently.</p>
+          of the content they&apos;ve been covering recently.</p>
+        <p></p>
+        <p>If they need it, you should also find them the resouces they need to succeed
+          - including mentoring support, online study resources and access to study
+          groups or peer learning.</p>
       </td>
       <td style="text-align:left">
         <p>It is your responsibility to make sure that students are submitting their
@@ -34,6 +38,9 @@ Your should also attend a weekly meeting to feedback on their students progress 
         <p>This does not mean that you need to mark all of the homework yourself
           - just that you are responsible for making sure it happens. You should
           make the use of the other volunteers in your city to spread the work.</p>
+        <p></p>
+        <p>It is important that we impress on our students how important the homework
+          is.</p>
       </td>
       <td style="text-align:left"></td>
     </tr>
@@ -45,20 +52,6 @@ Your should also attend a weekly meeting to feedback on their students progress 
 You can find the training for this role [here](https://teachertraining.codeyourfuture.io/roles/education-buddy/education-buddy-training).
 
 An example Mentoring Session Plan can be found [here](https://teachertraining.codeyourfuture.io/roles/education-buddy/mentoring-session-plan).
-
-## Tips
-
-_Don’t touch the keyboard_
-
-Wherever possible direct the student to actually type the solution on their laptop rather than taking control. When you take a students laptop it disempowers and demotivates them and makes them less likely to experiment with solutions.
-
-_Ask don’t tell_
-
-As an assistant teacher, your job is not to understand **what** the student doesn’t understand but **why** they don’t understand it. You are in the lucky position of working closely with the students and so are uniquely placed to fix core misunderstandings in their mental models. The most important question in your arsenal is “_What do you think the answer is?_”.
-
-_Homework in mind_
-
-When mentoring a student you should always have the homework for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the homework to a sufficient level. If you don’t know the homework for the week, ask your Lead Teacher.
 
 ## Useful Links
 
