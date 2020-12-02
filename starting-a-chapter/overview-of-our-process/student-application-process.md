@@ -4,6 +4,6 @@ All CYF branches must follow the CYF application process guidelines to identify 
 
 Where changes to the application process are required, whether due to general improvement work or CYF branch specifics, these need to be raised with the Global Education Team in advance and agreed before implementation. 
 
-For more information see the [Application Process](https://docs.codeyourfuture.io/course-processes/before-the-course/application-process).  
+For more information see the [Application Process](../../course-processes/before-the-course/application-process.md)  
 
 

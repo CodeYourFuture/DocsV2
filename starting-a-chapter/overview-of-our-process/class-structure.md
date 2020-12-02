@@ -6,6 +6,9 @@ For the duration of the course, but outside of public holidays, each CYF branch 
 
 To evaluate progress and quality of content delivery, assessment of student progress must be carried out at a minimum on a monthly basis for the duration of the course and logged on the CYF systems. The dedicated Education volunteer team must submit monthly student progress reports to the central CYF team. 
 
-The Education volunteer team must set weekly targets for online remote communication between students to encourage them to regularly communicate and build study networks.  
+The Education volunteer team must set weekly targets for online remote communication between students to encourage them to regularly communicate and build study networks.
 
+See more about this area:
+
+* [Running a Class](../../course-processes/running-the-course/running-a-class.md) 
 
