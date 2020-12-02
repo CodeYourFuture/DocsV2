@@ -13,6 +13,7 @@ When Graduates finish the course they often want to give back to CodeYourFuture 
 Before a Graduate can become a volunteer they should
 
 * Sign the [volunteer agreement](https://codeyourfuture.eversign.com/embedded/2aafdd0f7b034b448896255f16624939)
+* Attend a [Welcome Event](../../teams/ambassadors/volunteer-outreach/welcome-event.md)
 
 ## Roles
 
