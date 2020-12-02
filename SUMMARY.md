@@ -24,6 +24,7 @@
   * [Student Application Process](starting-a-chapter/overview-of-our-process/student-application-process.md)
   * [Student Selection Process](starting-a-chapter/overview-of-our-process/student-selection-process.md)
   * [Volunteering Structure](starting-a-chapter/overview-of-our-process/volunteering-structure.md)
+  * [Class Structure](starting-a-chapter/overview-of-our-process/class-structure.md)
 * [Starting a New Chapter](starting-a-chapter/starting-a-new-chapter.md)
 
 ## 📜 Our Courses
