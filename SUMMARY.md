@@ -14,6 +14,7 @@
   * [House Rules](organisation/agreements-and-rules/house-rules.md)
   * [Student Agreement](organisation/agreements-and-rules/student-agreement/README.md)
     * [Course Withdrawal Request](organisation/agreements-and-rules/student-agreement/course-withdrawal-request.md)
+  * [Volunteer Agreement](https://codeyourfuture.eversign.com/embedded/2aafdd0f7b034b448896255f16624939)
   * [Complaints Procedure](https://codeyourfuture.io/about/comments-compliments-complaints/)
   * [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/)
 
@@ -68,6 +69,7 @@
 * [After the Course](course-processes/after-the-course/README.md)
   * [After Graduation](course-processes/after-the-course/after-graduation.md)
   * [Getting a Job](course-processes/after-the-course/getting-a-job.md)
+  * [From Trainee to Volunteer](course-processes/after-the-course/from-trainee-to-volunteer.md)
 
 ## 👥 Volunteer Teams <a id="teams"></a>
 
