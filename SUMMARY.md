@@ -26,6 +26,7 @@
   * [Volunteering Structure](starting-a-chapter/overview-of-our-process/volunteering-structure.md)
   * [Class Structure](starting-a-chapter/overview-of-our-process/class-structure.md)
   * [Communication from each CYF branch with CYF Global](starting-a-chapter/overview-of-our-process/communication-from-each-cyf-branch-with-cyf-global.md)
+  * [Tech Projects](starting-a-chapter/overview-of-our-process/tech-projects.md)
 * [Starting a New Chapter](starting-a-chapter/starting-a-new-chapter.md)
 
 ## 📜 Our Courses
