@@ -25,6 +25,7 @@
   * [Student Selection Process](starting-a-chapter/overview-of-our-process/student-selection-process.md)
   * [Volunteering Structure](starting-a-chapter/overview-of-our-process/volunteering-structure.md)
   * [Class Structure](starting-a-chapter/overview-of-our-process/class-structure.md)
+  * [Communication from each CYF branch with CYF Global](starting-a-chapter/overview-of-our-process/communication-from-each-cyf-branch-with-cyf-global.md)
 * [Starting a New Chapter](starting-a-chapter/starting-a-new-chapter.md)
 
 ## 📜 Our Courses
