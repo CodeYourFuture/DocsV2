@@ -64,7 +64,7 @@ An example Mentoring Session Plan can be found [here](https://teachertraining.co
 
 ## Useful Links
 
-| Documentation | More Teacher Training | Syllabus |
-| :--- | :--- | :--- |
-| [docs.codeyourfuture.io](https://docs.codeyourfuture.io/) | [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io/) | [syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io/) |
+| Teacher Training | Syllabus |
+| :--- | :--- |
+| [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io/) | [syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io/) |
 
