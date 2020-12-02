@@ -30,6 +30,7 @@
   * [Tech Suite](starting-a-chapter/overview-of-our-process/tech-suite.md)
   * [Marketing](starting-a-chapter/overview-of-our-process/marketing.md)
   * [People into Employment](starting-a-chapter/overview-of-our-process/people-into-employment.md)
+  * [Finances and Insurance](starting-a-chapter/overview-of-our-process/finances-and-insurance.md)
 * [Starting a New Chapter](starting-a-chapter/starting-a-new-chapter.md)
 
 ## 📜 Our Courses
