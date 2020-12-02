@@ -1,5 +1,7 @@
 # Teaching Assitant
 
+## Overview
+
 The assistant teacher’s role is the role of the mentor. You are tasked with working closely with small groups or individual students to guide them through the lessons content. You should motivate when the student is feeling down, explain when the student is not comprehending and encourage the student to be inquisitive. You will be working more closely with our students than anyone else in the organisation and so you are a crucial part of the relationship we have with them.
 
 <table>
@@ -43,7 +45,7 @@ The assistant teacher’s role is the role of the mentor. You are tasked with wo
   </tbody>
 </table>
 
-### Classroom Rules
+## Classroom Rules
 
 1. ​Follow the Code of Conduct
    * You should report any violations to the Personal Development team
@@ -58,7 +60,7 @@ The assistant teacher’s role is the role of the mentor. You are tasked with wo
 6. Remember you are an expert.
    * Be aware of your blind spots when working with beginners
 
-### Tips
+## Tips
 
 _Don’t touch the keyboard_
 
@@ -72,7 +74,7 @@ _Homework in mind_
 
 When mentoring a student you should always have the homework for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the homework to a sufficient level. If you don’t know the homework for the week, ask your Lead Teacher.
 
-### Useful Links
+## Useful Links
 
 | Documentation | More Teacher Training | Syllabus |
 | :--- | :--- | :--- |

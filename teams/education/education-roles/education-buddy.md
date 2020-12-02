@@ -1,5 +1,7 @@
 # Education Buddy
 
+## Overview
+
 The Buddy’s role is the role of the guide. 
 
 This role is an ongoing commitment where you are paired with between three students for a period of a several months. It is your responsibility to be the first point of contact for help with their students problems for anything on the technical education side of the course.
@@ -37,22 +39,11 @@ Your should also attend a weekly meeting to feedback on their students progress 
   </tbody>
 </table>
 
-### Classroom Rules
+## Training
 
-1. ​Follow the Code of Conduct
-   * You should report any violations to the Personal Development team
-2. Don't touch the keyboard.
-   * Unless you're 100% certain that whatever your doing is outside of the students required understanding
-3. Be empathetic. 
-   * Our students come from many different cultures, have many different levels of English, have different levels of computer literacy, have many different employment statuses
-4. Don't demotivate. 
-   * It can be easy to demotivate students using dismissive language \(e.g. "it’s easy, just do this"\)
-5. Be patient.
-   * Everything takes time and they will get there in the end
-6. Remember you are an expert.
-   * Be aware of your blind spots when working with beginners
+You can find the training for this role [here](https://teachertraining.codeyourfuture.io/roles/education-buddy/education-buddy-training).
 
-### Tips
+## Tips
 
 _Don’t touch the keyboard_
 
@@ -66,7 +57,7 @@ _Homework in mind_
 
 When mentoring a student you should always have the homework for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the homework to a sufficient level. If you don’t know the homework for the week, ask your Lead Teacher.
 
-### Useful Links
+## Useful Links
 
 | Documentation | More Teacher Training | Syllabus |
 | :--- | :--- | :--- |
