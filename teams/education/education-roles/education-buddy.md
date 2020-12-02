@@ -13,7 +13,7 @@ Your should also attend a weekly meeting to feedback on their students progress 
     <tr>
       <th style="text-align:left">Check In</th>
       <th style="text-align:left">Coursework</th>
-      <th style="text-align:left">Feedback</th>
+      <th style="text-align:left">Feedback to Team</th>
     </tr>
   </thead>
   <tbody>
@@ -23,7 +23,8 @@ Your should also attend a weekly meeting to feedback on their students progress 
           two weeks - however you may need to give some students more time if their
           need it.</p>
         <p></p>
-        <p>In these sessions you should make</p>
+        <p>In these sessions you should make sure you access the students understanding
+          of the conten they&apos;ve been covering recently.</p>
       </td>
       <td style="text-align:left">
         <p>It is your responsibility to make sure that students are submitting their
@@ -39,9 +40,11 @@ Your should also attend a weekly meeting to feedback on their students progress 
   </tbody>
 </table>
 
-## Training
+## Training & Resources
 
 You can find the training for this role [here](https://teachertraining.codeyourfuture.io/roles/education-buddy/education-buddy-training).
+
+An example Mentoring Session Plan can be found [here](https://teachertraining.codeyourfuture.io/roles/education-buddy/mentoring-session-plan).
 
 ## Tips
 
