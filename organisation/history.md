@@ -59,6 +59,7 @@ Our goal is to create a grassroots movement that anyone around the world can rep
 * **Barny Dathan** \(@Barnaby Dathan\): North West
 * **Claire** **Bickley** \(@Claire\): West Midlands
 * **Aaishah Khan** \(@Aaishah\): West Midlands
+* **Hazel Todhunter:** Finance
 
 You may see their names pop up in our Slack channels from time to time!
 
