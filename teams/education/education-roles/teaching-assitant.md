@@ -45,6 +45,10 @@ The assistant teacher’s role is the role of the mentor. You are tasked with wo
   </tbody>
 </table>
 
+## Training
+
+The training for this role can be found [here](https://teachertraining.codeyourfuture.io/content/welcome-to-the-education-team).
+
 ## Classroom Rules
 
 1. ​Follow the Code of Conduct
