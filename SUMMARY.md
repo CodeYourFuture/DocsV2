@@ -22,6 +22,7 @@
 * [Overview of our Process](starting-a-chapter/overview-of-our-process/README.md)
   * [Outreach Process](starting-a-chapter/overview-of-our-process/outreach-process.md)
   * [Student Application Process](starting-a-chapter/overview-of-our-process/student-application-process.md)
+  * [Student Selection Process](starting-a-chapter/overview-of-our-process/student-selection-process.md)
 * [Starting a New Chapter](starting-a-chapter/starting-a-new-chapter.md)
 
 ## 📜 Our Courses
