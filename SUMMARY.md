@@ -121,12 +121,12 @@
 
 ## 👩‍🎓 Students
 
-* [Useful Links](students/useful-links.md)
 * [Tech Guides](students/tech-guides/README.md)
   * [CORS](students/tech-guides/cors.md)
   * [Node Version Manager](students/tech-guides/node.md)
   * [Hosting on Netlify](students/tech-guides/hosting-netlify.md)
 * [Guides](students/guides/README.md)
+  * [Useful Links](students/guides/useful-links.md)
   * [How to get a bank account](students/guides/how-to-get-a-bank-account.md)
   * [Online Lessons for Students](students/guides/online-lessons.md)
   * [Naming Accounts Consistently](students/guides/naming-accounts-consistently.md)
