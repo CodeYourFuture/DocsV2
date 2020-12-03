@@ -19,16 +19,16 @@ title: Running A Class
 
 Here is an example schedule of a day events at a normal class
 
-* 10:30 - Students and Volunteers Arrive
-* 11:00 - [Arrange Classroom](running-a-class.md#arrange-classroom) & [Morning Energiser](running-a-class.md#energisers)
-* 11:15 - [Students Retrospective](running-a-class.md#student-retrospective) // [Volunteers Kick-off](running-a-class.md#volunteer-kick-off)
-* 11:45 - [Morning Teaching](running-a-class.md#morning-teaching)
-* 14:00 - [Lunch](running-a-class.md#lunch)
-* 14:45 - [Afternoon Energiser](running-a-class.md#energisers)
-* 15:00 - [Afternoon Teaching](running-a-class.md#afternoon-teaching)
-* 17:00 - [Homework Briefing](running-a-class.md#homework-briefing)
-* 17:15 - [Tidy Up](running-a-class.md#tidy-up) // [Volunteers Retrospective](running-a-class.md#volunteers-retrospective)
-* 18:00 - Hometime
+* 9:45 - Students and Volunteers Arrive
+* 10:00 - [Arrange Classroom](running-a-class.md#arrange-classroom) & [Morning Energiser](running-a-class.md#energisers)
+* 10:15 - [Students Retrospective](running-a-class.md#student-retrospective) // [Volunteers Kick-off](running-a-class.md#volunteer-kick-off)
+* 10:45 - [Morning Teaching](running-a-class.md#morning-teaching)
+* 13:00 - [Lunch](running-a-class.md#lunch)
+* 13:45 - [Afternoon Energiser](running-a-class.md#energisers)
+* 14:00 - [Afternoon Teaching](running-a-class.md#afternoon-teaching)
+* 15:45 - [Homework Briefing](running-a-class.md#homework-briefing)
+* 16:00 - [Tidy Up](running-a-class.md#tidy-up) // [Volunteers Retrospective](running-a-class.md#volunteers-retrospective)
+* 16:30 - Hometime
 
 ## Activity Breakdown
 
