@@ -1,8 +1,9 @@
 # Fundraising & budgeting
 
+There are two possible paths to start a new branch:
 
-
-While starting a new branch with already established funding is ideal, the best way to test the grassroots potential of a new city is by starting with zero funding. 
+* By receiving grants or private funding;
+* By starting with zero funding, which is the best way o test the grassroots potential of a new city
 
 What to keep in mind:
 
