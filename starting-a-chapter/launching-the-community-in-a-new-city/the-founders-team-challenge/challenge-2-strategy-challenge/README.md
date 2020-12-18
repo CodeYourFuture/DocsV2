@@ -2,7 +2,7 @@
 
 **The challenge should take 4 weeks.**
 
-Before beginning the formal establishment of your branch, it is important to understand who else is operating in the space locally – it may be that a CYF branch isn’t the best solution, and that actually resources would be more efficiently allocated joining an existing initiative, or combining an existing initiative with the nascent CYF setup. 
+Before beginning the formal establishment of your chapter, it is important to understand who else is operating in the space locally – it may be that a CYF chapter isn’t the best solution, and that actually resources would be more efficiently allocated joining an existing initiative, or combining an existing initiative with the nascent CYF setup. 
 
 Therefore the founders team needs to create the strategy of the city and region they want to operate in.
 
