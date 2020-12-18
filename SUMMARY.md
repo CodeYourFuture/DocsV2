@@ -34,6 +34,8 @@
   * [Finances and Insurance](starting-a-chapter/overview-of-our-process/finances-and-insurance.md)
 * [The Founders team challenge](starting-a-chapter/the-founders-team-challenge/README.md)
   * [Challenge 1 - Find the Founding team](starting-a-chapter/the-founders-team-challenge/challenge-1-find-the-founding-team.md)
+  * [Challenge 2 - Strategy Challenge](starting-a-chapter/the-founders-team-challenge/challenge-2-strategy-challenge/README.md)
+    * [The strategy challenge Template](starting-a-chapter/the-founders-team-challenge/challenge-2-strategy-challenge/the-strategy-challenge-template.md)
 
 ## 📜 Our Courses
 
