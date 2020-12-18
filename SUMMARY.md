@@ -41,6 +41,8 @@
   * [The Ambassadors Challenge](starting-a-chapter/launching-the-community-in-a-new-city/the-ambassadors-challenge.md)
   * [The first Ambassador Team](starting-a-chapter/launching-the-community-in-a-new-city/the-first-ambassador-team.md)
   * [Volunteers Requirements](starting-a-chapter/launching-the-community-in-a-new-city/volunteers-requirements.md)
+* [General Information](starting-a-chapter/general-information/README.md)
+  * [Fundraising & budgeting](starting-a-chapter/general-information/fundraising-and-budgeting.md)
 
 ## 📜 Our Courses
 
