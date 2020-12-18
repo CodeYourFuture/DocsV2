@@ -1,6 +1,6 @@
 # Fundraising & budgeting
 
-There are two possible paths to start a new branch:
+There are two possible paths to start a new chapter:
 
 * By receiving grants or private funding;
 * By starting with zero funding, which is the best way o test the grassroots potential of a new city
