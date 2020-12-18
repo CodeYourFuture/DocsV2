@@ -44,6 +44,7 @@
 * [General Information](starting-a-chapter/general-information/README.md)
   * [Fundraising & budgeting](starting-a-chapter/general-information/fundraising-and-budgeting.md)
   * [Finding a Space](starting-a-chapter/general-information/finding-a-space.md)
+  * [Partners](starting-a-chapter/general-information/partners.md)
 
 ## 📜 Our Courses
 
