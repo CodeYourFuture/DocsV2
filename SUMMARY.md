@@ -21,6 +21,7 @@
 ## 🌍 Starting a Chapter
 
 * [Overview of our Process](starting-a-chapter/overview-of-our-process/README.md)
+  * [Untitled](starting-a-chapter/overview-of-our-process/untitled.md)
   * [Outreach Process](starting-a-chapter/overview-of-our-process/outreach-process.md)
   * [Student Application Process](starting-a-chapter/overview-of-our-process/student-application-process.md)
   * [Student Selection Process](starting-a-chapter/overview-of-our-process/student-selection-process.md)
@@ -39,6 +40,7 @@
   * [Challenge 3: Find the Ambassador team](starting-a-chapter/the-founders-team-challenge/challenge-3-find-the-ambassador-team.md)
 * [The Ambassadors Challenge](starting-a-chapter/the-ambassadors-challenge.md)
 * [The first Ambassador Team](starting-a-chapter/the-first-ambassador-team.md)
+* [Volunteers Requirements](starting-a-chapter/volunteers-requirements.md)
 
 ## 📜 Our Courses
 
