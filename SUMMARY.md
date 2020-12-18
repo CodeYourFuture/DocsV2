@@ -39,8 +39,8 @@
       * [The strategy challenge Template](starting-a-chapter/launching-the-community-in-a-new-city/the-founders-team-challenge/challenge-2-strategy-challenge/the-strategy-challenge-template.md)
     * [Challenge 3: Find the Ambassador team](starting-a-chapter/launching-the-community-in-a-new-city/the-founders-team-challenge/challenge-3-find-the-ambassador-team.md)
   * [The Ambassadors Challenge](starting-a-chapter/launching-the-community-in-a-new-city/the-ambassadors-challenge.md)
-* [The first Ambassador Team](starting-a-chapter/the-first-ambassador-team.md)
-* [Volunteers Requirements](starting-a-chapter/volunteers-requirements.md)
+  * [The first Ambassador Team](starting-a-chapter/launching-the-community-in-a-new-city/the-first-ambassador-team.md)
+  * [Volunteers Requirements](starting-a-chapter/launching-the-community-in-a-new-city/volunteers-requirements.md)
 
 ## 📜 Our Courses
 
