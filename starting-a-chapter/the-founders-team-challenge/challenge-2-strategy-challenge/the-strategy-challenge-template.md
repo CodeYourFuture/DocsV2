@@ -56,24 +56,21 @@ _-Immigrations status:_
 _-Time commitment:_   
 
 
-C - Demographics Data   
+**C - Demographics Data** 
+
+**How large is the potential pool of applicants?**
+
+_Now that you have considered and outlined your target audience. Please share any data on the potential number of people that you would reach out to in the region using this criteria. Are there any regional population clusters where your target group is overrepresented?_
+
+_This question should hopefully allow you to understand the potential volume of applicants who would qualify to apply for the CYF course._    
 
 
-How large is the potential pool of applicants?  
+**D - Existing Tech Sector** 
 
+**What is the current state of the tech sector in your region?**
 
-Now that you have considered and outlined your target audience. Please share any data on the potential number of people that you would reach out to in the region using this criteria. Are there any regional population clusters where your target group is overrepresented?
+_One of the primary goals of CYF is to connect students to employment opportunities upon graduation. What is the current state and size of the tech sector? Is there sufficient demand for junior web developers? Is there sufficient demand for the technologies we teach? \(i.e. Financial tech sector is likely to have very different tech language needs from the core CYF syllabus\) What is the demographic composition of the tech force in your region? Are there any corporate initiatives that seek to address lack of diversity in the tech sector? Any companies who may be interested in these initiatives?_
 
-This question should hopefully allow you to understand the potential volume of applicants who would qualify to apply for the CYF course.    
-
-
-D - Existing Tech Sector   
-
-
-What is the current state of the tech sector in your region?
-
-One of the primary goals of CYF is to connect students to employment opportunities upon graduation. What is the current state and size of the tech sector? Is there sufficient demand for junior web developers? Is there sufficient demand for the technologies we teach? \(i.e. Financial tech sector is likely to have very different tech language needs from the core CYF syllabus\) What is the demographic composition of the tech force in your region? Are there any corporate initiatives that seek to address lack of diversity in the tech sector? Any companies who may be interested in these initiatives?
-
-These questions should allow you to thoroughly consider potential demand for new developers in your region and their pathways to employment.  
+_These questions should allow you to thoroughly consider potential demand for new developers in your region and their pathways to employment._  
 
 
