@@ -28,7 +28,7 @@ The details outlined below are broadly the provisions of the Equality Act 2010 l
 
 Students are entitled to take up to 52 weeks Maternity Leave of Absence from their course of study . 
 
-Maternity Leave of Absence can begin at any time from the start of the 11th week before the expected week of childbirth up to the day the childbirth occurs. Students are required to take two weeks compulsory leave of absence immediately following childbirth. Once the details of Maternity Leave have been agreed, a [Leave of Absence form](https://forms.gle/SR6UH3kdR4bXK4Q5A) should be completed, stating ‘personal’ reasons for absence and sent to the City Coordinator so that their record can be updated \(pregnancy will not be stated as the reason for absence\).
+Maternity Leave of Absence can begin at any time from the start of the 11th week before the expected week of childbirth up to the day the childbirth occurs. Students are required to take two weeks compulsory leave of absence immediately following childbirth. Once the details of Maternity Leave have been agreed, a [Leave of Absence form](https://app.gitbook.com/@code-your-future/s/docs/organisation/agreements-and-rules/student-agreement/leave-of-absence-request) should be completed, stating ‘personal’ reasons for absence and sent to the City Coordinator so that their record can be updated \(pregnancy will not be stated as the reason for absence\).
 
 This document should be signed by the student and approved by The Head of Personal Development or City Coordinator. 
 
