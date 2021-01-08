@@ -13,6 +13,7 @@
 * [Agreements & Rules](organisation/agreements-and-rules/README.md)
   * [House Rules](organisation/agreements-and-rules/house-rules.md)
   * [Student Agreement](organisation/agreements-and-rules/student-agreement/README.md)
+    * [Student Expenses Policy](organisation/agreements-and-rules/student-agreement/student-expenses-policy.md)
     * [Course Withdrawal Request](organisation/agreements-and-rules/student-agreement/course-withdrawal-request.md)
     * [Student Pregnancy Policy](organisation/agreements-and-rules/student-agreement/student-pregnancy-policy.md)
     * [Leave of Absence Request](organisation/agreements-and-rules/student-agreement/leave-of-absence-request.md)
