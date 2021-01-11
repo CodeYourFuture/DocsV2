@@ -2,6 +2,8 @@
 
 CodeYourFuture is committed to helping our students undertake their studies by providing financial support where necessary.
 
+**Any expenses should be agreed in advance.**
+
 All expense claims **must** be evidenced with valid receipts or other proof of purchase. Where the original receipt cannot be provided, a photograph or scanned copy of a receipt is sufficient as long as all details are legible. 
 
 It is the student’s own responsibility to ensure that this evidence can be provided before they part with any money. Where a receipt is not available, proof of purchase may be in the form of screenshots 
