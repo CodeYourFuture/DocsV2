@@ -22,8 +22,6 @@
   * [Complaints Procedure](https://codeyourfuture.io/about/comments-compliments-complaints/)
   * [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/)
 
-## 🌍 Starting a Chapter
-
 ## 📜 Our Courses
 
 * [Intro to Coding Course](our-courses/intro-to-coding-course/README.md)
