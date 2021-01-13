@@ -30,12 +30,12 @@ These laptops are **only** used by students doing the [Into To Coding Course](..
 
 These laptops are the minimum that we expect students to use to complete the [Fundamentals ](../../our-courses/fundamentals/)and [Full Stack Coding Courses](../../our-courses/full-stack-course/).
 
-* 2.2 GHz Intel i5 processor 
+* 2.1 GHz Intel i3 or Intel i5 or better processor
   * or AMD equivalent
 * 120gb HDD \(with at least 40gb free\)
 * 1600 x 900 or greater screen resolution
 * 13” Screen size
-* 8 GB of RAM
+* 4 GB of RAM
 * Access to internet of 2Mbps up and down
 
 ### Recommended Specs
@@ -47,7 +47,7 @@ These laptops are the recommended specs that we expect students to use to comple
 * 120gb HDD or SSD \(with at least 40gb free\)
 * 1980 x 1080 or greater screen resolution
 * 15” Screen size
-* 12 GB of RAM or more
+* 8 GB of RAM or more
 * Access to internet of 6Mbps up and down
 
 ## Additional Requirements
