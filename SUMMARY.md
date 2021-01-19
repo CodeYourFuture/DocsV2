@@ -13,6 +13,7 @@
 * [Agreements & Rules](organisation/agreements-and-rules/README.md)
   * [House Rules](organisation/agreements-and-rules/house-rules.md)
   * [Student Agreement](organisation/agreements-and-rules/student-agreement/README.md)
+    * [Personal Circumstances Forms](organisation/agreements-and-rules/student-agreement/personal-circumstances-forms.md)
     * [Student Expenses Policy](organisation/agreements-and-rules/student-agreement/student-expenses-policy/README.md)
       * [Childcare Expenses Form](organisation/agreements-and-rules/student-agreement/student-expenses-policy/childcare-expenses-form.md)
     * [Course Withdrawal Request](organisation/agreements-and-rules/student-agreement/course-withdrawal-request.md)
