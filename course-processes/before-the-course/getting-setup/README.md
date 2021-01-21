@@ -87,6 +87,8 @@ We also suggest that you enable format on save so that your code stays formatted
 2. Search for `editor format`
 3. Set `editor.formatOnSave` and `editor.formatOnPaste` to true
 
+![](../../../.gitbook/assets/image.png)
+
 ## 5\) Software
 
 Although you _can_ install some of the following software onto a phone, it is required you install it onto your _laptop_.
