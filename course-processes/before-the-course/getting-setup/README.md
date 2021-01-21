@@ -49,11 +49,13 @@ If you're using Windows we ask that you install this program to make it easier f
 
 ## 4\) Visual Studio Code
 
+### 4.1\) Install VSCode
+
 We use VS Code to write all of our code in the course. It is known as an Integrated Developer Environment and really helps you write great code!
 
 [Download and install here](https://code.visualstudio.com/)
 
-### Extensions
+### 4.2\) Extensions
 
 We also recommend that you install the follow extensions in Visual Studio Code.
 
@@ -79,7 +81,7 @@ A guide to installing extentions [can be found here](https://code.visualstudio.c
 * Live Share - Share your project with a team
   * [https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
-### Enable formatting on save
+### 4.3\) Enable formatting on save
 
 We also suggest that you enable format on save so that your code stays formatted
 
@@ -93,13 +95,13 @@ We also suggest that you enable format on save so that your code stays formatted
 
 Although you _can_ install some of the following software onto a phone, it is required you install it onto your _laptop_.
 
-### Chrome
+### 5.1\) Chrome
 
 Chrome is one of the best browsers for web developers with a great set of tools for testing and building websites
 
 [Download and install here](https://www.google.com/chrome/)
 
-### Slack
+### 5.2\) Slack
 
 We use Slack to communicate with each other easily, to share files and to have video calls. You'll find all of your other students on here!
 
@@ -107,25 +109,25 @@ You'll need to login when you've download this. Speak to your teachers to get in
 
 [Download and install here](https://slack.com/intl/en-gb/downloads)
 
-### Zoom
+### 5.3\) Zoom
 
 We use Zoom for bigger video calls such as weekend classrooms when they are remote.
 
 [Download and install here](https://zoom.us/download)
 
-### Node.js
+### 5.4\) Node.js
 
 We use this tool to run our code and later in the course to help us make websites.
 
 [Download and install here](https://nodejs.org/en/download/)
 
-### Git & Git Bash
+### 5.5\) Git & Git Bash
 
 We use this tool to upload our code to the internet so others can see it.
 
 [Download and install here](https://git-scm.com/downloads)
 
-### Github Desktop
+### 5.6\) Github Desktop
 
 We use this tool to make it easier to use Git since it can be quite hard for a beginner!
 
@@ -133,13 +135,13 @@ We use this tool to make it easier to use Git since it can be quite hard for a b
 
 ## 6\) Websites
 
-### Gmail
+### 6.1\) Gmail
 
 We use a lot of Google products in the class so it's essential that everyone has a Gmail address. If you do not already have one then please register below.
 
 [Create email address here](https://accounts.google.com/SignUp)
 
-### Github
+### 6.2\) Github
 
 We use Github to submit our homework and to share code with each other. Please make sure that you have created an account and are logged in before you attend your first lesson.
 
