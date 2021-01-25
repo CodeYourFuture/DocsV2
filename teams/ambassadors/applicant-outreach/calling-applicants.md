@@ -27,11 +27,12 @@ If the person doesn't remember they have applied:
 Person remebers they have applied:
 * Ask them how they are finding the course
 * Ensure they know of the various ways they can stay in touch with us and get help:
-  * Slack
+  * Joining the Intro to Coding Slack
   * Leaving a comment on their application
   * Attending a weekend workshop 
-  You may wish to leave these links in a comment on their application or ask a volunteer with access to CYF email account to forward on these links on. 
-  
+* You may wish to leave these links in a comment on their application or ask a volunteer with access to CYF email account to forward on these links on. 
+* Tip: Have a template email with all these links ready for your city.
+ 
 * Let the applicant know about the opportunity to apply for the 8-month Full Stack course 
 * Remind applicants of any upcoming deadlines to apply for the Full Stack Web development course and explain the applicantion process. 
 
