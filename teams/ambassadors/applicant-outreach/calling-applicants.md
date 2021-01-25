@@ -14,7 +14,7 @@ Many applicants suffer from isolation and depression, so a call at this stage ca
 ## Step by Step guide to making an applicant call.
 
 Go to the dashbaord to find an applicant to call. If you do not have access to the dashboard or applicant's phone numbers please contact your city co-ordinator
-Ensure you hide your number by using either 141 or #31# (depending on your network)
+Ensure you hide your number by using either 141 or #31# (depends and may differ on your network and region)
 
 ### The phone call. 
 * Its always best to start with who you are 'Hello I'm x calling from Code your Future 
@@ -23,6 +23,7 @@ Ensure you hide your number by using either 141 or #31# (depending on your netwo
 * The person may not remember they have applied. If so give them a quick reminder that they applied for the Code Your Future Intro to Coding Course.
 * Ask them to go to course1.codeyourfuture.io to check out what we do and if they’d like to continue with the process
 * Many access via entering their email. They will receive a link to the applicant dashboard when they enter their email so tell them to look for this
+* Follow up with an email containing useful link to course1.codeyourfuture.io and CYF website
 
 ### Person remembers they have applied:
 * Ask them how they are finding the course
@@ -31,10 +32,9 @@ Ensure you hide your number by using either 141 or #31# (depending on your netwo
   * Leaving a comment on their application
   * Attending a weekend workshop 
 * You may wish to leave these links in a comment on their application or ask a volunteer with access to CYF email account to forward on these links on. 
-* Tip: Have a template email with all these links ready for your city.
- 
+*Tip: Have a template email with all these links ready for your city!*
 * Let the applicant know about the opportunity to apply for the 8-month Full Stack course 
-* Remind applicants of any upcoming deadlines to apply for the Full Stack Web development course and explain the applicantion process. 
+* Remind applicants of any upcoming deadlines to apply for the Full Stack Web development course and explain the application process. 
 
 ### If the person has completed all steps:
 * Congratulate them! 
