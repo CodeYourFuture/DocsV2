@@ -16,15 +16,15 @@ Many applicants suffer from isolation and depression, so a call at this stage ca
 Go to the dashbaord to find an applicant to call. If you do not have access to the dashboard or applicant's phone numbers please contact your city co-ordinator
 Ensure you hide your number by using either 141 or #31# (depending on your network)
 
-The phone call. 
+### The phone call. 
 * Its always best to start with who you are 'Hello I'm x calling from Code your Future 
 
-If the person doesn't remember they have applied:
+### If the person doesn't remember they have applied:
 * The person may not remember they have applied. If so give them a quick reminder that they applied for the Code Your Future Intro to Coding Course.
 * Ask them to go to course1.codeyourfuture.io to check out what we do and if they’d like to continue with the process
 * Many access via entering their email. They will receive a link to the applicant dashboard when they enter their email so tell them to look for this
 
-Person remebers they have applied:
+### Person remembers they have applied:
 * Ask them how they are finding the course
 * Ensure they know of the various ways they can stay in touch with us and get help:
   * Joining the Intro to Coding Slack
@@ -36,7 +36,7 @@ Person remebers they have applied:
 * Let the applicant know about the opportunity to apply for the 8-month Full Stack course 
 * Remind applicants of any upcoming deadlines to apply for the Full Stack Web development course and explain the applicantion process. 
 
-If the person has completed all steps:
+### If the person has completed all steps:
 * Congratulate them! 
 * If they would like to join the Full stack course they must have also attended at least one Intro to Coding Workshop
 * Let them know that they will recieve an invitation to an interview to join our full stack course. 
@@ -47,7 +47,7 @@ Once you have called an applicant, record this call on the dashboard and move on
 
 **Material for calling applicants**
 
-* Call scripts will be send to you
+* More detailed Call scripts and voice recordings of example calls can be sent to you
 * [F.A.Q](https://codeyourfuture.io/faq/). - especially useful when calling NGOs and Applicants
 * [Intro to Coding course steps and process to apply for the Full Stack course](https://docs.codeyourfuture.io/course-processes/before-the-course/application-process#9-interview-scheduling-and-invites)
 * Training will be provided
