@@ -28,9 +28,9 @@ Many applicants suffer from isolation and depression, so a call at this stage ca
 
 * Ask them how they are finding the course
 * Ensure they know of the various ways they can stay in touch with us and get help:
-  * Joining the Intro to Coding Slack
+  * Joining the [Intro to Coding Slack](https://join.slack.com/t/cyf-applicants/shared_invite/zt-cfw4r6s2-TP0Mf5515RIc5uhzaTXLSw)
   * Leaving a comment on their application
-  * Attending a weekend workshop 
+  * Attending a [weekend workshop ](https://www.eventbrite.co.uk/e/intro-to-coding-workshop-tickets-103241098906?aff=)
   * **You may wish to leave these links in a comment on their application or ask a volunteer with access to CYF email account to forward on these links on.** 
 
     _**Tip: Have a template email with all these links ready for your city!**_
@@ -45,9 +45,9 @@ Many applicants suffer from isolation and depression, so a call at this stage ca
 
 Once you have called an applicant, record this call on the dashboard and move onto the next one.
 
-**Material for calling applicants**
+### **Material for calling applicants**
 
-* Call scripts will be send to you
+* More detailed call scripts and audio recordings of example calls can be sent to you
 * [F.A.Q](https://codeyourfuture.io/faq/). - especially useful when calling NGOs and Applicants
 * Training will be provided
 
