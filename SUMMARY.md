@@ -81,6 +81,7 @@
     * [Calling NGOs and other referral organisations](teams/ambassadors/applicant-outreach/calling-ngos-and-other-referral-organisations/README.md)
       * [NGO Dashboard - Step by step guide for volunteers](teams/ambassadors/applicant-outreach/calling-ngos-and-other-referral-organisations/ngo-dashboard-step-by-step-guide-for-volunteers.md)
     * [Calling Applicants](teams/ambassadors/applicant-outreach/calling-applicants.md)
+    * [More outreach strategy](teams/ambassadors/applicant-outreach/more-outreach-strategy.md)
   * [Volunteer Outreach](teams/ambassadors/volunteer-outreach/README.md)
     * [Welcome Event](teams/ambassadors/volunteer-outreach/welcome-event.md)
   * [Approaching Potential Partners](teams/ambassadors/approaching-potential-partners.md)
