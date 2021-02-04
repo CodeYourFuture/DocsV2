@@ -4,6 +4,7 @@
 * [Syllabus](https://syllabus.codeyourfuture.io)
 * [Teacher Training](https://teachertraining.codeyourfuture.io)
 * [Personal Development](https://personaldevelopment.codeyourfuture.io)
+* [Blue Book](https://docs.google.com/document/d/e/2PACX-1vShE8a-PLDTtYrXk8V9Qa_sRwXrRH7AnW170u4-0O7P81hezIdyhS4Q2GKYue3TCUgLErCyO1nBmOmj/pub)
 
 ## 🏨 Organisation
 
