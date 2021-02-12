@@ -183,7 +183,8 @@ Using the _Interview Notes_, Interview _English Test Results_ and _Motivation Le
 * The applicant could communicate clearly and succinctly when speaking
 * The applicant could always write in complex, complete sentences
 * The applicant could successfully complete the English Test in the interview
-* **Motivation & Careers**
+
+2. **Motivation & Careers**
 
 Using the applicants _Interview Notes_ and _Motivation Letter_ decide which category the applicant would fit into
 
@@ -194,7 +195,9 @@ Using the applicants _Interview Notes_ and _Motivation Letter_ decide which cate
 **Poor**
 
 * The applicant only listed generic reasons for wanting a job \(e.g support family, have money\)
-* **Average**
+
+**Average**
+
 * The applicant showed some understanding of what a developer does
 * The applicant showed excitement at the idea of becoming a programmer
 
@@ -209,7 +212,8 @@ Using the applicants _Interview Notes_ and _Motivation Letter_ decide which cate
 * The applicant showed concrete evidence of wanting to be a developer in particular
 * The applicant showed concrete understanding of what a developer does
 * The applicant had started practicing coding already
-* **Technical Skill & Self Teaching**
+
+3. **Technical Skill & Self Teaching**
 
 Using the _Technical Interview Notes_ and _Technical Work from the Application Process_ decide which category the applicant would fit into
 
@@ -240,7 +244,8 @@ Using the _Technical Interview Notes_ and _Technical Work from the Application P
 * The applicants went beyond the requirements in their submitted website
 * The applicant has given specific examples of having self-taught programming
 * The applicant gave specific examples of overcoming and solving a programming issue
-* **Personality & Community**
+
+4. **Personality & Community**
 
 Using the _Interview Notes \_and \_Motivation Letter_ decide which category the applicant would fit into
 
