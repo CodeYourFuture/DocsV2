@@ -1,4 +1,4 @@
-# ANTI-BRIBERY AND ANTI-CORRUPTION POLICY
+# Anti-Bribery and Anti-Corruption Policy
 
 Code Your Future, a Charitable Incorporated Organisation, \("**CYF**"\) is committed to the prevention, deterrence and detection of bribery and corruption. This document sets out CYF's policy against bribery and other corrupt practices \(the "**Policy**"\) and the standards and procedures required to ensure compliance with the Policy and the anti-bribery and anti-corruption \("**ABC**"\) laws that CYF is subject to around the world.
 

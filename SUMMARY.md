@@ -23,7 +23,7 @@
     * [Leave of Absence Request](organisation/agreements-and-rules/student-agreement/leave-of-absence-request.md)
   * [Volunteer Agreement](https://codeyourfuture.eversign.com/embedded/2aafdd0f7b034b448896255f16624939)
   * [Complaints Procedure](https://codeyourfuture.io/about/comments-compliments-complaints/)
-  * [ANTI-BRIBERY AND ANTI-CORRUPTION POLICY](organisation/agreements-and-rules/anti-bribery-and-anti-corruption-policy.md)
+  * [Anti-Bribery and Anti-Corruption Policy](organisation/agreements-and-rules/anti-bribery-and-anti-corruption-policy.md)
 
 ## 📜 Our Courses
 
