@@ -12,6 +12,7 @@
 * [Working Principles](organisation/working-principles.md)
 * [Our Student Backgrounds](organisation/understand-students.md)
 * [Agreements & Rules](organisation/agreements-and-rules/README.md)
+  * [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/)
   * [House Rules](organisation/agreements-and-rules/house-rules.md)
   * [Student Agreement](organisation/agreements-and-rules/student-agreement/README.md)
     * [Personal Circumstances Forms](organisation/agreements-and-rules/student-agreement/personal-circumstances-forms.md)
@@ -22,7 +23,7 @@
     * [Leave of Absence Request](organisation/agreements-and-rules/student-agreement/leave-of-absence-request.md)
   * [Volunteer Agreement](https://codeyourfuture.eversign.com/embedded/2aafdd0f7b034b448896255f16624939)
   * [Complaints Procedure](https://codeyourfuture.io/about/comments-compliments-complaints/)
-  * [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/)
+  * [ANTI-BRIBERY AND ANTI-CORRUPTION POLICY](organisation/agreements-and-rules/anti-bribery-and-anti-corruption-policy.md)
 
 ## 📜 Our Courses
 
