@@ -183,6 +183,7 @@ Using the _Interview Notes_, Interview _English Test Results_ and _Motivation Le
 * The applicant could communicate clearly and succinctly when speaking
 * The applicant could always write in complex, complete sentences
 * The applicant could successfully complete the English Test in the interview
+
 * **Motivation & Careers**
 
 Using the applicants _Interview Notes_ and _Motivation Letter_ decide which category the applicant would fit into
