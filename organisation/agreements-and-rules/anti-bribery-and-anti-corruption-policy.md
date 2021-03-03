@@ -263,7 +263,7 @@ The following will usually be acceptable without prior approval:
 
 5.                 Gifts and hospitality that may be acceptable with prior approval from senior management
 
-For anything that does not fit into the above categories, the gift or hospitality may or may not be acceptable. You must get approval from the Director of Operations or if the Director of Operations is not available, the CEO for the following:
+For anything that does not fit into the above categories, the gift or hospitality may or may not be acceptable. You must get approval from the Director of Operations or if the Director of Operations is not available, the CEO.
 
 6.                 Benefits Registers
 
