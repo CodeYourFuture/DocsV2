@@ -10,8 +10,8 @@ CodeYourFuture currently operates in the follow cities:
 * Glasgow
 * Manchester
 * Birmingham
-* Rome 
 * Cape Town
+* Palestine/Gaza
 
 ## Editing this Website
 
