@@ -168,3 +168,9 @@ We use Github to submit our homework and to share code with each other. Please m
 
 [Create account here](https://github.com/join)
 
+### 7.2\) Github Team
+
+As part of being a student at CodeYourFuture you should be a part of our Github Team. 
+
+Please speak to your city coordinator to get invited to your Classes github team or post on Slack.
+
