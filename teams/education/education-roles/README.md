@@ -9,13 +9,13 @@ There are several roles that you can take when volunteering with the Education T
 
 ## Module Coordinator
 
-**Time Commitment**: 3 consecutive weeks plus planning time
+**Time Commitment**: 3 consecutive classes plus planning time \(5 hours at the weekend, some hours during the week\)
 
 The module leaders lead the preparation of a module's lessons and exercises and are responsible for delivering its content. The module leaders are normally from within the group of mentors who have been around from the previous cohort and have a good feeling about how to run a class. They don't necessarily teach the full Saturday class though, as they're normally supported by other mentors who wish to teach part of it.
 
 ## Lead Teacher \(& Assistant Lead Teacher\)
 
-**Time Commitment**: 3 consecutive weeks plus planning time
+**Time Commitment**: 3 consecutive classes plus planning time \(5 hours at the weekend, some hours during the week\)
 
 Lead Teachers are the people that deliver the content inside our weekly lessons. 
 
@@ -25,7 +25,7 @@ Read more about this role [here](lead-teacher.md)
 
 ## Teaching Assistant
 
-**Time Commitment**: One teaching day per week
+**Time Commitment**: One teaching day per week \(roughly 5-6 hours\)
 
 This is where most new mentors start as it is a good way to get to know the students and the other mentors. What the role involves: During the class, new concepts and exercises are introduced by the lead mentors. The students are then expected to practice these with hands-on exercises. The in-class assistants help students if they get stuck or they need some clarification. Mentors are not expected to come every weekend, although advanced absence notification is appreciated.
 
@@ -33,7 +33,7 @@ Read more about this role [here](teaching-assitant.md).
 
 ## Education Buddy
 
-**Time Commitment**: A few hours a week, one essential meeting, - long term commitment
+**Time Commitment**: A few hours a week, one essential meeting, - long term commitment \(Roughly 3 hours per week\)
 
 This role is an ongoing commitment where a volunteer is paired with between three and five students for a period of a few months. It is this volunteers responsibility to be the first point of contact for help with their students problems for anything on the technical education side of the course.
 
