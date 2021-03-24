@@ -7,7 +7,9 @@ title: Joining as a volunteer
 
 ## How can I join?
 
-You can join as a volunteer by filling out a [volunteer form on our website](https://codeyourfuture.io/volunteers/).
+You can join as a volunteer by filling out a [volunteer form on our website](https://codeyourfuture.io/volunteers/). 
+
+**You must be over 18 to volunteer at CodeYourFuture**
 
 ## Who can be a volunteer?
 
