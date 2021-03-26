@@ -82,7 +82,7 @@ Together they should complete this form:
 
 [Student Interview Form](https://docs.google.com/forms/d/1msNvvPWXt1MggioGjVsZaewTksxr0UOqgPXGfwxe4-E/edit)
 
-The class coordinator should duplicate this form for each Class. Please contact your class coordinator for access to this Google form.
+**The class coordinator should duplicate this form for each Class. Please contact your class coordinator for access to this Google form.**
 
 We ask that you arrive at least ten minutes before the interview that you will be attending to prepare.
 
