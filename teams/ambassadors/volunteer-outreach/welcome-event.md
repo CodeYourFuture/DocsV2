@@ -25,7 +25,7 @@ The presentation we use can be found [here](https://docs.google.com/presentation
 
 ### Eventbrite Link
 
-Here’s [the Eventbrite link](https://www.eventbrite.co.uk/o/code-your-future-26744287653) with further description.
+Here’s [the Eventbrite link](https://www.eventbrite.co.uk/e/volunteer-with-codeyourfuture-find-out-more-tickets-104630296032?aff=ebdsoporgprofile) with further description.
 
 ## Roles
 
