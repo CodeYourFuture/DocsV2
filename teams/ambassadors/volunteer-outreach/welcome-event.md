@@ -19,24 +19,13 @@ These sessions are potential volunteers first contact with CodeYourFuture and on
 
 The presentation we use can be found [here](https://docs.google.com/presentation/d/1aXYe1iguIp-xUaDM0qw7QNs5p12ocigxmbi2Za_gHhE/edit#slide=id.g720190f409_2_1)
 
-### Sign-up Sheet
+### Sign-up via our Planner
 
-[Click here](https://docs.google.com/spreadsheets/d/1rCLQlLzybu2A19Lxehhk7uV8GnUHicIhRfloSqawN4g/edit?usp=sharing) for the volunteer sign-up sheet for the event
+[Click here](https://classplanner.codeyourfuture.io/) for the volunteer sign-up planner for the event
 
 ### Eventbrite Link
 
 Here’s [the Eventbrite link](https://www.eventbrite.co.uk/o/code-your-future-26744287653) with further description.
-
-### Meeting links
-
-All Welcome Events are hosted on this Zoom call
-
-* Link
-  * [https://zoom.us/j/99009060802?pwd=WDlDZ0pGcE9kWXpGMkY5bkpsVS91UT09](https://zoom.us/j/99009060802?pwd=WDlDZ0pGcE9kWXpGMkY5bkpsVS91UT09)
-* Meeting ID
-  * 990 0906 0802
-* Password
-  * 974588
 
 ## Roles
 
