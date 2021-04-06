@@ -21,7 +21,7 @@ The presentation we use can be found [here](https://docs.google.com/presentation
 
 ### Sign-up via our Planner
 
-[Click here](https://classplanner.codeyourfuture.io/) for the volunteer sign-up planner for the event
+[Click here](https://classplanner.codeyourfuture.io/TmmK6BZkSkuXCprGcmOa8Q/Remote%20Volunteers%20Event/coursecalendar) for the volunteer sign-up planner for the event
 
 ### Eventbrite Link
 
