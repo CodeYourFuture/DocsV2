@@ -2,7 +2,7 @@
 
 Applicants who did not meet the application critieria can re-apply if they wish in the future. 
 
-In order to gain re-entry to the course students must:
+In order to be considered again, they must:
 
 1. Complete the entire application process from the start
    * They must show significant improvement from the first time they applied for the course
