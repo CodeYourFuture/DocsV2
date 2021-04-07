@@ -25,7 +25,8 @@ There are several reasons why a student may want to drop out of the course and r
 * Childcare time constraints
 * Falling behind in the course content
 * Bereavement
-* 
+* Pregnancy/Maternity \(see Maternity policy here\)
+
 When a student removes themselves from the course via a leave of absence, the education and personal development teams should set coursework for the student to complete in their own time.
 
 In the case of students' english skill not being sufficient the student must complete language training courses. They should be referred by their City Coordinator to a partner organisation.
