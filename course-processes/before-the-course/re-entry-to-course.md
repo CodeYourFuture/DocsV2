@@ -5,7 +5,7 @@ title: Re-Entry To Course
 
 # Re-entry to Course
 
-Over a course some students may feel the need to stop their studies due to commitments outside CodeYourFuture. This is entirely understandable and is often a good choice for some students. They will need to make a request to withdraw from the course via this [form](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement/course-withdrawal-request).
+Over a course some students may feel the need to stop their studies due to commitments outside CodeYourFuture. This is entirely understandable and is often a good choice for some students. They will need to make a request a leave of absence from the course via this [form](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement/leave-of-absence-request).
 
 ## Reasons for Retaking the Course
 
