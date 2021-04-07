@@ -11,7 +11,7 @@
 * [Mission & Values](organisation/history.md)
 * [Working Principles](organisation/working-principles.md)
 * [Our Student Backgrounds](organisation/understand-students.md)
-* [Agreements & Rules](organisation/agreements-and-rules/README.md)
+* [Agreements & Policies](organisation/agreements-and-rules/README.md)
   * [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/)
   * [House Rules](organisation/agreements-and-rules/house-rules.md)
   * [Student Agreement](organisation/agreements-and-rules/student-agreement/README.md)

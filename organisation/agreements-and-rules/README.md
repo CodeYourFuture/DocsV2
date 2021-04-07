@@ -1,2 +1,2 @@
-# Agreements & Rules
+# Agreements & Policies
 
