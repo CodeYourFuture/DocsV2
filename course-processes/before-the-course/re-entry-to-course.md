@@ -31,9 +31,9 @@ When a student removes themselves from the course via a leave of absence, the ed
 
 In the case of students' English skill not being sufficient the student must complete language training courses. They should be referred by their City Coordinator to a partner organisation.
 
-## Re-entry Requirements for Leave of Absence
+## Admission Requirements for Leave of Absence
 
-Re-entry will not be considered under any circumstance for students that were removed from their course because of Code of Conduct violations.
+Re-admission will not be considered under any circumstance for students that were removed from their course because of Code of Conduct violations.
 
 In order to gain re-entry to the course students must:
 
@@ -42,37 +42,22 @@ In order to gain re-entry to the course students must:
 
 #### Resuming Studies
 
-All taught students on a Leave of Absence are contacted prior to their scheduled return to study date by the Head of Personal Development. The student will have the opportunity to discuss their returning to study plan including when in the course they will be able to rejoin. 
+All taught students on a Leave of Absence are contacted prior to their scheduled return to study date by the Director of Personal Development. The student, Director of Personal Development and City Coordinator will have the opportunity to discuss their returning to study plan including when in the course they will be able to rejoin. 
 
-## Re-entry Requirements for Course Withdrawal
+## Admission Requirements for Course Withdrawal
 
-Re-entry will not be considered under any circumstance for students that were removed from their course because of Code of Conduct violations.
-
-In order to gain re-entry to the course students must:
-
-1. Complete the entire application process from the start
-   * They must show significant improvement from the first time they applied for the course
-2. Complete the coursework set by the Education team
-3. Show significant evidence that they will be able to complete the full course this year
-4. \(If required\) show significant increase in their reading, written and spoken english skill
-
-#### Resuming Studies
-
-All taught students on a Leave of Absence are contacted prior to their scheduled return to study date by the Head of Personal Development. The student will have the opportunity to discuss their returning to study plan  
-
-## Re-entry Requirements for Application rejection 
-
-Applicants who did not make the 
+Re-admission will not be considered under any circumstance for students that were removed from their course because of Code of Conduct violations.
 
 In order to gain re-entry to the course students must:
 
-1. Complete the entire application process from the start
+1. Complete the entire application process from the start including interview
    * They must show significant improvement from the first time they applied for the course
-2. Complete the coursework set by the Education team
-3. Show significant evidence that they will be able to complete the full course this year
-4. \(If required\) show significant increase in their reading, written and spoken english skill
+2. Show significant evidence that they will be able to complete the full course this year
+3. \(If required\) show significant increase in their reading, written and spoken english skill
 
 #### Resuming Studies
 
-All taught students on a Leave of Absence are contacted prior to their scheduled return to study date by the Head of Personal Development. The student will have the opportunity to discuss their returning to study plan  
+If accepted on the course, students will have to meet with the Director of Personal Development, and City Cordinator to discuss their returning to study plan. 
+
+## 
 
