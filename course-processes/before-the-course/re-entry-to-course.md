@@ -25,7 +25,7 @@ There are several reasons why a student may want to drop out of the course and r
 * Childcare time constraints
 * Falling behind in the course content
 * Bereavement
-* Pregnancy/Maternity \(see Maternity policy here\)
+* Pregnancy/Maternity \([see Pregancy policy here](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement/student-pregnancy-policy)\)
 
 When a student removes themselves from the course via a leave of absence, the education and personal development teams should set coursework for the student to complete in their own time.
 
