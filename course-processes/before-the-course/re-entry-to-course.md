@@ -13,7 +13,7 @@ Students who wish to return in the future will need to request a leave of absenc
 
 #### **Course Withdrawl**
 
-Students who do not want to study in the future or are unsure how long their ciurcumstances will last should request to withdraw from the course via this [form](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement/course-withdrawal-request).
+Students who do not want to study in the future or are unsure how long their circumstances will last should request to withdraw from the course via this [form](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement/course-withdrawal-request).
 
 ## Reasons for Retaking the Course
 
