@@ -43,7 +43,7 @@ Next step of the application process is the Product Landing Page Challenge. This
 
 In order to carry out this step, navigate to the Dashboard and view the Step 3 & Step 4 panels for each student.
 
-![image-20200225161303081](../../.gitbook/assets/image-20200225161303081.png)
+![image-20200225161303081](../../../.gitbook/assets/image-20200225161303081.png)
 
 All applicants should tick all the of the checkboxes before they can complete the step.
 
@@ -51,7 +51,7 @@ All applicants should tick all the of the checkboxes before they can complete th
 
 Iteration is a crucial part of the CYF culture - we want to ensure that students continually learn and strive to improve whatever it is they are doing and developing. That's why it is important to start building this habit from the very beginning. The ways in which applicants respond to feedback can also serve as an indicator of their aptitude for the course.
 
-![image-20200225161338547](../../.gitbook/assets/image-20200225161338547.png)
+![image-20200225161338547](../../../.gitbook/assets/image-20200225161338547.png)
 
 ## 9: Interview Scheduling and Invites
 
@@ -86,13 +86,13 @@ Throughout the day and while students are waiting for their interview, engage st
 
 Split interviewers into pairs - you will need at least 1 technical mentor in each pair to ensure that the technical aspects of the Product Landing Page can be assessed. All interviewers in an interview group should fill in their own interviewer form - this way we can get 2 or more feedback points for each interview.
 
-Please review the [Student Interview](student-interviews/) section for more details.
+Please review the [Student Interview](../student-interviews/) section for more details.
 
 ## 14: Selection Day
 
 In this step we try to work out who should be given a place on the course.
 
-Please read more details on the [Selection Day](selection-day.md) page
+Please read more details on the [Selection Day](../selection-day.md) page
 
 ## 15: Selection
 

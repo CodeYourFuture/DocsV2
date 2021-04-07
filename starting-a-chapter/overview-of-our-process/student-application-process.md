@@ -6,7 +6,7 @@ Where changes to the application process are required, whether due to general im
 
 For more information see the
 
-{% page-ref page="../../course-processes/before-the-course/application-process.md" %}
+{% page-ref page="../../course-processes/before-the-course/application-process/" %}
 
   
 
