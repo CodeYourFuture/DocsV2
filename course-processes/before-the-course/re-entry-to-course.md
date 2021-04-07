@@ -60,7 +60,7 @@ All taught students on a Leave of Absence are contacted prior to their scheduled
 
 ## Re-entry Requirements for Application rejection 
 
-Re-entry will not be considered under any circumstance for students that were removed from their course because of Code of Conduct violations.
+Applicants who did not make the 
 
 In order to gain re-entry to the course students must:
 
