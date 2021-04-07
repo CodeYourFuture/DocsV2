@@ -3,9 +3,9 @@ id: re-entry
 title: Re-Entry To Course
 ---
 
-# Re-entry to Course
+# Re-admission to Course
 
-Over a course some students may feel the need to stop their studies due to commitments outside CodeYourFuture. This is entirely understandable and is often a good choice for some students. 
+Over a course some students may feel the need to stop their studies due to commitments outside CodeYourFuture. This is entirely understandable and is often a good descision for some students. 
 
 #### **Leave of Absence** 
 

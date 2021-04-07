@@ -48,7 +48,7 @@
     * [Interview - Rubric](course-processes/before-the-course/student-interviews/interview-rubric.md)
     * [Interview - Technical](course-processes/before-the-course/student-interviews/interview-technical.md)
   * [Selection Day](course-processes/before-the-course/selection-day.md)
-  * [Re-entry to Course](course-processes/before-the-course/re-entry-to-course.md)
+  * [Re-admission to Course](course-processes/before-the-course/re-entry-to-course.md)
 * [Running the Course](course-processes/running-the-course/README.md)
   * [Running A Class](course-processes/running-the-course/running-a-class.md)
   * [Online Teaching](course-processes/running-the-course/online-teaching/README.md)
