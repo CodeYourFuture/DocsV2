@@ -109,6 +109,7 @@ We also suggest that you enable format on save so that your code stays formatted
 1. In Visual Studio open the settings file \(see [here](https://code.visualstudio.com/docs/getstarted/settings#_creating-user-and-workspace-settings)\)
 2. Search for `editor format`
 3. Set `editor.formatOnSave` and `editor.formatOnPaste` to true
+4. Set the "Default Formatter" to be Prettier
 
 ![](../../../.gitbook/assets/image.png)
 
