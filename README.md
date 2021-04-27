@@ -15,5 +15,5 @@ CodeYourFuture currently operates in the follow cities:
 
 ## Editing this Website
 
-This website is hosted on [Gitbook](https://www.gitbook.com/). To get edit access, please speak to a CodeYourFuture Coordinator a.
+This website is hosted on [Gitbook](https://www.gitbook.com/). To get edit access, please speak to a CodeYourFuture Coordinator.
 

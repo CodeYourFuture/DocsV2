@@ -4,9 +4,17 @@ description: Steps needed before starting a new Full Stack class.
 
 # Starting a Class
 
-## 1 \) Slack
+## 1\) Send Acceptance and Rejection Email
 
-### 1.1\) Invite Students to Slack
+As soon as possible after selection, send the students either their Acceptance or Rejection emails to the Full Stack course.
+
+You can find the template Acceptance emails here: [https://drive.google.com/drive/u/1/folders/1tFm22lHTXKTdbTGUJj\_F0awRgDP19YAL](https://drive.google.com/drive/u/1/folders/1tFm22lHTXKTdbTGUJj_F0awRgDP19YAL)
+
+You can find the template Rejection emails here: [https://docs.google.com/document/d/1jyOVbwjm23YfpIYjq1KUzRNL7cKzSrYEDi2I9Mezt7g/edit](https://docs.google.com/document/d/1jyOVbwjm23YfpIYjq1KUzRNL7cKzSrYEDi2I9Mezt7g/edit)
+
+## 2\) Slack
+
+### 2.1\) Invite Students to Slack
 
 Up until this point students will only have been using the "Intro to Coding" Slack workspace.
 
@@ -14,7 +22,7 @@ You should invite them to the main CodeYourFuture workspace now.
 
 The easiest way to do this is to create an invite link and to send them it in an email.
 
-### 1.2\) Create Slack User Groups for Class
+### 2.2\) Create Slack User Groups for Class
 
 When all of the students have signed up to Slack it is useful to create a Slack user group so you can tag them all at the same time. \(e.g. \#north-west-class-4\)
 
@@ -26,7 +34,7 @@ Then click "New User Group".
 
 Give the group a name and then invite all the students.
 
-## 2\) Setup Github Team for Class
+## 3\) Setup Github Team for Class
 
 We use Github Teams to release coursework to students and to give them access to the work they need.
 
@@ -38,7 +46,7 @@ Next, go to this page and click "Add a team"
 
 Create a new team and then invite all of the student to it. To do this, you will need all of their Github Usernames. 
 
-## 3\) Setup Google Group Email for Class
+## 4\) Setup Google Group Email for Class
 
 It can be really useful to have an email address for all of the students in a class so that you can bulk email them \(e.g. north-west-class-4@codeyourfuture.io\)
 
@@ -52,11 +60,11 @@ And click "Create Group".
 
 Name the group and invite all of the students to it using their email addresses.
 
-## 4\) Confirm Student Agreement
+## 5\) Confirm Student Agreement
 
 All of the students should by this point have read and signed the student agreement - you should remind all students that it essential they do so before starting the course.
 
-## 5\) Create a new Student Tracker
+## 6\) Create a new Student Tracker
 
 You should use a Student Tracker spreadsheet to track the students progress through the course. 
 
@@ -66,7 +74,7 @@ You can find a template for the Student Tracker here:
 
 [https://docs.google.com/spreadsheets/d/1HWrINTx0TryOWWRaAftuZAy5c7wf6Ibovw2syMsKI5s/edit\#gid=1682827930](https://docs.google.com/spreadsheets/d/1HWrINTx0TryOWWRaAftuZAy5c7wf6Ibovw2syMsKI5s/edit#gid=1682827930)
 
-## 6\) Setup Google Classroom
+## 7\) Setup Google Classroom
 
 Next, setup a new Google Classroom for the class by navigating [to this website](https://classroom.google.com), clicking the + symbol and clicking "Create Class".
 
