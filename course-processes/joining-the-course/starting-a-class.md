@@ -4,9 +4,11 @@ description: Steps needed before starting a new Full Stack class.
 
 # Starting a Class
 
+**Note:** This guide is used by **Volunteers and City Coordinators** to setup a new class. If you are a trainee, you do not need to use this guide.
+
 ## 1\) Send Acceptance and Rejection Email
 
-As soon as possible after selection, send the students either their Acceptance or Rejection emails to the Full Stack course.
+As soon as possible after selection, send the trainees either their Acceptance or Rejection emails to the Full Stack course.
 
 You can find the template Acceptance emails here: [https://drive.google.com/drive/u/1/folders/1tFm22lHTXKTdbTGUJj\_F0awRgDP19YAL](https://drive.google.com/drive/u/1/folders/1tFm22lHTXKTdbTGUJj_F0awRgDP19YAL)
 
@@ -14,9 +16,9 @@ You can find the template Rejection emails here: [https://docs.google.com/docume
 
 ## 2\) Slack
 
-### 2.1\) Invite Students to Slack
+### 2.1\) Invite Trainees to Slack
 
-Up until this point students will only have been using the "Intro to Coding" Slack workspace.
+Up until this point trainees will only have been using the "Intro to Coding" Slack workspace.
 
 You should invite them to the main CodeYourFuture workspace now.
 
@@ -24,7 +26,7 @@ The easiest way to do this is to create an invite link and to send them it in an
 
 ### 2.2\) Create Slack User Groups for Class
 
-When all of the students have signed up to Slack it is useful to create a Slack user group so you can tag them all at the same time. \(e.g. \#north-west-class-4\)
+When all of the trainees have signed up to Slack it is useful to create a Slack user group so you can tag them all at the same time. \(e.g. \#north-west-class-4\)
 
 To do this, navigate to "People & User Groups" in Slack
 
@@ -32,11 +34,11 @@ To do this, navigate to "People & User Groups" in Slack
 
 Then click "New User Group".
 
-Give the group a name and then invite all the students.
+Give the group a name and then invite all the trainees.
 
 ## 3\) Setup Github Team for Class
 
-We use Github Teams to release coursework to students and to give them access to the work they need.
+We use Github Teams to release coursework to trainees and to give them access to the work they need.
 
 To create a Github team, first make sure you have an Administrator privileges for the CodeYourFuture organisation on Github. 
 
@@ -48,7 +50,7 @@ Create a new team and then invite all of the student to it. To do this, you will
 
 ## 4\) Setup Google Group Email for Class
 
-It can be really useful to have an email address for all of the students in a class so that you can bulk email them \(e.g. north-west-class-4@codeyourfuture.io\)
+It can be really useful to have an email address for all of the trainees in a class so that you can bulk email them \(e.g. north-west-class-4@codeyourfuture.io\)
 
 To do so, make sure you have admin rights to the CodeYourFuture Google Admin page.
 
@@ -58,11 +60,11 @@ Next, navigate to this link
 
 And click "Create Group".
 
-Name the group and invite all of the students to it using their email addresses.
+Name the group and invite all of the trainees to it using their email addresses.
 
 ## 5\) Confirm Student Agreement
 
-All of the students should by this point have read and signed the student agreement - you should remind all students that it essential they do so before starting the course.
+All of the trainee should by this point have read and signed the trainee agreement - you should remind all students that it essential they do so before starting the course.
 
 ## 6\) Create a new Student Tracker
 
@@ -80,5 +82,5 @@ Next, setup a new Google Classroom for the class by navigating [to this website]
 
 **Note:** Do **not** copy the classroom from previous classes as the coursework will have changed and you will not get any of the updates to the Syllabus in the time since the class was run. 
 
-When you have created the class, invite all of the students using their email
+When you have created the class, invite all of the trainees using their email
 
