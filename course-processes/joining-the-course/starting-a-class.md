@@ -36,6 +36,14 @@ Then click "New User Group".
 
 Give the group a name and then invite all the trainees.
 
+### 2.3\) Setup Class Channel
+
+On the main CodeYourFuture Slack, setup a new channel for the class \(e.g. \#north-west-class-4\) and add all trainees to it. 
+
+You should also invite key volunteers to the channel.
+
+Be sure to write a nice welcome message for people when they join \(and reminding them to complete the [Getting Setup Guide](getting-setup/)\)
+
 ## 3\) Setup Github Team for Class
 
 We use Github Teams to release coursework to trainees and to give them access to the work they need.
@@ -82,7 +90,9 @@ Next, setup a new Google Classroom for the class by navigating [to this website]
 
 **Note:** Do **not** copy the classroom from previous classes as the coursework will have changed and you will not get any of the updates to the Syllabus in the time since the class was run. 
 
-When you have created the class, invite all of the trainees using their email
+When you have created the class, invite all of the trainees using their email.
+
+You should also invite key volunteers to the 
 
 ## 8\) Setup Class Planner
 
@@ -96,5 +106,13 @@ Setup the course name and the dates that it will be running.
 
 When the course is setup, add each of the classes as they will be happening in the course. 
 
-When the course and classes are setup, share the classplanner with the trainees.
+When the course and classes are setup, share the class planner with the trainees.
+
+## 9\) Confirm Trainee's Hardware
+
+During this time, trainees will need to make sure they have a working laptop. 
+
+To request a laptop, should complete the steps in [Requesting a Laptop or Support](getting-setup/requesting-a-laptop-or-support.md).
+
+It can be helpful to have a quick ten minute call with each student to confirm that their webcam, microphone and internet connection are working properly in the week leading up the first class.
 
