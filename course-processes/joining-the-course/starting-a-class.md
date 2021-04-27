@@ -84,3 +84,17 @@ Next, setup a new Google Classroom for the class by navigating [to this website]
 
 When you have created the class, invite all of the trainees using their email
 
+## 8\) Setup Class Planner
+
+First, login with the Admin account on the Class Planner here \(you can get the password from a CYF staff member\):
+
+{% embed url="https://classplanner.codeyourfuture.io/" %}
+
+Navigate to the city that you are in, then click "New Course".
+
+Setup the course name and the dates that it will be running. 
+
+When the course is setup, add each of the classes as they will be happening in the course. 
+
+When the course and classes are setup, share the classplanner with the trainees.
+
