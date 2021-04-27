@@ -54,6 +54,7 @@
     * [Installing Ubuntu](course-processes/joining-the-course/laptops/installing-ubuntu.md)
   * [Re-admission to Course](course-processes/joining-the-course/re-entry-to-course.md)
 * [Running the Course](course-processes/running-the-course/README.md)
+  * [Running a Course](course-processes/running-the-course/running-a-course.md)
   * [Running A Class](course-processes/running-the-course/running-a-class.md)
   * [Online Teaching](course-processes/running-the-course/online-teaching/README.md)
     * [Teaching Notes](course-processes/running-the-course/online-teaching/online-teaching.md)
