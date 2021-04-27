@@ -4,11 +4,17 @@ description: Common tasks that need to happen to make a CodeYourFuture course wo
 
 # Running a Course
 
-## 1\) Finding Teachers
+## 1\) Module Preparation
+
+### 1.1\) Finding Teachers
 
 
 
-## 2\) Buddies & Career Mentors
+### 1.2\) Preparing Teachers
+
+
+
+## 2\) Volunteers
 
 ### 2.1\) Onboarding
 
@@ -22,9 +28,5 @@ description: Common tasks that need to happen to make a CodeYourFuture course wo
 
 
 
-## 4\) Study Groups
-
-
-
-## 5\) Class Communication
+## 4\) Class Communication
 
