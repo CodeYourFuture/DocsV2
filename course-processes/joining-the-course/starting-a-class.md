@@ -2,7 +2,7 @@
 description: Steps needed before starting a new Full Stack class.
 ---
 
-# Starting a Class
+# Starting a Course
 
 **Note:** This guide is used by **Volunteers and City Coordinators** to setup a new class. If you are a trainee, you do not need to use this guide.
 

@@ -3,7 +3,7 @@ id: running-a-class
 title: Running A Class
 ---
 
-# Running A Class
+# Running a Class
 
 ## Pre-Class Checklist
 
