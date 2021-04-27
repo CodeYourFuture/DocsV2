@@ -41,7 +41,7 @@
     * [Requesting a Laptop or Support](course-processes/before-the-course/getting-setup/requesting-a-laptop-or-support.md)
   * [Laptops](course-processes/before-the-course/laptops/README.md)
     * [Minimum Laptop Specs](course-processes/before-the-course/laptops/minimum-laptop-specs.md)
-    * [Installing Ubuntu on Laptops](course-processes/before-the-course/laptops/installing-ubuntu-on-laptops.md)
+    * [Installing Ubuntu](course-processes/before-the-course/laptops/installing-ubuntu.md)
   * [Course Eligibility](course-processes/before-the-course/course-eligibility.md)
   * [Application Process](course-processes/before-the-course/application-process/README.md)
     * [Re-application Requirements for Application rejection](course-processes/before-the-course/application-process/untitled.md)

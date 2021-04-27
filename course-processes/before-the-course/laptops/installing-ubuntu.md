@@ -2,7 +2,7 @@
 description: 'Updates: 27/05/2021'
 ---
 
-# Installing Ubuntu on Laptops
+# Installing Ubuntu
 
 We use Ubuntu on laptops given to students for the following reasons
 
