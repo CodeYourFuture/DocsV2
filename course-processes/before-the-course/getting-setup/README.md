@@ -11,7 +11,7 @@ In this guide we'll explain everything you need to get ready for our course.
 
 Please make sure that the laptop you are using meets the minimum specification for our course. 
 
-Check [here](../minimum-laptop-specs.md).
+Check [here](../laptops/minimum-laptop-specs.md).
 
 If your laptop does not meet the minimum specification - please contact us for a replacement. 
 
