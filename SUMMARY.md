@@ -46,6 +46,7 @@
     * [Interview - Technical](course-processes/before-the-course/student-interviews/interview-technical.md)
   * [Selection Day](course-processes/before-the-course/selection-day.md)
 * [Joining the Course](course-processes/joining-the-course/README.md)
+  * [Starting a Class](course-processes/joining-the-course/starting-a-class.md)
   * [Getting Setup](course-processes/joining-the-course/getting-setup/README.md)
     * [Requesting a Laptop or Support](course-processes/joining-the-course/getting-setup/requesting-a-laptop-or-support.md)
   * [Laptops](course-processes/joining-the-course/laptops/README.md)
@@ -161,5 +162,4 @@
   * [Fundraising & budgeting](starting-a-chapter/general-information/fundraising-and-budgeting.md)
   * [Finding a Space](starting-a-chapter/general-information/finding-a-space.md)
   * [Partners](starting-a-chapter/general-information/partners.md)
-  * [Starting a Class](starting-a-chapter/general-information/starting-a-class.md)
 
