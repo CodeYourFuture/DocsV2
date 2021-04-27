@@ -1,2 +1,2 @@
-# Joining the Course
+# Before the Course
 
