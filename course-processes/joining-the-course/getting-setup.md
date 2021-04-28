@@ -11,7 +11,7 @@ In this guide we'll explain everything you need to get ready for our course.
 
 Please make sure that the laptop you are using meets the minimum specification for our course. 
 
-Check [here](../laptops/minimum-laptop-specs.md).
+Check [here](laptops/minimum-laptop-specs.md).
 
 If your laptop does not meet the minimum specification - please contact us for a replacement. 
 
@@ -27,7 +27,7 @@ We can offer you a range of support whilst you are studying with us this include
 
 **Please note:** Some of these levels of support may not be possible in the city that you attend. Please check with your city coordinator.
 
-Please read [this page](requesting-a-laptop-or-support.md) for more details on how to access these services.
+Please read [this page](laptops/requesting-a-laptop-or-support.md) for more details on how to access these services.
 
 Make a backup of all of your essential files \(i.e. files you would be unhappy to lose\) from your laptop \(the one you use for CYF work\), to a DIFFERENT device.
 
@@ -111,7 +111,7 @@ We also suggest that you enable format on save so that your code stays formatted
 3. Set `editor.formatOnSave` and `editor.formatOnPaste` to true
 4. Set the "Default Formatter" to be Prettier
 
-![](../../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 ## 6\) Software
 

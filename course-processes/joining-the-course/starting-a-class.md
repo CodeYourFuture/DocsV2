@@ -42,7 +42,7 @@ On the main CodeYourFuture Slack, setup a new channel for the class \(e.g. \#nor
 
 You should also invite key volunteers to the channel.
 
-Be sure to write a nice welcome message for people when they join \(and reminding them to complete the [Getting Setup Guide](getting-setup/)\)
+Be sure to write a nice welcome message for people when they join \(and reminding them to complete the [Getting Setup Guide](getting-setup.md)\)
 
 ## 3\) Setup Github Team for Class
 
@@ -112,7 +112,18 @@ When the course and classes are setup, share the class planner with the trainees
 
 During this time, trainees will need to make sure they have a working laptop. 
 
-To request a laptop, should complete the steps in [Requesting a Laptop or Support](getting-setup/requesting-a-laptop-or-support.md).
+To request a laptop, should complete the steps in [Requesting a Laptop or Support](laptops/requesting-a-laptop-or-support.md).
 
 It can be helpful to have a quick ten minute call with each student to confirm that their webcam, microphone and internet connection are working properly in the week leading up the first class.
+
+## 10\) Send Confirmation Email 
+
+Finally, send an email to all new Trainees with an overview of 
+
+* Any final Setup Details they need to do
+* Confirm the date and time of the first class
+* If online - send a link to the Zoom where the class will happen
+* If in person - send the address where class will be taking place
+
+It can be useful to attach a Google Form and ask the students to confirm their attendence of the first class by completing it - this was you can tell who hasn't received the email.
 
