@@ -1,4 +1,4 @@
-# Trainee Pregnancy Policy
+# Student Pregnancy Policy
 
 **Code Your Future policy and practice regarding trainee pregnancy, maternity and paternity**
 
@@ -75,3 +75,4 @@ If a trainee miscarries, they are likely to need time off study for tests and to
 **Breastfeeding and Rest Facilities**
 
 The Equality Act 2010 explicitly protects students from less favourable treatment because of breastfeeding. Students should not be declined access to the course facilities because they are breastfeeding. In exceptional circumstances it may be necessary for a trainee to request permission for a baby or young child to accompany them to tutorials. This may not always be possible, as there may be health and safety issues to consider, as well as the potential disturbance of other students. Any such request should be an exception, and should not be as a substitute to ongoing child care provision. Rest facilities for pregnant and breast-feeding people should be provided by the organisation as necessary. Failure to provide rest facilities could result in students who are pregnant or breastfeeding receiving less favourable treatment. Refrigeration facilities should also be offered where possible.
+

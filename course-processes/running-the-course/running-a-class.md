@@ -7,28 +7,28 @@ title: Running A Class
 
 ## Pre-Class Checklist
 
-- Lead Teachers understand the content that they will be teaching
-  - This includes the teaching for the day and the homework
-- All volunteers know when and where they should be attending
-- Volunteers attending for this first time have somebody to greet them and show them how CYF works
-- Students know when and where they will be attending the class
-- Somebody has been chosen to run energisers during the day
-- If lunch is being provided - somebody is in charge of coordinating it
+* Lead Teachers understand the content that they will be teaching
+  * This includes the teaching for the day and the homework
+* All volunteers know when and where they should be attending
+* Volunteers attending for this first time have somebody to greet them and show them how CYF works
+* Students know when and where they will be attending the class
+* Somebody has been chosen to run energisers during the day
+* If lunch is being provided - somebody is in charge of coordinating it
 
 ## Schedule
 
 Here is an example schedule of a day events at a normal class
 
-- 9:45 - Students and Volunteers Arrive
-- 10:00 - [Arrange Classroom](running-a-class.md#arrange-classroom) & [Morning Energiser](running-a-class.md#energisers)
-- 10:15 - [Students Retrospective](running-a-class.md#student-retrospective) // [Volunteers Kick-off](running-a-class.md#volunteer-kick-off)
-- 10:45 - [Morning Teaching](running-a-class.md#morning-teaching)
-- 13:00 - [Lunch](running-a-class.md#lunch)
-- 13:45 - [Afternoon Energiser](running-a-class.md#energisers)
-- 14:00 - [Afternoon Teaching](running-a-class.md#afternoon-teaching)
-- 15:45 - [Homework Briefing](running-a-class.md#homework-briefing)
-- 16:00 - [Tidy Up](running-a-class.md#tidy-up) // [Volunteers Retrospective](running-a-class.md#volunteers-retrospective)
-- 16:30 - Hometime
+* 9:45 - Students and Volunteers Arrive
+* 10:00 - [Arrange Classroom](running-a-class.md#arrange-classroom) & [Morning Energiser](running-a-class.md#energisers)
+* 10:15 - [Students Retrospective](running-a-class.md#student-retrospective) // [Volunteers Kick-off](running-a-class.md#volunteer-kick-off)
+* 10:45 - [Morning Teaching](running-a-class.md#morning-teaching)
+* 13:00 - [Lunch](running-a-class.md#lunch)
+* 13:45 - [Afternoon Energiser](running-a-class.md#energisers)
+* 14:00 - [Afternoon Teaching](running-a-class.md#afternoon-teaching)
+* 15:45 - [Homework Briefing](running-a-class.md#homework-briefing)
+* 16:00 - [Tidy Up](running-a-class.md#tidy-up) // [Volunteers Retrospective](running-a-class.md#volunteers-retrospective)
+* 16:30 - Hometime
 
 ## Activity Breakdown
 
@@ -80,10 +80,10 @@ As well as simulating a real life work environment it is helpful for the student
 
 At the beginning of each day it is important that all of our volunteers understand the objectives of the day. This meeting usually includes:
 
-- Introducing new volunteers to the group
-- Discussing what will be taught in today's lesson
-- Students we should be giving particular help to
-- Thanking the volunteers for attending
+* Introducing new volunteers to the group
+* Discussing what will be taught in today's lesson
+* Students we should be giving particular help to
+* Thanking the volunteers for attending
 
 **Who runs this?**
 
@@ -145,10 +145,10 @@ So that the students understand what homework they have got to do by the next we
 
 We run a short retrospective where we discuss:
 
-- Which students did well
-- Which students struggled in this lesson
-- What went well with our teaching and delivery
-- What could be improved for our next lesson
+* Which students did well
+* Which students struggled in this lesson
+* What went well with our teaching and delivery
+* What could be improved for our next lesson
 
 **Who runs this?**
 
@@ -166,10 +166,10 @@ When we're in a physical classroom \(i.e. not an online lesson\) we need to make
 
 We need to make sure that
 
-- All tables are back to where they should be
-- All washing up is clean and put away
-- Teaching space is tidy
-- Projectors and lights are turned off
+* All tables are back to where they should be
+* All washing up is clean and put away
+* Teaching space is tidy
+* Projectors and lights are turned off
 
 **Who runs this?**
 
@@ -204,7 +204,8 @@ While one trainer is leading the class, have another trainer observe and note pe
 
 ### Guidelines for Teaching Assistants
 
-- Don’t hijack the keyboard
-- Don’t give direct answers
-- Guide people to find a solution on their own
-- Answer questions with other questions
+* Don’t hijack the keyboard
+* Don’t give direct answers
+* Guide people to find a solution on their own
+* Answer questions with other questions
+

@@ -1,4 +1,4 @@
-# Trainee Expenses Policy
+# Student Expenses Policy
 
 CodeYourFuture is committed to helping our students undertake their studies by providing financial support where necessary.
 
@@ -43,3 +43,4 @@ The students will need to present to CodeYourFuture the invoice received by the 
 The financial support provided will be assessed on a case by case basis.
 
 In order to be eligible for childcare support you will need to discuss your requirements and circumstances with your Personal Development mentor and City Coordinator.
+

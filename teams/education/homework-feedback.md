@@ -73,9 +73,9 @@ Simply navigate to the Branch tab at the top of the screen then select the Pull 
 
 This not only get's the students used to using it, but also make it easier for other reviewers to know if work has been reviewed. [The process is documented here at point 7](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request).
 
-- If the work is good and doesn't require changes, select "Approve"
-- If the work needs work, select "Request changes"
-- If you've done a review, but don't have time to complete it, but the comments are valuable, select comment.
+* If the work is good and doesn't require changes, select "Approve"
+* If the work needs work, select "Request changes"
+* If you've done a review, but don't have time to complete it, but the comments are valuable, select comment.
 
 You will then be able to filter the pull request list by what needs approving. ![Screenshot 2020-02-28 at 13 58 24](https://user-images.githubusercontent.com/31692/75577343-bbf1da00-5a59-11ea-9608-b4b880585d25.png)
 
@@ -95,17 +95,17 @@ If you suspect a trainee has copied code please report this back to the Educatio
 
 For our records and to track trainee progress it is important that we track how well the trainee is progressing through our course. This can happen in a variety of places.
 
-- Class Tracking Spreadsheet
-- Google Classroom
-- Trello Cards
+* Class Tracking Spreadsheet
+* Google Classroom
+* Trello Cards
 
 Please consult your Class Coordinators for the best place to record this information as it will vary from class to class.
 
 Grades should be given on the follow criteria
 
-- The completeness of the homework
-- How much you believe the trainee understands the content
-- How well executed the homework is
+* The completeness of the homework
+* How much you believe the trainee understands the content
+* How well executed the homework is
 
 This is, above all else, an indicator of the students abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this.
 
@@ -113,16 +113,16 @@ Although grading makes the tracking easier, we aim to give students feedback rat
 
 A rough guide \(to be taken with a pinch of salt\):
 
-- 0
-  - Work is not handed in
-- 1, 2, 3
-  - Work has been handed in but does not meet the criteria/ demonstrates a lack of understanding
-- 4, 5, 6
-  - Work is okay, demonstrate an understanding of this weeks’ material and the task.
-- 7, 8, 9
-  - Work is good, the trainee demonstrates a strong understanding of this weeks’ material and the task and uses it with thought.
-- 10
-  - Work is perfect, the trainee demonstrates a deep understanding of this week’s material and the task, a fluent use of code with very minimals errors or improvements
+* 0
+  * Work is not handed in
+* 1, 2, 3
+  * Work has been handed in but does not meet the criteria/ demonstrates a lack of understanding
+* 4, 5, 6
+  * Work is okay, demonstrate an understanding of this weeks’ material and the task.
+* 7, 8, 9
+  * Work is good, the trainee demonstrates a strong understanding of this weeks’ material and the task and uses it with thought.
+* 10
+  * Work is perfect, the trainee demonstrates a deep understanding of this week’s material and the task, a fluent use of code with very minimals errors or improvements
 
 ## 3. Mentor Responsibility
 
@@ -130,18 +130,19 @@ Education volunteers are responsible for a group of students to track their prog
 
 **They are responsible for**
 
-- Ensuring that students complete their homework each week
-- Giving them feedback
-- Recording the trainee progress for their assigned students
+* Ensuring that students complete their homework each week
+* Giving them feedback
+* Recording the trainee progress for their assigned students
 
 _Please consult your Class Coordinators for the best place to record this information as it will vary from class to class._
 
 **If you are unable**
 
-- You are responsible for communicating with other education team volunteers to find someone to cover these responsibilities
-- If you have completed your marking and you feel able to do more
-- Please offer your time to other volunteers to help them
+* You are responsible for communicating with other education team volunteers to find someone to cover these responsibilities
+* If you have completed your marking and you feel able to do more
+* Please offer your time to other volunteers to help them
 
 **If students haven’t completed their homework**
 
-- Please liaise with the student’s PD team lead to follow up with that trainee
+* Please liaise with the student’s PD team lead to follow up with that trainee
+

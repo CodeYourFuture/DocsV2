@@ -23,14 +23,14 @@ You can join anytime as there is always something you can help out with all year
 
 This is a non-exhaustive list of things you can help out with:
 
-- Helping to answer students' questions during classes
-- Helping to teach a part or all of a class
-- Reviewing trainee homework on GitHub
-- Helping out students outside of classes, either in person or in Slack
-- Helping students during their graduation coding project
-- Posting on social media or creating content
-- Organising social events
-- Helping specific teams, which involves working towards the goals outlined in the [volunteer teams page](https://github.com/CodeYourFuture/DocsV2/tree/e9aebc0f2d97ba4e65a510fcf287c1d11f6ee70d/organisation/volunteers/teams.md) through regular communication and meetings with other mentors
+* Helping to answer students' questions during classes
+* Helping to teach a part or all of a class
+* Reviewing trainee homework on GitHub
+* Helping out students outside of classes, either in person or in Slack
+* Helping students during their graduation coding project
+* Posting on social media or creating content
+* Organising social events
+* Helping specific teams, which involves working towards the goals outlined in the [volunteer teams page](https://github.com/CodeYourFuture/DocsV2/tree/e9aebc0f2d97ba4e65a510fcf287c1d11f6ee70d/organisation/volunteers/teams.md) through regular communication and meetings with other mentors
 
 Volunteers are not expected to attend every class and to do all of the above, but you are more than welcome to if you would like!
 
@@ -47,3 +47,4 @@ Once you register with us, you will be invited to join an info session.
 During the session, you will learn about CodeYourFuture's mission, program and volunteering opportunities.
 
 A short training session follows - and then you start your volunteering journey as a CYF volunteer.
+

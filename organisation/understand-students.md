@@ -3,7 +3,7 @@ id: understand-students
 title: Understand our students' backgrounds
 ---
 
-# Our Trainee Backgrounds
+# Our Student Backgrounds
 
 While volunteering with CodeYourFuture, you will meet many kinds of students. Broadly, we offer our programme to refugees, asylum seekers and people from a number of disadvantaged backgrounds. This page will help you better understand the situations of some of our students as well as the proper etiquette to use.
 
@@ -35,26 +35,26 @@ Max \(not a real name\) went from asylum seeker to refugee. Max had a tech backg
 
 DO
 
-- Treat each trainee as a complete and complex human. They are more than their trauma.
-- Treat each trainee as you would any other trainee you might teach.
-- Behave in a manner that shows and proves you are approachable, trustworthy and safe.
-- Be patient. It's important to understand that people's situations may be very difficult. Some people do have to contend with internet issues, for example, or have more severe issues with health or finances linked to their current situation.
+* Treat each trainee as a complete and complex human. They are more than their trauma.
+* Treat each trainee as you would any other trainee you might teach.
+* Behave in a manner that shows and proves you are approachable, trustworthy and safe.
+* Be patient. It's important to understand that people's situations may be very difficult. Some people do have to contend with internet issues, for example, or have more severe issues with health or finances linked to their current situation.
 
 DON'T
 
-- Ask invasive questions about their past experiences or reasons for leaving their country of origin. It is none of your business and they do not owe you their story. Think. Would you ask someone you barely know about a traumatic event like sexual abuse or a bereavement before you had even had a conversation with them?
-- Betray the trust of students. When you say you will do something, do it. This can be as small as getting back to them about homework or solving a big issue for them. Building trust in the community is extremely important.
-- Assume you know everything about being an asylum seeker or refugee. Each case is different and no amount of research will replace a real, lived experience.
+* Ask invasive questions about their past experiences or reasons for leaving their country of origin. It is none of your business and they do not owe you their story. Think. Would you ask someone you barely know about a traumatic event like sexual abuse or a bereavement before you had even had a conversation with them?
+* Betray the trust of students. When you say you will do something, do it. This can be as small as getting back to them about homework or solving a big issue for them. Building trust in the community is extremely important.
+* Assume you know everything about being an asylum seeker or refugee. Each case is different and no amount of research will replace a real, lived experience.
 
 ### Resources to learn more or support refugees and asylum seekers
 
 There are lots of incredible foundations and groups out there making information available for asylum seekers and refugees, as well as supporting them in a myriad of ways. Some of the groups even work with CodeYourFuture to help us find the students who want to study with us. Here are some places you can start your research:
 
-- [Right To Remain](https://righttoremain.org.uk/)
-- [City of Sanctuary](https://cityofsanctuary.org/)
-- [Refugee Action](https://www.refugee-action.org.uk/)
-- [Refugee Council](https://www.refugeecouncil.org.uk/)
-- [UNHCR UK](https://www.unhcr.org/uk/asylum-in-the-uk.html)
+* [Right To Remain](https://righttoremain.org.uk/)
+* [City of Sanctuary](https://cityofsanctuary.org/)
+* [Refugee Action](https://www.refugee-action.org.uk/)
+* [Refugee Council](https://www.refugeecouncil.org.uk/)
+* [UNHCR UK](https://www.unhcr.org/uk/asylum-in-the-uk.html)
 
 There are many local groups with that we work with or and that you can get involved with to help your community. We will continue to add to this section to make these known.
 
@@ -62,11 +62,12 @@ There are many local groups with that we work with or and that you can get invol
 
 Currently, CYF currently considers applications from the following groups, most of which are self-explanatory:
 
-- Single parents with low income
-- Individuals experiencing mental health issues
-- Individuals with physical disabilities or learning difficulties
-- Ex-offenders struggling to reintegrate and find work
-- Individuals from minority backgrounds who are under-represented or face discrimination in pursuing careers
-- Individuals who have been unemployed for a long period of time
+* Single parents with low income
+* Individuals experiencing mental health issues
+* Individuals with physical disabilities or learning difficulties
+* Ex-offenders struggling to reintegrate and find work
+* Individuals from minority backgrounds who are under-represented or face discrimination in pursuing careers
+* Individuals who have been unemployed for a long period of time
 
 The only one of these that may require some explaining is minority backgrounds. This may differ from country to country, but largely it refers to those of a BAME \(Black, Asian, minority ethnicity\) background, women and non-binary individuals, all of whom are largely under-represented for various reasons in both tech and more widely in the job market. For details on how we make decisions on accepting individuals from any of the above groups in this section, see the [Course Eligibility](../course-processes/before-the-course/course-eligibility.md) page.
+

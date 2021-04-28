@@ -16,12 +16,12 @@ Organising group for each city's Personal Development team.
 
 ### Responsibilities
 
-- Develop the strategy for trainee learning and support \(overarching goals of removing barriers to trainee’s learning; supporting students development of soft skills\)
-- Meet weekly to plan, share trainee challenges and give support to each other \(face to face video calls\)
-- One member supports on coordinating new volunteers and funnels them to appropriate roles in PD
-- One member supports on coordinating the Mentoring Program
-- As a team, assess each applicant shortlisted for the course by the Education Team to see if they qualify based on their personal circumstances
-- Each member supports a group of 4-5 students for the duration of the course
+* Develop the strategy for trainee learning and support \(overarching goals of removing barriers to trainee’s learning; supporting students development of soft skills\)
+* Meet weekly to plan, share trainee challenges and give support to each other \(face to face video calls\)
+* One member supports on coordinating new volunteers and funnels them to appropriate roles in PD
+* One member supports on coordinating the Mentoring Program
+* As a team, assess each applicant shortlisted for the course by the Education Team to see if they qualify based on their personal circumstances
+* Each member supports a group of 4-5 students for the duration of the course
 
 **Team coordinates all the PD support for the course:**
 
@@ -63,9 +63,9 @@ Support applicants during the application process.
 
 **Time commitment:** 1 hour to become familiar with the stages of the application process and what the trainee is required to do; then 1 - 2 hours of calling a set number of applicants who have not completed steps, updating list with feedback on what was learned in the calls. Can be one off or ongoing.
 
-- Call course applicants during the application process
-- Provide support on the application process
-- Answer questions and find blockers which are stopping progress with applications
+* Call course applicants during the application process
+* Provide support on the application process
+* Answer questions and find blockers which are stopping progress with applications
 
 ### Applicant Drop-in Days
 
@@ -73,11 +73,11 @@ Support CYF team on applicant drop in days by assessing the personal circumstanc
 
 **Time commitment:** The duration of the drop in session 2-6 hours. Can be one-off or ongoing.
 
-- Find out if anyone needs a laptop to move to next step of the application process.
-- If anyone needs transport costs paid for drop in sessions or for the course if they are accepted.
-- If anyone has children and needs childcare for the drop in sessions or the classes if they are accepted.
-- If anyone needs internet provided in their home or via a Wifi dongle.
-- If anyone seems to have difficulty reading or speaking English.
+* Find out if anyone needs a laptop to move to next step of the application process.
+* If anyone needs transport costs paid for drop in sessions or for the course if they are accepted.
+* If anyone has children and needs childcare for the drop in sessions or the classes if they are accepted.
+* If anyone needs internet provided in their home or via a Wifi dongle.
+* If anyone seems to have difficulty reading or speaking English.
 
 ### Applicant Interview Days
 
@@ -85,15 +85,15 @@ Interview Applicants from a non technical point of view.
 
 **Time commitment:** 1 hour per interview plus time to become familiar with the Interview Questionnaire and Applicant criteria document
 
-- Assess if the trainee meets the minimum application criteria \(link\)
-- Assess their language ability from their 300 word Personal Statement.
-- Assess their ability to commit 25 hours a week to the course.
-- Check if they are studying anywhere else.
-- Check if they have a very long commute to the class space. Check if they have caring responsibilities.
-- Check if they are employed P/T or F/T or casual.
-- Confirm they have a bank account so we can pay for their expenses.
-- Consult with the technical interviewer and make an assessment of the trainee’s potential to complete the course.
-- Fill out the Interviewers Feedback Form.
+* Assess if the trainee meets the minimum application criteria \(link\)
+* Assess their language ability from their 300 word Personal Statement.
+* Assess their ability to commit 25 hours a week to the course.
+* Check if they are studying anywhere else.
+* Check if they have a very long commute to the class space. Check if they have caring responsibilities.
+* Check if they are employed P/T or F/T or casual.
+* Confirm they have a bank account so we can pay for their expenses.
+* Consult with the technical interviewer and make an assessment of the trainee’s potential to complete the course.
+* Fill out the Interviewers Feedback Form.
 
 ### PD Workshop Facilitator
 
@@ -109,12 +109,13 @@ Support one trainee with help on their career journey for the duration of the co
 
 **Time commitment:** 3 hours per month for duration of the course
 
-- Complete Lumina Spark questionnaire \(15 - 20 mins\)
-- Attend mentoring induction workshop \(One Saturday or Sunday, 7-8 hours\)
-- Meet with mentee face to face \(1 hour at start of mentoring program\)
-- Meet with mentee via video call, Slack \(1-1.5 hours per month, can meet more if agreed with mentee\)
-- Fill in mentoring feedback form \(15 mins once per month\)
-- Join mentoring Slack group for support \(ask questions and contribute suggestions when able\)
-- Join mentoring feedback call \(once every 3 months for 1 hour\)
-- Review trainee CVs
-- Facilitate mock interviews for students
+* Complete Lumina Spark questionnaire \(15 - 20 mins\)
+* Attend mentoring induction workshop \(One Saturday or Sunday, 7-8 hours\)
+* Meet with mentee face to face \(1 hour at start of mentoring program\)
+* Meet with mentee via video call, Slack \(1-1.5 hours per month, can meet more if agreed with mentee\)
+* Fill in mentoring feedback form \(15 mins once per month\)
+* Join mentoring Slack group for support \(ask questions and contribute suggestions when able\)
+* Join mentoring feedback call \(once every 3 months for 1 hour\)
+* Review trainee CVs
+* Facilitate mock interviews for students
+

@@ -7,11 +7,11 @@ title: Re-Entry To Course
 
 Over a course some students may feel the need to stop their studies due to commitments outside CodeYourFuture. This is entirely understandable and is often a good descision for some students.
 
-#### **Leave of Absence**
+### **Leave of Absence**
 
 Students who wish to return in the future will need to request a leave of absence from the course via this [form](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement/leave-of-absence-request).
 
-#### **Course Withdrawl**
+### **Course Withdrawl**
 
 Students who do not want to study in the future or are unsure how long their circumstances will last should request to withdraw from the course via this [form](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement/course-withdrawal-request).
 
@@ -19,13 +19,13 @@ Students who do not want to study in the future or are unsure how long their cir
 
 There are several reasons why a trainee may want to drop out of the course and request to re-join on a subsequent course.
 
-- Illness
-- Injury
-- Time constraints involving work
-- Childcare time constraints
-- Falling behind in the course content
-- Bereavement
-- Pregnancy/Maternity \([see Pregancy policy here](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement/student-pregnancy-policy)\)
+* Illness
+* Injury
+* Time constraints involving work
+* Childcare time constraints
+* Falling behind in the course content
+* Bereavement
+* Pregnancy/Maternity \([see Pregancy policy here](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement/student-pregnancy-policy)\)
 
 When a trainee removes themselves from the course via a leave of absence, the education and personal development teams should set coursework for the trainee to complete in their own time.
 
@@ -40,7 +40,7 @@ In order to gain re-entry to the course students must:
 1. Complete the coursework set by the Education and PD teams
 2. Show significant evidence that their circumstnces have changed and they will be able to complete the full course this year
 
-#### Resuming Studies
+### Resuming Studies
 
 All taught students on a Leave of Absence are contacted prior to their scheduled return to study date by the Director of Personal Development. The trainee, Director of Personal Development and City Coordinator will have the opportunity to discuss their returning to study plan including when in the course they will be able to rejoin.
 
@@ -51,12 +51,11 @@ Re-admission will not be considered under any circumstance for students that wer
 In order to gain re-entry to the course students must:
 
 1. Complete the entire application process from the start including interview
-   - They must show significant improvement from the first time they applied for the course
+   * They must show significant improvement from the first time they applied for the course
 2. Show significant evidence that they will be able to complete the full course this year
 3. \(If required\) show significant increase in their reading, written and spoken english skill
 
-#### Resuming Studies
+### Resuming Studies
 
 If accepted on the course, students will have to meet with the Director of Personal Development, and City Cordinator to discuss their returning to study plan.
 
-##

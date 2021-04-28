@@ -22,10 +22,8 @@ Your should also attend a weekly meeting to feedback on their students progress 
         <p>As a Buddy you should check in with your students at least once every
           two weeks - however you may need to give some students more time if their
           need it.</p>
-        <p></p>
         <p>In these sessions you should make sure you access the students understanding
           of the content they&apos;ve been covering recently.</p>
-        <p></p>
         <p>If they need it, you should also find them the resources they need to
           succeed - including mentoring support, online study resources and access
           to study groups or peer learning.</p>
@@ -34,11 +32,9 @@ Your should also attend a weekly meeting to feedback on their students progress 
         <p>It is your responsibility to make sure that students are submitting their
           coursework and to make sure that it is being marked and feedback is being
           given.</p>
-        <p></p>
         <p>This does not mean that you need to mark all of the homework yourself
           - just that you are responsible for making sure it happens. You should
           make the use of the other volunteers in your city to spread the work.</p>
-        <p></p>
         <p>It is important that we impress on our students how important the homework
           is.</p>
       </td>
@@ -47,7 +43,6 @@ Your should also attend a weekly meeting to feedback on their students progress 
           the best insights into how well they are performing in the course. For
           this reason, it&apos;s important that you share what you know with the
           rest of the team.</p>
-        <p></p>
         <p>This is important because if one of our students has an issue then that
           is an isolated issue - however if lots of students have the same problem
           then we have a systemic issue which should be fixed at the class level.</p>
@@ -64,6 +59,7 @@ An example Mentoring Session Plan can be found [here](https://teachertraining.co
 
 ## Useful Links
 
-| Teacher Training                                                                | Syllabus                                                          |
-| :------------------------------------------------------------------------------ | :---------------------------------------------------------------- |
+| Teacher Training | Syllabus |
+| :--- | :--- |
 | [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io/) | [syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io/) |
+

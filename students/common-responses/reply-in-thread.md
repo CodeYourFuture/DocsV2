@@ -23,7 +23,8 @@ Help the other users - reply in threads to keep Slack tidy.
 
 To tidy up the issue, it is normally good to:
 
-- re-post your message in the correct thread
-- delete your message from the channel
+* re-post your message in the correct thread
+* delete your message from the channel
 
 However, don't do this if people have since replied in the thread of **your** message and created an important conversation.
+

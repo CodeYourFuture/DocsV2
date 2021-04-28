@@ -69,10 +69,10 @@ This letter can also help to assess the level of English of an applicant – the
 
 The motivation letter must:
 
-- Show why they want to be a programmer
-- Show why they are committed to our course
-- Use good English
-- Be longer than 300 words
+* Show why they want to be a programmer
+* Show why they are committed to our course
+* Use good English
+* Be longer than 300 words
 
 ## 11: Applicant Needs Survey
 
@@ -98,7 +98,8 @@ Please read more details on the [Selection Day](../selection-day.md) page
 
 Once all data is collected, you can make suggestions for applicant offers or next steps. These are:
 
-- Offer - applicant shows clear aptitude for the course and scores highly in at least 2 of the 3 categories. It is important to make it clear that all offers extended to applicants are conditional on their performance running up to and during the course.
-- No Offer - applicant is not currently ready to join the course and will be encouraged to continue studying in order to be considered for the next course.
+* Offer - applicant shows clear aptitude for the course and scores highly in at least 2 of the 3 categories. It is important to make it clear that all offers extended to applicants are conditional on their performance running up to and during the course.
+* No Offer - applicant is not currently ready to join the course and will be encouraged to continue studying in order to be considered for the next course.
 
 Once the summary is complete and proposals for offers have been made, share the summary with the team to ensure a fair assessment and selection process. Ask members to review offer proposals to be made and provide feedback with regards to any concerns they may have.
+

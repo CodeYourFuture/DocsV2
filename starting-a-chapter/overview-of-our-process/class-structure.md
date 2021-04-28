@@ -10,4 +10,5 @@ The Education volunteer team must set weekly targets for online remote communica
 
 See more about this area:
 
-- [Running a Class](../../course-processes/running-the-course/running-a-class.md)
+* [Running a Class](../../course-processes/running-the-course/running-a-class.md)
+

@@ -19,11 +19,11 @@ If your laptop does not meet the minimum specification - please contact us for a
 
 We can offer you a range of support whilst you are studying with us this includes
 
-- Laptops
-- Other computer hardware
-- Childcare support
-- Internet access
-- Travel costs
+* Laptops
+* Other computer hardware
+* Childcare support
+* Internet access
+* Travel costs
 
 **Please note:** Some of these levels of support may not be possible in the city that you attend. Please check with your city coordinator.
 
@@ -41,10 +41,10 @@ This also gives our volunteers the confidence to recommend different options whe
 
 You could back up your files to
 
-- The Cloud \(e.g. Google Drive or DropBox\),
-- Another computer
-- An external hard disk
-- A USB stick
+* The Cloud \(e.g. Google Drive or DropBox\),
+* Another computer
+* An external hard disk
+* A USB stick
 
 You MUST NOT back-up the files simply to another folder in the same laptop
 
@@ -86,21 +86,21 @@ A guide to installing extentions [can be found here](https://code.visualstudio.c
 
 **Essential**
 
-- Prettier - Code formatter - Format your code automatically
-  - [https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- ESLint - Linter - Tells you when your code is wrong
-  - [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- Code Spell Checker - Tells you when you've spelt something wrong
-  - [https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+* Prettier - Code formatter - Format your code automatically
+  * [https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* ESLint - Linter - Tells you when your code is wrong
+  * [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* Code Spell Checker - Tells you when you've spelt something wrong
+  * [https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
 **Helpful**
 
-- GitLens — Git supercharged - Connect with GitHub/Git
-  - [https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-- Live Server - Run your code in the browser
-  - [https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- Live Share - Share your project with a team
-  - [https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+* GitLens — Git supercharged - Connect with GitHub/Git
+  * [https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+* Live Server - Run your code in the browser
+  * [https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* Live Share - Share your project with a team
+  * [https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 ### 5.3\) Enable formatting on save
 
@@ -174,3 +174,4 @@ We use Github to submit our homework and to share code with each other. Please m
 As part of being a trainee at CodeYourFuture you should be a part of our Github Team.
 
 Please speak to your city coordinator to get invited to your Classes github team or post on Slack.
+

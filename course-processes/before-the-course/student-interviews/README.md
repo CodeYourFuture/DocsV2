@@ -3,25 +3,25 @@ id: interviews
 title: Trainee Interviews
 ---
 
-# Trainee Interviews
+# Student Interviews
 
 Before every new class, we make sure to interview our potential students as a final step before acceptance into the course.
 
 ## Aims
 
-- Get to the know the applicants
-  - This is the first time we've ever met them! We have to be sure we can work with them for the next eight months
-- Assess that the applicants have retained the knowledge they have learnt in the previous steps
-  - We should also confirm that the applicants actually did the work themselves
-- Assess the applicants have a good level of spoken English
-  - Students might have got help from friends and family for written work
+* Get to the know the applicants
+  * This is the first time we've ever met them! We have to be sure we can work with them for the next eight months
+* Assess that the applicants have retained the knowledge they have learnt in the previous steps
+  * We should also confirm that the applicants actually did the work themselves
+* Assess the applicants have a good level of spoken English
+  * Students might have got help from friends and family for written work
 
 ## Getting Setup
 
 Make sure you have all of this information before you have your first interview
 
 1. You have access to [the Dashboard](https://dashboard.codeyourfuture.io) \(or alternative way of getting information about the applicants\)
-   - If you do not have access, speak to your coordinator
+   * If you do not have access, speak to your coordinator
 2. Read this document fully
 3. Make sure you have access to the interview form mentioned in the `Interview Days` section
 4. Make sure you have read the [Interview Rubric](interview-rubric.md)
@@ -42,18 +42,18 @@ Interviewers will typically have thirty minutes to conduct each interview.
 
 Both technical and non-technical volunteers should:
 
-- Aim to be as objective and fair as possible
-- Be mindful of their biases
-- If in doubt, record more information than you think is necessary
-- Take notes on the applicant when they the other interviewer is talking
+* Aim to be as objective and fair as possible
+* Be mindful of their biases
+* If in doubt, record more information than you think is necessary
+* Take notes on the applicant when they the other interviewer is talking
 
 #### Personal Interviewers
 
 Personal Interviewers should focus on questions surrounding
 
-- Why the applicant wants to be a programmer
-- How the applicant will find time to do the course
-- Any support that the applicant may need during the course
+* Why the applicant wants to be a programmer
+* How the applicant will find time to do the course
+* Any support that the applicant may need during the course
 
 This will mostly be the first section of the form.
 
@@ -61,8 +61,8 @@ This will mostly be the first section of the form.
 
 Technical interviewers should focus on questions surrounding
 
-- The applicant's work that they have submitted
-- Assessing the applicant current understanding of programming \(none is required but it's good to know\)
+* The applicant's work that they have submitted
+* Assessing the applicant current understanding of programming \(none is required but it's good to know\)
 
 This will mostly be the second section of the form.
 
@@ -112,15 +112,15 @@ When selecting applicants it is important to keep in mind that a applicant can b
 
 A applicant with too low ability may
 
-- not understand English to a sufficient level
-- not be able to explain their code well enough
-- not show a particularly great drive to be a programmer
+* not understand English to a sufficient level
+* not be able to explain their code well enough
+* not show a particularly great drive to be a programmer
 
 A applicant with too high ability may
 
-- already know how to program to an advanced level
-- have studied programming for a prolonged period of time
-- be capable of getting a programming job already
+* already know how to program to an advanced level
+* have studied programming for a prolonged period of time
+* be capable of getting a programming job already
 
 It's important to spot both lower and upper bound applicants as our course may not be the right fit for them at this time.
 
@@ -142,14 +142,14 @@ Previous programming experience is not required to join the course however it is
 
 A strong candidate for our course should
 
-- show that they are passionate about programming
-- show potential or current experience of being a self-learner
-- show a good to very good grasp of the English language
-- show they are open to feedback
-- show they understand the scale of the challenge
-- show that they are ready to undertake such a large challenge
-- show that they are focussing on our course
-- be somebody who would fit into our community
+* show that they are passionate about programming
+* show potential or current experience of being a self-learner
+* show a good to very good grasp of the English language
+* show they are open to feedback
+* show they understand the scale of the challenge
+* show that they are ready to undertake such a large challenge
+* show that they are focussing on our course
+* be somebody who would fit into our community
 
 ## Frequently Asked Questions
 
@@ -165,12 +165,13 @@ You can let them know that this will be covered in the course and that now might
 
 For any other questions they can direct them to their city email address
 
-- london@codeyourfuture.io
-- west-midlands@codeyourfuture.io
-- north-west@codeyourfuture.io
-- scotland@codeyourfuture.io
-- rome@codeyourfuture.io
-- capetown@codeyourfuture.io
-- etc
+* london@codeyourfuture.io
+* west-midlands@codeyourfuture.io
+* north-west@codeyourfuture.io
+* scotland@codeyourfuture.io
+* rome@codeyourfuture.io
+* capetown@codeyourfuture.io
+* etc
 
 You're also welcome to share this documentation website with them.
+

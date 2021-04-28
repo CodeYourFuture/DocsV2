@@ -8,10 +8,11 @@ For the outreach process to be successful CYF groups must ensure that the applic
 
 During the outreach process all CYF branches and their Outreach Volunteer Teams must:
 
-- Focus on approaching and supporting individuals in the Target Groups to apply as prospective students;
-- Work with other charity groups and organisations to reach individuals in the Target Groups;
-- Provide evidence of adequate demand among the applicant pool;
-- Consider the Diversity Targets in campaigns to target applicants and in selecting students; and
-- Run a cohesive, open and inclusive monthly outreach campaign to find new volunteers and volunteer leaders.
+* Focus on approaching and supporting individuals in the Target Groups to apply as prospective students;
+* Work with other charity groups and organisations to reach individuals in the Target Groups;
+* Provide evidence of adequate demand among the applicant pool;
+* Consider the Diversity Targets in campaigns to target applicants and in selecting students; and
+* Run a cohesive, open and inclusive monthly outreach campaign to find new volunteers and volunteer leaders.
 
 Please read [here](https://docs.codeyourfuture.io/teams/ambassadors) for more information on how the Ambassador/Outreach Team works
+

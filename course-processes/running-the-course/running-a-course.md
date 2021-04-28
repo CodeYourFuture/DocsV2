@@ -50,11 +50,40 @@ This is an important step to retaining volunteers over the longer term.
 
 Our Buddy's are one of the key ways that we get oversight of the development of our students through the course.
 
-In order to stay in-sync and to share knowledge semi-regular Buddy check-ins should take place so that 
+In order to stay in-sync and to share knowledge semi-regular Buddy check-ins should take place so that we can 
+
+* Work out how each individual student is doing
+* Work out if the class as a whole is struggling
+* Work on plans to help students \(or the whole class\) do better
+* Collaborate and hang out
+
+These meetings are were we can plan for additional sessions, study groups or exchange ideas on how to get the class where they need to be.
 
 ### 3.2\) Assessments
 
+At the end of the module there are assessments that can be run to get a better view of how the students are doing.
 
+You can find an example of these assessments [here](https://github.com/CodeYourFuture/JavaScript-Core-2-Assessment).
 
-## 4\) Class Communication
+These assessments are completed one-to-one with buddies or other volunteer but they need somebody to coordinate them and collate the results. 
+
+## 4\) Class Planning and Communication
+
+### 4.1\) Opportunities
+
+Fairly regularly, we get offers from corporate sponsors or other supporters who want to offer services to our students. This could include
+
+* Study Groups
+* Immersion Days
+* Hackathons
+
+Having somebody to coordinate these efforts is really helpful and provides a huge amount of value to our students.
+
+### 4.2\) Module Coordination
+
+At the start of every module there are often a set of tasks that need to take place over the module. 
+
+For example, here are the [notes for JavaScript Core 3](https://syllabus.codeyourfuture.io/js-core-3/coordinator).
+
+Having somebody take ownership of these tasks makes them much more likely to happen.
 

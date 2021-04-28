@@ -13,12 +13,12 @@ We believe in a future where everyone can lead a thriving life
 
 Our organisation values are as follows:
 
-- We believe in creating a **supportive family** where everyone belongs
-- Everything we do, we do with **kindness and respect**
-- We believe in the **equality of all voices**
-- We firmly believe that through **challenge**, people can achieve their best
-- We **empower** our students, and **they represent us**
-- Everything we do creates an **impact** in the world
+* We believe in creating a **supportive family** where everyone belongs
+* Everything we do, we do with **kindness and respect**
+* We believe in the **equality of all voices**
+* We firmly believe that through **challenge**, people can achieve their best
+* We **empower** our students, and **they represent us**
+* Everything we do creates an **impact** in the world
 
 ## History
 
@@ -48,17 +48,18 @@ Our goal is to create a grassroots movement that anyone around the world can rep
 
 ## People supporting the core structure of the organisation
 
-- **German Bencci** \(@german\): General Strategy, Expansion, Partnerships
-- **Chris Owen** \(@Chris Owen\): Education and Pedagogy
-- **Candy DeRoy** \(@Candy DeRoy\): Volunteers and Personal Development
-- **Alec McCrindle** \(@Alec\): Design and Marketing
-- **Roberta Lifonso** \(@Roberta\): Operations
-- **Liliana Bermudes** \(@Liliana\): Community Building & Partnerships
-- **Nima Karimi** \(@nima\): CTO
-- **Gianluca Palombo** \(@Gianluca\): Glasgow
-- **Barny Dathan** \(@Barnaby Dathan\): North West
-- **Claire** **Bickley** \(@Claire\): West Midlands
-- **Aaishah Khan** \(@Aaishah\): West Midlands
-- **Hazel Todhunter:** Finance
+* **German Bencci** \(@german\): General Strategy, Expansion, Partnerships
+* **Chris Owen** \(@Chris Owen\): Education and Pedagogy
+* **Candy DeRoy** \(@Candy DeRoy\): Volunteers and Personal Development
+* **Alec McCrindle** \(@Alec\): Design and Marketing
+* **Roberta Lifonso** \(@Roberta\): Operations
+* **Liliana Bermudes** \(@Liliana\): Community Building & Partnerships
+* **Nima Karimi** \(@nima\): CTO
+* **Gianluca Palombo** \(@Gianluca\): Glasgow
+* **Barny Dathan** \(@Barnaby Dathan\): North West
+* **Claire** **Bickley** \(@Claire\): West Midlands
+* **Aaishah Khan** \(@Aaishah\): West Midlands
+* **Hazel Todhunter:** Finance
 
 You may see their names pop up in our Slack channels from time to time!
+
