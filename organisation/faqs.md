@@ -19,7 +19,7 @@ Our volunteers are working hard to get the class started as soon as possible - k
 
 ### When do classes run? // How do classes work?
 
-We teach one full day per week and then the student has coursework to do in the time between lessons.
+We teach one full day per week and then the trainee has coursework to do in the time between lessons.
 
 During our lessons we will have a mixture of
 
@@ -36,7 +36,7 @@ The course will run for roughly eight months, depending on the speed that the cl
 
 ### Will I get a job if I do this course?
 
-We make no guarantees for if a student will certainly get a job at the end of the course.
+We make no guarantees for if a trainee will certainly get a job at the end of the course.
 
 ### Do you cover expenses?
 
@@ -80,7 +80,7 @@ We teach once per week and have a lot of self study in between. You are encourag
 
 When you start the course you are given
 
-- A team of student to work with
+- A team of trainee to work with
 - Two buddies who can help you with work
 - Access to study groups
 

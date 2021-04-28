@@ -11,7 +11,7 @@ title: Application Process
 
 ## 1: Register Online
 
-First, the applicant must register on our [Application Process](https://application-process.codeyourfuture.io/) website. It is through this portal that we manage all student applications. See [Dashboard](https://github.com/CodeYourFuture/DocsV2/tree/77ed5b10ac30abe661f64550e86020c12a3c3267/volunteers/tools/dashboard/README.md) for more details.
+First, the applicant must register on our [Application Process](https://application-process.codeyourfuture.io/) website. It is through this portal that we manage all trainee applications. See [Dashboard](https://github.com/CodeYourFuture/DocsV2/tree/77ed5b10ac30abe661f64550e86020c12a3c3267/volunteers/tools/dashboard/README.md) for more details.
 
 ### \(Optional\) 2: SoloLearn Tutorials _\(Applicants’ Step 1\)_
 
@@ -19,7 +19,7 @@ Where the applicant does not have a laptop, ask them to complete first a basic t
 
 You can find the tutorials at [SoloLearn](https://www.sololearn.com/Course/HTML/).
 
-To complete this step the student must submit a link to their SoloLearn Certificate
+To complete this step the trainee must submit a link to their SoloLearn Certificate
 
 ## 3: FreeCodeCamp Tutorials _\(Applicants’ Step 2\)_
 
@@ -41,13 +41,13 @@ Next step of the application process is the Product Landing Page Challenge. This
 
 ## 7: Product Landing Page Iteration Review and Feedback _\(Applicants’ Step 4.2\)_
 
-In order to carry out this step, navigate to the Dashboard and view the Step 3 & Step 4 panels for each student.
+In order to carry out this step, navigate to the Dashboard and view the Step 3 & Step 4 panels for each trainee.
 
 ![image-20200225161303081](../../../.gitbook/assets/image-20200225161303081.png)
 
 All applicants should tick all the of the checkboxes before they can complete the step.
 
-## 8: Product Landing Page Iteration  _\(Applicants’ Step 4.2\)_
+## 8: Product Landing Page Iteration _\(Applicants’ Step 4.2\)_
 
 Iteration is a crucial part of the CYF culture - we want to ensure that students continually learn and strive to improve whatever it is they are doing and developing. That's why it is important to start building this habit from the very beginning. The ways in which applicants respond to feedback can also serve as an indicator of their aptitude for the course.
 
@@ -69,10 +69,10 @@ This letter can also help to assess the level of English of an applicant – the
 
 The motivation letter must:
 
-* Show why they want to be a programmer
-* Show why they are committed to our course
-* Use good English
-* Be longer than 300 words
+- Show why they want to be a programmer
+- Show why they are committed to our course
+- Use good English
+- Be longer than 300 words
 
 ## 11: Applicant Needs Survey
 
@@ -86,7 +86,7 @@ Throughout the day and while students are waiting for their interview, engage st
 
 Split interviewers into pairs - you will need at least 1 technical mentor in each pair to ensure that the technical aspects of the Product Landing Page can be assessed. All interviewers in an interview group should fill in their own interviewer form - this way we can get 2 or more feedback points for each interview.
 
-Please review the [Student Interview](../student-interviews/) section for more details.
+Please review the [Trainee Interview](../student-interviews/) section for more details.
 
 ## 14: Selection Day
 
@@ -98,8 +98,7 @@ Please read more details on the [Selection Day](../selection-day.md) page
 
 Once all data is collected, you can make suggestions for applicant offers or next steps. These are:
 
-* Offer - applicant shows clear aptitude for the course and scores highly in at least 2 of the 3 categories. It is important to make it clear that all offers extended to applicants are conditional on their performance running up to and during the course.
-* No Offer - applicant is not currently ready to join the course and will be encouraged to continue studying in order to be considered for the next course.
+- Offer - applicant shows clear aptitude for the course and scores highly in at least 2 of the 3 categories. It is important to make it clear that all offers extended to applicants are conditional on their performance running up to and during the course.
+- No Offer - applicant is not currently ready to join the course and will be encouraged to continue studying in order to be considered for the next course.
 
 Once the summary is complete and proposals for offers have been made, share the summary with the team to ensure a fair assessment and selection process. Ask members to review offer proposals to be made and provide feedback with regards to any concerns they may have.
-

@@ -52,7 +52,7 @@ You changes will then be made public on the Wiki within 1-2 minutes
 
 To add a page first create a file in the correct folder inside `docs`.
 
-_e.g. If you wanted to add a student guide about Github you would create a file in `docs/students/guides/git.md`_
+_e.g. If you wanted to add a trainee guide about Github you would create a file in `docs/students/guides/git.md`_
 
 It is important that the file has this header at the top of it so that the website can find the file.
 

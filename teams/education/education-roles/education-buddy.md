@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Buddy’s role is the role of the guide. 
+The Buddy’s role is the role of the guide.
 
 This role is an ongoing commitment where you are paired with between three students for a period of a several months. It is your responsibility to be the first point of contact for help with their students problems for anything on the technical education side of the course.
 
@@ -43,7 +43,7 @@ Your should also attend a weekly meeting to feedback on their students progress 
           is.</p>
       </td>
       <td style="text-align:left">
-        <p>As the person who works closest with the student you will have some of
+        <p>As the person who works closest with the trainee you will have some of
           the best insights into how well they are performing in the course. For
           this reason, it&apos;s important that you share what you know with the
           rest of the team.</p>
@@ -64,7 +64,6 @@ An example Mentoring Session Plan can be found [here](https://teachertraining.co
 
 ## Useful Links
 
-| Teacher Training | Syllabus |
-| :--- | :--- |
+| Teacher Training                                                                | Syllabus                                                          |
+| :------------------------------------------------------------------------------ | :---------------------------------------------------------------- |
 | [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io/) | [syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io/) |
-

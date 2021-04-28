@@ -39,7 +39,7 @@ In Manchester, the main channels are listed below:
 - **\#manchester-education**: all members of the Manchester education team
 - **\#manchester-p-dev**: all members of the Manchester personal development team
 - **\#manchester-outreach**: all members of the Manchester outreach team
-- **\#manchester-applicants**: all volunteers contributing to the student application process in Manchester
+- **\#manchester-applicants**: all volunteers contributing to the trainee application process in Manchester
 - **#manchester-photos**: photos taken by Manchester volunteers related to CYF activities
 - **\#cyf-general**: everyone from CYF - do not ping the whole channel!
 

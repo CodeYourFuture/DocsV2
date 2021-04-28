@@ -33,12 +33,11 @@ If you would like to edit a piece of homework, click 'unsubmit', make any edits,
 
 ![an example of an assignment](../../.gitbook/assets/peopletab.png)
 
-\(Student and teacher names have been changed to protect privacy.\)
+\(Trainee and teacher names have been changed to protect privacy.\)
 
 The people tab will simply show you a list of teachers \(these will be mentors on the course\) and a list of your classmates.
 
 ## Tips on using Google Classroom
 
-* When writing comments, be sure to use the shift key and enter to move to a new line. Pressing enter alone will send your comment.
-* Comments can be public \(the whole class can see\) or private \(only the mentor\(s\) can see\). When making comments on the Stream tab, your comments will be made visible to everyone. If you're in an assignment, you will also see the option to make a private comment. In this case, only the mentor\(s\) will be able to see your comment. This can be helpful if you have a question about some feedback you received, for example.
-
+- When writing comments, be sure to use the shift key and enter to move to a new line. Pressing enter alone will send your comment.
+- Comments can be public \(the whole class can see\) or private \(only the mentor\(s\) can see\). When making comments on the Stream tab, your comments will be made visible to everyone. If you're in an assignment, you will also see the option to make a private comment. In this case, only the mentor\(s\) will be able to see your comment. This can be helpful if you have a question about some feedback you received, for example.

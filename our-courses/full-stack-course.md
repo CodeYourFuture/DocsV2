@@ -2,9 +2,9 @@
 
 ## Aims
 
-The aim of this course is to provide the student with enough programming knowledge to be able to get a job as a programmer. Everything else is details.
+The aim of this course is to provide the trainee with enough programming knowledge to be able to get a job as a programmer. Everything else is details.
 
-A student who completes our Full Stack Web Development course will:
+A trainee who completes our Full Stack Web Development course will:
 
 - Have the ability to build a basic modern full-stack web application \(using NodeJS, MySQL and React\)
 - Get experience with working in teams using Agile principles

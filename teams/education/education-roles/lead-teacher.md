@@ -2,10 +2,10 @@
 
 ## Overview
 
-The teacher’s role is the role of the director. You are tasked with taking control of the flow of the class and making sure it proceeds in a way that is beneficial not only to students but to volunteers as well. In the classroom, people will look to you as a figure of authority and leadership. As a lead teacher, you are ultimately responsible for what is taught in the class, the pace and the involvement of our other volunteers. It is an important and impactful role where you can have a huge impact on our student’s education.
+The teacher’s role is the role of the director. You are tasked with taking control of the flow of the class and making sure it proceeds in a way that is beneficial not only to students but to volunteers as well. In the classroom, people will look to you as a figure of authority and leadership. As a lead teacher, you are ultimately responsible for what is taught in the class, the pace and the involvement of our other volunteers. It is an important and impactful role where you can have a huge impact on our trainee’s education.
 
-| Coordinate | Plan | Teach |
-| :--- | :--- | :--- |
+| Coordinate                                                                                                                                                                                                                                                                                        | Plan                                                                                                                                                                                                                                                                                                                                                                                                                                      | Teach                                                                                                                                                                                                                                                                            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Your primary role as a Lead Teacher is to coordinate and control the classroom. It is your job to guide the students and teaching assistants through the lesson plan and understand when people need more time or more guidance. Use your teaching assistants to help guide you in these efforts. | Before each lesson, you should organise with your other teachers what and how you are planning on delivering the content. It is so important that you - and the rest of the people you’re leading with - thoroughly understand the content being taught and are prepared to deliver it to the class. Before each lesson you should understand the schedule for the day, when each exercise will be taught and how they will be delivered. | Teaching should always take the smallest amount of your time as you should move to examples as soon as you feel the students are ready. Where possible you should practice Active Teaching which means that you are responsive to the students' questions and misunderstandings. |
 
 ## Jobs in Class
@@ -83,15 +83,14 @@ At the start of the class, tell the students that if they see you with both hand
 
 _Teach One Concept at a Time_
 
-Be aware of the amount of topics that a student is learning at any one time. Where possible, try to teach only one skill at a time. It is okay, where appropriate, to explain that you will cover a students question in the future if it will distract too much from what you are immediately teaching.
+Be aware of the amount of topics that a trainee is learning at any one time. Where possible, try to teach only one skill at a time. It is okay, where appropriate, to explain that you will cover a students question in the future if it will distract too much from what you are immediately teaching.
 
 _Cold Calling_
 
-When asking a question to assess understanding you should not only elicit answers from students who offer them. Instead, ask a question, give the students time to process the answer and then choose a student to give an answer. This keeps the class engaged as they may be chosen to speak at any moment.
+When asking a question to assess understanding you should not only elicit answers from students who offer them. Instead, ask a question, give the students time to process the answer and then choose a trainee to give an answer. This keeps the class engaged as they may be chosen to speak at any moment.
 
 ### Useful Links
 
-| Documentation | More Teacher Training | Syllabus |
-| :--- | :--- | :--- |
+| Documentation                                             | More Teacher Training                                                           | Syllabus                                                          |
+| :-------------------------------------------------------- | :------------------------------------------------------------------------------ | :---------------------------------------------------------------- |
 | [docs.codeyourfuture.io](https://docs.codeyourfuture.io/) | [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io/) | [syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io/) |
-

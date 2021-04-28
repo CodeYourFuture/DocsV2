@@ -7,28 +7,28 @@ title: Running A Class
 
 ## Pre-Class Checklist
 
-* Lead Teachers understand the content that they will be teaching
-  * This includes the teaching for the day and the homework
-* All volunteers know when and where they should be attending
-* Volunteers attending for this first time have somebody to greet them and show them how CYF works
-* Students know when and where they will be attending the class
-* Somebody has been chosen to run energisers during the day 
-* If lunch is being provided - somebody is in charge of coordinating it
+- Lead Teachers understand the content that they will be teaching
+  - This includes the teaching for the day and the homework
+- All volunteers know when and where they should be attending
+- Volunteers attending for this first time have somebody to greet them and show them how CYF works
+- Students know when and where they will be attending the class
+- Somebody has been chosen to run energisers during the day
+- If lunch is being provided - somebody is in charge of coordinating it
 
 ## Schedule
 
 Here is an example schedule of a day events at a normal class
 
-* 9:45 - Students and Volunteers Arrive
-* 10:00 - [Arrange Classroom](running-a-class.md#arrange-classroom) & [Morning Energiser](running-a-class.md#energisers)
-* 10:15 - [Students Retrospective](running-a-class.md#student-retrospective) // [Volunteers Kick-off](running-a-class.md#volunteer-kick-off)
-* 10:45 - [Morning Teaching](running-a-class.md#morning-teaching)
-* 13:00 - [Lunch](running-a-class.md#lunch)
-* 13:45 - [Afternoon Energiser](running-a-class.md#energisers)
-* 14:00 - [Afternoon Teaching](running-a-class.md#afternoon-teaching)
-* 15:45 - [Homework Briefing](running-a-class.md#homework-briefing)
-* 16:00 - [Tidy Up](running-a-class.md#tidy-up) // [Volunteers Retrospective](running-a-class.md#volunteers-retrospective)
-* 16:30 - Hometime
+- 9:45 - Students and Volunteers Arrive
+- 10:00 - [Arrange Classroom](running-a-class.md#arrange-classroom) & [Morning Energiser](running-a-class.md#energisers)
+- 10:15 - [Students Retrospective](running-a-class.md#student-retrospective) // [Volunteers Kick-off](running-a-class.md#volunteer-kick-off)
+- 10:45 - [Morning Teaching](running-a-class.md#morning-teaching)
+- 13:00 - [Lunch](running-a-class.md#lunch)
+- 13:45 - [Afternoon Energiser](running-a-class.md#energisers)
+- 14:00 - [Afternoon Teaching](running-a-class.md#afternoon-teaching)
+- 15:45 - [Homework Briefing](running-a-class.md#homework-briefing)
+- 16:00 - [Tidy Up](running-a-class.md#tidy-up) // [Volunteers Retrospective](running-a-class.md#volunteers-retrospective)
+- 16:30 - Hometime
 
 ## Activity Breakdown
 
@@ -62,7 +62,7 @@ Energisers are important to help break the ice at the beginning of each day and 
 
 In the afternoon, this helps to pick up the mood after lunch and get people ready to learn.
 
-### Student Retrospective
+### Trainee Retrospective
 
 **What is this?**
 
@@ -80,10 +80,10 @@ As well as simulating a real life work environment it is helpful for the student
 
 At the beginning of each day it is important that all of our volunteers understand the objectives of the day. This meeting usually includes:
 
-* Introducing new volunteers to the group
-* Discussing what will be taught in today's lesson
-* Students we should be giving particular help to
-* Thanking the volunteers for attending
+- Introducing new volunteers to the group
+- Discussing what will be taught in today's lesson
+- Students we should be giving particular help to
+- Thanking the volunteers for attending
 
 **Who runs this?**
 
@@ -145,10 +145,10 @@ So that the students understand what homework they have got to do by the next we
 
 We run a short retrospective where we discuss:
 
-* Which students did well
-* Which students struggled in this lesson
-* What went well with our teaching and delivery
-* What could be improved for our next lesson
+- Which students did well
+- Which students struggled in this lesson
+- What went well with our teaching and delivery
+- What could be improved for our next lesson
 
 **Who runs this?**
 
@@ -166,10 +166,10 @@ When we're in a physical classroom \(i.e. not an online lesson\) we need to make
 
 We need to make sure that
 
-* All tables are back to where they should be
-* All washing up is clean and put away
-* Teaching space is tidy
-* Projectors and lights are turned off
+- All tables are back to where they should be
+- All washing up is clean and put away
+- Teaching space is tidy
+- Projectors and lights are turned off
 
 **Who runs this?**
 
@@ -179,25 +179,23 @@ This is coordinated and completed by the students.
 
 To be respectful of the space that we're using to run our classes
 
-
-
 ## Facilitating Classes - Guidelines
 
 ### Goals
 
-1. Encourage every student to speak
-2. Ensure every student feels they can ask questions any time
+1. Encourage every trainee to speak
+2. Ensure every trainee feels they can ask questions any time
 3. Trainers to be able to assess a minimum threshold level for the class \(below average\)
 
 ### Guidelines
 
-1. Avoid too many questions to the whole class. Instead prompt people that you don’t hear much/anything from. 
+1. Avoid too many questions to the whole class. Instead prompt people that you don’t hear much/anything from.
    1. The same people will answer most questions to the whole class and you will have a false awareness of class understanding
-2. Avoid speaking for more than 20 mins at the time. 
+2. Avoid speaking for more than 20 mins at the time.
 3. Organise short group discussions to encourage communication
    1. Big group discussions allow people to disconnect and zone out
 4. Don’t ask ‘does everybody see…‘ instead ask for the opposite: ‘who does not have clear x or y?’ If nobody offers an answer, then prompt a couple of people and if they don’t know ask for others that don’t know.
-5. Assess student attention. People looking down or with the hands in their faces \(especially around their forehead\) indicate that they are either confused or tired or bored.
+5. Assess trainee attention. People looking down or with the hands in their faces \(especially around their forehead\) indicate that they are either confused or tired or bored.
 6. Ensure that most people in your class ask a question or make a comment during your session. Encourage everybody to speak either by prompting individually or asking those to raise their hands who know the answer to a question and haven’t contributed to class
 
 ### Ideas for Teachers
@@ -206,8 +204,7 @@ While one trainer is leading the class, have another trainer observe and note pe
 
 ### Guidelines for Teaching Assistants
 
-* Don’t hijack the keyboard 
-* Don’t give direct answers
-* Guide people to find a solution on their own
-* Answer questions with other questions
-
+- Don’t hijack the keyboard
+- Don’t give direct answers
+- Guide people to find a solution on their own
+- Answer questions with other questions

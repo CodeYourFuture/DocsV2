@@ -29,43 +29,43 @@ Generally, gallery-view is best for these, or if also screensharing, gallery-vie
 
 Tell a silly story a phrase at a time, or a word at a time.
 
-A good way to test everyone's microphone briefly, and for the teachers to refresh their memory of student and TA names.
+A good way to test everyone's microphone briefly, and for the teachers to refresh their memory of trainee and TA names.
 
 Example of play:
 
-* Neill: "Once upon a time there was a frog who lived in a pond... Ali?"
-* Ali: "her name was Abigail.  She always dreamed of being a... Sabia?"
-* Sabia: "...uhmm airline pilot?  ...Mohsen?"
-* Mohsen: "Every day the frog would go for a swim, and eat flies.  But one day... Anna?"
-* Anna: "Yikes!  Pass!  Roberta?"
-* Roberta: "...but one day the frog..."
-* and so on
+- Neill: "Once upon a time there was a frog who lived in a pond... Ali?"
+- Ali: "her name was Abigail. She always dreamed of being a... Sabia?"
+- Sabia: "...uhmm airline pilot? ...Mohsen?"
+- Mohsen: "Every day the frog would go for a swim, and eat flies. But one day... Anna?"
+- Anna: "Yikes! Pass! Roberta?"
+- Roberta: "...but one day the frog..."
+- and so on
 
 Notes, ideas:
 
-* **GM must inject energy** for some groups
-* This is **not recommended for a new class** or any other students who might feel awkward - that's counter-productive.
-* It is VERY ok for players to "pass", offer the possibility if someone is choking
-* Give an easy out to reticent players - it's a short game and they'll likely find it amusing to just spectate.  \(Perhaps some would like to draw some illustrations as we go along, instead.\)  Normally once they've seen the game does not involve a stage and a booing audience they'll join in if you give them a way in.
-* Can also be done in breakout rooms for more turns per player, less waiting, particularly for larger classes
-* Students might be interested in [22 rules of storytelling according to pixar](https://io9.gizmodo.com/the-22-rules-of-storytelling-according-to-pixar-5916970)
-* Ask one or two volunteers or extrovert students first, to get the game rolling.
-* GM can repeat/recap the story at points if it's suspected forgotten
-* GM be careful to set expectation that the story probably won't make ANY sense and that is fine!
+- **GM must inject energy** for some groups
+- This is **not recommended for a new class** or any other students who might feel awkward - that's counter-productive.
+- It is VERY ok for players to "pass", offer the possibility if someone is choking
+- Give an easy out to reticent players - it's a short game and they'll likely find it amusing to just spectate. \(Perhaps some would like to draw some illustrations as we go along, instead.\) Normally once they've seen the game does not involve a stage and a booing audience they'll join in if you give them a way in.
+- Can also be done in breakout rooms for more turns per player, less waiting, particularly for larger classes
+- Students might be interested in [22 rules of storytelling according to pixar](https://io9.gizmodo.com/the-22-rules-of-storytelling-according-to-pixar-5916970)
+- Ask one or two volunteers or extrovert students first, to get the game rolling.
+- GM can repeat/recap the story at points if it's suspected forgotten
+- GM be careful to set expectation that the story probably won't make ANY sense and that is fine!
 
 Extra: use [rory's story cubes](https://www.storycubes.com/en/) or similar online story prompts, as lubricant. You can use the storycubes app and screenshare it from phone to the zoom call.
 
 Extras: Choose a setting:
 
-* I'd love if we happen to meet a shark
-* Or three elements: "Nima, Martyna, Laurie - what would you like to be mentioned in this story? a place?  a thing? a desire?... " \(wait as all three think of a topic each\) announced simultaneously... "pirates" "paris" "accountants"
-  * you can assign them individually to these categories so that we get one of each \(e.g. adjective noun verb, or thing, place, desire\)
+- I'd love if we happen to meet a shark
+- Or three elements: "Nima, Martyna, Laurie - what would you like to be mentioned in this story? a place? a thing? a desire?... " \(wait as all three think of a topic each\) announced simultaneously... "pirates" "paris" "accountants"
+  - you can assign them individually to these categories so that we get one of each \(e.g. adjective noun verb, or thing, place, desire\)
 
 **Variants:**
 
 **Word-at-a-time**: This is my preferred version but requires the students know the running order or is too slow.
 
-Delegate to a student the task: "make a google doc with a list of everyone who is here, and screen-share it".
+Delegate to a trainee the task: "make a google doc with a list of everyone who is here, and screen-share it".
 
 That order can come from a screen-share of a text doc with everyone's name on it \(best\) or a quick screenshot of one person's participant view \(the former is better as it can be updated as people join the session\)
 
@@ -77,14 +77,14 @@ By preference I won't explain the game at all, I'll just demonstrate a quick 30-
 
 If I _have_ to introduce the game verbally I'll normally mention as few as possible of the following as i think are necessary:
 
-* We're going to make up a silly story together, with everyone adding ONE WORD at a time. You don't have to play if you don't want to!
-* We'll go round everybody following this list which \[student X\] is kindly screensharing, with each person _quickly_ adding one word ONLY.
-* Our story is almost certainly going to be absolutely rubbish, don't worry at all about making it good - leave that to Pixar or to authors who spend years writing their books.
-* Don't worry about making your word clever but hopefully it makes sense \[grammatically\].  
-* If you really can't think of any word, it is good to say pass rather than slow the game down.
-* It's going to start "once", "upon", "a", "time", ok?  
-* I'll start, then billie, then down the list...
-* I say "once"...
+- We're going to make up a silly story together, with everyone adding ONE WORD at a time. You don't have to play if you don't want to!
+- We'll go round everybody following this list which \[trainee X\] is kindly screensharing, with each person _quickly_ adding one word ONLY.
+- Our story is almost certainly going to be absolutely rubbish, don't worry at all about making it good - leave that to Pixar or to authors who spend years writing their books.
+- Don't worry about making your word clever but hopefully it makes sense \[grammatically\].
+- If you really can't think of any word, it is good to say pass rather than slow the game down.
+- It's going to start "once", "upon", "a", "time", ok?
+- I'll start, then billie, then down the list...
+- I say "once"...
 
 **Reverse story**: start with the last line and work backwards. [Source](https://www.teamfirstdevelopment.com/warm-ups/)
 
@@ -118,7 +118,7 @@ Most times you can just play articulate
 
 #### Game: Pictionary
 
-London classes used google jamboard to great success. Thanks to Beth. [https://jamboard.google.com/d/1C-VMgQXKGiAj0Q2FrqTqo\_3JdM5KjYfQSPKNJeQZvVo/viewer](https://jamboard.google.com/d/1C-VMgQXKGiAj0Q2FrqTqo_3JdM5KjYfQSPKNJeQZvVo/viewer)
+London classes used google jamboard to great success. Thanks to Beth. [https://jamboard.google.com/d/1C-VMgQXKGiAj0Q2FrqTqo_3JdM5KjYfQSPKNJeQZvVo/viewer](https://jamboard.google.com/d/1C-VMgQXKGiAj0Q2FrqTqo_3JdM5KjYfQSPKNJeQZvVo/viewer)
 
 Beth also suggested this word-generator for those who blank. [https://www.thegamegal.com/word-generator/](https://www.thegamegal.com/word-generator/)
 
@@ -152,29 +152,29 @@ This is essentially twenty-questions but one person already knows the answer but
 
 To allow for the grouping that happens \(normally physically\), an assistant to edit a shared google doc with everyone's name on it to show the empire statuses:
 
-* Ahmad
-* Barney
-* Candy
-* Daniel
+- Ahmad
+- Barney
+- Candy
+- Daniel
 
 Then if Barney guesses daniel's word, he becomes king of an empire of two:
 
-* Ahmad
-* Barney, Daniel
-* Candy
+- Ahmad
+- Barney, Daniel
+- Candy
 
 He gets to guess again, but guesses candy's word wrong.
 
 Candy gets a turn and guesses Ahmad correctly.
 
-* Candy, Ahmad
-* Barney, Daniel
+- Candy, Ahmad
+- Barney, Daniel
 
 She can't remember the last word, and Ahmad \(who is allowed to help her, can't rember either\) GM times them out after 30 seconds.
 
 Barney remembers what candy must be and wins:
 
-* Barney, Daniel, Candy, Ahmad
+- Barney, Daniel, Candy, Ahmad
 
 #### Game: Telestrations / Eat poop you cat
 
@@ -184,11 +184,11 @@ In the game telestrations, a group \(i think best with ~10 players\) all draw a 
 
 There is a free implementation, drawphone, which works well on phone and laptop:
 
-* [https://drawphone.tannerkrewson.com/](https://drawphone.tannerkrewson.com/)
+- [https://drawphone.tannerkrewson.com/](https://drawphone.tannerkrewson.com/)
 
 Another implementation \(untested\) looks to be:
 
-* [https://drawception.com/register/](https://drawception.com/register/)
+- [https://drawception.com/register/](https://drawception.com/register/)
 
   But i don't know if you can manage your own private group games on it.
 
@@ -202,15 +202,15 @@ One person leaves the room for 30 seconds while the others choose a shared **del
 
 A delusion might be anything:
 
-* you're all scared of large objects.
-* you think you are superman
-* you think the shrink is actually a unicorn
+- you're all scared of large objects.
+- you think you are superman
+- you think the shrink is actually a unicorn
 
   you can make them up.
 
 [BGG](https://boardgamegeek.com/boardgame/120814/your-rocker)
 
-* needs a class who are ready for silliness and trust each other
+- needs a class who are ready for silliness and trust each other
 
 #### Simple charades \(activity / profession\) - Quick energiser
 
@@ -234,8 +234,8 @@ Extra thoughts: With students' permission, videoing these exercises in small gro
 
 One person at a time plays [Google QuickDraw](https://quickdraw.withgoogle.com/) while the others watch \(passively\) or perhaps give advice.
 
-* One game takes 2 minutes, it's fun to watch.
-* Can work in big group when people are relaxing - \(e.g. on lunch\)
+- One game takes 2 minutes, it's fun to watch.
+- Can work in big group when people are relaxing - \(e.g. on lunch\)
 
 #### Game: Sixes
 
@@ -253,10 +253,10 @@ Everyone simultaneously and secretly has \(say\) 2 minutes to write down \(on re
 
 **Example of play:**
 
-* GM: "Ok, write down 4 famous London tourist attractions that you think other people will also write. No talking, and NO asking clarifying questions! 4 famous things that tourists go to see when they come to London.... You have two minutes!" ... two minutes pass...
-* Cesar has written 1\) london eye, 2\) big ben, 3\) houses of parliament 4\) st paul's cathedral
-* Adalberto has written: 1\) tower of london, 2\) london eye 3\) tussauds 4\) buckingham palace
-* Manolito has written: 1\) london eye 2\) tower of london 3\) big ben 4\) trafalgar sq
+- GM: "Ok, write down 4 famous London tourist attractions that you think other people will also write. No talking, and NO asking clarifying questions! 4 famous things that tourists go to see when they come to London.... You have two minutes!" ... two minutes pass...
+- Cesar has written 1\) london eye, 2\) big ben, 3\) houses of parliament 4\) st paul's cathedral
+- Adalberto has written: 1\) tower of london, 2\) london eye 3\) tussauds 4\) buckingham palace
+- Manolito has written: 1\) london eye 2\) tower of london 3\) big ben 4\) trafalgar sq
 
 \(continued below\)
 
@@ -275,31 +275,31 @@ for each player:
 
 **Example of play, continued:**
 
-* Cesar: "London Eye... anyone?"
-* On video for gallery view, all 3 raise their hands \(or on participants view\)
-* Cesar: "great, give yourself 3 points, everyone!"
-* Cesar: "next... big ben!  anyone?"
-* On video, only Cesar and Manolito raise their hands
-* Cesar: "Whaaat, BIG BEN, Adalberto!"
-* Adalberto: "It's nothing special I've seen it"
-* Cesar: "exactly.  you went and saw it"
-* Cesar: "... 2 points to me and adalberto"
-* ... \(cesar finishes scoring his other words.  0 points in both cases\)
-* Adalberto: "Tower of london?  Yay 3 points..."
-* Adalberto: "London Eye - we already had that one... Madame Tussauds, the waxworks place?"
-* Manolito: "No.  That place is creepy"
-* Adalberto: "Cesar?  Madame Tussauds?"
-* Cesar: "no!  you've heard my four words already!"
-* Adalberto: "0 points.  ... Buckingham Palace!  no?  0 points.  I've got 6 points! Manolito what's left?"
-* Manolito: "So I had london eye \(3\) , tower of london \(2\), big ben \(2 points, thanks for nothing adalberto\)..."
-* Manolito: "... and trafalgar square! We went there last week, people!"
+- Cesar: "London Eye... anyone?"
+- On video for gallery view, all 3 raise their hands \(or on participants view\)
+- Cesar: "great, give yourself 3 points, everyone!"
+- Cesar: "next... big ben! anyone?"
+- On video, only Cesar and Manolito raise their hands
+- Cesar: "Whaaat, BIG BEN, Adalberto!"
+- Adalberto: "It's nothing special I've seen it"
+- Cesar: "exactly. you went and saw it"
+- Cesar: "... 2 points to me and adalberto"
+- ... \(cesar finishes scoring his other words. 0 points in both cases\)
+- Adalberto: "Tower of london? Yay 3 points..."
+- Adalberto: "London Eye - we already had that one... Madame Tussauds, the waxworks place?"
+- Manolito: "No. That place is creepy"
+- Adalberto: "Cesar? Madame Tussauds?"
+- Cesar: "no! you've heard my four words already!"
+- Adalberto: "0 points. ... Buckingham Palace! no? 0 points. I've got 6 points! Manolito what's left?"
+- Manolito: "So I had london eye \(3\) , tower of london \(2\), big ben \(2 points, thanks for nothing adalberto\)..."
+- Manolito: "... and trafalgar square! We went there last week, people!"
 
 Some possible topics to get you started:
 
-* famous food from the UK
-* wild animals
-* Names of concepts or structures from fundamentals
-* famous websites
+- famous food from the UK
+- wild animals
+- Names of concepts or structures from fundamentals
+- famous websites
 
 Misc: This could benefit from a simple app/spreadsheet to aid quick scoring
 
@@ -331,16 +331,16 @@ Needs detailing [https://boardgamegeek.com/boardgame/135779/fake-artist-goes-new
 
 P1 thinks of a word and keeps it secret.
 
-* P1: I know a word that rhymes with "card"
-* P2: "is it... difficult?"
-* P1: "no, it's not 'hard'"
-* P5: "ooh is it shakespeare?"
-* P1: "no, not the 'bard'"
+- P1: I know a word that rhymes with "card"
+- P2: "is it... difficult?"
+- P1: "no, it's not 'hard'"
+- P5: "ooh is it shakespeare?"
+- P1: "no, not the 'bard'"
 
   ...
 
-* P3: "is it protection?"
-* P1: "yes, it is `guard`!"
+- P3: "is it protection?"
+- P1: "yes, it is `guard`!"
 
 "Dumb crambo" will also work, where mime is done.
 
@@ -350,7 +350,7 @@ P1 thinks of a word and keeps it secret.
 
 #### Game: Wits & Wagers
 
-* needs adaptation & simple app for placing bets.  Small-group quick voice comms is the hard part - Breakout room to discuss could work but it's a bit clunky for the tempo, and we really want to keep everyone together rather than suddenly dampen the vibe.  Could accomodate big groups.  Game show feel.
+- needs adaptation & simple app for placing bets. Small-group quick voice comms is the hard part - Breakout room to discuss could work but it's a bit clunky for the tempo, and we really want to keep everyone together rather than suddenly dampen the vibe. Could accomodate big groups. Game show feel.
 
 #### Game: "CYF jeopardy"
 
@@ -390,22 +390,22 @@ breakout rooms, mixed.
 
 This would use gallery view, ideally, or a list of people \(share a **screenshot** of the participants list -it changes and it presents differently for each user\)
 
-* Zip \(ok\)
-* Boing - \(ok\)
-* Skipo - skip one person \([https://www.teamfirstdevelopment.com/warm-ups/\#](https://github.com/CodeYourFuture/DocsV2/tree/e9aebc0f2d97ba4e65a510fcf287c1d11f6ee70d/organisation/source/README.md)\)
-* frisbee \(with ducking\) - \(ok\)
-* shlack/mine - \(ok\)
-* Zap - \(no\)
-* roll \(no\)
-* ...
+- Zip \(ok\)
+- Boing - \(ok\)
+- Skipo - skip one person \([https://www.teamfirstdevelopment.com/warm-ups/\#](https://github.com/CodeYourFuture/DocsV2/tree/e9aebc0f2d97ba4e65a510fcf287c1d11f6ee70d/organisation/source/README.md)\)
+- frisbee \(with ducking\) - \(ok\)
+- shlack/mine - \(ok\)
+- Zap - \(no\)
+- roll \(no\)
+- ...
 
 Alt-a to toggle mute
 
 **TODO:**
 
-* Confirm gallery view shows the same ordering.
-* Would need some reworking.
-* Try it. Laggy?  Consider all open mics.
+- Confirm gallery view shows the same ordering.
+- Would need some reworking.
+- Try it. Laggy? Consider all open mics.
 
 #### Activity: Einstein five-house puzzle \(or similar\)
 
@@ -479,7 +479,7 @@ story gaming in general. this one can use the whiteboard. advanced.
 
 #### Game: Spinergy
 
-#### Game: Overcooked - any multiplayer?  one person is the manager - voice only
+#### Game: Overcooked - any multiplayer? one person is the manager - voice only
 
 #### Game: Spyfall
 
@@ -503,25 +503,25 @@ story gaming in general. this one can use the whiteboard. advanced.
 
 Take a selfie with everyone in it \(who wants to be\)
 
-* Give plenty of notice for those who don't want to be in it to leave the shot or turn off their cameras
-* choose a photographer: someone who knows how to screenshot
-* Use the gallery view \(On faster computers you can get up to 50 faces per screen\)
-* "photographer" should turn off "always show names" in their client settings, for more privacy.
-* ask for cheesey smiles [here are some "dad jokes"](https://www.livin3.com/100-bad-dad-jokes-that-will-make-you-laugh-or-cringe)
-* photographer should give clear countdown
-* optional: collect the selfies, to make a book through the course. \(simple website\)
+- Give plenty of notice for those who don't want to be in it to leave the shot or turn off their cameras
+- choose a photographer: someone who knows how to screenshot
+- Use the gallery view \(On faster computers you can get up to 50 faces per screen\)
+- "photographer" should turn off "always show names" in their client settings, for more privacy.
+- ask for cheesey smiles [here are some "dad jokes"](https://www.livin3.com/100-bad-dad-jokes-that-will-make-you-laugh-or-cringe)
+- photographer should give clear countdown
+- optional: collect the selfies, to make a book through the course. \(simple website\)
 
 Variants:
 
-* everyone shows an object
-  * \(something blue?  A favourite book?\)
-* everyone [fingerspells](http://www.british-sign.co.uk/fingerspelling-alphabet-charts/) something \("Coding", "CYF"?\) - researched and practiced in groups.
-* \(video-selfies record a section of the meeting for this one, make it into gif\)
+- everyone shows an object
+  - \(something blue? A favourite book?\)
+- everyone [fingerspells](http://www.british-sign.co.uk/fingerspelling-alphabet-charts/) something \("Coding", "CYF"?\) - researched and practiced in groups.
+- \(video-selfies record a section of the meeting for this one, make it into gif\)
 
 Privacy
 
-* Give people a quiet, easy way out of the selfie
-* Don't take photos with participant names on them 
+- Give people a quiet, easy way out of the selfie
+- Don't take photos with participant names on them
 
 work-needed:
 
@@ -533,11 +533,11 @@ volunteer to identify / design a good place for all the selfies to be collected 
 
 This activity is of a pattern: **Find, process, present, collect**
 
-* everyone goes and fetches an important/interesting object
-* presents on it for 10-30 seconds
-* intersperse student presentations with volunteer presentations
-* optional: 1/2 way, reflect what made a good presentation \(perhaps energy, personalisation, the WHY, humour, object close-up view & lighting\)
-* optional: collection of photos for everyone's object, as a memento?
+- everyone goes and fetches an important/interesting object
+- presents on it for 10-30 seconds
+- intersperse trainee presentations with volunteer presentations
+- optional: 1/2 way, reflect what made a good presentation \(perhaps energy, personalisation, the WHY, humour, object close-up view & lighting\)
+- optional: collection of photos for everyone's object, as a memento?
 
 This can be done in breakout rooms, for big classes.
 
@@ -549,15 +549,15 @@ This activity is of a pattern: **Find, process, present, collect**
 
 This simple warm-up / equipment test activity just gives a simple task to focus on rather than only asking the students "test your screen-share". The choice can allow for some expression, too.
 
-* go to breakouts
-* say hi to each other
-* individually find something as requested
-  * e.g. All find a cute \(or interesting\) animal picture on google images
-* \(optional\) as a group do some processing on it \(e.g. add it to a gallery / playlist\)
-* help each other make sure everyone has managed to find a thing and do the optional processing
-* return to main
-* share with the class
-* \(optionally\) class collect the works, with attribution, to make permanent artifacts
+- go to breakouts
+- say hi to each other
+- individually find something as requested
+  - e.g. All find a cute \(or interesting\) animal picture on google images
+- \(optional\) as a group do some processing on it \(e.g. add it to a gallery / playlist\)
+- help each other make sure everyone has managed to find a thing and do the optional processing
+- return to main
+- share with the class
+- \(optionally\) class collect the works, with attribution, to make permanent artifacts
 
 In simplest form, this doesn't need to be done in breakout groups, but with 20 students, the same few people will dominate the conversation. In breakout groups \(I suggest random groups\) it gives more people a chance to chat.
 
@@ -565,19 +565,19 @@ seed differences in the starting conditions or everyone comes back with the same
 
 Variants:
 
-* find a song you love on youtube \(collect into a playlist\)
-* find a picture of a work of art you love
-* find a poem you love
-* ...
+- find a song you love on youtube \(collect into a playlist\)
+- find a picture of a work of art you love
+- find a poem you love
+- ...
 
 #### Activity: Make a recipe book:
 
 Collect a recipe book together with all our favourite recipes \(ideally, 2 each\)
 
-* Into plain text in github
-* later into json, **validated!**
-* later rendered in react app \(react module\)
-* later into an [API in node module](https://cyf-recipes-reading-exercise.glitch.me/recipes/1)
+- Into plain text in github
+- later into json, **validated!**
+- later rendered in react app \(react module\)
+- later into an [API in node module](https://cyf-recipes-reading-exercise.glitch.me/recipes/1)
 
 The trouble with the later stages of this is the \(relative\) complexity of the \(ideal\) data model for real recipes, but we can keep it simple.
 
@@ -585,12 +585,12 @@ The trouble with the later stages of this is the \(relative\) complexity of the 
 
 Another of the pattern: find, process, present, collect
 
-* Breakout rooms, say 4 ppl each.
-* Individually find one joke each, and share them with each other in the 4
-* Decide the best 1-2 jokes
-* Back at main, one team-member tells the joke on mic, another team-member types it into a list in text chat.
-* Two students volunteer to collect the jokes and send them to the other cities on slack after.  Action one TA to check it gets done.
-  * perhaps the students put them into a webpage \(codepen/glitch\) or hosted on ghpages/netlify \(~ CYF-best-jokes.com\). another github repo...
+- Breakout rooms, say 4 ppl each.
+- Individually find one joke each, and share them with each other in the 4
+- Decide the best 1-2 jokes
+- Back at main, one team-member tells the joke on mic, another team-member types it into a list in text chat.
+- Two students volunteer to collect the jokes and send them to the other cities on slack after. Action one TA to check it gets done.
+  - perhaps the students put them into a webpage \(codepen/glitch\) or hosted on ghpages/netlify \(~ CYF-best-jokes.com\). another github repo...
 
 #### Activity: 5-minute Photo competition
 
@@ -606,12 +606,12 @@ More detail: Sharing on slack would work: in a specific thread.
 
 variants:
 
-* instead of photos:
-  * draw a picture 
-    * in real life, and photo it
-    * online using zoom annotations
-  * draw pixel art \(e.g. with [piskel](https://www.piskelapp.com/)
-    * use a collab drawing tool
+- instead of photos:
+  - draw a picture
+    - in real life, and photo it
+    - online using zoom annotations
+  - draw pixel art \(e.g. with [piskel](https://www.piskelapp.com/)
+    - use a collab drawing tool
 
 Might need more time. Lunchtime activity?
 
@@ -629,7 +629,7 @@ Everyone collaborates to draw a picture, based on a prompt
 
 Use Zoom's share:whiteboard, and annotations
 
-* Beware not everyone has access to annotations. not inclusive.
+- Beware not everyone has access to annotations. not inclusive.
 
 Or an online collab website
 
@@ -639,10 +639,10 @@ Everyone gets a prompt \(or a picture to copy\) and has to draw it. E.g. on [JSP
 
 At end of time, ask the participants to post the results on a slack thread.
 
-* Some volunteers should post first, and should be careful to set a low, low bar.
-* Don't force the students to share.
-* Don't assume all students have a paint program installed or can find it. Here's a free browser-based one - [JSPaint](https://jspaint.app/). Intentionally pretty terrible and works fine.
-* instead of using an open-ended brief, it was a relief for most students to simply have an artwork to try to copy. those who wanted to get more interpretative did so without needing to be told.
+- Some volunteers should post first, and should be careful to set a low, low bar.
+- Don't force the students to share.
+- Don't assume all students have a paint program installed or can find it. Here's a free browser-based one - [JSPaint](https://jspaint.app/). Intentionally pretty terrible and works fine.
+- instead of using an open-ended brief, it was a relief for most students to simply have an artwork to try to copy. those who wanted to get more interpretative did so without needing to be told.
 
 Ed ran this in London successfully, with a class who knew each other for 3 months. Drawing time 7 minutes.
 
@@ -668,58 +668,57 @@ Well-known volunteers present their face distorted by snapchat "lenses", perhaps
 
 One or more well-known volunteers:
 
-* install zoom on phone
-* install snapchat on phone
-* join the zoom call on phone \(mute laptop to avoid feedback squeal, unmute on phone\)
-* share screen
-* start snapchat
-* tap once on your face to scan it
-* choose lens
+- install zoom on phone
+- install snapchat on phone
+- join the zoom call on phone \(mute laptop to avoid feedback squeal, unmute on phone\)
+- share screen
+- start snapchat
+- tap once on your face to scan it
+- choose lens
 
 This is a good time for natural selfies: the photographer can use `gallery view` and `side-by-side` from view options
 
 #### Entertainment: Phone tour
 
-* Join the call on your phones and give a tour of your house / park
-* can be assigned in advance to those students who want to try it
-* never mandatory: students might not want to show their conditions, or perhaps even their location
-* might work nicely in break outs of 6-7 per room, to shorten the activity
+- Join the call on your phones and give a tour of your house / park
+- can be assigned in advance to those students who want to try it
+- never mandatory: students might not want to show their conditions, or perhaps even their location
+- might work nicely in break outs of 6-7 per room, to shorten the activity
 
 ## Meta: types of game
 
-* Drawing games: Drawing with a mouse is hard \(pictionary, fake artist, drawful\)
-* Language games: words, stories are great as the students want and need to practice language and articulation.
-* Trivia games: 
-* Any game!: Any game we can play remotely has value if it is fun, accessible, inclusive, and has some logic to be explained and choices that can be discussed.
-* Video Games: Watching and commenting on some people playing any video game - this is entertainment.
+- Drawing games: Drawing with a mouse is hard \(pictionary, fake artist, drawful\)
+- Language games: words, stories are great as the students want and need to practice language and articulation.
+- Trivia games:
+- Any game!: Any game we can play remotely has value if it is fun, accessible, inclusive, and has some logic to be explained and choices that can be discussed.
+- Video Games: Watching and commenting on some people playing any video game - this is entertainment.
 
 ## Potential sources for games
 
-* [Improv Encyclopedia](http://improvencyclopedia.org/games/)
-* [Warmups: Improv Resource Center](https://wiki.improvresourcecenter.com/index.php?title=Category:Warm_Ups)
-* [Team First Development](https://www.teamfirstdevelopment.com/warm-ups/)
-* [HyperIsland Toolbox: Energizers](https://toolbox.hyperisland.com/)
-* [Youth Group Games \(one example site\)](https://youthgroupgames.com.au/)
+- [Improv Encyclopedia](http://improvencyclopedia.org/games/)
+- [Warmups: Improv Resource Center](https://wiki.improvresourcecenter.com/index.php?title=Category:Warm_Ups)
+- [Team First Development](https://www.teamfirstdevelopment.com/warm-ups/)
+- [HyperIsland Toolbox: Energizers](https://toolbox.hyperisland.com/)
+- [Youth Group Games \(one example site\)](https://youthgroupgames.com.au/)
 
   \*
 
-* Look at actual tv gameshows \(jeopardy, pointless, etc\)
-* TODO: bookmarks...
+- Look at actual tv gameshows \(jeopardy, pointless, etc\)
+- TODO: bookmarks...
 
 ## Equipment and software:
 
 #### basic assumed equipment
 
-* zoom
-* zoom whiteboard: `share:whiteboard` and annotations: `view options`: `annotate` \(next to `viewing jo smith's screen`\)
+- zoom
+- zoom whiteboard: `share:whiteboard` and annotations: `view options`: `annotate` \(next to `viewing jo smith's screen`\)
 
 #### optional:
 
-* more electronic-y  
-  * [rolld20](https://roll20.net/)
-* online drawing tools
-  * [google jamboard](https://jamboard.google.com/)
-* online voting systems
-* spreadsheets
-* mini apps to support certain games
-
+- more electronic-y
+  - [rolld20](https://roll20.net/)
+- online drawing tools
+  - [google jamboard](https://jamboard.google.com/)
+- online voting systems
+- spreadsheets
+- mini apps to support certain games

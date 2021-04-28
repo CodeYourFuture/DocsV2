@@ -8,6 +8,7 @@ title: Retrospectives
 ### Good
 
 - During class:
+
   - Review homework at start of each class
   - 30 minutes spent on revision topics chosen by class
   - Students close laptops during teaching
@@ -19,18 +20,21 @@ title: Retrospectives
   - Bringing home-cooked food
 
 - Homework/projects:
+
   - More exercise feedback
   - Short videos of how to do exercises and things
   - More teamwork
   - Group projects are good
-  - More student communication before starting group projects to reduce duplicate work and merge conflicts
+  - More trainee communication before starting group projects to reduce duplicate work and merge conflicts
 
 - Outside of class:
+
   - Slack communication
   - Students asking questions in Slack public channel
   - At least 1 mid-week meetup
 
 - Between modules:
+
   - Breaks after every module
   - More revision at end of module
 

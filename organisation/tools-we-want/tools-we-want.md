@@ -63,34 +63,34 @@ https://github.com/CodeYourFuture/wiki/tree/master/docs/students/common-response
 Consider url shortening, if necessary.
 
 How can the volunteer quickly select a stock response pointer?
-* slash commands with autocomplete
-* form with a picker
-* it's even possible a slack bot would recognise a long code post and offer the advice automatically. (especially if there's with no link to a repl.it / jsfiddle, codesandbox, etc in the thread.)
+
+- slash commands with autocomplete
+- form with a picker
+- it's even possible a slack bot would recognise a long code post and offer the advice automatically. (especially if there's with no link to a repl.it / jsfiddle, codesandbox, etc in the thread.)
 
 Context:
 
 The most active volunteers write the same response to slack messages over and over
 
-"how to ask a good question", 
-"reply-in-thread", 
-"don't give the answer away for other students", 
-"post a link to your smallest repeatable example", 
-"read the error message", 
+"how to ask a good question",
+"reply-in-thread",
+"don't give the answer away for other students",
+"post a link to your smallest repeatable example",
+"read the error message",
 "don't post screenshot of code",
-
 
 By using a fixed form of response, we can also track how often certain responses are needed, and if the same students are repeatedly being awarded those responses.
 
-
-
 ### Tool: timer for all zoom breakouts
+
 A way to communicate the remaining time in a breakout rooms task
-* should allow notification when more time is added
-* should allow a short title of the task at hand
+
+- should allow notification when more time is added
+- should allow a short title of the task at hand
 
 It's arguable that this would never be better than just doing it in slack.
 
-### Tool: random student picker (very low priority, fun authentic task for a student project)
+### Tool: random trainee picker (very low priority, fun authentic task for a trainee project)
 
 - Something to randomly pick a participant from the current live list of participants
   - pedagogy note, as a teacher often you'll want to be more strategic than this allows, and to "cold call" instead, but sometimes the random generator can add some fun. See https://teachlikeachampion.com/blog/cold-call-not-popsicle-sticks-hands-key-differences-matter/

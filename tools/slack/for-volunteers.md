@@ -8,32 +8,32 @@ Slack should be kept tidy and organised to maximise its usefulness.
 
 ### Fundamentals
 
-* Use threaded communication \(replies to a topic should always be in a thread\)
-* Edit your entries instead of adding extra information that you forgot in a message
-* Learn to tag people and groups \(every class is in a user group\)
-* Tag people only when you need their attention
-* Use plain text names instead of tags if you don’t require a response from people
-* Start a new thread if you are talking about a completely different topic
-* Know what channels to use to make posts and ask for questions
+- Use threaded communication \(replies to a topic should always be in a thread\)
+- Edit your entries instead of adding extra information that you forgot in a message
+- Learn to tag people and groups \(every class is in a user group\)
+- Tag people only when you need their attention
+- Use plain text names instead of tags if you don’t require a response from people
+- Start a new thread if you are talking about a completely different topic
+- Know what channels to use to make posts and ask for questions
 
-### Student communication
+### Trainee communication
 
-* Learn to use thumbs up to confirm announcement has been read
-* Communicate in advance if you want to work with another classmate and specify time and topic \(you can tag the class\)
-* Ensure you reply in threads to communication and tag relevant people to get their attention to arrange on working together
-* Use the student channel for organisation and non-class related discussion
-* Start calls in the channel so that other students can join you.
+- Learn to use thumbs up to confirm announcement has been read
+- Communicate in advance if you want to work with another classmate and specify time and topic \(you can tag the class\)
+- Ensure you reply in threads to communication and tag relevant people to get their attention to arrange on working together
+- Use the trainee channel for organisation and non-class related discussion
+- Start calls in the channel so that other students can join you.
 
   Ensure that it is titled with clear description of what are you working on
 
-* Delete any failed group calls to keep the channel clear
-* Inform the class as soon as possible if you are not planning to come or able to come to class
+- Delete any failed group calls to keep the channel clear
+- Inform the class as soon as possible if you are not planning to come or able to come to class
 
 ### Volunteer communication
 
-* Make sure to tag students and graduates for events and create user groups for core volunteers
-* Share social meetings and pictures in public channels
-* Summarise meetings in minutes using assigned shared document
+- Make sure to tag students and graduates for events and create user groups for core volunteers
+- Share social meetings and pictures in public channels
+- Summarise meetings in minutes using assigned shared document
 
 ## Effective Organisation on Slack
 
@@ -47,14 +47,14 @@ Most of this document is what I’ve gleaned from digital organising with other 
 
 Using Slack as an organisational tool has several problems
 
-* People do not check Slack enough
-  * Unless you work for a company that uses Slack extensively, it’s very easy to forget that Slack exists
-  * The longer people don’t check the Slack, the harder it is to catch up
-* Messages are easily sent off screen so they get missed
-  * Important messages are quickly sent off the first scroll of the page if there are lots of people talking
-* It’s hard to tell the difference between an important message and people chatting
-* Everyone’s messages have the same importance
-  * There’s no way to tell who is in charge
+- People do not check Slack enough
+  - Unless you work for a company that uses Slack extensively, it’s very easy to forget that Slack exists
+  - The longer people don’t check the Slack, the harder it is to catch up
+- Messages are easily sent off screen so they get missed
+  - Important messages are quickly sent off the first scroll of the page if there are lots of people talking
+- It’s hard to tell the difference between an important message and people chatting
+- Everyone’s messages have the same importance
+  - There’s no way to tell who is in charge
 
 However, I’ve noticed a few tricks that can help us cut through the noise.
 
@@ -96,15 +96,14 @@ Here is an example of a better, very urgent Slack Request:
 
 What does the second message do better than the first?
 
-* Formatting
-  * Splitting the request out onto separate lines help to break up the post
-  * Using bold to highlight the most important parts of the request to get people understand the request quickly.
-* Thread
-  * By tagging relevant people in the thread \(instead of into the post itself\) it encourages people to respond in the thread.
-* Emojis
-  * Whilst you shouldn’t use for every request. A line of emojis at the top of the request can help to break the message apart from others in the chat log.
-* Physical space
-  * The amount of screen real estate that the message takes up should be in line with how important the message is
-* Short messaging
-  * There’s no point in using long, run on sentences in a Slack message. Nobody will read it. Always be succinct.
-
+- Formatting
+  - Splitting the request out onto separate lines help to break up the post
+  - Using bold to highlight the most important parts of the request to get people understand the request quickly.
+- Thread
+  - By tagging relevant people in the thread \(instead of into the post itself\) it encourages people to respond in the thread.
+- Emojis
+  - Whilst you shouldn’t use for every request. A line of emojis at the top of the request can help to break the message apart from others in the chat log.
+- Physical space
+  - The amount of screen real estate that the message takes up should be in line with how important the message is
+- Short messaging
+  - There’s no point in using long, run on sentences in a Slack message. Nobody will read it. Always be succinct.
