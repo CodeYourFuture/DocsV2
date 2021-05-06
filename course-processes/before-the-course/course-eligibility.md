@@ -37,6 +37,7 @@ The general minimum institutional requirements are:
 * Applicants must meet English Language Requirements specified for a course.
 * Applicants must be able to commit to a course for its entire duration.
 * Applicants must be able to commit to all required sessions and time requirements specified by the course.
+* Applicants must live within 1 hour commute by car or public transportation from the city/region they apply.
 
 ## Our Ideal Trainee
 
