@@ -34,15 +34,15 @@ In his time in the tech industry, he had met the founders of tech companies acro
 
 At the same time, the European refugee crisis of 2015 had left the UK with a generally negative perception of forcibly displaced people, even though many of those with negative views had never met a refugee or asylum seeker.
 
-Seeking inspiration, Germán reached out to Manon Brulard, the founder of [HackYourFuture](https://www.hackyourfuture.net/) \(HYF\). Manon became a guide through the early stages of the process of setting up CodeYourFuture.
+Seeking inspiration, Germán reached out to Gijs Cortens, the founder of [HackYourFuture](https://www.hackyourfuture.net/) \(HYF\). Gijs became a guide through the early stages of the process of setting up CodeYourFuture.
 
 In mid-October 2016, CodeYourFuture had its first class with ten students from Syria, Afghanistan, India, Ethiopia and a stateless person, setting the foundations for our London chapter. An article that describes that first class was published in [Refugees Deeply](https://www.newsdeeply.com/refugees/articles/2016/10/19/welcome-to-londons-refugee-coding-school).
 
-In January 2017 Mozafar, one of our London mentors, relocated to Glasgow and started CYF Scotland. CYF Manchester followed in the summer of 2017, set up by a trainee and several volunteers. In 2019 Hannah, together with a group of volunteers, founded the chapter in Rome, Italy. That year we also started running a pilot in Medellin, Colombia.
+In January 2017 Mozafar, one of our London mentors, relocated to Glasgow and together with a group of volunteers started CYF Scotland. CYF Manchester followed in the summer of 2017, set up by a trainee and several volunteers. In 2019 Hannah, together with a group of volunteers, founded the chapter in Rome, Italy. That year we also started running a pilot in Medellin, Colombia.
 
 2019 also saw CodeYourFuture spend more time attracting locally born disadvantaged adults. Many of these underprivileged adults lack the skills they need to find meaningful work in the country of their birth, and yet they have few resources to gain these necessary skills.
 
-In 2020, we started in Birmingham in Partnership with Capgemini and the West Midlands Digital Skills Partnership. The South African chapter is due to begin its first class in Cape Town mid-2020.
+In 2020, we started in Birmingham in Partnership with Capgemini and the West Midlands Digital Skills Partnership. The South African chapter started their first class in Cape Town in mid-2020.
 
 Our goal is to create a grassroots movement that anyone around the world can replicate in their city.
 
@@ -54,7 +54,6 @@ Our goal is to create a grassroots movement that anyone around the world can rep
 * **Alec McCrindle** \(@Alec\): Design and Marketing
 * **Roberta Lifonso** \(@Roberta\): Operations
 * **Liliana Bermudes** \(@Liliana\): Community Building & Partnerships
-* **Nima Karimi** \(@nima\): CTO
 * **Gianluca Palombo** \(@Gianluca\): Glasgow
 * **Barny Dathan** \(@Barnaby Dathan\): North West
 * **Claire** **Bickley** \(@Claire\): West Midlands
