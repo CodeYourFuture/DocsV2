@@ -11,7 +11,7 @@ title: Zoom training call overview
 
 ### **Before the call**
 
-* Make sure you have access to the relevant \[region/team\]@codeyourfuture.io Zoom account for the session \(ask one of @cyf-mgmt on Slack ![](https://lh5.googleusercontent.com/v_muMtKRnhYOUSxa33hqIRcZ3hfjiShV90oGJy01wMKW8gdoQOMPUpJz77V5pfDRJHTYml4mr44nHu4ZLCrL42vReEGHj8ILEdMqApc_1o6SxmfvZRT__JO3Uj6Qe9xW8Rysuyjq)
+* Make sure you have access to the relevant \[region/team\]@codeyourfuture.io Zoom account for the session \(ask one of @cyf-mgmt on Slack ![](https://lh5.googleusercontent.com/v_muMtKRnhYOUSxa33hqIRcZ3hfjiShV90oGJy01wMKW8gdoQOMPUpJz77V5pfDRJHTYml4mr44nHu4ZLCrL42vReEGHj8ILEdMqApc_1o6SxmfvZRT__JO3Uj6Qe9xW8Rysuyjq)\)
 * Message the lead teacher\(s\) and introduce yourself as Zoom Master \(see [Class Planner](http://classplanner.codeyourfuture.io) for who has signed up\). Establish whether they have any specific Zoom admin requirements ![](https://lh4.googleusercontent.com/iQ8qCWk50e_vWaXcau1fg24HmM4RdJ8UlQv3NVSDRXmKgBQAeYdbdipezMa3C6eVD5wgABPk4GDAQFw5waqkFQC3_YUuReFTsR0kf4WEN1JEETZ72gxh2gJMa5t8gbX7pmBD0Vli)
   * For example, they may want specific numbers assigned to breakout rooms or want you to help them out by monitoring the Zoom chat for questions.
 * Make sure you have access to the relevant Class Trainee Progress Tracker for your region
