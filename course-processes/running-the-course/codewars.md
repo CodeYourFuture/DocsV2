@@ -63,7 +63,7 @@ The first thing you’ll see is the details page - it will describe the problem.
 
 You can read the description before you go into the kata to decide if you want to attempt it. 
 
-### **Read the description**
+### **1. Read the description**
 
 ![](https://lh5.googleusercontent.com/3MLG8PLGw5MB6COJUEQ5eAOpIEV-4pS62EHduDP89kUqLOVsx5YIftBC6k7-lGrDJlkfkoJAE3euTDSHz2zY7snlYI3SJY32hwURKAaLMNyZK2r-wbkt9QA1rtTT9wwuzbjcw7kF)
 
@@ -79,7 +79,7 @@ Input constraints / limits of each value -- They are saying that there aren’t 
 
 And here it gives us a test case -- here are inputs \(h, m, s\) and outputs \(result\) given. Let’s go into the kata by hitting Train.
 
-### **Read the tests**
+### **2. Read the tests**
 
 And  look, we can see the same values over here, in the tests panel. 
 
@@ -89,8 +89,7 @@ The tests are showing inputs on the left and the expected output on the right. I
 
 The function past\(0,1,1\) must return the value 61000 for the test to pass.
 
-So we could copy these answers into our code and just give the right outputs for the right inputs. We could even delete these other tests.   
-
+So we could copy these answers into our code and just give the right outputs for the right inputs. We could even delete these other tests. 
 
 ![](https://lh6.googleusercontent.com/s_YM5EyQIBP1glKG9vszdK_55RZN9ukTDb3CbzCsMPYbsI8sWI-mzKK6ab2W3NYGVqH_MROQ3x-xHl4RIN6eftkBdep7a2fbt8hWMeQp0loWlNmz-rnBXJ9_A3aDCzPye-jkqaju)
 
@@ -102,7 +101,7 @@ So we can’t rewrite the tests to pass the code. We’ve got to rewrite the cod
 
 Let’s work this problem
 
-### **Read the test results**
+### **3. Read the test results**
 
 So I will reset by hitting the reset button and run the kata tests again.
 
@@ -117,20 +116,17 @@ How many milliseconds are there in an hour, anyway? I’m gonna google that.
 
 ![](https://lh6.googleusercontent.com/Nto7oAm5psoZupQrQGzR0ZSbB4PYccr_drMeab9_WEtI9_rAxEjZuFuG8Yk_30qUX3lfG5f9H36wxQsQoRNBC6JBLLgdR-mf2-rDTl_iyNOpOPCKw_eeuOvkzbc4BWXGdokBSuhk)
 
-Oh look at that - google has a converter right there. Wow, that’s a big number! I’m going to copy and paste that and then hit test. Test often.  
-
+Oh look at that - google has a converter right there. Wow, that’s a big number! I’m going to copy and paste that and then hit test. Test often.
 
 ![](https://lh6.googleusercontent.com/lVWkyoBHfLJFQt_mnhH3-9C1M3ukhlS_LGZXuzYHDtxiH3fcTrINBm5k6canJYtJqHtAlUeWvaXX6D0RIXsCRq_Mu1l9wOVFEhsxBSjSCL7LyC5Zl9-OLV8-CiWAK2yV5b6WPN4H)
 
-Hm, not right yet -- I guess I need to try doing the same thing for the minutes and the seconds and then adding them all together.   
-
+Hm, not right yet -- I guess I need to try doing the same thing for the minutes and the seconds and then adding them all together. 
 
 ![](https://lh3.googleusercontent.com/3sohLqEZR1MGu8Y2JFpawUt4x4w6CIYnCOdvTGTnc0EXZUl3vXBW8smrFkl_XBgZw29HetY2dGQuqG_ZC696h2RcfTQ_9lkGGBCH3tqAzEeXZC8zpBkqyEORkD0esjJzGyX6kjgu)
 
 ![](https://lh3.googleusercontent.com/91Xf1wxchC6Je2VS472VBwMCRiE8sCyH3RF1-fL6qw2sLlGFonQemRf35nHTE3ocTUTmvySsoZSzXiacJaJ4wvMFjXwYm17MLMMI9DLsXpEAq0kvhArBudqfxmthuHrGHoj3VVdJ)
 
-Oh look, success! But this is only a limited number of tests.   
-
+Oh look, success! But this is only a limited number of tests. 
 
 ![](https://lh5.googleusercontent.com/KCdiJh1Qx9jI1bbSjE5OCGMBsZfuxo3jgp5IkJCKZsEKHAMpizTfbrk63TqQxrxkFW7smcz7tMpwme4lVxqY0PQa9J2kz2yT9ldSLEII7UbNYumN9qpa3dgv1MkG8iWeXW35rcxH)
 
@@ -138,20 +134,19 @@ I’ll hit the blue attempt button \(you can attempt over and over, and you shou
 
 ![](https://lh4.googleusercontent.com/2tmUkuIfjJZXedur-8BYB_8BVZmHqWNJMCUVbTBQp71zRsGNWDfee4ovsH1Z8m4H326graTbJev-NDHyB56HmaLeSfFmiUlHxXHSbz91BrXQ1AgGp3Wa9HSOEK1PUDgbETl22mgq)
 
-### **Refactor**
+### **4. Refactor**
 
 Now I’ve passed all my tests I can refactor and make it all tidy. Maybe I’ll make it a fat arrow function… 
 
 ![](https://lh5.googleusercontent.com/GWYcCKp-2Ybtp5y2aIprRm2qcH00FlYwXKf4NaF9Di88IA7mU50BRCsr2Xh8y8J_Ar-yaQyZwV7OXEpu1C2DrhW4pzGwjqJYOK2EGnf91xrziEzbe-38JgKZurHhrTNNq866-0IG)
 
-But look, it seems like I’ve solved this kata before so I’ve got my old solutions right here in this tab. What did I say?  
-
+But look, it seems like I’ve solved this kata before so I’ve got my old solutions right here in this tab. What did I say?
 
 ![](https://lh6.googleusercontent.com/QA4fyWc0rAtsast5NVzMfKuf1bF8XxaXaUhc34H4_rD5GLIvovmSvfCkqQxruhZAjCzrMU_pWFBy0pYLTqEXa50GIjfJNeM1yFpmJkY5pSjBT4UIVkcfTaEAcCWRhtd_nYc2sI7J)
 
 That’s a pretty good point.  I could one line this, and if I am practising one liners that is what I should do. But when I come back to this kata, I’m not convinced that I would know what these numbers mean. I wouldn’t know what 3.6e+6 meant, for sure. So maybe I should identify these values. I could do it the way I did last time, except I would spell milliseconds correctly. Hit submit.
 
-### **Compare**
+### **5. Compare**
 
 And now we get to go and see how other people solved it. Click around the different filters. Look at all these different answers!   
 
