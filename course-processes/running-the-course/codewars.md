@@ -59,7 +59,7 @@ First, click [this link](https://www.codewars.com/users/CodeYourFuture/authored_
 
 Choose a collection by clicking the title. You will see the collection view. If you click the green button marked ‘Train Now’, you’ll cycle through all the kata in this collection. Or you can go right to one you find interesting by clicking the title.
 
-The first thing you’ll see is the details page - it will describe the problem. Sometimes these descriptions are very clear, but more often you will have to figure out what the kata wants by progressively working through with tests. And that’s what we want you to do. 
+The first thing you’ll see is the details page - it will describe the problem. Sometimes these descriptions are very clear, but more often you will have to figure out what the kata wants by progressively working through with tests. **And that’s what we want you to do**. 
 
 You can read the description before you go into the kata to decide if you want to attempt it. 
 
@@ -71,13 +71,15 @@ Okay, so this one wants us to calculate the number of milliseconds given in hour
 
 What else does this kata description give us? They don’t all give you the same things, but here are some common clues you might get.
 
-![](https://lh4.googleusercontent.com/NesGsI-ZBB67N8XHU24U3VdHaRdHItCbfDPY1xNdGTYbCvQg1mFUHp_aauzdXnJV1HI_7r_zUODgSP8-gCdtNfyimReqeaSaoI5_Uqy6d5WlcIHw9juJ0JTIurt0Xvhyo9kDmXh6)
+![Input constraints](https://lh4.googleusercontent.com/NesGsI-ZBB67N8XHU24U3VdHaRdHItCbfDPY1xNdGTYbCvQg1mFUHp_aauzdXnJV1HI_7r_zUODgSP8-gCdtNfyimReqeaSaoI5_Uqy6d5WlcIHw9juJ0JTIurt0Xvhyo9kDmXh6)
 
-Input constraints / limits of each value -- They are saying that there aren’t 61 minutes, or 135 minutes in an hour, or a million hours in a day. We don’t need to handle those kinds of values in this kata. We can be sure it’s always going to follow the rules of the 24 hour clock.
+**Input constraints / limits of each value** 
 
-![](https://lh6.googleusercontent.com/re-3U15uquZk65F_QliOIqG0PAIG6WDBu_rE-YF5IoZinTfcjVRBaOv6zthK6qvnJ_IJaETvcOE8lxl0Sgk5C-8RF9mNYxII__pjNeUUwGyKJe4MSJgkUk0KbDphhv1urWt7EaCr)
+ They are saying that there aren’t 61 minutes, or 135 minutes in an hour, or a million hours in a day. We don’t need to handle those kinds of values in this kata. We can be sure it’s always going to follow the rules of the 24 hour clock.
 
-And here it gives us a test case -- here are inputs \(h, m, s\) and outputs \(result\) given. Let’s go into the kata by hitting Train.
+![A test case shows inputs and expected result](https://lh6.googleusercontent.com/re-3U15uquZk65F_QliOIqG0PAIG6WDBu_rE-YF5IoZinTfcjVRBaOv6zthK6qvnJ_IJaETvcOE8lxl0Sgk5C-8RF9mNYxII__pjNeUUwGyKJe4MSJgkUk0KbDphhv1urWt7EaCr)
+
+And here it gives us a test case -- here are inputs \(**h**, **m**, **s**\) and outputs \(**result**\) given. Let’s go into the kata by hitting Train.
 
 ### **2. Read the tests**
 
@@ -87,17 +89,17 @@ And  look, we can see the same values over here, in the tests panel.
 
 The tests are showing inputs on the left and the expected output on the right. It’s saying the return value of the function past\(\), when given those inputs, must be equal to the value given after the comma.
 
-The function past\(0,1,1\) must return the value 61000 for the test to pass.
+The function **past\(0,1,1\)** must return the value **61000** for the test to pass.
 
 So we could copy these answers into our code and just give the right outputs for the right inputs. We could even delete these other tests. 
 
 ![](https://lh6.googleusercontent.com/s_YM5EyQIBP1glKG9vszdK_55RZN9ukTDb3CbzCsMPYbsI8sWI-mzKK6ab2W3NYGVqH_MROQ3x-xHl4RIN6eftkBdep7a2fbt8hWMeQp0loWlNmz-rnBXJ9_A3aDCzPye-jkqaju)
 
-And look, green! But, would that solve the kata? No. If we change the inputs then the answers will be wrong. And the kata will do that for you. If you hit the blue “Attempt” button, it will run through loads more tests and look, now our answer doesn’t work any more. 
+And look, green! But, would that solve the kata? **No**. If we change the inputs then the answers will be wrong. And the kata will do that for you. If you hit the blue “Attempt” button, it will run through loads more tests and look, now our answer doesn’t work any more. 
 
 ![](https://lh5.googleusercontent.com/FhtDmTYdbYuwOz2SuhdtCrDuFP-RmUG0pAAx5OxOlmnHYyxJ2nFAxmhfpGn6mbgedyFfcO4O6bWolioJ9HFTXwgyWu2zHZV9LJ-3hAsNyOnKdvu3jN-004zQzWtWDzTaLKXnwyFL)
 
-So we can’t rewrite the tests to pass the code. We’ve got to rewrite the code to pass the tests.
+So we can’t rewrite the tests to pass the code. **We’ve got to rewrite the code to pass the tests.**
 
 Let’s work this problem
 
@@ -130,7 +132,7 @@ Oh look, success! But this is only a limited number of tests.
 
 ![](https://lh5.googleusercontent.com/KCdiJh1Qx9jI1bbSjE5OCGMBsZfuxo3jgp5IkJCKZsEKHAMpizTfbrk63TqQxrxkFW7smcz7tMpwme4lVxqY0PQa9J2kz2yT9ldSLEII7UbNYumN9qpa3dgv1MkG8iWeXW35rcxH)
 
-I’ll hit the blue attempt button \(you can attempt over and over, and you should\).
+I’ll hit the blue attempt button \(you can attempt over and over, _and you should_\).
 
 ![](https://lh4.googleusercontent.com/2tmUkuIfjJZXedur-8BYB_8BVZmHqWNJMCUVbTBQp71zRsGNWDfee4ovsH1Z8m4H326graTbJev-NDHyB56HmaLeSfFmiUlHxXHSbz91BrXQ1AgGp3Wa9HSOEK1PUDgbETl22mgq)
 
@@ -161,8 +163,7 @@ Take the “best practices” with a pinch of salt - especially at beginner leve
 
 ## Recap
 
-So you need to:  
-
+So you need to:
 
 * Read the description
 * Run the tests
@@ -172,10 +173,14 @@ So you need to:
 * Refactor at the end
 * Read others solutions
 
-So that’s Codewars. Join the CYF clan. Join the slack channel. Find the collections, and get some exercise.  
+So that’s Codewars. [Join the CodeYourFuture clan](https://www.codewars.com/users/edit). Join the slack channel. Find the collections, and get some exercise.  
 
 
-https://www.codewars.com/users/CodeYourFuture/authored\_collections  
+Clan name: **CodeYourFuture**  
+__Slack Channel: **\#cyf-codewars**  
+Collections: ****[**CYF Modules**](https://www.codewars.com/users/CodeYourFuture/authored_collections)\*\*\*\*
+
+  
   
   
 
