@@ -159,7 +159,7 @@ We use this tool to make it easier to use Git since it can be quite hard for a b
 
 ### 7.1\) Gmail
 
-We use a lot of Google products in the class so it's essential that everyone has a Gmail address. If you do not already have one then please register below.
+We use a lot of Google products in the class so it's essential that everyone has a Gmail address. If you do **not** already have one then please register below.
 
 [Create email address here](https://accounts.google.com/SignUp)
 
@@ -173,5 +173,13 @@ We use Github to submit our homework and to share code with each other. Please m
 
 As part of being a trainee at CodeYourFuture you should be a part of our Github Team.
 
-Please speak to your city coordinator to get invited to your Classes github team or post on Slack.
+Please speak to your city coordinator to get invited to your Classes Github team or post on Slack.
+
+### 7.3\) Codewars
+
+We'll be using Codewars later in the course help us practice our JavaScript. 
+
+Follow the setup instructions here to get setup.
+
+[Setup Codewars](../running-the-course/codewars.md#setup-codewars)
 
