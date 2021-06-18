@@ -1,13 +1,13 @@
 # Codewars
 
-Codewars is a site that has thousands of programming problems you can use to practice what you’ve learned in class.
+[Codewars](https://www.codewars.com) is a site that has thousands of programming problems you can use to practice what you’ve learned in class.
 
 On Codewars these problems are called Kata. A Kata is a little workout. Solving lots of kata gives you lots of practice in:
 
-* writing JavaScript
-* breaking down problems
-* recognising common questions
-* building up your JavaScript muscles.
+* writing JavaScript 💻
+* breaking down problems 🧩
+* recognising common questions 🕵️‍♀️
+* building up your JavaScript muscles 💪
 
 ## Setup Codewars
 
