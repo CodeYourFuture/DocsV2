@@ -7,28 +7,33 @@ title: Technical Interview Guide
 
 ## The Aim
 
-The aim of a tech part of the interview is to determine if:
+The aim of the technical interview is to find out the following:
 
-1. The interviewee understands the HTML and CSS basics they've presumably learned and used to a sufficient level to allow them to manipulate their page further or to recreate it from scratch \(if they were asked to\).
-2. The interviewee has picked up any process for searching for and incorporating new information
-3. The interviewee can reason through some small problems
-4. The interviewee can express technical questions or explanations fairly clearly in english
+1. Understanding: The interviewee understands the HTML and CSS basics they've presumably learned and used to a sufficient level to allow them to manipulate their page further or to recreate it from scratch \(if they were asked to\).
+2. Approach: The interviewee has picked up a process for searching for and incorporating new information
+3. Knowledge: The interviewee can reason through some small problems
+4. Reponses: The interviewee can express technical questions or explanations fairly clearly in English
 
-The conversation arising from the questions will also expose trainee's levels of comprehension and articulation in the English language, and their some of their thought process.
+These questions reduce the possibility of interviewees reciting prepared answers without genuine understanding.  
 
-These questions avoid the possibility of them reciting prepared, scripted answers with no/limited understanding.
 
 ## Questions
 
-### Can you give me specific questions?
+### Can you give me specifics?
 
-Specific questions are hard to suggest as each trainee will have created something different.
+Trainees are asked to build a product landing page and a tribute page as part of their application. The details of these tasks are here:
 
-A few are suggested below, for the "product landing page" task.
+[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
-### What sort of questions should I ask, then?
+[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) 
 
-Ask questions which would require:
+* Find the applicant on the dashboard
+* Fork submitted work in Codepen
+* Quickly look over their work beforehand \(5-10 mins\)
+
+### What sort of questions should I ask?
+
+Ask short questions which would require at least one of the following:
 
 * change of element types
 * change of element attributes
@@ -93,15 +98,15 @@ For each question consider the following areas
 ### Understanding the question \(forget about the answer for now\)
 
 * Clearly understood the question
-* maybe understood the question
-* probably didn't understand the question
+* Maybe understood the question
+* Probably didn't understand the question
 * I had no chance to assess this
 
 ### Approach
 
-* showed an excellent approach to the question
-* showed partial signs of a good approach to the question
-* showed a poor approach \(e.g. helplessness\)
+* Showed an excellent approach to the question
+* Showed partial signs of a good approach to the question
+* Showed a poor approach \(e.g. helplessness\)
 * I had no chance to assess this
 
 ### Knowledge
@@ -113,12 +118,12 @@ For each question consider the following areas
 
 ### Taking feedback
 
-* neutral - no opportunity for feedback arose
-* clearly took feedback well \(acknowledged and/or incorporated or rejected with reasoning\)
-* took feedback poorly \(denial / no acknowledgement\)
+* Neutral - no opportunity for feedback arose
+* Took feedback well \(acknowledged and/or incorporated or rejected with reasoning\)
+* Took feedback poorly \(denial / no acknowledgement\)
 * I had no chance to assess this
 
 ### Other notes
 
-* any other notes on the question?
+* Any other notes on the question?
 
