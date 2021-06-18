@@ -37,11 +37,15 @@ Make sure you scroll to the bottom of the page and click "Update" to save.
 
 We’ve made collections of kata and synced them to the Syllabus. Here are the CYF collections: [https://www.codewars.com/users/CodeYourFuture/authored\_collections](https://www.codewars.com/users/CodeYourFuture/authored_collections)
 
-Choose a collection by clicking the title. You will see the collection view. If you click the green button marked ‘Train Now’, you’ll cycle through all the kata in this collection. Or you can go right to one you find interesting by clicking the title.
+To edit these collections please speak to your City Coordinator, Syllabus Team or Education Director.
 
 ![](https://lh5.googleusercontent.com/gXMA6mT6aUjcJ1Ma6sQZOOWjAT9yVbq1woKfqr8gIBa5FQ1IqovN-zqbYeuOuCy_4iKue7ldwB57fbL7V-vjRw6S4BDgx2ZjZaBAg1dU2UBcYbynT4vLYkP3WaLTDfK3mm-GsU57)
 
 ## How To Use Kata
+
+First, click [this link](https://www.codewars.com/users/CodeYourFuture/authored_collections) to view all of the CodeYourFuture collections.
+
+Choose a collection by clicking the title. You will see the collection view. If you click the green button marked ‘Train Now’, you’ll cycle through all the kata in this collection. Or you can go right to one you find interesting by clicking the title.
 
 The first thing you’ll see is the details page - it will describe the problem. Sometimes these descriptions are very clear, but more often you will have to figure out what the kata wants by progressively working through with tests. And that’s what we want you to do. 
 
