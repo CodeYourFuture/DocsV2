@@ -2,12 +2,36 @@
 
 Codewars is a site that has thousands of programming problems you can use to practice what you’ve learned in class.
 
-On Codewars these problems are called kata. A kata is a little workout. Solving lots of kata gives you lots of practice in:
+On Codewars these problems are called Kata. A Kata is a little workout. Solving lots of kata gives you lots of practice in:
 
 * writing JavaScript
 * breaking down problems
 * recognising common questions
 * building up your JavaScript muscles.
+
+## Setup Codewars
+
+### 1. Sign Up
+
+To sign up to Codewars visit this link and complete their simple tutorial
+
+[https://www.codewars.com/join](https://www.codewars.com/join)
+
+### 2. Setup Account
+
+After you've signed in you'll want to go to "Account Settings" at the top right of the screen. 
+
+![](../../.gitbook/assets/image%20%282%29.png)
+
+### 3. Join Our Clan
+
+Codewars Clans are teams so that we can track how many challenges we've completed compared to other people. It also helps us share our solutions when we've completed them. 
+
+To join the CodeYourFuture clan you should enter "CodeYourFuture" as you see in the screenshot below
+
+![](../../.gitbook/assets/image%20%283%29.png)
+
+Make sure you scroll to the bottom of the page and click "Update" to save.
 
 ## CodeYourFuture Collections
 
@@ -17,7 +41,7 @@ Choose a collection by clicking the title. You will see the collection view. If 
 
 ![](https://lh5.googleusercontent.com/gXMA6mT6aUjcJ1Ma6sQZOOWjAT9yVbq1woKfqr8gIBa5FQ1IqovN-zqbYeuOuCy_4iKue7ldwB57fbL7V-vjRw6S4BDgx2ZjZaBAg1dU2UBcYbynT4vLYkP3WaLTDfK3mm-GsU57)
 
-## The Kata
+## How To Use Kata
 
 The first thing you’ll see is the details page - it will describe the problem. Sometimes these descriptions are very clear, but more often you will have to figure out what the kata wants by progressively working through with tests. And that’s what we want you to do. 
 
