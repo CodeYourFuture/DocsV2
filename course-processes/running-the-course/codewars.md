@@ -33,9 +33,21 @@ To join the CodeYourFuture clan you should enter "CodeYourFuture" as you see in 
 
 Make sure you scroll to the bottom of the page and click "Update" to save.
 
+### 4. Join the Slack Channel
+
+We've got a community of other CYF Trainees also working on Codewars exercises. You can find them at
+
+[\#cyf-codewars](https://codeyourfuture.slack.com/archives/C019GDCRA2J) on Slack
+
+Join the channel now!
+
 ## CodeYourFuture Collections
 
-We’ve made collections of kata and synced them to the Syllabus. Here are the CYF collections: [https://www.codewars.com/users/CodeYourFuture/authored\_collections](https://www.codewars.com/users/CodeYourFuture/authored_collections)
+We’ve made collections of kata and synced them to the Syllabus. 
+
+Here are the CYF collections:
+
+[https://www.codewars.com/users/CodeYourFuture/authored\_collections](https://www.codewars.com/users/CodeYourFuture/authored_collections)
 
 To edit these collections please speak to your City Coordinator, Syllabus Team or Education Director.
 
