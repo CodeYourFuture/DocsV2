@@ -92,6 +92,4 @@ This page aims to give you the best links for working as a developer and improvi
 * [SQL Zoo](https://sqlzoo.net/) — practice SQL
 * [SQL Bolt](https://sqlbolt.com/) — practice SQL
 * [Learn Git branching](https://learngitbranching.js.org/) — practice Git branching
-* [Front End Web Development Quiz](http://davidshariff.com/quiz/)
-* [JavaScript Web Quiz](http://davidshariff.com/js-quiz/) \(advanced\)
 
