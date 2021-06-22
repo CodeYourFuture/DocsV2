@@ -88,8 +88,10 @@ This page aims to give you the best links for working as a developer and improvi
 * [CSS Diner](https://flukeout.github.io/) — practice CSS selectors
 * [Flexbox Froggy](https://flexboxfroggy.com/) — practice CSS flexbox
 * [Flexbox Defence](http://www.flexboxdefense.com/) — practice CSS flexbox
+* [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies) - master CSS flexbox
 * [Grid Garden](http://cssgridgarden.com/) — practice CSS grid
 * [SQL Zoo](https://sqlzoo.net/) — practice SQL
 * [SQL Bolt](https://sqlbolt.com/) — practice SQL
 * [Learn Git branching](https://learngitbranching.js.org/) — practice Git branching
+* [Oh My Git](https://ohmygit.org/)! - play the Git game
 
