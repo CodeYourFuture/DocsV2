@@ -55,7 +55,7 @@ To edit these collections please speak to your City Coordinator, Syllabus Team o
 
 ## How To Use Kata
 
-First, click [this link](https://www.codewars.com/users/CodeYourFuture/authored_collections) to view all of the CodeYourFuture collections.
+First, click this [link to view all of the CodeYourFuture collections.](https://www.codewars.com/users/CodeYourFuture/authored_collections)
 
 Choose a collection by clicking the title. You will see the collection view. If you click the green button marked ‘Train Now’, you’ll cycle through all the kata in this collection. Or you can go right to one you find interesting by clicking the title.
 
