@@ -29,16 +29,12 @@ This page aims to give you the best links for working as a developer and improvi
 
 ## Software craftsmanship
 
-* You should code with these
+* You should code with these [programming principles](https://github.com/webpro/programming-principles) in mind. 
+  * Focus on what's in the _Generic_ section — the _Inter-Module/Class_
 
-  [programming principles](https://github.com/webpro/programming-principles)
+    and _Module/Class_ sections are relevant for object-oriented programming
 
-  in mind. Focus on what's in the _Generic_ section — the _Inter-Module/Class_
-
-  and _Module/Class_ sections are relevant for object-oriented programming
-
-  \(OOP\) developers
-
+    \(OOP\) developers
 * [decent-code](https://robatwilliams.github.io/decent-code/)
 
   is a thorough guide on good programming practices to create quality code
