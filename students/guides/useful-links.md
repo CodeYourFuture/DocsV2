@@ -35,13 +35,8 @@ This page aims to give you the best links for working as a developer and improvi
     and _Module/Class_ sections are relevant for object-oriented programming
 
     \(OOP\) developers
-* [decent-code](https://robatwilliams.github.io/decent-code/)
-
-  is a thorough guide on good programming practices to create quality code
-
-* [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide)
-
-  is a guide on good practices for writing commit messages
+* [Decent Code](https://robatwilliams.github.io/decent-code/) is a thorough guide on good programming practices to create quality code
+* [Commit Messages Guide](https://github.com/RomuloOliveira/commit-messages-guide) is a guide on good practices for writing commit messages
 
 ## Professionalism
 
