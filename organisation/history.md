@@ -49,16 +49,16 @@ Our goal is to create a grassroots movement that anyone around the world can rep
 ## People supporting the core structure of the organisation
 
 * **German Bencci** \(@german\): General Strategy, Expansion, Partnerships
-* **Chris Owen** \(@Chris Owen\): Education and Pedagogy
+* **Sally McGrath** \(@Sally McGrath\): Education and Pedagogy
 * **Candy DeRoy** \(@Candy DeRoy\): Volunteers and Personal Development
 * **Alec McCrindle** \(@Alec\): Design and Digital Marketing
 * **Roberta Lifonso** \(@Roberta\): Operations
-* **Liliana Bermudes** \(@Liliana\): Community Building & Partnerships
+* **Liliana Bermudes** \(@Liliana\): Community Building & Partnerships, London coordination
 * **Nima Karimi** \(@nima\): CTO
-* **Gianluca Palombo** \(@Gianluca\): Glasgow
-* **Barny Dathan** \(@Barnaby Dathan\): North West
-* **Claire** **Bickley** \(@Claire\): West Midlands
-* **Aaishah Khan** \(@Aaishah\): West Midlands
+* **Gianluca Palombo** \(@Gianluca\): Glasgow coordination
+* **Barny Dathan** \(@Barnaby Dathan\): North West coordination
+* **Claire** **Bickley** \(@Claire\): West Midlands management
+* **Aaishah Khan** \(@Aaishah\): West Midlands coordination
 * **Hazel Todhunter:** Finance
 
 You may see their names pop up in our Slack channels from time to time!
