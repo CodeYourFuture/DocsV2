@@ -15,7 +15,7 @@ On Codewars these problems are called Kata. A Kata is a little workout. Solving 
 
 To sign up to Codewars visit this link and complete their simple tutorial
 
-[https://www.codewars.com/join](https://www.codewars.com/join)
+[https://www.codewars.com/join](www.codewars.com/r/Q6zR9g)
 
 ### 2. Setup Account
 
