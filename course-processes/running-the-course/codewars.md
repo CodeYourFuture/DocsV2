@@ -49,7 +49,7 @@ Here are the CYF collections:
 
 [https://www.codewars.com/users/CodeYourFuture/authored\_collections](https://www.codewars.com/users/CodeYourFuture/authored_collections)
 
-To edit these collections please speak to your City Coordinator, Syllabus Team or Education Director.
+To edit these collections, use the pinned thread in #cyf-codewars channel. 
 
 ![](https://lh5.googleusercontent.com/gXMA6mT6aUjcJ1Ma6sQZOOWjAT9yVbq1woKfqr8gIBa5FQ1IqovN-zqbYeuOuCy_4iKue7ldwB57fbL7V-vjRw6S4BDgx2ZjZaBAg1dU2UBcYbynT4vLYkP3WaLTDfK3mm-GsU57)
 
