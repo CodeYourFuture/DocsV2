@@ -118,8 +118,8 @@ For each question consider the following areas
 
 ### Taking feedback
 
-* Neutral - no opportunity for feedback arose
 * Took feedback well \(acknowledged and/or incorporated or rejected with reasoning\)
+* Took feedback with prompting
 * Took feedback poorly \(denial / no acknowledgement\)
 * I had no chance to assess this
 
