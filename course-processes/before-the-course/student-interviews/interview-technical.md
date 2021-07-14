@@ -49,6 +49,8 @@ Try not to get bogged down in minutia - we're looking for a good overall underst
 
 It's fine to ask questions that the trainee might not know the answer to or which might be considered advanced. Just be positive and make it clear that they're not expected to know the answer!
 
+**Do not ask _all_ these sample questions!** Please just choose two or three.
+
 ### A few sample questions for the product landing page task
 
 How would you change your code if...
@@ -93,19 +95,19 @@ Here are some likely hints \(if they struggle for a while\):
 
 ## Rubric
 
-For each question consider the following areas
+You may have asked more than one question, or you may have only had time for one. For each question you asked, consider the following areas. Now, overall, place the candidate on the scale provided.
 
 ### Understanding the question \(forget about the answer for now\)
 
 * Clearly understood the question
 * Maybe understood the question
-* Probably didn't understand the question
+* Probably didn't understand the questions
 * I had no chance to assess this
 
 ### Approach
 
 * Showed an excellent approach to the question
-* Showed partial signs of a good approach to the question
+* Showed partial signs of a good approach to the questions
 * Showed a poor approach \(e.g. helplessness\)
 * I had no chance to assess this
 
@@ -125,5 +127,5 @@ For each question consider the following areas
 
 ### Other notes
 
-* Any other notes on the question?
+* Any other notes on the technical interview or candidate's performance? Please contribute your insights, and any important context to your grade, in the text box.
 
