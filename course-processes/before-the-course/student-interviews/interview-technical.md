@@ -14,8 +14,7 @@ The aim of the technical interview is to find out the following:
 3. Knowledge: The interviewee can reason through some small problems
 4. Reponses: The interviewee can express technical questions or explanations fairly clearly in English
 
-These questions reduce the possibility of interviewees reciting prepared answers without genuine understanding.  
-
+These questions reduce the possibility of interviewees reciting prepared answers without genuine understanding.
 
 ## Questions
 
@@ -25,7 +24,7 @@ Trainees are asked to build a product landing page and a tribute page as part of
 
 [https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
-[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) 
+[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 
 * Find the applicant on the dashboard
 * Fork submitted work in Codepen
@@ -49,7 +48,7 @@ Try not to get bogged down in minutia - we're looking for a good overall underst
 
 It's fine to ask questions that the trainee might not know the answer to or which might be considered advanced. Just be positive and make it clear that they're not expected to know the answer!
 
-**Do not ask _all_ these sample questions!** Please just choose two or three.
+**Do not ask** _**all**_ **these sample questions!** Please just choose two or three.
 
 ### A few sample questions for the product landing page task
 

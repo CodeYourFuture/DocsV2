@@ -172,6 +172,6 @@ So you need to:
 So that’s Codewars. [Join the CodeYourFuture clan](https://www.codewars.com/users/edit). Join the slack channel. Find the collections, and get some exercise.
 
 Clan name: **CodeYourFuture**  
-\_\_Slack Channel: **\#cyf-codewars**  
-Collections: **\*\*\[**CYF Modules_\*\]\(_[https://www.codewars.com/users/CodeYourFuture/authored\_collections\)\](https://www.codewars.com/users/CodeYourFuture/authored_collections%29\)\*\*\*
+Slack Channel: **\#cyf-codewars**  
+Collections: [**CYF Modules**](https://www.codewars.com/users/CodeYourFuture/authored_collections) ****
 
