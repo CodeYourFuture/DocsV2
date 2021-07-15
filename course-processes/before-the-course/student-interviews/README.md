@@ -32,7 +32,7 @@ Make sure you have all of the following information before you have your first i
 
 Make sure you have at least two volunteers welcoming the Applicants to the interviews. Record their attendance, give them a tour of the premises and get them a coffee or a tea. These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe.
 
-Take time to explain that the interviews are to get to know them better and that if they've made it this far then we think they have great potential.
+See below for explaining how the interviews will work. 
 
 ### Greeters \(for online interviews\)
 
