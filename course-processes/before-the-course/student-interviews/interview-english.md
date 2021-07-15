@@ -20,12 +20,12 @@ Set the candidate at ease:
 
 ### If the candidate CAN share their screen and type
 
-* Share with them this list of instructions
-  * [https://gist.github.com/nbogie/b9a3e377607b85754f71ff3043bc68eb](https://gist.github.com/nbogie/b9a3e377607b85754f71ff3043bc68eb)
+* Share with them the instructions for the task
+  * [https://codepen.io/enz0/full/eYzOeVg](https://codepen.io/enz0/full/eYzOeVg)
+  * Ask them screenshare so you can watch 
 * Ask them to read and follow the instructions, step by step.
 * Remind them there is no hurry - it is not a timed task.
 * Ask them to "think out loud" where possible, but make it clear you will be silent.
-* \(An early instruction will have them screenshare so you can watch.\)
 * Do not clarify the text for them unless it's obviously our fault.
 
 ### If the candidate cannot share their screen or type
