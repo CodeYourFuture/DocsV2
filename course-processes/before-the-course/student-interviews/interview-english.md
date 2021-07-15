@@ -42,8 +42,10 @@ Set the candidate at ease:
 
 ## Taking Notes
 
-* Was the candidate able to focus?
+* Did the candidate understand the written instructions?
+* Did the candidate ask you to clarify the instructions? 
+* Did the candidate think out loud while they were doing the task? 
 * How was the candidate's attention to detail?
-* Did the candidate struggle with understanding the written instructions?
-* How much verbal explanation of the "main task" did you have to give? \(ideally, none\)
+
+
 
