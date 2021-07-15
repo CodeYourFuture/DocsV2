@@ -28,11 +28,18 @@ Make sure you have all of the following information before you have your first i
 
 ## Roles
 
-### Greeters
+### Greeters \(for face to face interviews\)
 
 Make sure you have at least two volunteers welcoming the Applicants to the interviews. Record their attendance, give them a tour of the premises and get them a coffee or a tea. These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe.
 
 Take time to explain that the interviews are to get to know them better and that if they've made it this far then we think they have great potential.
+
+### Greeters \(for online interviews\)
+
+Make sure you have someone in a  Zoom break out room which will be the waiting room, welcoming the Applicants to the interviews.  These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe.
+
+Take time to explain that the interviews are to get to know them better and that if they've made it this far then we think they have great potential.  
+Explain that they will be doing an interview that has 4 parts. They will have to talk about themselves a bit, share their webpage and talk about their code and also do a short English task. 
 
 ### Interviewers
 
