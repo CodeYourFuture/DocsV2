@@ -3,9 +3,9 @@ id: interviews
 title: Trainee Interviews
 ---
 
-# Student Interviews
+# Applicant Interviews
 
-Before every new class, we make sure to interview our potential students as a final step before acceptance into the course.
+Before every new class, we make sure to interview our potential learners as a final step before acceptance into the course.
 
 ## Aims
 

@@ -40,7 +40,7 @@
   * [Application Process](course-processes/before-the-course/application-process/README.md)
     * [Re-application Requirements for Application rejection](course-processes/before-the-course/application-process/untitled.md)
   * [Course Eligibility](course-processes/before-the-course/course-eligibility.md)
-  * [Student Interviews](course-processes/before-the-course/student-interviews/README.md)
+  * [Applicant Interviews](course-processes/before-the-course/student-interviews/README.md)
     * [Interview - Technical](course-processes/before-the-course/student-interviews/interview-technical.md)
     * [Interview - English](course-processes/before-the-course/student-interviews/interview-english.md)
     * [Interview - Rubric](course-processes/before-the-course/student-interviews/interview-rubric.md)
