@@ -31,14 +31,13 @@ Set the candidate at ease:
 ### If the candidate cannot share their screen or type
 
 * As interviewer, share your screen and check the candidate can see it
-* Start an editpad document: [https://www.editpad.org/](https://www.editpad.org/) \(click on the blue button 'Create new text note'
-* Paste the relevant instructions to it from here: [https://gist.github.com/nbogie/b9a3e377607b85754f71ff3043bc68eb](https://gist.github.com/nbogie/b9a3e377607b85754f71ff3043bc68eb)
-  * Just the sections "Notes" and "Main task"
-* Move your cursor to underneath the instructions
+* Go to this page 
+  * * [https://codepen.io/enz0/full/eYzOeVg](https://codepen.io/enz0/full/eYzOeVg)
+* Move your cursor to underneath the instructions on the left hand side
 * Check if the candidate can see the instructions
 * Prompt the candidate to read the instructions from your screenshare
-* Prompt the candidate to tell you exactly what to type.
-  * \(This may include typing characters, moving the cursor, typing into google, scrolling, pausing to let something be read.\)
+* Prompt the candidate to tell you exactly what to type in the editor on the right.
+  * \(This may include spelling words, typing characters, moving the cursor, searching in google, scrolling, pausing to let something be read.\)
   * Try not to infer too much.
 
 ## Taking Notes
