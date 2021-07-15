@@ -23,7 +23,7 @@ Make sure you have all of the following information before you have your first i
 1. You have access to [the Dashboard](https://dashboard.codeyourfuture.io) \(or alternative way of getting information about your applicants\)
    * If you do not have access, speak to your coordinator
 2. Read this document fully
-3. Make sure you have access to the interview form mentioned in the `Interview Days` section
+3. Make sure you have access to the interview form 
 4. Make sure you have read the [Interview Technical](https://docs.codeyourfuture.io/course-processes/before-the-course/student-interviews/interview-technical), [Interview English](https://docs.codeyourfuture.io/course-processes/before-the-course/student-interviews/interview-english) and  [Interview Rubric](interview-rubric.md)
 
 ## Roles
