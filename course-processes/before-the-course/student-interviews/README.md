@@ -40,9 +40,14 @@ Make sure you have someone in a  Zoom break out room \(which will be the waiting
 
 Take time to explain that the interviews are  so we can get to know them better. Emphasise that they've made it this far, and we think they have great potential.  
   
-Explain how the interview will work. That the interview has 4 parts.  We will first check their name and identity. So they will need to show  the interviewer their photo ID and confirm the spelling of their name. Then they will have to talk about what they learned and their motivation for the course. They will need to share their webpage and talk about their code. They will do a short English task. And finally they will wrap up and have an opportunity to ask any questions.   
+Explain how the interview will work. The interview has 4 parts.    
+We will first check their name and identity.   
+So they will need to show  the interviewer their photo ID and confirm the spelling of their name.   
+Then they will have to talk about what they learned and their motivation for the course. They will need to share their webpage and talk about their code.   
+They will do a short English task.   
+And finally they will wrap up and have an opportunity to ask any questions.   
   
-Support them to get all their relevant webpages ready on their computer. 
+Support them to get all their relevant webpages ready on their computer. And to know how to share their screen on Zoom. 
 
 ### Interviewers
 
