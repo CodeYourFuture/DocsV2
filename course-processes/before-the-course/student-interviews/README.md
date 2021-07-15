@@ -24,7 +24,7 @@ Make sure you have all of the following information before you have your first i
    * If you do not have access, speak to your coordinator
 2. Read this document fully
 3. Make sure you have access to the interview form mentioned in the `Interview Days` section
-4. Make sure you have read the [Interview Rubric](interview-rubric.md)
+4. Make sure you have read the  [Interview Rubric](interview-rubric.md)
 
 ## Roles
 
