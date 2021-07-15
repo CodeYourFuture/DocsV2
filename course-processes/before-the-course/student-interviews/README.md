@@ -5,22 +5,22 @@ title: Trainee Interviews
 
 # Applicant Interviews
 
-Before every new class, we make sure to interview our potential learners as a final step before acceptance into the Fundamentals course.
+Before every new course, we make sure to interview our potential learners as a final step before acceptance into the Fundamentals course.
 
 ## Aims
 
 * Get to the know the applicants
   * This is the first time we've ever met them! We have to be sure we can work with them for the next eight months
-* Assess that the applicants have retained the knowledge they have learnt in the previous steps
-  * We should also confirm that the applicants actually did the work themselves
-* Assess the applicants have a good level of spoken English
-  * Students might have got help from friends and family for written work
+* Assess that the applicants have retained the knowledge they have learnt during the application process
+  * We need to confirm that the applicants actually did the work themselves
+* Assess the applicants have a good level of English speaking and reading
+  * Applicants might have gotten help from friends and family for written work
 
 ## Getting Setup
 
-Make sure you have all of this information before you have your first interview
+Make sure you have all of the following information before you have your first interview
 
-1. You have access to [the Dashboard](https://dashboard.codeyourfuture.io) \(or alternative way of getting information about the applicants\)
+1. You have access to [the Dashboard](https://dashboard.codeyourfuture.io) \(or alternative way of getting information about your applicants\)
    * If you do not have access, speak to your coordinator
 2. Read this document fully
 3. Make sure you have access to the interview form mentioned in the `Interview Days` section
