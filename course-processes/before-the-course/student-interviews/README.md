@@ -5,7 +5,7 @@ title: Trainee Interviews
 
 # Applicant Interviews
 
-Before every new class, we make sure to interview our potential learners as a final step before acceptance into the course.
+Before every new class, we make sure to interview our potential learners as a final step before acceptance into the Fundamentals course.
 
 ## Aims
 
