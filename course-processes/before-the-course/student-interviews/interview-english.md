@@ -30,7 +30,7 @@ Set the candidate at ease:
 ### If the candidate cannot share their screen or type
 
 * As interviewer, share their screen and check the candidate can see it
-* Start an editpad document: [https://www.editpad.org/](https://www.editpad.org/)
+* Start an editpad document: [https://www.editpad.org/](https://www.editpad.org/) \(click on the blue button 'Create new text note'
 * Paste the relevant instructions to it from here: [https://gist.github.com/nbogie/b9a3e377607b85754f71ff3043bc68eb](https://gist.github.com/nbogie/b9a3e377607b85754f71ff3043bc68eb)
   * Just the sections "Notes" and "Main task"
 * Move your cursor to underneath the instructions
