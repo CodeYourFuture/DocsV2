@@ -36,7 +36,7 @@ Take time to explain that the interviews are to get to know them better and that
 
 ### Greeters \(for online interviews\)
 
-Make sure you have someone in a  Zoom break out room which will be the waiting room, welcoming the Applicants to the interviews.  These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe.
+Make sure you have someone in a  Zoom break out room \(which will be the waiting room\) welcoming the Applicants to the interviews.  These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe. Have them test their camera and microphone to ensure everything is working. 
 
 Take time to explain that the interviews are to get to know them better and that if they've made it this far then we think they have great potential.  
 Explain that they will be doing an interview that has 4 parts. They will have to talk about themselves a bit, share their webpage and talk about their code and also do a short English task. 
