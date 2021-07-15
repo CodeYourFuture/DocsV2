@@ -13,9 +13,10 @@ The aim is to check the candidate's ability to read a simple _written_ task stat
 
 Set the candidate at ease:
 
-* This is a really short task!
+* This tasks is to help us get a sense of their ability to read in English, follow instructions and think through a problem. 
+* It is a really short task - it's not timed
 * This task doesn't require ANY coding at all!
-* Spelling mistakes do NOT matter in this task!
+* Spelling mistakes do NOT matter in this task. 
 
 ### If the candidate CAN share their screen and type
 
