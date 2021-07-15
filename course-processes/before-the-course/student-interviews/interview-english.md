@@ -19,7 +19,7 @@ Set the candidate at ease:
 
 ### If the candidate CAN share their screen and type
 
-* Give them this list of instructions
+* Share with them this list of instructions
   * [https://gist.github.com/nbogie/b9a3e377607b85754f71ff3043bc68eb](https://gist.github.com/nbogie/b9a3e377607b85754f71ff3043bc68eb)
 * Ask them to read and follow the instructions, step by step.
 * Remind them there is no hurry - it is not a timed task.
