@@ -64,6 +64,7 @@
     * [Online Fun](course-processes/running-the-course/online-teaching/online-fun.md)
   * [Hackathons](course-processes/running-the-course/hackathons.md)
   * [Codewars](course-processes/running-the-course/codewars.md)
+  * [Assessment](course-processes/running-the-course/assessment.md)
   * [Study Groups](course-processes/running-the-course/study-groups.md)
 * [After the Course](course-processes/after-the-course/README.md)
   * [After Graduation](course-processes/after-the-course/after-graduation.md)
