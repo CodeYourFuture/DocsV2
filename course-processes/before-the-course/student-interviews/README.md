@@ -36,10 +36,15 @@ See below for explaining how the interviews will work.
 
 ### Greeters \(for online interviews\)
 
-Make sure you have someone in a  Zoom break out room \(which will be the waiting room\) welcoming the Applicants to the interviews.  These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe. Have them test their camera and microphone to ensure everything is working. 
+Make sure you have someone in a  Zoom break out room \(which will be the waiting room\) welcoming the Applicants to the interviews.  These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe. Take time to explain that the interviews are  so we can get to know them better. Emphasise that they've made it this far, and we think they have great potential.  
 
-Take time to explain that the interviews are  so we can get to know them better. Emphasise that they've made it this far, and we think they have great potential.  
-  
+
+#### Set Up
+
+Have them test their camera and microphone to ensure everything is working. Support them to get all their relevant webpages ready on their computer. Ensure everyone knows how to share their screen on Zoom. 
+
+#### Interview Process
+
 Explain how the interview will work. The interview has 4 parts.    
 We will first check their name and identity.   
 So they will need to show  the interviewer their photo ID and confirm the spelling of their name.   
@@ -47,7 +52,7 @@ Then they will have to talk about what they learned and their motivation for the
 They will do a short English task.   
 And finally they will wrap up and have an opportunity to ask any questions.   
   
-Support them to get all their relevant webpages ready on their computer. And to know how to share their screen on Zoom. 
+
 
 ### Interviewers
 
