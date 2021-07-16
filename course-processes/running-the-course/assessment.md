@@ -6,12 +6,12 @@ description: We now have a partnership with Codility to run automated assessment
 
 {% embed url="https://module-template.codeyourfuture.io/evaluation/what-is-evaluation-for" %}
 
-### Bottom line
+### Summary
 
-* **One test per module to start**
-* **Autograded**
-* **Mandatory**
-* **Diagnostic tool not exclusion tool**
+* One test per module to start
+* Autograded
+* Mandatory
+* Diagnostic tool not exclusion tool
 
 ### Why do we use automated tests?
 
