@@ -27,7 +27,7 @@ Some reasons we think this is a good thing to do:
 
 ### How does it work?
 
-We are working on going through all our previous tests, quizzes, and other evaluations to define an initial Module Exit test per module. Trainees will take one test per module, at the end. It’s a timed test taken once and without help.
+We are working on going through all our previous tests, quizzes, and other evaluations to define an initial Module Exit test per module. Trainees will take one test per module, at the end. It’s a timed test taken once and without help. This is a work in progress and we should expect to revise and adapt this with data.
 
 A test will be opened, a class will be invited by email. Sometimes we will run the test in class. The test will stay open for 7 days. At the end of 7 days the test will be closed and anyone who hasn’t taken it will get a **zero**. A test will be an hour or less. 
 
