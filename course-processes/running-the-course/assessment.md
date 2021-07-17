@@ -33,8 +33,6 @@ A test will be opened, a class will be invited by email. Sometimes we will run t
 
 ### What else should we know?
 
-**Trainees must take the test on their own. No pairing on Codility.**
-
 These tests are a blunt tool and will deliver false negatives, so we will never use a percentage mark on Codility as the only metric when figuring out how a trainee is doing. The Codility system is largely geared towards recruitment at scale, for screening out people who cannot code. We will always get more false negatives than false positives. False positives are unlikely.
 
 We can replay any test, which should make it easier to identify key blockers in an individual’s understanding. There is no expectation on volunteers to go and do this routinely. This is part of reducing the marking burden on Buddies, not increasing it.
@@ -45,13 +43,13 @@ We ran a pilot with 22 trainees, who tested the platform and also gave us feedba
 
 ### What do trainees need to know?
 
+**Trainees must take the test on their own. No pairing on Codility.**
+
 The interface is a bit similar to Codewars, so you could do some practising with Codewars, as it will develop many of the skills needed for Codility.
 
 _**1 - Use the tests**_
 
 The key thing missed by many people in our pilot was how to use the tests or even that they should use the tests. **The sample tests are there to help.** Trainees should frequently test before they submit and use the results to help improve their score. The assessment records every time the tests are run. A successful coder is in the habit of testing often and showing that they test often. 
-
-**Run the tests before you write** a single line of code.
 
 _**2 - Read the requirements**_
 
