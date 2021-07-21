@@ -25,20 +25,20 @@ There are several reasons why a trainee may want to drop out of the course and r
 * Childcare time constraints
 * Falling behind in the course content
 * Bereavement
-* Pregnancy/Maternity \([see Pregancy policy here](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement/student-pregnancy-policy)\)
+* Pregnancy/Maternity \([see Pregnancy policy here](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement/student-pregnancy-policy)\)
 
 When a trainee removes themselves from the course via a leave of absence, the education and personal development teams should set coursework for the trainee to complete in their own time.
 
-In the case of students' English skill not being sufficient the trainee must complete language training courses. They should be referred by their City Coordinator to a partner organisation.
+In the case of students' English skill not being sufficient, the trainee must complete language training courses before they are able to return to their course. They should be referred by their City Coordinator to a partner organisation.
 
 ## Admission Requirements for Leave of Absence
-
-Re-admission will not be considered under any circumstance for students that were removed from their course because of Code of Conduct violations.
 
 In order to gain re-entry to the course students must:
 
 1. Complete the coursework set by the Education and PD teams
-2. Show significant evidence that their circumstnces have changed and they will be able to complete the full course this year
+2. Show significant evidence that their circumstances have changed and they will be able to complete the full course this year
+
+\*Re-admission will not be considered under any circumstance for students that were removed from their course because of Code of Conduct violations.
 
 ### Resuming Studies
 
@@ -46,16 +46,16 @@ All taught students on a Leave of Absence are contacted prior to their scheduled
 
 ## Admission Requirements for Course Withdrawal
 
-Re-admission will not be considered under any circumstance for students that were removed from their course because of Code of Conduct violations.
-
 In order to gain re-entry to the course students must:
 
-1. Complete the entire application process from the start including interview
-   * They must show significant improvement from the first time they applied for the course
+1. Complete the entire application process from the beginning including the applicant interview
+   * They must show significant improvement in their application from the previous time they applied for the course
 2. Show significant evidence that they will be able to complete the full course this year
-3. \(If required\) show significant increase in their reading, written and spoken english skill
+3. \(If required\) show significant improvement in their reading, written and spoken English skill
+
+\*Re-admission will not be considered under any circumstance for students that were removed from their course because of Code of Conduct violations.
 
 ### Resuming Studies
 
-If accepted on the course, students will have to meet with the Director of Personal Development, and City Cordinator to discuss their returning to study plan.
+If accepted on the course, learners will have to meet with the Director of Personal Development, and City Coordinator to discuss their returning to study plan.
 
