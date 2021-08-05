@@ -7,7 +7,7 @@ description: 'Updates: 27/05/2021'
 We use Ubuntu on laptops given to students for the following reasons
 
 * Is the most widely used version of Linux
-* It is widely support for most of the software that is used for development
+* It runs most of the software that is used for development
 * It is cheaper than Windows
 * It runs a Unix command line meaning teaching terminal is easier
 
