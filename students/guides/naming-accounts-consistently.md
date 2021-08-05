@@ -1,6 +1,7 @@
 ---
 id: naming-accounts-consistently
 title: Naming accounts consistently
+description: Use the same name everywhere in your work with CYF.
 ---
 
 # Naming Accounts Consistently
@@ -15,7 +16,7 @@ A trainee must use the same name everywhere in their work with CYF.
 
 CYF recognises you may need to keep your birth name private.  When we say real name, we mean the name you go by. In \(UK\) law, the name you consistently go by is your legal name. It does not have to match your birth certificate or any other legal document. It has to be consistent.
 
-The profile picture you use does not have to be a picture of you, but it must be consistent and unique, so you don't get mixed up with other people.
+The profile picture you use does not have to be a picture of you, It must be safe for work, consistent and unique, so you don't get mixed up with other people.
 
 ## Summary
 
