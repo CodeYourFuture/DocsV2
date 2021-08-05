@@ -23,3 +23,5 @@ The profile picture you use does not have to be a picture of you, It must be saf
 * Don't use cute handles or put the year of your birth in your username.
 * Use the **same** username and profile pic across all accounts used in your CYF course and on the professional profiles you build during CYF \(LinkedIn, Github\).
 
+This policy was changed on 5 August 2021.
+
