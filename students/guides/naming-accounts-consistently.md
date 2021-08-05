@@ -5,18 +5,20 @@ title: Naming accounts consistently
 
 # Naming Accounts Consistently
 
-## Consistency and anonymity in online account names
+## Consistency in online account names
 
-During the CYF course you will be requested to make an account with various online services \(such as Slack, GitHub, Google Classroom, trello, codepen, code.org, khan academy, ...\).
+During the CYF course you will make accounts online. \(Such as Slack, GitHub, Google Classroom, LinkedIn...\)
 
-CYF recognises some students may wish for anonymity, and it is of course acceptable not to use your real name \(or profile photo\) when creating these accounts.
+You should always use your real name. It must **always be the same name**. Don't use any other words apart from your name. Do not ever put your birth year in your user name.
 
-However, it is VERY helpful to our volunteer teachers when they are reviewing your work, if you use the _same account name_ \(and ideally the same profile pic/avatar\) throughout these accounts \(even if it is imaginary\).
+A trainee must use the same name everywhere in their work with CYF.
 
-If you don't want to do this, that's fine. Let us know.
+CYF recognises you may need to keep your birth name private.  When we say real name, we mean the name you go by. In \(UK\) law, the name you consistently go by is your legal name. It does not have to match your birth certificate or any other legal document. It has to be consistent.
+
+The profile picture you use does not have to be a picture of you, but it must be consistent and unique, so you don't get mixed up with other people.
 
 ## Summary
 
-* it is OK to use made-up usernames and profile pics when creating online accounts
-* it is _very_ helpful to us if you use the **same** username and profile pic across all accounts used in your CYF course.
+* Don't use cute handles or put the year of your birth in your username.
+* Use the **same** username and profile pic across all accounts used in your CYF course and on the professional profiles you build during CYF \(LinkedIn, Github\).
 
