@@ -31,6 +31,8 @@ We are working on going through all our previous tests, quizzes, and other evalu
 
 A test will be opened; a class will be invited by email. Sometimes we will run the test in class. The test will stay open for 7 days. At the end of 7 days the test will be closed and anyone who hasn’t taken it will get a **zero**. A test will be an hour or less. 
 
+Candidates must **provide their Github url when asked** or we will have to burn valuable volunteer hours/days figuring out who is who.
+
 ### What else should we know?
 
 These tests are a blunt tool and will deliver false negatives, so we will never use a percentage mark on Codility as the only metric when figuring out how a trainee is doing. The Codility system is largely geared towards recruitment at scale, for screening out people who cannot code. We will always get more false negatives than false positives. False positives are unlikely.
@@ -45,7 +47,7 @@ We ran a pilot with 22 trainees, who tested the platform and also gave us feedba
 
 **Trainees must take the test on their own. No pairing on Codility.**
 
-The interface is a bit similar to Codewars, so you could do some practising with Codewars, as it will develop many of the skills needed for Codility.
+The interface is a bit similar to Codewars, so you could do some practising with Codewars, as it will develop many of the skills needed for Codility. 
 
 _**1 - Use the tests**_
 
