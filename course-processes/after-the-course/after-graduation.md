@@ -10,7 +10,7 @@ Even though we've finished teaching you have only scratched the surface of every
 
 The job market will always be competitive so you should continue to learn new technologies, build cool projects and develop your soft skills.
 
-#### CodeYourFuture Tech Projects
+### CodeYourFuture Tech Projects
 
 These are official internal projects that we use to run CodeYourFuture. Examples of ones from the past are
 
@@ -23,11 +23,19 @@ When you join the Tech Projects team you will be mentored by senior developers a
 
 You may also have the opportunity to work on projects for NGO & Non-Profit companies. These projects could eventually lead to paid freelance projects in the future.
 
+### Graduate Module
+
+{% embed url="https://module-graduates.codeyourfuture.io/" %}
+
+
+
 ## Job Search
 
 At this point in your coding journey you may feel ready to start applying for jobs. This is excellent and we want to work with you to help you achieve this goal.
 
+{% hint style="danger" %}
 **Important**: When you are searching for jobs, make sure you tell us you want to apply for them first so we can speak to the company. When we do this we can get a "Recruitment Fee" from the company you work. This can **be as much as £5000** and is an important way for us to keep on running.
+{% endhint %}
 
 Before you start you should make sure
 
@@ -49,7 +57,7 @@ When you need help, please message on Slack and we'll help however we can!
 
 Once you have graduated you **will have to attend weekly Job Search Meetings** with Staff, Volunteers & Graduates to describe the progress you're making on finding jobs.
 
-It is important that you attend all of these event to stay involved with what we do and so we can track your progress and future learning.
+It is important that you attend all of these event to stay involved with what we do and so we can track your progress and future learning. We need to know you are engaged with your job search so we can negotiate opportunities on your behalf.
 
 ## Community
 
@@ -87,14 +95,9 @@ It's also important that you work with you other graduates on projects so you ca
 
 ### Post-Graduate Module
 
-_\(In Development\)_
+{% embed url="https://module-graduates.codeyourfuture.io/" %}
 
-This self-paced module will cover more advanced topics that we didn't have time for you to cover during the course. These will include
 
-* Accessibility
-* JavaScript Unit Testing
-* Ethics in Computing
-* Cloud Computing
 
-Plus more
+
 
