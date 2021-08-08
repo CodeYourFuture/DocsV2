@@ -165,8 +165,3 @@ How to contribute to an open source project on GitHub
 
 * [https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
-## Other
-
-* [Tips for creating your own portfolio website](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/)
-* [Career tips from HackYourFuture, a refugee code school in Amsterdam](https://github.com/HackYourFuture/alumni/wiki)
-
