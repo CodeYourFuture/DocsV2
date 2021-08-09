@@ -14,7 +14,7 @@ You should always use your real name. It must **always be the same name**. Don't
 
 Trainees use the same name everywhere in their work with CYF.
 
-CYF recognises **you may need to keep your birth name private**.  When we say real name, we mean the name you go by. In \(English\) law, the name you consistently go by is your legal name. It does not have to match your birth certificate or any other legal document. 
+CYF recognises **you may need to keep your birth name private**.  When we say real name, we mean the name you go by. It does not have to match your birth certificate or any other legal document. 
 
 The profile picture you use does not have to be a picture of you, It must be safe for work, consistent and unique, so you don't get mixed up with other people.
 
