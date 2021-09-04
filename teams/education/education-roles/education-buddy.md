@@ -6,7 +6,7 @@ The Buddy’s role is the role of the guide.
 
 This role is an ongoing commitment you make to three trainees for around three months. 
 
-You are the first point of contact for technical mentorship. For many trainees you will be the first developer they will ever work closely with. Meaningful technical mentorship is the heart of this role. You will build a team with your trainees and model code review, accountability, time management and professional behaviour. 
+You are the first point of contact for technical mentorship. For many trainees you will be the first developer they will ever work closely with. Meaningful technical mentorship is the heart of this role. You will build a close, supportive team with your trainees and model code review, accountability, time management and professional behaviour. 
 
 You will also attend a weekly meeting with your Buddy volunteer team. This meeting is a place to communicate feedback on individual progress, get additional support and resources for your trainees, and share skills and insights with other Buddies.
 

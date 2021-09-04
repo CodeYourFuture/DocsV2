@@ -5,11 +5,11 @@ title: Homework Feedback
 
 # Coursework Feedback
 
-Giving effective, actionable feedback is one of the ways that we can best help our students learn and grow.
+Giving effective, actionable feedback is one of the ways that we can best help our trainees learn and grow.
 
 ## 1. Giving Feedback
 
-Feedback should be given directly on the Pull Request that the students create on the exercise repository.
+Do your code review in public directly on the trainee's Pull Request. Use all the features of GH Code review. It's part of what we are teaching. There are marking guides in many repositories to help with common responses.
 
 ### Feedback Advice
 
@@ -35,7 +35,7 @@ _Please note_: Do not just link to documentation! Link to a tutorial or guide th
 
 **Fixing Bugs**
 
-If the bug is a simple compilation or formatting error it's perfectly fine to suggest a fix to the issue. For example, an incorrect relative URL is a simple error that does not imply a deeper misunderstanding of the content and so can be safely fixed.
+If the bug is a simple compilation or formatting error it's perfectly fine to suggest a fix to the issue. For example, an incorrect relative URL is a simple error that does not imply a deeper misunderstanding of the content and so can be safely fixed. You can do this as a line edit.
 
 **Prompting to Ask Questions**
 
@@ -43,7 +43,7 @@ Make every error a teaching moment, mention that you see other students struggli
 
 **Explaining an Obvious Mental Model Issue**
 
-When a trainee implements code in a way that seems nonsensical the root cause can often be a misconception in how they have built their [mental model](https://teachtogether.tech/#s:models). If you can obviously tell from their homework what their misunderstanding is then you are encouraged to correct them.
+When a trainee implements code in a way that seems nonsensical the root cause can often be a misconception in how they have built their [mental model](https://teachtogether.tech/#s:models). If you can obviously tell from their homework what their misunderstanding is then you are encouraged to correct them. 
 
 If they seem to fundamentally misunderstand a concept then it is best to refer them back to the source material.
 
@@ -55,23 +55,13 @@ It never hurts to remind the trainee of the importance of proper formatting and 
 
 **Visual Studio Github Plug-in**
 
-The VS Code studio plug-in can help speed up moving between pull requests and making comments.
-
 [https://github.com/microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
 
-It allows you to make comments from directly inside and VS Code and allows each comparision between Pull Requests.
-
-**Github Desktop**
-
-Using Github Desktop makes it easy to see all of the open pull requests for a Repository and move quickly between them.
-
-![Fork Button](https://github.com/CodeYourFuture/DocsV2/tree/600f9105c4db70d16abccc962441cf765c539a18/organisation/education/assets/homework-feedback/pull-request.png)
-
-Simply navigate to the Branch tab at the top of the screen then select the Pull Request tab
+You can use the VSCode plugin, which allows you to make comments from directly inside VS Code and allows each comparison between Pull Requests.
 
 **Use the code review tool in GitHub**
 
-This not only get's the students used to using it, but also make it easier for other reviewers to know if work has been reviewed. [The process is documented here at point 7](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request).
+This not only gets the students used to using it, but also make it easier for other reviewers to know if work has been reviewed. [The process is documented here at point 7](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request).
 
 * If the work is good and doesn't require changes, select "Approve"
 * If the work needs work, select "Request changes"
@@ -85,13 +75,11 @@ When you have completed marking the homework you should set the label as `review
 
 If the trainee has not completed the homework leave it as `to-review` but add the label `not completed.`
 
-### Suspicion of Copying
+### Suspicion of Plagiarism
 
-We take attempts of plagiarisation very seriously at Code Your Future because it is a strong indicator that the trainee is out of their depth and do not understand key concepts.
+We take plagiarism seriously at Code Your Future.  If you suspect a trainee has deceptively copied code please raise it directly with your City Programme Manager and we will address it directly with the individual.
 
-If you suspect a trainee has copied code please report this back to the Education Team and Course Coordinator on Slack. You should also highlight their homework as being `Invalid`.
-
-## 2. Homework Grading
+## 2. Grading
 
 For our records and to track trainee progress it is important that we track how well the trainee is progressing through our course. This can happen in a variety of places.
 
