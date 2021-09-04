@@ -4,52 +4,35 @@
 
 The Buddy’s role is the role of the guide.
 
-This role is an ongoing commitment where you are paired with between three students for a period of a several months. It is your responsibility to be the first point of contact for help with their students problems for anything on the technical education side of the course.
+This role is an ongoing commitment you make to three trainees for around three months. 
 
-Your should also attend a weekly meeting to feedback on their students progress and if their students need any additional support.”
+You are the first point of contact for technical mentorship. For many trainees you will be the first developer they will ever work closely with. Meaningful technical mentorship is the heart of this role. You will build a team with your trainees and model code review, accountability, time management and professional behaviour. 
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Check In</th>
-      <th style="text-align:left">Coursework</th>
-      <th style="text-align:left">Feedback to Team</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>As a Buddy you should check in with your students at least once every
-          two weeks - however you may need to give some students more time if their
-          need it.</p>
-        <p>In these sessions you should make sure you access the students understanding
-          of the content they&apos;ve been covering recently.</p>
-        <p>If they need it, you should also find them the resources they need to
-          succeed - including mentoring support, online study resources and access
-          to study groups or peer learning.</p>
-      </td>
-      <td style="text-align:left">
-        <p>It is your responsibility to make sure that students are submitting their
-          coursework and to make sure that it is being marked and feedback is being
-          given.</p>
-        <p>This does not mean that you need to mark all of the homework yourself
-          - just that you are responsible for making sure it happens. You should
-          make the use of the other volunteers in your city to spread the work.</p>
-        <p>It is important that we impress on our students how important the homework
-          is.</p>
-      </td>
-      <td style="text-align:left">
-        <p>As the person who works closest with the trainee you will have some of
-          the best insights into how well they are performing in the course. For
-          this reason, it&apos;s important that you share what you know with the
-          rest of the team.</p>
-        <p>This is important because if one of our students has an issue then that
-          is an isolated issue - however if lots of students have the same problem
-          then we have a systemic issue which should be fixed at the class level.</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+You will also attend a weekly meeting with your Buddy volunteer team. This meeting is a place to communicate feedback on individual progress, get additional support and resources for your trainees, and share skills and insights with other Buddies.
+
+{% tabs %}
+{% tab title="Check in " %}
+Buddy groups meet every two weeks. \(Some Buddies run standups more often.\)
+
+In these sessions you will identify blockers and talk/live code through them.  You will do code review and give coursework feedback. You will reassure them and empathise with the immense challenge they are facing. It is really really hard! 
+
+You will also facilitate access to  resources, including mentoring support, online study resources and access to study groups or peer learning. Developing your trainees to lead their own study groups is a great way to empower them in their own learning.
+{% endtab %}
+
+{% tab title="Coursework" %}
+We know that submitting coursework is a strong predictor of success, both on the course and in getting a job. As team lead, you should hold your trainees accountable and work with them on blockers, technical and emotional. But you can't do it for them. 
+
+Support your trainees with coursework, engage deeply with their code in code review, and kindly, firmly, expect them to meet their commitments. Don't spend your time chasing them to do the work. All our trainees are adults and you are developing them to be successful professionals. Accountability and time management is part of what some people may be learning here.
+{% endtab %}
+
+{% tab title="Feedback to Team" %}
+You know your trainees best, .and it's vital you share that with the rest of the team.
+
+We can and do provide extra support, but only if we know people need it. Secondly, if one of our students has an issue then we resolve it with them; if many have the same problem, then we have a systemic bug we need to fix.
+
+Your volunteer team has a wealth of experience with trainee issues and can support you in addressing them.
+{% endtab %}
+{% endtabs %}
 
 ## Training & Resources
 
