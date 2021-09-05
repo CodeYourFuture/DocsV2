@@ -15,9 +15,9 @@ Do your code review in public directly on the trainee's Pull Request. Use all th
 
 **Be Positive**
 
-Above all else be positive and be kind. Our students want to learn and want to understand.
+Above all else be positive and be kind. Our trainees want to learn and want to understand. They work really hard.
 
-You should pull out small wins from bad code and encourage them to continue and try again. Many of our students suffer from low confidence and a well timed comment of motivation can be all it takes to push them to success.
+You should pull out small wins from bad code and encourage them to continue and try again. Many of our trainees suffer from low confidence and a well timed comment of motivation can be all it takes to push them to success.
 
 If in doubt, consult our [key rules](https://github.com/CodeYourFuture/DocsV2/tree/600f9105c4db70d16abccc962441cf765c539a18/volunteers/education/teaching-tips/README.md#the-rules).
 
@@ -26,16 +26,18 @@ If in doubt, consult our [key rules](https://github.com/CodeYourFuture/DocsV2/tr
 If you can tell that a trainee has been struggling with a particular area of the homework one key way that you can help is to
 
 1. Acknowledge that they have struggled
-2. Re-assure them that many people struggle with such problems
+2. Reassure them that many people struggle with such problems
 3. Direct them to an online resource that will help them understand the problem better
 
-We should try to shy away from writing long, complex explanations to students problems. This can be a time sink, especially when great resources already exist.
+Don't write long, complex explanations. It's a time sink, especially when great resources already exist.
 
 _Please note_: Do not just link to documentation! Link to a tutorial or guide that explains the documentation.
 
+If you hit upon a really effective teaching moment, please share it with the group.
+
 **Fixing Bugs**
 
-If the bug is a simple compilation or formatting error it's perfectly fine to suggest a fix to the issue. For example, an incorrect relative URL is a simple error that does not imply a deeper misunderstanding of the content and so can be safely fixed. You can do this as a line edit.
+If the bug is a simple compilation or formatting error it's perfectly fine to suggest a fix to the issue. For example, an incorrect relative URL is a simple error that does not imply a deeper misunderstanding of the content and so can be safely fixed. You can suggest this change as a line edit and guide your trainee to [incorporate the feedback ](https://docs.github.com/en/github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request)using the GH tools.
 
 **Prompting to Ask Questions**
 
@@ -71,9 +73,9 @@ You will then be able to filter the pull request list by what needs approving. !
 
 ### Labelling the Pull Request
 
-When you have completed marking the homework you should set the label as `reviewed`.
+When you have completed your review, set the label as `reviewed`.
 
-If the trainee has not completed the homework leave it as `to-review` but add the label `not completed.`
+If the trainee has not completed the mandatory work leave it as `to-review` but add the label `not completed.`
 
 ### Suspicion of Plagiarism
 
