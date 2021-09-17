@@ -10,7 +10,7 @@ These specifications should be used as guidelines for recommending laptops to st
 
 * Linux 
 * MacOS Mojave or newer
-* Windows 10 with WSL2 \(is another possibility but **not** recommended\)
+* We do not support Windows for development as it takes too much time and energy.
 
 ## Laptop Specs
 
