@@ -10,7 +10,10 @@ These specifications should be used as guidelines for recommending laptops to st
 
 * Linux 
 * MacOS Mojave or newer
-* We cannot support Windows for development; it costs too much time and energy.
+
+{% hint style="danger" %}
+We cannot support Windows for development; it costs too much time and energy.
+{% endhint %}
 
 ## Laptop Specs
 
