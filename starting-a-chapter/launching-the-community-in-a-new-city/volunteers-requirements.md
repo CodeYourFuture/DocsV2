@@ -20,4 +20,3 @@ To run the Fundamentals course you will need a team of at least:
     * 2 Module Leads
     * 10 Teaching Assistants
 * 5 Ambassadors
-

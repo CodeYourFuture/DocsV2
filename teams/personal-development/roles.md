@@ -1,8 +1,3 @@
----
-id: pd-roles
-title: Roles
----
-
 # Roles
 
 There are several roles that you can take when volunteering with the Personal Development Team which have varying levels of time commitment and planning.
@@ -11,13 +6,13 @@ There are several roles that you can take when volunteering with the Personal De
 
 Organising group for each city's Personal Development team.
 
-**Time commitment:** 4-10 hours per week for the duration of the course  
-**Size:** 6-8 people \(1 person per 5 students in each class, plus 1 for the mentoring program, and support for graduates needing employment\)
+**Time commitment:** 4-10 hours per week for the duration of the course\
+**Size:** 6-8 people (1 person per 5 students in each class, plus 1 for the mentoring program, and support for graduates needing employment)
 
 ### Responsibilities
 
-* Develop the strategy for trainee learning and support \(overarching goals of removing barriers to trainee’s learning; supporting students development of soft skills\)
-* Meet weekly to plan, share trainee challenges and give support to each other \(face to face video calls\)
+* Develop the strategy for trainee learning and support (overarching goals of removing barriers to trainee’s learning; supporting students development of soft skills)
+* Meet weekly to plan, share trainee challenges and give support to each other (face to face video calls)
 * One member supports on coordinating new volunteers and funnels them to appropriate roles in PD
 * One member supports on coordinating the Mentoring Program
 * As a team, assess each applicant shortlisted for the course by the Education Team to see if they qualify based on their personal circumstances
@@ -25,25 +20,25 @@ Organising group for each city's Personal Development team.
 
 **Team coordinates all the PD support for the course:**
 
-PD workshop days \(6 sessions throughout the course designed to develop skills needed in the workplace: communication, teamwork, time management, willingness to learn and get feedback\)
+PD workshop days (6 sessions throughout the course designed to develop skills needed in the workplace: communication, teamwork, time management, willingness to learn and get feedback)
 
-Weekly online support \(check in with students, encourage online communication skills\)
+Weekly online support (check in with students, encourage online communication skills)
 
-Financial support \(transport costs, childcare, lunch on class days\)
+Financial support (transport costs, childcare, lunch on class days)
 
-Laptops \(donated from corporate partners, loaned until students get a job\)
+Laptops (donated from corporate partners, loaned until students get a job)
 
-Internet \(home cost paid or dongle provided, paid until students get a job?\) Emotional support \(students are living in very stressful situations with little or no support\)
+Internet (home cost paid or dongle provided, paid until students get a job?) Emotional support (students are living in very stressful situations with little or no support)
 
-Language support \(Really English online learning program provided through RefuAid, Code Your Future Language Exchange\)
+Language support (Really English online learning program provided through RefuAid, Code Your Future Language Exchange)
 
-Career Mentoring program \(1-1 mentoring for 3 hours per month for the length of the course\)
+Career Mentoring program (1-1 mentoring for 3 hours per month for the length of the course)
 
-Employment support \(finding roles with employers interested in hiring CYF graduates, done on partnership with CYF strategy team\)
+Employment support (finding roles with employers interested in hiring CYF graduates, done on partnership with CYF strategy team)
 
-Workshops and events hosted by partners \(CV writing, mock interviews, general recruitment talks, office visits\)
+Workshops and events hosted by partners (CV writing, mock interviews, general recruitment talks, office visits)
 
-Signposting to other services \(don’t need to be an expert in everything but need to know where to get additional support eg. housing or legal\)
+Signposting to other services (don’t need to be an expert in everything but need to know where to get additional support eg. housing or legal)
 
 Design content and deliver PD workshop days
 
@@ -85,7 +80,7 @@ Interview Applicants from a non technical point of view.
 
 **Time commitment:** 1 hour per interview plus time to become familiar with the Interview Questionnaire and Applicant criteria document
 
-* Assess if the trainee meets the minimum application criteria \(link\)
+* Assess if the trainee meets the minimum application criteria (link)
 * Assess their language ability from their 300 word Personal Statement.
 * Assess their ability to commit 25 hours a week to the course.
 * Check if they are studying anywhere else.
@@ -99,8 +94,8 @@ Interview Applicants from a non technical point of view.
 
 Volunteer for the whole day to support the various PD activities being delivered. 2-4 days during Fundamentals course; 5-6 days during main course.
 
-**Time commitment:** 7-8 hours; no preparation needed. One-off.  
-**Time commitment:** 3-4 hours on the workshop day; some preparation needed to create content and communicate support needed before session day  
+**Time commitment:** 7-8 hours; no preparation needed. One-off.\
+**Time commitment:** 3-4 hours on the workshop day; some preparation needed to create content and communicate support needed before session day\
 **Time commitment:** Volunteer to lead on delivering a 1-2 hour session
 
 ### Career Mentor
@@ -109,13 +104,12 @@ Support one trainee with help on their career journey for the duration of the co
 
 **Time commitment:** 3 hours per month for duration of the course
 
-* Complete Lumina Spark questionnaire \(15 - 20 mins\)
-* Attend mentoring induction workshop \(One Saturday or Sunday, 7-8 hours\)
-* Meet with mentee face to face \(1 hour at start of mentoring program\)
-* Meet with mentee via video call, Slack \(1-1.5 hours per month, can meet more if agreed with mentee\)
-* Fill in mentoring feedback form \(15 mins once per month\)
-* Join mentoring Slack group for support \(ask questions and contribute suggestions when able\)
-* Join mentoring feedback call \(once every 3 months for 1 hour\)
+* Complete Lumina Spark questionnaire (15 - 20 mins)
+* Attend mentoring induction workshop (One Saturday or Sunday, 7-8 hours)
+* Meet with mentee face to face (1 hour at start of mentoring program)
+* Meet with mentee via video call, Slack (1-1.5 hours per month, can meet more if agreed with mentee)
+* Fill in mentoring feedback form (15 mins once per month)
+* Join mentoring Slack group for support (ask questions and contribute suggestions when able)
+* Join mentoring feedback call (once every 3 months for 1 hour)
 * Review trainee CVs
 * Facilitate mock interviews for students
-

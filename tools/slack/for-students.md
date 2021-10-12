@@ -1,21 +1,16 @@
----
-id: slack-students
-title: Slack
----
-
 # Slack for Students
 
 ## Introduction
 
-[Slack](https://slack.com/) is a workplace environment for team communication. It has many advantages compared to traditional email and instant messaging, but it should not be confused with them. People do not get instant notifications unless they are tagged and have slack downloaded on their phones. Most tech companies use it at work, which offers an opportunity for CYF trainers to be available \(as they can switch among workplaces\).
+[Slack](https://slack.com) is a workplace environment for team communication. It has many advantages compared to traditional email and instant messaging, but it should not be confused with them. People do not get instant notifications unless they are tagged and have slack downloaded on their phones. Most tech companies use it at work, which offers an opportunity for CYF trainers to be available (as they can switch among workplaces).
 
 Slack should be kept tidy and organised to maximise its usefulness.
 
 ## Fundamentals
 
-* Use threaded communication \(replies to a topic should always be in a thread\)
+* Use threaded communication (replies to a topic should always be in a thread)
 * Edit your entries instead of adding extra information that you forgot in a message
-* Learn to tag people and groups \(every class is in a user group\)
+* Learn to tag people and groups (every class is in a user group)
 * Tag people only when you need their attention
 * Use plain text names instead of tags if you don’t require a response from people
 * Start a new thread if you are talking about a completely different topic
@@ -24,13 +19,12 @@ Slack should be kept tidy and organised to maximise its usefulness.
 ## Trainee communication
 
 * Learn to use thumbs up to confirm announcement has been read
-* Communicate in advance if you want to work with another classmate and specify time and topic \(you can tag the class\)
+* Communicate in advance if you want to work with another classmate and specify time and topic (you can tag the class)
 * Ensure you reply in threads to communication and tag relevant people to get their attention to arrange on working together
 * Use the trainee channel for organisation and non-class related discussion
-* Start calls in the channel so that other students can join you.
+*   Start calls in the channel so that other students can join you.
 
-  Ensure that it is titled with clear description of what are you working on
-
+    Ensure that it is titled with clear description of what are you working on
 * Delete any failed group calls to keep the channel clear
 * Inform the class as soon as possible if you are not planning to come or able to come to class
 
@@ -45,7 +39,7 @@ In order to make is easy for people to answer your questions when asking for hel
 
 You should use this template:
 
-```text
+```
 Homework:
 Problem:
 Expected:
@@ -54,7 +48,7 @@ Code:
 
 For example
 
-```text
+```
 Homework: Create a Website
 Problem: The Headings on my website don't look right.
 Expected: The heading should be much bigger than the other text on the page. I've tried to use a H1 tag but it doesn't work
@@ -105,7 +99,7 @@ Sometimes it helps to talk things out. With Slack calls, you can make a voice or
 
 To start a **call from direct message**, open a direct message then click the 📞 phone icon in the top right corner. Your call will start right away, and the member you're calling will receive a pop-up notification.
 
-To start a **call from a channel**, open a channel and click "_Details_" in the top right then choose 📞 Call button. Slack will post a message to the channel and any member \(up to 15 total\) can join by clicking the _Join_ button.
+To start a **call from a channel**, open a channel and click "_Details_" in the top right then choose 📞 Call button. Slack will post a message to the channel and any member (up to 15 total) can join by clicking the _Join_ button.
 
 See for more [how to about calls](https://slack.com/intl/en-hu/help/articles/216771908-Make-calls-in-Slack).
 
@@ -131,11 +125,11 @@ To edit or delete a message, hover over the message and click on the three dots 
 
 > Tip: Use the up arrow key on PC to directly edit recently sent messages.
 
-See for more [how to edit and delete messages](https://slack.com/intl/en-hu/help/search?utf8=%E2%9C%93&query=reminder&commit=Search).
+See for more [how to edit and delete messages](https://slack.com/intl/en-hu/help/search?utf8=%E2%9C%93\&query=reminder\&commit=Search).
 
 ### Direct Message
 
-Another way to save resources is to share them with yourself! By setting up a Direct Message \(DM\) to yourself you can begin your own personal journal. It can be a place for you to save notes, personal to-do lists, documents and more!
+Another way to save resources is to share them with yourself! By setting up a Direct Message (DM) to yourself you can begin your own personal journal. It can be a place for you to save notes, personal to-do lists, documents and more!
 
 To share a post or resource from a channel to yourself simply hover over the post and click the “_Share message_” arrow and send to yourself. It will be then saved in your personal DM.
 
@@ -147,7 +141,7 @@ See for more [how to send DM to yourself](https://slack.com/intl/en-gb/help/arti
 
 Pin posts or set topic description to keep useful or important messages in view for wider audience in a channel. There is a couple of items in the channel header. Among others, you can see already pinned messages or get an overall about the channel.
 
-To pin a message, hover over the post, clik thre three dots icon \(“_More actions_”\) then select “_Pin to channel_”. Unlike starred messages, pinned messages are visible for every member of the channel. It works like a public board on the classroom wall.
+To pin a message, hover over the post, clik thre three dots icon (“_More actions_”) then select “_Pin to channel_”. Unlike starred messages, pinned messages are visible for every member of the channel. It works like a public board on the classroom wall.
 
 To set channel topic, hover over the current topic, click the topic to edit it. Generally it keeps useful information for the channel members for instance the channel’s purpose, links etc. If the topic is too long, it might be trimmed. To see the whole text, hover over the topic.
 
@@ -164,7 +158,7 @@ A way of checking in on posts we have been involved with recently, is to use the
 
 ### Reduce noise
 
-More channels you follow, more distracting they become that can turn to be very fustrating after a while. If you need focus time or time away from work, there are many options in Slack to help you concentrate. You can pause your notifications using Do Not Disturb \(DND\) mode, mute channels or conversations, or leave unrelevant channels.
+More channels you follow, more distracting they become that can turn to be very fustrating after a while. If you need focus time or time away from work, there are many options in Slack to help you concentrate. You can pause your notifications using Do Not Disturb (DND) mode, mute channels or conversations, or leave unrelevant channels.
 
 To set DND schedule for routine times you'd prefer not to be notified, click your workspace name in the top left, hover over "_Pause notifications_", choose a time frame from the menu or select Custom to set your own.
 
@@ -176,7 +170,7 @@ See for more technics on [how to reduce noise](https://slack.com/intl/en-hu/help
 
 Busy as a bee, or maybe feeling a little forgetful? Send reminders to yourself for important messages, events or anything you might need to come back to later.
 
-To create a reminder to a post, hover the post and click the three dots icon \(“_More actions_”\) then select "_Remind me about this_" to remind yourself to come back to it later.
+To create a reminder to a post, hover the post and click the three dots icon (“_More actions_”) then select "_Remind me about this_" to remind yourself to come back to it later.
 
 To create a general reminder, simply open the ⚡ shortcuts menu to set reminder for yourself.
 
@@ -217,4 +211,3 @@ If the text size strains your eyes to read it, adjust the zoom level to make the
 To adjust zoom level, click your workspace name, choose "_Preferences_" then click "_Click Accessibility_" and finally select your zoom level.
 
 See for more [how to adjust zoom level](https://slack.com/intl/en-hu/help/articles/236067467-Adjust-your-zoom-level-in-Slack).
-

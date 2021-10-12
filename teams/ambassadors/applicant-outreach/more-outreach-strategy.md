@@ -14,4 +14,3 @@
 ## Workshops
 
 * Make sure the events calendar on CodeYourFuture has the next workshop dates. Create an Eventbrite event and invite applicants to these coding workshops.  
-

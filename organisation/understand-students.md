@@ -1,8 +1,3 @@
----
-id: understand-students
-title: Understand our students' backgrounds
----
-
 # Our Student Backgrounds
 
 While volunteering with CodeYourFuture, you will meet many kinds of students. Broadly, we offer our programme to refugees, asylum seekers and people from a number of disadvantaged backgrounds. This page will help you better understand the situations of some of our students as well as the proper etiquette to use.
@@ -13,13 +8,13 @@ While volunteering with CodeYourFuture, you will meet many kinds of students. Br
 
 ### Refugee
 
-A Refugee is someone who has been granted refugee status by the contracting state or the UNHCR \(United Nations High Commission for Refugees\). Refugees have the right to work. There are no restrictions on the type of work they can do, so their job types can vary - they may earn a decent wage or have a minimum wage job. Refugees may already have a tech education or be absolute beginners, however, their technical qualifications may not be locally recognised. The trauma of being displaced can leave physical and mental scars that prevent them finding meaningful work in their new country of residence. They may also suffer from discrimination, isolation and housing issues. Our focus on cultivating soft and tech skills, our emotional support and the safe space our community provides are designed to help refugees find and keep meaningful employment.
+A Refugee is someone who has been granted refugee status by the contracting state or the UNHCR (United Nations High Commission for Refugees). Refugees have the right to work. There are no restrictions on the type of work they can do, so their job types can vary - they may earn a decent wage or have a minimum wage job. Refugees may already have a tech education or be absolute beginners, however, their technical qualifications may not be locally recognised. The trauma of being displaced can leave physical and mental scars that prevent them finding meaningful work in their new country of residence. They may also suffer from discrimination, isolation and housing issues. Our focus on cultivating soft and tech skills, our emotional support and the safe space our community provides are designed to help refugees find and keep meaningful employment.
 
 Some of our previous refugee students have included:
 
-Jax \(not a real name\). He had a good job \(over 35k\) and was educated, but dreamed of working in tech. Because of the trauma he sufferred he had mental health challenges in moving to tech without help.
+Jax (not a real name). He had a good job (over 35k) and was educated, but dreamed of working in tech. Because of the trauma he sufferred he had mental health challenges in moving to tech without help.
 
-Kano \(not a real name\) was a refugee with a great computer science background but because of a combination of mental health and family difficulties, he was unable to find employment.
+Kano (not a real name) was a refugee with a great computer science background but because of a combination of mental health and family difficulties, he was unable to find employment.
 
 CYF helped both of these people gain confidence and the tech skills needed to work in the local tech industry. We also then helped them both find great jobs in tech.
 
@@ -29,7 +24,7 @@ An asylum-seeker is a person that has initiated a legal process in their new cou
 
 Some of our previous asylum seeker students have included:
 
-Max \(not a real name\) went from asylum seeker to refugee. Max had a tech background, but suffered from social anxiety and couldn't find a job. CYF helped them gain confidence and the tech skills needed to work in the local tech industry. Once their refugee status was granted, they found a good job in tech.
+Max (not a real name) went from asylum seeker to refugee. Max had a tech background, but suffered from social anxiety and couldn't find a job. CYF helped them gain confidence and the tech skills needed to work in the local tech industry. Once their refugee status was granted, they found a good job in tech.
 
 ### Do's and don'ts for interacting with these groups
 
@@ -50,10 +45,10 @@ DON'T
 
 There are lots of incredible foundations and groups out there making information available for asylum seekers and refugees, as well as supporting them in a myriad of ways. Some of the groups even work with CodeYourFuture to help us find the students who want to study with us. Here are some places you can start your research:
 
-* [Right To Remain](https://righttoremain.org.uk/)
-* [City of Sanctuary](https://cityofsanctuary.org/)
-* [Refugee Action](https://www.refugee-action.org.uk/)
-* [Refugee Council](https://www.refugeecouncil.org.uk/)
+* [Right To Remain](https://righttoremain.org.uk)
+* [City of Sanctuary](https://cityofsanctuary.org)
+* [Refugee Action](https://www.refugee-action.org.uk)
+* [Refugee Council](https://www.refugeecouncil.org.uk)
 * [UNHCR UK](https://www.unhcr.org/uk/asylum-in-the-uk.html)
 
 There are many local groups with that we work with or and that you can get involved with to help your community. We will continue to add to this section to make these known.
@@ -69,5 +64,4 @@ Currently, CYF currently considers applications from the following groups, most 
 * Individuals from minority backgrounds who are under-represented or face discrimination in pursuing careers
 * Individuals who have been unemployed for a long period of time
 
-The only one of these that may require some explaining is minority backgrounds. This may differ from country to country, but largely it refers to those of a BAME \(Black, Asian, minority ethnicity\) background, women and non-binary individuals, all of whom are largely under-represented for various reasons in both tech and more widely in the job market. For details on how we make decisions on accepting individuals from any of the above groups in this section, see the [Course Eligibility](../course-processes/before-the-course/course-eligibility.md) page.
-
+The only one of these that may require some explaining is minority backgrounds. This may differ from country to country, but largely it refers to those of a BAME (Black, Asian, minority ethnicity) background, women and non-binary individuals, all of whom are largely under-represented for various reasons in both tech and more widely in the job market. For details on how we make decisions on accepting individuals from any of the above groups in this section, see the [Course Eligibility](../course-processes/before-the-course/course-eligibility.md) page.

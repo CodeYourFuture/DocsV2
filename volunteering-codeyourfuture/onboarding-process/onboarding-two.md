@@ -1,8 +1,3 @@
----
-id: onboarding-two
-title: 2. Intro to Coding
----
-
 # Step 2
 
 As part of the volunteer onboarding, you can help out with the Intro to Coding.
@@ -11,5 +6,4 @@ Intro to Coding is a free, self-paced online course for anyone new to coding, su
 
 You can read about the roles that volunteers play in supporting the students during the intro to coding below:
 
-[https://introtocoding.codeyourfuture.io/](https://introtocoding.codeyourfuture.io/)
-
+[https://introtocoding.codeyourfuture.io/](https://introtocoding.codeyourfuture.io)

@@ -10,7 +10,7 @@ This means you do not have access to £200 to purchase a laptop yourself. If you
 
 If you break or loose any part of the laptop then you must contact us at [info@codeyourfuture.io](mailto:info@codeyourfuture.io) so we can arrange a replacement if we have stock available.
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdYouZIzCvga\_GGtr0hdoLyS5URrhgdtMnTas5aewwOXU0nuA/viewform" %}
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdYouZIzCvga_GGtr0hdoLyS5URrhgdtMnTas5aewwOXU0nuA/viewform" %}
 
 ## Requesting Other Hardware
 
@@ -46,4 +46,3 @@ If you are required to travel to class and cannot afford it we can pay for your 
 Normally, we ask for you to pay and then we reimburse you the costs. Otherwise, we can provide you with a travel card for the city that you live in.
 
 Please speak to your City Coordinator to get access to this service
-

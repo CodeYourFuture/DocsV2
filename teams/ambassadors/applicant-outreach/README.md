@@ -1,8 +1,3 @@
----
-id: applicant-outreach
-title: Applicant Outreach
----
-
 # Applicant Outreach
 
 ### In order to to reach more students we do a a variety of outreach activities:
@@ -12,5 +7,4 @@ title: Applicant Outreach
 * Social Media Advertising 
 * Encouraging word-of-mouth referrals 
 
-## 
-
+##

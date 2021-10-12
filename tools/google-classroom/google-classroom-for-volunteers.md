@@ -29,4 +29,3 @@ Where necessary, you can mark a piece of work while in the assignment view under
 * In addition to the above point, avoid adding important links or resources as attachments, and try to include these in the main assignment instructions where they are clearly visible for students. This can avoid confusion or some students missing important parts of the assignment.
 * It is worth checking assignments in Google Classroom against the syllabus before posting them. Sometimes there are updates or changes. Stick to the current syllabus for assignments.
 * It is beneficial to do a fun exercise to get students used to using this tool. Previous practice assignments have included things like posting a link to your favourite song
-

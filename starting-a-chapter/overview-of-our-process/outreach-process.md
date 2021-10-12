@@ -15,4 +15,3 @@ During the outreach process all CYF branches and their Outreach Volunteer Teams 
 * Run a cohesive, open and inclusive monthly outreach campaign to find new volunteers and volunteer leaders.
 
 Please read [here](https://docs.codeyourfuture.io/teams/ambassadors) for more information on how the Ambassador/Outreach Team works
-

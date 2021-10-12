@@ -13,9 +13,9 @@ Use LinkedIn to see if you have any mutual connections with the key stakeholders
 * If you have no mutual connections you need to make the direct approach yourself. I would always recommend going straight for a call, especially when it comes to charity work. 
 * If you call the company HQ/Main line and request to speak to the key stake holders, you could well be asked what the call is about, describing CYF's service and goal will very often get you past the first gate keeper and gives you a chance to find out their opinion on how interested the business as a whole might be on CYF. 
 
-If you cannot reach the key stakeholder\(s\) by phone then cold email next best approach.
+If you cannot reach the key stakeholder(s) by phone then cold email next best approach.
 
-**Always try to find someone’s work email whenever possible**. [https://hunter.io/](https://hunter.io/) is the resource I use for this, but if that proves unsuccessful trial and error works more often than you might think. 
+**Always try to find someone’s work email whenever possible**. [https://hunter.io/](https://hunter.io) is the resource I use for this, but if that proves unsuccessful trial and error works more often than you might think. 
 
 When sending a cold email my tips are: 
 
@@ -39,4 +39,3 @@ Always remember during a meeting and throughout the process with a potential hir
 * Can they make a one off donation or are they interested in sponsoring a class? o Can they donate any spare or old materials? e.g. Laptops
 * Can they push out CYF to their developers who might be interested in Mentoring? 
 * Can they set up a company meeting for someone from CYF to come down and talk to the company about how anyone who is interested can get involved? o Can they provide an event space and food and drink for an event we could hold in partnership with them? o There is always something you can get from any meeting, you just need to remember to keep your options open and be able to provide alternatives to objections.
-

@@ -12,7 +12,7 @@ You will also attend a weekly meeting with your Buddy volunteer team. This meeti
 
 {% tabs %}
 {% tab title="Check in " %}
-Buddy groups meet every two weeks. \(Some Buddies run standups more often.\)
+Buddy groups meet every two weeks. (Some Buddies run standups more often.)
 
 In these sessions you will identify blockers and talk/live code through them.  You will do code review and give coursework feedback. You will reassure them and empathise with the immense challenge they are facing. It is really really hard! 
 
@@ -42,7 +42,6 @@ An example Mentoring Session Plan can be found [here](https://teachertraining.co
 
 ## Useful Links
 
-| Teacher Training | Syllabus |
-| :--- | :--- |
-| [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io/) | [syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io/) |
-
+| Teacher Training                                                               | Syllabus                                                         |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io) | [syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io) |

@@ -1,8 +1,3 @@
----
-id: interviews
-title: Trainee Interviews
----
-
 # Applicant Interviews
 
 Before every new course, we make sure to interview our potential learners as a final step before acceptance into the Fundamentals course.
@@ -20,7 +15,7 @@ Before every new course, we make sure to interview our potential learners as a f
 
 Make sure you have all of the following information before you have your first interview
 
-1. You have access to [the Dashboard](https://dashboard.codeyourfuture.io) \(or alternative way of getting information about your applicants\)
+1. You have access to [the Dashboard](https://dashboard.codeyourfuture.io) (or alternative way of getting information about your applicants)
    * If you do not have access, speak to your coordinator
 2. Read this document fully
 3. Make sure you have access to the interview form 
@@ -28,15 +23,15 @@ Make sure you have all of the following information before you have your first i
 
 ## Roles
 
-### Greeters \(for face to face interviews\)
+### Greeters (for face to face interviews)
 
 Make sure you have at least two volunteers welcoming the Applicants to the interviews. Record their attendance, give them a tour of the premises and get them a coffee or a tea. These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe.
 
 See below for explaining how the interviews will work. 
 
-### Greeters \(for online interviews\)
+### Greeters (for online interviews)
 
-Make sure you have someone in a  Zoom break out room \(which will be the waiting room\) welcoming the Applicants to the interviews.  These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe. Take time to explain that the interviews are  so we can get to know them better. Emphasise that they've made it this far, and we think they have great potential.  
+Make sure you have someone in a  Zoom break out room (which will be the waiting room) welcoming the Applicants to the interviews.  These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe. Take time to explain that the interviews are  so we can get to know them better. Emphasise that they've made it this far, and we think they have great potential.\
 
 
 #### Set Up
@@ -45,18 +40,18 @@ Have them test their camera and microphone to ensure everything is working. Supp
 
 #### Interview Process
 
-Explain how the interview will work. The interview has 4 parts.    
-We will first check their name and identity.   
-So they will need to show  the interviewer their photo ID and confirm the spelling of their name.   
-Then they will have to talk about what they learned and their motivation for the course. They will need to share their webpage and talk about their code.   
-They will do a short English task.   
-And finally they will wrap up and have an opportunity to ask any questions.   
-  
+Explain how the interview will work. The interview has 4 parts.  \
+We will first check their name and identity. \
+So they will need to show  the interviewer their photo ID and confirm the spelling of their name. \
+Then they will have to talk about what they learned and their motivation for the course. They will need to share their webpage and talk about their code. \
+They will do a short English task. \
+And finally they will wrap up and have an opportunity to ask any questions. \
+\
 
 
 ### Interviewers
 
-In this context a technical interviewer is somehow who is comfortable asking questions about code and programming skill. Personal \(or non-technical\) interviewers should access trainee soft skills and motivations to do the course. It is encouraged for interviewers to justify their decisions to each other.
+In this context a technical interviewer is somehow who is comfortable asking questions about code and programming skill. Personal (or non-technical) interviewers should access trainee soft skills and motivations to do the course. It is encouraged for interviewers to justify their decisions to each other.
 
 Interviewers will typically have thirty minutes to conduct each interview.
 
@@ -82,7 +77,7 @@ This will mostly be the first section of the form.
 Technical interviewers should focus on questions surrounding
 
 * The applicant's work that they have submitted
-* Assessing the applicant current understanding of programming \(none is required but it's good to know\)
+* Assessing the applicant current understanding of programming (none is required but it's good to know)
 
 This will mostly be the second section of the form.
 
@@ -96,7 +91,7 @@ Our applicants come from a wide variety of backgrounds. You can see lots of back
 
 Interview days generally run the whole day and require a large number of both technical and non-technical volunteers.
 
-As applicants arrive they should be taken to a quiet space with one technical volunteer \(someone who understands code\) and one non-technical volunteer.
+As applicants arrive they should be taken to a quiet space with one technical volunteer (someone who understands code) and one non-technical volunteer.
 
 Together they should complete this form:
 
@@ -152,7 +147,7 @@ For upper bound applicants, it may be preferable to give them the skills they ne
 
 When selecting applicants your primary aim should be to answer this statement.
 
-```text
+```
 I believe that the applicant shows the potential and drive to complete the course and get the job as a developer.
 ```
 
@@ -194,4 +189,3 @@ For any other questions they can direct them to their city email address
 * etc
 
 You're also welcome to share this documentation website with them.
-

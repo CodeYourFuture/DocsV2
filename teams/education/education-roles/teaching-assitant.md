@@ -4,46 +4,9 @@
 
 The assistant teacher’s role is the role of the mentor. You are tasked with working closely with small groups or individual students to guide them through the lessons content. You should motivate when the trainee is feeling down, explain when the trainee is not comprehending and encourage the trainee to be inquisitive. You will be working more closely with our students than anyone else in the organisation and so you are a crucial part of the relationship we have with them.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Mentor</th>
-      <th style="text-align:left">Assess</th>
-      <th style="text-align:left">Feedback</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>In our classrooms we often have a wide range of ability and so it is essential
-          that we mentor the students who are struggling so they don&#x2019;t fall
-          behind.</p>
-        <p>Take the time not only to teach but also to motivate and connect with
-          the trainee. Many of our students may never have met a programmer before
-          and this can be a great opportunity for them to ask questions about your
-          background and day to day life.</p>
-      </td>
-      <td style="text-align:left">
-        <p>When interacting with students, try to gauge how they are doing in the
-          lesson. Spot students who are doing well and those that are doing poorly.
-          It is important you feed this back to our coordinators at the end of the
-          day.</p>
-        <p>Giving feedback and assessing homework from the students is also an important
-          job for you as a teaching assistant.</p>
-      </td>
-      <td style="text-align:left">
-        <p>As a teaching assistant you are uniquely placed to give active feedback
-          to your lead teacher. Never be afraid to ask the teacher to explain again
-          if you think the students don&#x2019;t understand a topic or to offer extra
-          clarification. Wherever possible, feedback to the teacher on how the students
-          you&#x2019;re interacting with are doing.</p>
-        <p>Additionally, we encourage feedback on the lesson itself. We try to foster
-          a community of growth and education for everyone at CodeYourFuture - not
-          just our students.</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Mentor                                                                                                                                                                                                                                                                                                                                                                                                                        | Assess                                                                                                                                                                                                                                                                                                                                                         | Feedback                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>In our classrooms we often have a wide range of ability and so it is essential that we mentor the students who are struggling so they don’t fall behind.</p><p>Take the time not only to teach but also to motivate and connect with the trainee. Many of our students may never have met a programmer before and this can be a great opportunity for them to ask questions about your background and day to day life.</p> | <p>When interacting with students, try to gauge how they are doing in the lesson. Spot students who are doing well and those that are doing poorly. It is important you feed this back to our coordinators at the end of the day.</p><p>Giving feedback and assessing homework from the students is also an important job for you as a teaching assistant.</p> | <p>As a teaching assistant you are uniquely placed to give active feedback to your lead teacher. Never be afraid to ask the teacher to explain again if you think the students don’t understand a topic or to offer extra clarification. Wherever possible, feedback to the teacher on how the students you’re interacting with are doing.</p><p>Additionally, we encourage feedback on the lesson itself. We try to foster a community of growth and education for everyone at CodeYourFuture - not just our students.</p> |
 
 ## Training
 
@@ -58,7 +21,7 @@ The training for this role can be found [here](https://teachertraining.codeyourf
 3. Be empathetic.
    * Our students come from many different cultures, have many different levels of English, have different levels of computer literacy, have many different employment statuses
 4. Don't demotivate.
-   * It can be easy to demotivate students using dismissive language \(e.g. "it’s easy, just do this"\)
+   * It can be easy to demotivate students using dismissive language (e.g. "it’s easy, just do this")
 5. Be patient.
    * Everything takes time and they will get there in the end
 6. Remember you are an expert.
@@ -80,7 +43,6 @@ When mentoring a trainee you should always have the homework for the week in min
 
 ## Useful Links
 
-| Documentation | More Teacher Training | Syllabus |
-| :--- | :--- | :--- |
-| [docs.codeyourfuture.io](https://docs.codeyourfuture.io/) | [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io/) | [syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io/) |
-
+| Documentation                                            | More Teacher Training                                                          | Syllabus                                                         |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| [docs.codeyourfuture.io](https://docs.codeyourfuture.io) | [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io) | [syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io) |

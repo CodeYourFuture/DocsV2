@@ -1,8 +1,3 @@
----
-id: study-groups
-title: Study Groups
----
-
 # Study Groups
 
 ## Problem
@@ -22,10 +17,10 @@ By running weekly Study groups we give the trainee a safe space to explore ideas
 
 ## Roles
 
-| Role | Duties |
-| :--- | :--- |
-| Coordinator | The coordinator should be the host of the Zoom call and work to make the event go smoothly for all involved. Does not need to be technical but it helps. They also make sure that the students know when and where study group is happening. |
-| Technical Mentor | Work directly with the students to answer their questions during the session. Explaining key concepts that the students do not understand. Reassuring and coaching students. |
+| Role             | Duties                                                                                                                                                                                                                                       |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Coordinator      | The coordinator should be the host of the Zoom call and work to make the event go smoothly for all involved. Does not need to be technical but it helps. They also make sure that the students know when and where study group is happening. |
+| Technical Mentor | Work directly with the students to answer their questions during the session. Explaining key concepts that the students do not understand. Reassuring and coaching students.                                                                 |
 
 ## Example Agenda
 
@@ -64,4 +59,3 @@ As you reach the end of the session you should
 * Remind the mentors to fill in the Tracker
 * If they aren’t already, invite the mentors to join this Slack channel as a Single Channel Guest
   * [https://app.slack.com/client/T2H71EFLK/C010MDVT37G](https://app.slack.com/client/T2H71EFLK/C010MDVT37G)
-

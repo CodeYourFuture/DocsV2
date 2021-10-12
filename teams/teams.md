@@ -1,8 +1,3 @@
----
-id: teams
-title: Local Teams
----
-
 # Overview
 
 CYF local leadership team is divided in four teams: _Outreach, Personal Development, Education and Tech Projects_. The main responsibilities are:
@@ -11,7 +6,7 @@ CYF local leadership team is divided in four teams: _Outreach, Personal Developm
   * Help Promoting the Organisation
   * Help building relationships for and with students
   * Help welcoming new volunteers
-* **Personal Development \(PD\):**
+* **Personal Development (PD):**
   * Check weekly how students are doing
   * Organise support for students with most needs
   * Coordinate soft skills day sessions
@@ -22,8 +17,8 @@ CYF local leadership team is divided in four teams: _Outreach, Personal Developm
   * Track trainee performance
   * You can read more about the roles [here](education/education-roles/)
 * **Tech Projects**
-  * Coordinate final projects and tech projects \(post-graduation\)
-  * Oversee tech content in final presentation \(graduation\)
+  * Coordinate final projects and tech projects (post-graduation)
+  * Oversee tech content in final presentation (graduation)
   * Train graduates in tech interviews
 
 ## Brief Overview in the life of a local chapter
@@ -31,7 +26,7 @@ CYF local leadership team is divided in four teams: _Outreach, Personal Developm
 **Ambassador**
 
 * The team start the year by reaching out to different organisations, attending events to promote volunteering opportunities at CYF and social media campaigns. The idea will be to renew the leadership teams and find new core members to lead the program locally. A priority will be given to Education team.
-* The team will then start finding new students by contacting a number of organisations working with refugees and disadvantaged groups with the goal of getting them to promote our program to their clients. The team will also start social media campaigns \(particularly Facebook\) to get new applicants.
+* The team will then start finding new students by contacting a number of organisations working with refugees and disadvantaged groups with the goal of getting them to promote our program to their clients. The team will also start social media campaigns (particularly Facebook) to get new applicants.
 * The team will organise volunteering and drop-in sessions to welcome people interested in joining the program. In the drop-in sessions the applicants start working together to support each other in their process.
 
 **Education**
@@ -55,4 +50,3 @@ CYF local leadership team is divided in four teams: _Outreach, Personal Developm
 * The team ensures the delivery of the project for the final presentation
 * The team support the students after graduation to ensure they keep working on tech projects as preparation for interview
 * The team organises interview practice days to give guidance and confidence to the graduates when applying for job
-

@@ -1,8 +1,3 @@
----
-id: teaching-tips
-title: Teaching Guidelines
----
-
 # Teaching Tips
 
 ## The Rules
@@ -22,11 +17,11 @@ title: Teaching Guidelines
 
 During the workshop you'll work in a small group of 3 learners. This is a hands-on, experience-oriented workshop. You'll stand by on the sidelines, not in front of them.
 
-Coaches need to be 100% focused on their learners and always be there when needed. Make sure their experience is positive and that they have fun. Do not judge, be helpful and appreciate their \(in-\)abilities.
+Coaches need to be 100% focused on their learners and always be there when needed. Make sure their experience is positive and that they have fun. Do not judge, be helpful and appreciate their (in-)abilities.
 
 ## Be Flexible & Accessible
 
-For attendees who are hard of hearing or would otherwise benefit from forms of communication other than talking, be prepared to use a text-based form of communication. Give them your Google hangout or Skype name and encourage them to IM you when they need help. \(And remember to bring a laptop so you can check your IMs!\)
+For attendees who are hard of hearing or would otherwise benefit from forms of communication other than talking, be prepared to use a text-based form of communication. Give them your Google hangout or Skype name and encourage them to IM you when they need help. (And remember to bring a laptop so you can check your IMs!)
 
 Attendees with low vision might want to increase the size of the text in their command lines, their text editors, and on web pages. They probably know how to enlarge text in their web browsers, but they might need help resizing text in other places. Don't assume anything about someone's vision; try to start the day with the statement, "And if you need help making the text size bigger or smaller when you start coding, let me know!"
 
@@ -46,7 +41,7 @@ For your learners it may be the hardest thing they've ever done. Telling them th
 
 ### No feigning surprise
 
-Don't act surprised when people say they don't know something. Not knowing something \(technical or not\) is totally acceptable at Code Your Future
+Don't act surprised when people say they don't know something. Not knowing something (technical or not) is totally acceptable at Code Your Future
 
 Be prepared even for questions like: "What is a directory?" or "How do I create a file?".
 
@@ -93,9 +88,9 @@ Here is what you can do:
 * Emphasize that there is no such thing as a "dumb" question
 * Don't say "Any questions?" Say "What questions do you have?"
 * Talk sssssslllllloooooowwwwwwllllllyyyyyyyy
-* Wait much longer than you feel is comfortable for questions/comments
+*   Wait much longer than you feel is comfortable for questions/comments
 
-  Removing the roadblocks
+    Removing the roadblocks
 
 ## Fear
 
@@ -126,7 +121,7 @@ Imagine that their keyboard is made of lava. LAVA! You wouldn't touch it, right?
 
 Whenever you take over their keyboard, learners are going to drift away. This can be offputting and even scary.
 
-We're sure you can explain what needs to be done and instruct them with your words only \(it's actually a cool exercise for you too!\). If you absolutely, ultimately must type something on their computer — chances are you don't — ask whether that is okay with them and explain what are you doing.
+We're sure you can explain what needs to be done and instruct them with your words only (it's actually a cool exercise for you too!). If you absolutely, ultimately must type something on their computer — chances are you don't — ask whether that is okay with them and explain what are you doing.
 
 * Ask: "Do you mind if I type?" or "May I?".
 
@@ -141,4 +136,3 @@ Do not give immediate answers just to make things go faster. It doesn't matter i
 #### Ask about their ideas
 
 "How would you solve it?", "What do you think?". Make them figure it out on their own. You know they know it, right?
-

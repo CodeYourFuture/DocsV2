@@ -13,6 +13,4 @@ The strategy includes.
 * An analysis of the Tech Sector / similar organisations which are doing some work in the tech ecosystem.
 * A strategy on the outreach process: where you can find potential students and what marketing tools you will use 
 
-The strategy will then be presented to the  CYF’s Strategy Team and core team members who will provide feedback  
-
-
+The strategy will then be presented to the  CYF’s Strategy Team and core team members who will provide feedback\

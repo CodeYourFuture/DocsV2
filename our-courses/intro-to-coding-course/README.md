@@ -18,5 +18,4 @@ Most importantly, completion of the Intro To Coding course **is mandatory** befo
 
 Extensive information about the Intro to Coding course can be found on it's relevent documentation
 
-{% embed url="https://introtocoding.codeyourfuture.io" caption="" %}
-
+{% embed url="https://introtocoding.codeyourfuture.io" %}

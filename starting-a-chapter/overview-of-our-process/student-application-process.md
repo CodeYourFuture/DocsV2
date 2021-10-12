@@ -6,5 +6,6 @@ Where changes to the application process are required, whether due to general im
 
 For more information see the
 
-{% page-ref page="../../course-processes/before-the-course/application-process/" %}
-
+{% content-ref url="../../course-processes/before-the-course/application-process/" %}
+[application-process](../../course-processes/before-the-course/application-process/)
+{% endcontent-ref %}

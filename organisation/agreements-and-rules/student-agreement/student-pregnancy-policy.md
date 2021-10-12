@@ -8,7 +8,7 @@ The Equality Act 2010 includes students in relation to pregnancy, maternity and 
 
 **Scope of the Policy**
 
-This policy covers any trainee who has been accepted onto the CYF Fundamental or Full stack programme \(i\) who is currently pregnant or becomes pregnant during their studies; \(ii\) whose partner is pregnant or becomes a parent during their studies; or \(iii\) who is becoming a parent \(e.g. through adoption or fostering\). This policy provides advice and guidance in relation to studying, health and safety, and finance.
+This policy covers any trainee who has been accepted onto the CYF Fundamental or Full stack programme (i) who is currently pregnant or becomes pregnant during their studies; (ii) whose partner is pregnant or becomes a parent during their studies; or (iii) who is becoming a parent (e.g. through adoption or fostering). This policy provides advice and guidance in relation to studying, health and safety, and finance.
 
 **Policy Statement**
 
@@ -26,7 +26,7 @@ The details outlined below are broadly the provisions of the Equality Act 2010 l
 
 Students are entitled to take up to 52 weeks Maternity Leave of Absence from their course of study .
 
-Maternity Leave of Absence can begin at any time from the start of the 11th week before the expected week of childbirth up to the day the childbirth occurs. Students are required to take two weeks compulsory leave of absence immediately following childbirth. Once the details of Maternity Leave have been agreed, a [Leave of Absence form](https://app.gitbook.com/@code-your-future/s/docs/organisation/agreements-and-rules/trainee-agreement/leave-of-absence-request) should be completed, stating ‘personal’ reasons for absence and sent to the City Coordinator so that their record can be updated \(pregnancy will not be stated as the reason for absence\).
+Maternity Leave of Absence can begin at any time from the start of the 11th week before the expected week of childbirth up to the day the childbirth occurs. Students are required to take two weeks compulsory leave of absence immediately following childbirth. Once the details of Maternity Leave have been agreed, a [Leave of Absence form](https://app.gitbook.com/@code-your-future/s/docs/organisation/agreements-and-rules/trainee-agreement/leave-of-absence-request) should be completed, stating ‘personal’ reasons for absence and sent to the City Coordinator so that their record can be updated (pregnancy will not be stated as the reason for absence).
 
 This document should be signed by the trainee and approved by The Head of Personal Development or City Coordinator.
 
@@ -34,7 +34,7 @@ The document should not be shared without the student’s prior consent.
 
 **Notifying the Organisation**
 
-Students are required to notify Code Your Future about their pregnancy through their Personal Development mentor \(or other designated member of staff\). \(Students entitled to Paternity Leave should do likewise\). This should be at least 8 weeks before the due date so that we can put in place additional support.
+Students are required to notify Code Your Future about their pregnancy through their Personal Development mentor (or other designated member of staff). (Students entitled to Paternity Leave should do likewise). This should be at least 8 weeks before the due date so that we can put in place additional support.
 
 **Terminations**
 
@@ -62,7 +62,7 @@ Health and Safety measures may need to be put in place in order to protect the t
 
 Students should note that financial support may stop when a leave of absence begins.
 
-Students whose partner is pregnant \(including same sex couples\) or adopting
+Students whose partner is pregnant (including same sex couples) or adopting
 
 Any trainee whose partner is pregnant will be entitled to request a leave of absence. This is likely to include time off for medical appointments prior to and after the birth, as well as a period of paternity leave/ maternity support leave following the birth. A trainee in this situation should contact their Personal Development Mentor to discuss this – basic paternity leave/ maternity support leave is two consecutive weeks, however if a trainee would like to take an extended period of leave this should be discussed.
 
@@ -70,9 +70,8 @@ Adoption Students who have been matched for adoption should inform their Persona
 
 **Miscarriage, Still Births and Neonatal Death**
 
-If a trainee miscarries, they are likely to need time off study for tests and to recover. Consideration should be given to the impact of a miscarriage on a student’s ability to meet deadlines and sit exams. There will be no distinction between live births, stillbirths \(past the 24th week of pregnancy\) or the death of a baby shortly after birth in the granting of leave.
+If a trainee miscarries, they are likely to need time off study for tests and to recover. Consideration should be given to the impact of a miscarriage on a student’s ability to meet deadlines and sit exams. There will be no distinction between live births, stillbirths (past the 24th week of pregnancy) or the death of a baby shortly after birth in the granting of leave.
 
 **Breastfeeding and Rest Facilities**
 
 The Equality Act 2010 explicitly protects students from less favourable treatment because of breastfeeding. Students should not be declined access to the course facilities because they are breastfeeding. In exceptional circumstances it may be necessary for a trainee to request permission for a baby or young child to accompany them to tutorials. This may not always be possible, as there may be health and safety issues to consider, as well as the potential disturbance of other students. Any such request should be an exception, and should not be as a substitute to ongoing child care provision. Rest facilities for pregnant and breast-feeding people should be provided by the organisation as necessary. Failure to provide rest facilities could result in students who are pregnant or breastfeeding receiving less favourable treatment. Refrigeration facilities should also be offered where possible.
-

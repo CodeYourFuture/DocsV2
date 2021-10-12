@@ -1,13 +1,8 @@
----
-id: getting-setup
-title: Getting Setup
----
-
 # Getting Setup
 
 In this guide we'll explain everything you need to get ready for our course.
 
-## 1\) Your Laptop
+## 1) Your Laptop
 
 Please make sure that the laptop you are using meets the minimum specification for our course.
 
@@ -15,7 +10,7 @@ Check [here](laptops/minimum-laptop-specs.md).
 
 If your laptop does not meet the minimum specification - please contact us for a replacement.
 
-## 2\) Requesting Support
+## 2) Requesting Support
 
 We can offer you a range of support whilst you are studying with us this includes
 
@@ -29,9 +24,9 @@ We can offer you a range of support whilst you are studying with us this include
 
 Please read [this page](laptops/requesting-a-laptop-or-support.md) for more details on how to access these services.
 
-Make a backup of all of your essential files \(i.e. files you would be unhappy to lose\) from your laptop \(the one you use for CYF work\), to a DIFFERENT device.
+Make a backup of all of your essential files (i.e. files you would be unhappy to lose) from your laptop (the one you use for CYF work), to a DIFFERENT device.
 
-## 3\) Backup Your Files
+## 3) Backup Your Files
 
 Over this course we may be asking you to install software or change your computer in ways.
 
@@ -41,7 +36,7 @@ This also gives our volunteers the confidence to recommend different options whe
 
 You could back up your files to
 
-* The Cloud \(e.g. Google Drive or DropBox\),
+* The Cloud (e.g. Google Drive or DropBox),
 * Another computer
 * An external hard disk
 * A USB stick
@@ -50,13 +45,13 @@ You MUST NOT back-up the files simply to another folder in the same laptop
 
 You will probably have to research online to find your solution
 
-## 4\) Operating System
+## 4) Operating System
 
 You can complete our course on any Operating System we recommend that you use Linux.
 
 If you need a laptop, please speak an organisers and we can provide you with one.
 
-### Ubuntu \(Optional\)
+### Ubuntu (Optional)
 
 We recommend using Ubuntu Linux to complete this course. This is an advanced computing skill but if you are comfortable installing this by yourself then you are welcome to, otherwise we can help you with this step.
 
@@ -68,15 +63,15 @@ If you're using Windows we ask that you install this program to make it easier f
 
 [Enable and install here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
-## 5\) Visual Studio Code
+## 5) Visual Studio Code
 
-### 5.1\) Install VSCode
+### 5.1) Install VSCode
 
 We use VS Code to write all of our code in the course. It is known as an Integrated Developer Environment and really helps you write great code!
 
-[Download and install here](https://code.visualstudio.com/)
+[Download and install here](https://code.visualstudio.com)
 
-### 5.2\) Extensions
+### 5.2) Extensions
 
 We also recommend that you install the follow extensions in Visual Studio Code.
 
@@ -102,28 +97,28 @@ A guide to installing extentions [can be found here](https://code.visualstudio.c
 * Live Share - Share your project with a team
   * [https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
-### 5.3\) Enable formatting on save
+### 5.3) Enable formatting on save
 
 We also suggest that you enable format on save so that your code stays formatted
 
-1. In Visual Studio open the settings file \(see [here](https://code.visualstudio.com/docs/getstarted/settings#_creating-user-and-workspace-settings)\)
+1. In Visual Studio open the settings file (see [here](https://code.visualstudio.com/docs/getstarted/settings#\_creating-user-and-workspace-settings))
 2. Search for `editor format`
 3. Set `editor.formatOnSave` and `editor.formatOnPaste` to true
 4. Set the "Default Formatter" to be Prettier
 
 ![](../../.gitbook/assets/image.png)
 
-## 6\) Software
+## 6) Software
 
 Although you _can_ install some of the following software onto a phone, it is required you install it onto your _laptop_.
 
-### 6.1\) Chrome
+### 6.1) Chrome
 
 Chrome is one of the best browsers for web developers with a great set of tools for testing and building websites
 
 [Download and install here](https://www.google.com/chrome/)
 
-### 6.2\) Slack
+### 6.2) Slack
 
 We use Slack to communicate with each other easily, to share files and to have video calls. You'll find all of your other students on here!
 
@@ -131,55 +126,54 @@ You'll need to login when you've download this. Speak to your teachers to get in
 
 [Download and install here](https://slack.com/intl/en-gb/downloads)
 
-### 6.3\) Zoom
+### 6.3) Zoom
 
 We use Zoom for bigger video calls such as weekend classrooms when they are remote.
 
 [Download and install here](https://zoom.us/download)
 
-### 6.4\) Node.js
+### 6.4) Node.js
 
 We use this tool to run our code and later in the course to help us make websites.
 
 [Download and install here](https://nodejs.org/en/download/)
 
-### 6.5\) Git & Git Bash
+### 6.5) Git & Git Bash
 
 We use this tool to upload our code to the internet so others can see it.
 
 [Download and install here](https://git-scm.com/downloads)
 
-### 6.6\) Github Desktop
+### 6.6) Github Desktop
 
 We use this tool to make it easier to use Git since it can be quite hard for a beginner!
 
-[Download and install here](https://desktop.github.com/)
+[Download and install here](https://desktop.github.com)
 
-## 7\) Websites
+## 7) Websites
 
-### 7.1\) Gmail
+### 7.1) Gmail
 
-We use a lot of Google products in the class so it's essential that everyone has a Gmail address. If you do **not** already have one then please register below.
+We use a lot of Google products in the class so it's essential that everyone has a Gmail address. If you do **not **already have one then please register below.
 
 [Create email address here](https://accounts.google.com/SignUp)
 
-### 7.2\) Github
+### 7.2) Github
 
 We use Github to submit our homework and to share code with each other. Please make sure that you have created an account and are logged in before you attend your first lesson.
 
 [Create account here](https://github.com/join)
 
-### 7.2\) Github Team
+### 7.2) Github Team
 
 As part of being a trainee at CodeYourFuture you should be a part of our Github Team.
 
 Please speak to your city coordinator to get invited to your Classes Github team or post on Slack.
 
-### 7.3\) Codewars
+### 7.3) Codewars
 
 We'll be using Codewars later in the course help us practice our JavaScript. 
 
 Follow the setup instructions here to get setup.
 
 [Setup Codewars](../running-the-course/codewars.md#setup-codewars)
-

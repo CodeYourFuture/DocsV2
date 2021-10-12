@@ -1,8 +1,3 @@
----
-id: asking-questions
-title: Asking Good Questions
----
-
 # Asking Questions
 
 In order to make is easy for people to answer your questions when asking for help it's important that you have the following information
@@ -14,7 +9,7 @@ In order to make is easy for people to answer your questions when asking for hel
 
 You should use this template:
 
-```text
+```
 Homework:
 Problem:
 Expected:
@@ -23,7 +18,7 @@ Code:
 
 For example
 
-```text
+```
 Homework: Create a Website
 Problem: The Headings on my website don't look right.
 Expected: The heading should be much bigger than the other text on the page. I've tried to use a H1 tag but it doesn't work
@@ -53,4 +48,3 @@ After you've asked your question you should make sure
 2. Have you posted an easy to understand answer to your questions that includes everything you learnt
 
 By completing all of these steps you make it really easy for other students to learn from your question and for you to get help quickly.
-

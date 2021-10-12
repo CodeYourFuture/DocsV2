@@ -1,8 +1,3 @@
----
-id: homework-feedback
-title: Homework Feedback
----
-
 # Coursework Feedback
 
 Giving effective, actionable feedback is one of the ways that we can best help our trainees learn and grow.
@@ -10,6 +5,10 @@ Giving effective, actionable feedback is one of the ways that we can best help o
 ## 1. Giving Feedback
 
 Do your code review in public directly on the trainee's Pull Request. Use all the features of GH Code review. It's part of what we are teaching. There are marking guides in many repositories to help with common responses.
+
+{% hint style="info" %}
+Do this short training on Pull Requests to refresh yourself if you haven't worked with Github recently: [https://lab.github.com/githubtraining/reviewing-pull-requests](https://lab.github.com/githubtraining/reviewing-pull-requests) 
+{% endhint %}
 
 ### Feedback Advice
 
@@ -101,7 +100,7 @@ This is, above all else, an indicator of the students abilities and is not compr
 
 Although grading makes the tracking easier, we aim to give students feedback rather than grades.
 
-A rough guide \(to be taken with a pinch of salt\):
+A rough guide (to be taken with a pinch of salt):
 
 * 0
   * Work is not handed in
@@ -135,4 +134,3 @@ _Please consult your Class Coordinators for the best place to record this inform
 **If students haven’t completed their homework**
 
 * Please liaise with the student’s PD team lead to follow up with that trainee
-

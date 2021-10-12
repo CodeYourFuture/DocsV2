@@ -9,4 +9,3 @@
 **Insurance**
 
 Each CYF Branch should have liability insurance to cover staff, students and volunteers in the territory where they operate.
-

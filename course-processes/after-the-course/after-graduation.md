@@ -14,8 +14,8 @@ The job market will always be competitive so you should continue to learn new te
 
 These are official internal projects that we use to run CodeYourFuture. Examples of ones from the past are
 
-* [The Dashboard](https://dashboard.codeyourfuture.io/)
-* [The CodeYourFuture Application Process](https://course1.codeyourfuture.io/)
+* [The Dashboard](https://dashboard.codeyourfuture.io)
+* [The CodeYourFuture Application Process](https://course1.codeyourfuture.io)
 
 These tools are essential to helping us grow and ensure the long term growth of CodeYourFuture.
 
@@ -96,8 +96,6 @@ It's also important that you work with you other graduates on projects so you ca
 ### Post-Graduate Module
 
 {% embed url="https://module-graduates.codeyourfuture.io/" %}
-
-
 
 
 

@@ -1,8 +1,10 @@
 # Slack
 
-{% page-ref page="for-volunteers.md" %}
+{% content-ref url="for-volunteers.md" %}
+[for-volunteers.md](for-volunteers.md)
+{% endcontent-ref %}
 
-{% page-ref page="for-students.md" %}
-
-
+{% content-ref url="for-students.md" %}
+[for-students.md](for-students.md)
+{% endcontent-ref %}
 

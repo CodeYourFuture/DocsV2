@@ -1,8 +1,3 @@
----
-id: interview-english
-title: English Reading Task - Interviewer's Guide
----
-
 # Interview - English
 
 ## What's the aim?
@@ -32,12 +27,13 @@ Set the candidate at ease:
 
 * As interviewer, share your screen and check the candidate can see it
 * Go to this page 
-  * * [https://codepen.io/enz0/full/eYzOeVg](https://codepen.io/enz0/full/eYzOeVg)
+  *
+    * [https://codepen.io/enz0/full/eYzOeVg](https://codepen.io/enz0/full/eYzOeVg)
 * Move your cursor to underneath the instructions on the left hand side
 * Check if the candidate can see the instructions
 * Prompt the candidate to read the instructions from your screenshare
 * Prompt the candidate to tell you exactly what to type in the editor on the right.
-  * \(This may include spelling words, typing characters, moving the cursor, searching in google, scrolling, pausing to let something be read.\)
+  * (This may include spelling words, typing characters, moving the cursor, searching in google, scrolling, pausing to let something be read.)
   * Try not to infer too much.
 
 ## Taking Notes
@@ -46,6 +42,4 @@ Set the candidate at ease:
 * Did the candidate ask you to clarify the instructions? 
 * Did the candidate think out loud while they were doing the task? 
 * How was the candidate's attention to detail?
-
-
 

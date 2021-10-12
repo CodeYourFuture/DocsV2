@@ -1,10 +1,10 @@
 # Anti-Bribery and Anti-Corruption Policy
 
-Code Your Future, a Charitable Incorporated Organisation, \("**CYF**"\) is committed to the prevention, deterrence and detection of bribery and corruption. This document sets out CYF's policy against bribery and other corrupt practices \(the "**Policy**"\) and the standards and procedures required to ensure compliance with the Policy and the anti-bribery and anti-corruption \("**ABC**"\) laws that CYF is subject to around the world.
+Code Your Future, a Charitable Incorporated Organisation, ("**CYF**") is committed to the prevention, deterrence and detection of bribery and corruption. This document sets out CYF's policy against bribery and other corrupt practices (the "**Policy**") and the standards and procedures required to ensure compliance with the Policy and the anti-bribery and anti-corruption ("**ABC**") laws that CYF is subject to around the world.
 
-1.                 INTRODUCTION
+1\.                 INTRODUCTION
 
-The UK government enacted legislation, the Bribery Act 2010 \(the "**Act**"\), to demonstrate its commitment to eradicate bribery and corruption in UK-based business organisations. CYF itself and its officers and employees could all face prosecution under the Act if they breach the Act.  CYF is also subject to local ABC laws and regulations wherever it operates in the world.
+The UK government enacted legislation, the Bribery Act 2010 (the "**Act**"), to demonstrate its commitment to eradicate bribery and corruption in UK-based business organisations. CYF itself and its officers and employees could all face prosecution under the Act if they breach the Act.  CYF is also subject to local ABC laws and regulations wherever it operates in the world.
 
 There are serious criminal penalties for committing a bribery offence under the Act, including up to 10 years in prison or an unlimited fine for individuals. CYF may also have to pay a fine, the level of which is unlimited.
 
@@ -12,7 +12,7 @@ CYF takes a zero-tolerance approach to any form of bribery and corruption within
 
 **What is bribery?**
 
-In general terms, bribery is committed where a person \(A\) offers or gives some benefit to another person \(B\) with the intention of influencing that person \(B\) or another person \(C\) to perform their functions and activities improperly. In such case, all those persons \(A, B and C\), as well as other persons who were complicit in the offence, may be guilty of bribery.
+In general terms, bribery is committed where a person (A) offers or gives some benefit to another person (B) with the intention of influencing that person (B) or another person (C) to perform their functions and activities improperly. In such case, all those persons (A, B and C), as well as other persons who were complicit in the offence, may be guilty of bribery.
 
 Remember:
 
@@ -22,11 +22,11 @@ Remember:
 
 ·                          the bribe could still be an offence under UK law if it is committed overseas, irrespective of whether it would be illegal under local law;
 
-·                          stricter standards apply where dealing with public officials \(in those cases, if a benefit is simply intended to 'influence' their activities, and not required under local law, it is a bribe - there is no requirement for 'improper performance'\); and
+·                          stricter standards apply where dealing with public officials (in those cases, if a benefit is simply intended to 'influence' their activities, and not required under local law, it is a bribe - there is no requirement for 'improper performance'); and
 
 ·                          a bribe is a criminal offence.
 
-2.                 SCOPE
+2\.                 SCOPE
 
 2.1              Who must follow this Policy?
 
@@ -34,7 +34,7 @@ The Policy applies to:
 
 ·                          all divisions and subsidiaries of CYF
 
-·                          all joint ventures \(usually those in which CYF has 50% or more interest and/or management control\) and their subsidiaries
+·                          all joint ventures (usually those in which CYF has 50% or more interest and/or management control) and their subsidiaries
 
 ·                          all directors, employees and volunteers of CYF
 
@@ -46,7 +46,7 @@ Ultimately, however, no written policy can be all-inclusive and responsibility f
 
 We will also encourage the application of this Policy amongst our business partners, including joint venture partners and consortium members, and in some cases, our contracts with them will require them to comply with it.
 
-Employees who engage third parties \(such as agents, contractors or intermediaries\) to work on behalf of CYF must seek to ensure that these parties are aware of this Policy. Such third parties may also be required to commit contractually to observe this Policy when working on our behalf if they do not have an adequate policy of their own \(see paragraph 5.6\(Prevention of bribery by Associates\) below\).
+Employees who engage third parties (such as agents, contractors or intermediaries) to work on behalf of CYF must seek to ensure that these parties are aware of this Policy. Such third parties may also be required to commit contractually to observe this Policy when working on our behalf if they do not have an adequate policy of their own (see paragraph 5.6(Prevention of bribery by Associates) below).
 
 This Policy does not form part of any CYF employee's employment contract and may be amended and updated by CYF from time to time.
 
@@ -66,13 +66,13 @@ Where, for whatever reason, you would be more comfortable in reporting any issue
 
 No employee will suffer demotion, penalty or other adverse consequences for refusing to pay bribes or refusing to participate in other corrupt practices even if this may result in CYF losing business.
 
-3.                 MONITORING AND REVIEW
+3\.                 MONITORING AND REVIEW
 
 CYF will periodically review the implementation of this Policy in respect of its suitability, adequacy and effectiveness and is committed to making improvements as appropriate.
 
 The designated person with overall responsibility for this Policy is Roberta Lifonso, Director of Operations, who will report the results of the monitoring and review activity to the Board of Trustees of CYF. Employees and business partners who are obliged to comply with this Policy will be notified of any resultant changes.
 
-4.                 TRAINING
+4\.                 TRAINING
 
 All staff are provided with a copy of the Policy upon joining, and must read through it, carefully. If any member of staff has any questions about the meaning or purpose of any provision within this policy, they should discuss this with either their immediate manager or the Director of Operations. The Policy is ancillary to the Staff Handbook, which is available to staff through the CYF Drive and on the CYF intranet [here](https://protect-eu.mimecast.com/s/xNh5CgAzsGWWZmcJr8cX?domain=docs.codeyourfuture.io/).
 
@@ -80,7 +80,7 @@ All staff will be required to undertake mandatory online training in relation to
 
 CYF will continue to review its ABC training at appropriate intervals to ensure that it is appropriate.  Staff operating in high risk areas of the business may be asked to undertake supplementary, more detailed training from time to time.
 
-5.                 POLICY
+5\.                 POLICY
 
 5.1              Key Principle
 
@@ -96,7 +96,7 @@ CYF has conducted a thorough bribery risk assessment of all aspects of its busin
 
 ·                          corporate hospitality
 
-·                          dealings with Associates \(as defined below\)
+·                          dealings with Associates (as defined below)
 
 ·                          political donations
 
@@ -148,11 +148,11 @@ See Appendix 1.
 
 5.6              Prevention of bribery by Associates
 
-Under the Act, CYF may become criminally liable where an act of bribery has been committed by a person, firm or company who is associated with CYF \(such as an agent, intermediary or service provider\). CYF's only defence is to be able to demonstrate that it had "adequate procedures" in place to prevent bribery being committed by someone associated with it.
+Under the Act, CYF may become criminally liable where an act of bribery has been committed by a person, firm or company who is associated with CYF (such as an agent, intermediary or service provider). CYF's only defence is to be able to demonstrate that it had "adequate procedures" in place to prevent bribery being committed by someone associated with it.
 
 Screening and due diligence procedures
 
-CYF is in the process of implementing formal screening and due diligence procedures to be carried out in respect of its agents, advisers, contractors, intermediaries, joint venture partners, other representatives and volunteers \("**Associates**"\) to ensure that the highest ethical standards are maintained and to protect CYF from the risk of it being associated with illegal or corrupt payments or such payments being made on its behalf.
+CYF is in the process of implementing formal screening and due diligence procedures to be carried out in respect of its agents, advisers, contractors, intermediaries, joint venture partners, other representatives and volunteers ("**Associates**") to ensure that the highest ethical standards are maintained and to protect CYF from the risk of it being associated with illegal or corrupt payments or such payments being made on its behalf.
 
 In the meantime, CYF only work with organisations which have in place and anti-bribery and anti-corruption policy and all our volunteers are required to sign a volunteer Agreement which include also a reference to the ABC law.
 
@@ -162,7 +162,7 @@ Employees must keep compliance by Associates under review and report any suspect
 
 In your dealings with Associates, the following non-exhaustive list of "red flags" should put you on notice of possible bribery risks and should be reported to the Director of Operations:
 
-·                          dealings in jurisdictions with a history of bribery and corruption \(see the Transparency International Corruption Perceptions Index\);
+·                          dealings in jurisdictions with a history of bribery and corruption (see the Transparency International Corruption Perceptions Index);
 
 ·                          close ties with the UK or any overseas Government or any Government agency in the UK or overseas;
 
@@ -174,7 +174,7 @@ In your dealings with Associates, the following non-exhaustive list of "red flag
 
 ·                          a client or a government official requests the use of a specific third party agent or intermediary;
 
-·                          odd payments or unexplained accounts in financial records \(if available for review\);
+·                          odd payments or unexplained accounts in financial records (if available for review);
 
 ·                          market rumours or allegations of inappropriate practices or requests for kickbacks;
 
@@ -196,18 +196,18 @@ Where any political donations or contributions are to be made by or on behalf of
 
 Charitable contributions should not be made by or on behalf of CYF if the contribution is or may in any way be interpreted as a means of buying influence in relation to any situation which may have an impact on CYF's business.  For example, this may be the case if a charity is supported by a high profile individual who has influence over the decision relating to a tender by CYF.
 
-Sponsorships by or on behalf of CYF shall only be made for bona fide charitable or public relations reasons and shall not be made in circumstances where there is or may be any inference of undue influence. Sponsorships should only be offered if they are supported by reasonable and transparent selection criteria. If there is any suggestion that providing local sponsorships or donations could be looked upon favourably by local government \(particularly with regards to their decision-making in relation to CYF or any project being acted upon by CYF\), then particular caution should be exercised.
+Sponsorships by or on behalf of CYF shall only be made for bona fide charitable or public relations reasons and shall not be made in circumstances where there is or may be any inference of undue influence. Sponsorships should only be offered if they are supported by reasonable and transparent selection criteria. If there is any suggestion that providing local sponsorships or donations could be looked upon favourably by local government (particularly with regards to their decision-making in relation to CYF or any project being acted upon by CYF), then particular caution should be exercised.
 
 Any charitable contribution or sponsorship by or on behalf of CYF should only be made with the prior approval of the Director of Operations and will be publicly disclosed.
 
-6.                 ACKNOWLEDGEMENT
+6\.                 ACKNOWLEDGEMENT
 
 To confirm that you have read and understood this Policy, please sign and return Appendix 2 to the Director of Operations. If you do not fully understand any aspect of this Policy, please contact the Director of Operations for further assistance and guidance before you sign.
 
-Appendix 1   
+Appendix 1 \
  GIFTS AND HOSPITALITY POLICY
 
-1.                 Introduction
+1\.                 Introduction
 
 CYF recognises that offering or accepting gifts and hospitality is usually a legitimate contribution to building good business relationships. However, gifts and corporate hospitality may cross the line and become an illegal bribe if they are disproportionate. Directors and employees must exercise care when offering or accepting gifts and hospitality in order to protect their reputation and CYF's reputation against allegations of improper behaviour and to ensure that bribery laws are not breached.
 
@@ -215,7 +215,7 @@ CYF recognises that offering or accepting gifts and hospitality is usually a leg
 
 **Hospitality** includes entertaining, meals, accommodation, receptions, tickets to entertainment, social or sports events, participation in sporting events, such activities being given or received to initiate or develop relationships with business people or other third parties.
 
-2.                 Gifts and hospitality that are never acceptable
+2\.                 Gifts and hospitality that are never acceptable
 
 Staff and other persons following this Policy shall never in the course of their activities for CYF:
 
@@ -235,19 +235,19 @@ Staff and other persons following this Policy shall never in the course of their
 
 ·                          accept or request a gift, entertainment, favour or anything of substance on behalf of any of your friends or family or offer any such thing to any friend or family member.
 
-3.                 Gifts and hospitality that are usually acceptable without prior approval \(subject to the self-approval test\)
+3\.                 Gifts and hospitality that are usually acceptable without prior approval (subject to the self-approval test)
 
-Where gifts and hospitality are sufficiently modest, value no more than £20.00 they should not require prior approval \(subject to the self-approval test\).
+Where gifts and hospitality are sufficiently modest, value no more than £20.00 they should not require prior approval (subject to the self-approval test).
 
-However, just because the value of the gift or entertainment appears modest does not necessarily mean it will be acceptable – in particular, the gift or entertainment should not be accepted or offered where the 'never acceptable' criteria above apply, regardless of the apparent value. If staff and other persons following this Policy are in any doubt as to whether those criteria apply \(where a gift may never be acceptable\), the value of the gift is not clear, or the gift otherwise appears inappropriate or disproportionate, then further guidance and/or approval should always be sought.
+However, just because the value of the gift or entertainment appears modest does not necessarily mean it will be acceptable – in particular, the gift or entertainment should not be accepted or offered where the 'never acceptable' criteria above apply, regardless of the apparent value. If staff and other persons following this Policy are in any doubt as to whether those criteria apply (where a gift may never be acceptable), the value of the gift is not clear, or the gift otherwise appears inappropriate or disproportionate, then further guidance and/or approval should always be sought.
 
-4.                 Self-approval test
+4\.                 Self-approval test
 
 You should ask yourself the following questions to determine whether a gift or hospitality is appropriate:
 
 ·                          what is the context or purpose of the gift or hospitality?
 
-·                          is the gift or hospitality proportionate? Would the guest or the recipient \(as appropriate\) be able or likely to purchase something of comparable value reasonably routinely?
+·                          is the gift or hospitality proportionate? Would the guest or the recipient (as appropriate) be able or likely to purchase something of comparable value reasonably routinely?
 
 ·                          would a person of a similar position to you regard the gift or hospitality as unduly extravagant in the circumstances?
 
@@ -261,11 +261,10 @@ The following will usually be acceptable without prior approval:
 
 ·                          Gifts of nominal value
 
-5.                 Gifts and hospitality that may be acceptable with prior approval from senior management
+5\.                 Gifts and hospitality that may be acceptable with prior approval from senior management
 
 For anything that does not fit into the above categories, the gift or hospitality may or may not be acceptable. You must get approval from the Director of Operations or if the Director of Operations is not available, the CEO.
 
-6.                 Benefits Registers
+6\.                 Benefits Registers
 
 All gifts and hospitality must be recorded in the benefits register. This does not apply to nominal value items, such as promotional material or working meals. This register will be subject to management review.
-

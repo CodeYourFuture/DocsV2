@@ -1,8 +1,3 @@
----
-id: student-agreement
-title: Trainee Agreement
----
-
 # Student Agreement
 
 CodeYourFuture is made possible by teams of Volunteers who give their time to help you.
@@ -131,4 +126,3 @@ Attendance to the course is overseen completely by CodeYourFuture staff and Volu
 You can find our Complaints Procedure [here](https://codeyourfuture.io/about/comments-compliments-complaints/).
 
 Under some circumstances you may be allowed to re-apply to our next class. See here for [our policy](./).
-

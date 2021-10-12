@@ -1,8 +1,3 @@
----
-id: overview-education
-title: Overview
----
-
 # Overview
 
 In this section you'll find all the information to do with the education team.
@@ -24,7 +19,7 @@ The function of this team varies due to the stage within the cohort:
 
 Outline and agenda for each of our classes. A duplication of this should be created for each our lessons.
 
-[Find it here](https://drive.google.com/open?id=1iYtzjCuFt1Jz_0avn_pqx391vofBcL7pi7FieMyKado)
+[Find it here](https://drive.google.com/open?id=1iYtzjCuFt1Jz\_0avn_pqx391vofBcL7pi7FieMyKado)
 
 ### Online Homework Club
 
@@ -36,7 +31,7 @@ We run regular homework clubs with our partners which provide valuable mentoring
 
 Every week, the education team meets to speak about the progress of the class so far and what need to be planned. Below you can find an example agenda for one of these events.
 
-[Find it here](https://drive.google.com/open?id=170_-B-ZQuT5IsSMm-0Na7hWJzS7aaa18ULP1EZP6_zo)
+[Find it here](https://drive.google.com/open?id=170\_-B-ZQuT5IsSMm-0Na7hWJzS7aaa18ULP1EZP6\_zo)
 
 ## Teacher Training
 
@@ -46,7 +41,7 @@ The problem lies in the fact that we are people who are passionate about teachin
 
 These problems can manifest themselves in students not understanding key concepts, struggling with homework or becoming discouraged with the course.
 
-You can find our teacher training resources here: [https://teachertraining.codeyourfuture.io/](https://teachertraining.codeyourfuture.io/)
+You can find our teacher training resources here: [https://teachertraining.codeyourfuture.io/](https://teachertraining.codeyourfuture.io)
 
 ## Github Repositories
 
@@ -56,4 +51,3 @@ You can find our teacher training resources here: [https://teachertraining.codey
   * This is the CodeYourFuture syllabus
   * We use the contents of this as the single source of truth for our teaching material
   * [https://syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io)
-

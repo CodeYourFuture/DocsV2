@@ -4,45 +4,15 @@
 
 The teacher’s role is the role of the director. You are tasked with taking control of the flow of the class and making sure it proceeds in a way that is beneficial not only to students but to volunteers as well. In the classroom, people will look to you as a figure of authority and leadership. As a lead teacher, you are ultimately responsible for what is taught in the class, the pace and the involvement of our other volunteers. It is an important and impactful role where you can have a huge impact on our trainee’s education.
 
-| Coordinate | Plan | Teach |
-| :--- | :--- | :--- |
+| Coordinate                                                                                                                                                                                                                                                                                        | Plan                                                                                                                                                                                                                                                                                                                                                                                                                                      | Teach                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Your primary role as a Lead Teacher is to coordinate and control the classroom. It is your job to guide the students and teaching assistants through the lesson plan and understand when people need more time or more guidance. Use your teaching assistants to help guide you in these efforts. | Before each lesson, you should organise with your other teachers what and how you are planning on delivering the content. It is so important that you - and the rest of the people you’re leading with - thoroughly understand the content being taught and are prepared to deliver it to the class. Before each lesson you should understand the schedule for the day, when each exercise will be taught and how they will be delivered. | Teaching should always take the smallest amount of your time as you should move to examples as soon as you feel the students are ready. Where possible you should practice Active Teaching which means that you are responsive to the students' questions and misunderstandings. |
 
 ## Jobs in Class
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Before</th>
-      <th style="text-align:left">During</th>
-      <th style="text-align:left">After</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <ul>
-          <li>Introduce yourself and the classroom volunteers</li>
-          <li>Introduce the learning objectives for the day</li>
-        </ul>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>Be aware of which students are struggling</li>
-          <li>Solicit answers from all students</li>
-          <li>Thank students for asking questions</li>
-        </ul>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>Give a recap of the learning objectives</li>
-          <li>Thank the volunteers</li>
-          <li>Attend the retro to feedback on students</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Before                                                                                                                  | During                                                                                                                                            | After                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>Introduce yourself and the classroom volunteers</li><li>Introduce the learning objectives for the day</li></ul> | <ul><li>Be aware of which students are struggling</li><li>Solicit answers from all students</li><li>Thank students for asking questions</li></ul> | <ul><li>Give a recap of the learning objectives</li><li>Thank the volunteers</li><li>Attend the retro to feedback on students</li></ul> |
 
 ## Training
 
@@ -91,7 +61,6 @@ When asking a question to assess understanding you should not only elicit answer
 
 ### Useful Links
 
-| Documentation | More Teacher Training | Syllabus |
-| :--- | :--- | :--- |
-| [docs.codeyourfuture.io](https://docs.codeyourfuture.io/) | [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io/) | [syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io/) |
-
+| Documentation                                            | More Teacher Training                                                          | Syllabus                                                         |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| [docs.codeyourfuture.io](https://docs.codeyourfuture.io) | [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io) | [syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io) |

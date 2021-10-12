@@ -1,8 +1,3 @@
----
-id: selection-day
-title: Selection Day
----
-
 # Selection Day
 
 The selection day normally happens within one to two weeks after interviews and is when we collate all of the data that we have on our applicants and decide - as a group - who will be brought forward onto the full course.
@@ -31,7 +26,7 @@ When you’re evaluating the applicant you should be keeping in mind that they m
 An applicant might be rejected because of a variety of reasons. For example:
 
 * Personal Interviews
-  * The applicant’s English \(reading, spoken or written\) were graded poorly
+  * The applicant’s English (reading, spoken or written) were graded poorly
   * The applicant did not seem to understand what it meant to be a programmer
   * The applicant could not sufficiently explain when they would find time to work
   * and many more…
@@ -48,7 +43,7 @@ Often an applicant will be rejected for a selection of reasons spanning across t
 
 ### What is “Accepted but Advanced”?
 
-A small but significant portion \(historically 15-20%\) of the people who apply and reach the selection stage have had a significant amount of experience with programming already.
+A small but significant portion (historically 15-20%) of the people who apply and reach the selection stage have had a significant amount of experience with programming already.
 
 It is important that while we should not reject these people - they still come from disadvantaged backgrounds and should not be penalised for knowing too much - however advanced applicants can be very disruptive in class for applicants without experience and it may not be the best use of their time.
 
@@ -81,7 +76,7 @@ It’s important that the Applicant is involved in any discussions around their 
 
 Make a copy of this template to organise all of the information we have on the applicants
 
-[\[TEMPLATE\] CodeYourFuture Applicant Selection](https://docs.google.com/spreadsheets/d/1SLzDiz2y3VH3ilWb4PB7_sZAQqo-uaMHT7I-_690aPM/edit?usp=sharing)
+[\[TEMPLATE\] CodeYourFuture Applicant Selection](https://docs.google.com/spreadsheets/d/1SLzDiz2y3VH3ilWb4PB7\_sZAQqo-uaMHT7I-\_690aPM/edit?usp=sharing)
 
 ### During the Meeting
 
@@ -112,7 +107,7 @@ Applicants should be ranked on a scale of 1-10 where
 
 ![drawing](../../.gitbook/assets/ranking.png)
 
-You can **only** rank applicants in whole numbers \(i.e. 5.5 is **not** allowed\)
+You can **only** rank applicants in whole numbers (i.e. 5.5 is **not** allowed)
 
 Below you can find a grading rubric for each of the ranks.
 
@@ -190,11 +185,11 @@ Using the applicants _Interview Notes_ and _Motivation Letter_ decide which cate
 
 **Very Poor**
 
-* The applicant did not say why they wanted to be a developer \(e.g. creating software, solving problems etc\)
+* The applicant did not say why they wanted to be a developer (e.g. creating software, solving problems etc)
 
 **Poor**
 
-* The applicant only listed generic reasons for wanting a job \(e.g support family, have money\)
+* The applicant only listed generic reasons for wanting a job (e.g support family, have money)
 * **Average**
 * The applicant showed some understanding of what a developer does
 * The applicant showed excitement at the idea of becoming a programmer
@@ -216,28 +211,28 @@ Using the _Technical Interview Notes_ and _Technical Work from the Application P
 
 **Very Poor**
 
-* The applicant performed poorly in the technical part of the interview \(Score 1+\)
+* The applicant performed poorly in the technical part of the interview (Score 1+)
 * The applicant did not mention self-teaching or how they would achieve it
 
 **Poor**
 
-* The applicant performed poorly in the technical part of the interview \(Score 3+\)
+* The applicant performed poorly in the technical part of the interview (Score 3+)
 * The applicant did not give examples of self-teaching but referenced it
 
 **Average**
 
-* The applicant performed averagely in the technical part of the interview \(Score 5+\)
-* The applicant only gave examples of self-teaching from the application process \(i.e. FreeCodeCamp\)
+* The applicant performed averagely in the technical part of the interview (Score 5+)
+* The applicant only gave examples of self-teaching from the application process (i.e. FreeCodeCamp)
 
 **Good**
 
-* The applicant performed well in the technical part of the interview \(Score 7+\)
+* The applicant performed well in the technical part of the interview (Score 7+)
 * The applicant showed they understood the scale of the challenge
 * The applicant has given specific examples of having self-taught a non-programming subject
 
 **Very Good**
 
-* The applicant performed very well in the technical part of the interview \(Score 9+\)
+* The applicant performed very well in the technical part of the interview (Score 9+)
 * The applicants went beyond the requirements in their submitted website
 * The applicant has given specific examples of having self-taught programming
 * The applicant gave specific examples of overcoming and solving a programming issue
@@ -268,7 +263,7 @@ Using the _Interview Notes \_and \_Motivation Letter_ decide which category the 
 **Very Good**
 
 * The applicant was actively interested in joining a community of learners
-* The applicant gave concrete examples of having given back in the past \(e.g. volunteering, community work\)
+* The applicant gave concrete examples of having given back in the past (e.g. volunteering, community work)
 * The interviewer gave the applicant a score of 9+ for the question “The applicant will be a good fit for CodeYourFuture”
 
 ## Rank Levels
@@ -340,4 +335,3 @@ You should give an applicant this ranking if:
 
 * The applicant scored Very Good in most of the categories
 * The applicant scored Good in some of the categories
-

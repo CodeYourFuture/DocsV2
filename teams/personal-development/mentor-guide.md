@@ -1,8 +1,3 @@
----
-id: pd-mentor-guidance
-title: Mentor Guidance
----
-
 # Mentor Guide
 
 This section is intended as a breifing for both new and experienced CYF mentors alike.
@@ -28,18 +23,18 @@ Aside from the above, we recommend you cover the mentee’s ambitions and goals 
 * Particular issues they face
 * Their achievements so far and how to build on them
 * Realistic expectations for type of role, company, salary
-* Scale of priorities \(learning tech skills, professional skills, finding a job\)
+* Scale of priorities (learning tech skills, professional skills, finding a job)
 * Areas in which they would find input most useful
 
 ### Topics To Cover
 
 * When you would like to meet – how often and for how long
-* Vehicle for follow-up meetings \(Zoom, Hangouts, Slack, phone call\)
-* How you will keep in touch \(by email and or Slack\) and how you will remind each other of future meetings.
+* Vehicle for follow-up meetings (Zoom, Hangouts, Slack, phone call)
+* How you will keep in touch (by email and or Slack) and how you will remind each other of future meetings.
 * Discussing and agreeing how you will work together
-* Confidentiality vs privacy \(the content of your meetings is private; your mentee will have control over how any of their information is shared\)
+* Confidentiality vs privacy (the content of your meetings is private; your mentee will have control over how any of their information is shared)
 * Responsibilities of mentor and mentee
-* How you will record progress and issues/targets for further development \(both mentor _and_ mentee please use the [Career Mentoring Feedback Form](https://forms.gle/z1BXaXstS3SHL1My8)\)
+* How you will record progress and issues/targets for further development (both mentor _and_ mentee please use the [Career Mentoring Feedback Form](https://forms.gle/z1BXaXstS3SHL1My8))
 
 ## Building Trust and Rapport
 
@@ -47,21 +42,18 @@ Taking time to build trust and rapport with your mentee will help you to get the
 
 ### Trust
 
-* **Get to know your mentee**  
+*   **Get to know your mentee**  
 
-  Talk about their studies at CYF and their life outside it. Try to understand what they think and why. Value their viewpoint.
+    Talk about their studies at CYF and their life outside it. Try to understand what they think and why. Value their viewpoint.
+*   **Do what you say you are going to do**  
 
-* **Do what you say you are going to do**  
+    Agree what you are aiming to achieve through your mentoring sessions. Be reliable and always do what you say you are going to do.
+*   **Communicate openly and honestly**  
 
-  Agree what you are aiming to achieve through your mentoring sessions. Be reliable and always do what you say you are going to do.
+    Discuss issues as soon as they arise. Ask for and give feedback.
+*   **Don’t be afraid to challenge**  
 
-* **Communicate openly and honestly**  
-
-  Discuss issues as soon as they arise. Ask for and give feedback.
-
-* **Don’t be afraid to challenge**  
-
-  Your open, honest relationship will allow you to challenge your mentee constructively to explore a wider viewpoint.
+    Your open, honest relationship will allow you to challenge your mentee constructively to explore a wider viewpoint.
 
 ### Rapport
 
@@ -100,21 +92,18 @@ It’s really important that you respect each other’s confidentiality. Remembe
 
 **Four things to think about are:**
 
-* **Concerns**  
+*   **Concerns**  
 
-  If you’ve got any, chat to the the PD team or other Mentors in the `#cyf-career-mentors` Slack channel.
+    If you’ve got any, chat to the the PD team or other Mentors in the `#cyf-career-mentors` Slack channel.
+*   **Secrets**  
 
-* **Secrets**  
+    Don’t promise to keep any secrets. Make that clear from the beginning and remember to ask your mentee if they mind you sharing confidential information with anyone else.
+*   **Information**  
 
-  Don’t promise to keep any secrets. Make that clear from the beginning and remember to ask your mentee if they mind you sharing confidential information with anyone else.
+    Keep information about your mentee (like their phone number) somewhere secure.
+*   **You**  
 
-* **Information**  
-
-  Keep information about your mentee \(like their phone number\) somewhere secure.
-
-* **You**  
-
-  Confidentiality works both ways. Be aware of those personal areas of your life you’re happy to share with your mentee and those you are not.
+    Confidentiality works both ways. Be aware of those personal areas of your life you’re happy to share with your mentee and those you are not.
 
 ## Tools And Techniques
 
@@ -159,7 +148,7 @@ This is an important step. Too often, people try to solve a problem or reach a g
 
 As your mentee tells you about their current reality, the solution may start to emerge. Useful coaching questions in this step include the following:
 
-* What is happening now \(what, who, when, and how often\)? What is the effect or result of this?
+* What is happening now (what, who, when, and how often)? What is the effect or result of this?
 * Have you already taken any steps towards your goal?
 * Does this goal conflict with any other goals or objectives?
 
@@ -207,4 +196,3 @@ There will come a time when the mentoring relationship will begin to draw to an 
 * Find other ways to support your mentee. For instance, look at ways you can continue to support your mentee’s learning.
 * Celebrate your success. Have a look at the goals you set when you first met. Consider what you have both achieved during the process and reflect on what you can take to your next mentoring relationship.
 * Say goodbye. End the session on a positive note so it’s not awkward. You could talk about what you most enjoyed, what you’ll remember most or the most important things you’ve both learned.
-

@@ -1,8 +1,3 @@
----
-id: course-eligibility
-title: Course Eligibility
----
-
 # Course Eligibility
 
 ## **Who can apply for our courses?**
@@ -82,4 +77,3 @@ When considering a trainee we look at the following areas
 * Some technical abilities
 * Brings valuable contributions to technical projects
 * Confident about learning
-

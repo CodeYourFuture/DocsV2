@@ -1,8 +1,3 @@
----
-id: hackathons
-title: Hackathons
----
-
 # Hackathons
 
 Throughout the course, our students may have the opportunity to work on [Hackathons](https://en.wikipedia.org/wiki/Hackathon) organised by CodeYourFuture or partner organisations.
@@ -13,7 +8,7 @@ The goals of the Hackathon are as follows in priority order
 
 1. The students have the chance to put their learning into practice in a low risk environment
 2. The students get experience working in a team
-3. The students get to meet experienced developers \(if pairing with external developers\)
+3. The students get to meet experienced developers (if pairing with external developers)
 4. The teams produce some useful that will be used
 
 ## Steps Required Running a Hackathon
@@ -31,7 +26,7 @@ More details about these steps can be found below
 
 Before a Hackathon can happen sign-off must be given from
 
-* Local City Coordinator\(s\)
+* Local City Coordinator(s)
 * Local Education Team
 
 In addition to this, the depending on when during the course takes place the Education Team must be consonsulted on
@@ -43,7 +38,7 @@ In addition to this, the depending on when during the course takes place the Edu
 
 ## Trainee Constraints
 
-If a Hackathon is taking place during the duration of a class \(i.e. before Graduation\) then there are some constraints on the students
+If a Hackathon is taking place during the duration of a class (i.e. before Graduation) then there are some constraints on the students
 
 1. Coursework Comes First
    * Above all else, the students must prioritise their coursework before doing any work on the hackathon.
@@ -94,4 +89,3 @@ For more general problems like this we're looking to your creativity to help us 
 Here are some example hackathon that we've run with partners in the past
 
 * [Capgemini Hackathon - West Midlands - November 2020](https://docs.google.com/document/d/1ZSA10i9ub6Mm_OpQKl3Esl6vP_A_crq7PiCwqzeTx6s/edit#)
-

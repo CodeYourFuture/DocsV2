@@ -1,8 +1,3 @@
----
-id: running-a-class
-title: Running A Class
----
-
 # Running a Class
 
 ## Pre-Class Checklist
@@ -133,7 +128,7 @@ Giving the students a summary of their homework and work they are expected to do
 
 **Who runs this?**
 
-This is run by an Education Team Volunteer \(preferably one of the Classroom Assistants\).
+This is run by an Education Team Volunteer (preferably one of the Classroom Assistants).
 
 **Why do we do this?**
 
@@ -162,7 +157,7 @@ It's important that students are tracked as they move through the course so that
 
 **What is this?**
 
-When we're in a physical classroom \(i.e. not an online lesson\) we need to make sure everything is clean and tidy for when the next people use the space. This is important as we're normally hosted in another companies office!
+When we're in a physical classroom (i.e. not an online lesson) we need to make sure everything is clean and tidy for when the next people use the space. This is important as we're normally hosted in another companies office!
 
 We need to make sure that
 
@@ -185,7 +180,7 @@ To be respectful of the space that we're using to run our classes
 
 1. Encourage every trainee to speak
 2. Ensure every trainee feels they can ask questions any time
-3. Trainers to be able to assess a minimum threshold level for the class \(below average\)
+3. Trainers to be able to assess a minimum threshold level for the class (below average)
 
 ### Guidelines
 
@@ -195,7 +190,7 @@ To be respectful of the space that we're using to run our classes
 3. Organise short group discussions to encourage communication
    1. Big group discussions allow people to disconnect and zone out
 4. Don’t ask ‘does everybody see…‘ instead ask for the opposite: ‘who does not have clear x or y?’ If nobody offers an answer, then prompt a couple of people and if they don’t know ask for others that don’t know.
-5. Assess trainee attention. People looking down or with the hands in their faces \(especially around their forehead\) indicate that they are either confused or tired or bored.
+5. Assess trainee attention. People looking down or with the hands in their faces (especially around their forehead) indicate that they are either confused or tired or bored.
 6. Ensure that most people in your class ask a question or make a comment during your session. Encourage everybody to speak either by prompting individually or asking those to raise their hands who know the answer to a question and haven’t contributed to class
 
 ### Ideas for Teachers
@@ -208,4 +203,3 @@ While one trainer is leading the class, have another trainer observe and note pe
 * Don’t give direct answers
 * Guide people to find a solution on their own
 * Answer questions with other questions
-

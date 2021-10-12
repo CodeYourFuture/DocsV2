@@ -1,8 +1,3 @@
----
-id: working-principles
-title: Working Principles
----
-
 # Working Principles
 
 **What is expected from a CYF program?**
@@ -21,4 +16,3 @@ title: Working Principles
 * Masterclass/boardroom/lecture atmosphere and dynamics
 * One person controlling all the agenda and leading all day
 * Volunteers being told what to do on the day
-

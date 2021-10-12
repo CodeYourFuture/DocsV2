@@ -1,13 +1,8 @@
----
-id: online-teaching
-title: Online Teaching
----
-
 # Teaching Notes
 
-[Online-teaching: Home](online-teaching.md) \| [Start-of-class checklists](online-start-of-class-checklists.md) \| [Online fun](online-fun.md) \| [Zoom training call overview](zoom-training-call-overview.md)
+[Online-teaching: Home](online-teaching.md) | [Start-of-class checklists](online-start-of-class-checklists.md) | [Online fun](online-fun.md) | [Zoom training call overview](zoom-training-call-overview.md)
 
-## Zoom Client Setup \(everyone\)
+## Zoom Client Setup (everyone)
 
 We recommend using [Zoom](https://zoom.us) for online classes because
 
@@ -17,7 +12,7 @@ We recommend using [Zoom](https://zoom.us) for online classes because
 
 We suggest that everyone [downloads the client now](https://zoom.us/download).
 
-## Zoom hosting account setup \(only admininstrators\)
+## Zoom hosting account setup (only admininstrators)
 
 Zoom account **owners** should follow [these config instructions](online-teaching-settings.md) to customise the settings for all future calls made from that account.
 
@@ -44,7 +39,7 @@ It is the responsibility of the Assistant Lead teacher to `Host` the Online Clas
 
 We recommend you use Slack - make and use a custom channel or group chat especially to communicate between teachers not in the same call. This is important so messages don't get lost and all teachers are kept in the loop.
 
-London, for example, will use [\#london-teachers-during-class](https://app.slack.com/client/T2H71EFLK/C0109KRLYTS/thread/C010D1C41K2-1584699383.012200)
+London, for example, will use [#london-teachers-during-class](https://app.slack.com/client/T2H71EFLK/C0109KRLYTS/thread/C010D1C41K2-1584699383.012200)
 
 For teachers and TAs in the same virtual classroom you can also use:
 
@@ -72,7 +67,7 @@ Students should be directed to ask questions in the Slack Channel. We suggest cr
 
 * Host and administer the video call
   * Start the video call
-  * Mute noisy people who are not speaking \("mute all" is useful and temporary\)
+  * Mute noisy people who are not speaking ("mute all" is useful and temporary)
   * Bring important questions to the teacher's attention
   * Assign people to Breakout rooms
 * Manage the timing for the day
@@ -83,7 +78,7 @@ Students should be directed to ask questions in the Slack Channel. We suggest cr
 
 * Support the teacher
 * Listen for the teachers' instructions to students
-* Guide exercises in the breakout rooms \(if necessary\)
+* Guide exercises in the breakout rooms (if necessary)
 * Moderate and guide the students' discussions during exercises
 
 #### Energiser
@@ -112,16 +107,16 @@ Students should be directed to ask questions in the Slack Channel. We suggest cr
 
 ## Headset recommendations
 
-**Sennheiser SC30** \(£15-£40\)
+**Sennheiser SC30** (£15-£40)
 
-The Sennheiser SC30 has good sound quality, is lightweight \(comfortable for long use\) and cheap \(£15 previously owned on ebay\). \(Recommended in [this article](https://ma.tt/2020/03/dont-mute-get-a-better-headset/)\).
+The Sennheiser SC30 has good sound quality, is lightweight (comfortable for long use) and cheap (£15 previously owned on ebay). (Recommended in [this article](https://ma.tt/2020/03/dont-mute-get-a-better-headset/)).
 
 Cons:
 
-* It will take up another USB port \(USB A\) on your computer \(and won't plug in to a phone at all\). A trainee running an external web cam, mouse, keyboard, and USB headset is likely going to need a USB hub \(£10\).
-* It has a frivolous volume control hardware half-way down the cable which, for me, tends to snag on the desk and has resulted in cable damage \(400 hours in, with a pre-owned item\). \(I'll buy the same again!\)
+* It will take up another USB port (USB A) on your computer (and won't plug in to a phone at all). A trainee running an external web cam, mouse, keyboard, and USB headset is likely going to need a USB hub (£10).
+* It has a frivolous volume control hardware half-way down the cable which, for me, tends to snag on the desk and has resulted in cable damage (400 hours in, with a pre-owned item). (I'll buy the same again!)
 
-**Jabra Evolve 40** \(£40 -£80\)
+**Jabra Evolve 40** (£40 -£80)
 
 These were recommended by a CYF Scotland volunteer. Expensive when at full price, but £40 on ebay.
 
@@ -129,16 +124,15 @@ These were recommended by a CYF Scotland volunteer. Expensive when at full price
 
 Don't hesitate to edit this page to add a recommendation!
 
-**Testing your sound.** Use an online service to record and play back your mic, to let you hear how it sounds. When testing this way, be sure speak energetically and animatedly as you hopefully would when teaching, with the microphone at the same position as you intend to use it, or you won't hear issues of boominess and plosive sounds that occur at higher speaking volumes. Ask your fellow teachers and your students! \(If you hear that a fellow teacher's sound isn't great, let them know!\)
+**Testing your sound.** Use an online service to record and play back your mic, to let you hear how it sounds. When testing this way, be sure speak energetically and animatedly as you hopefully would when teaching, with the microphone at the same position as you intend to use it, or you won't hear issues of boominess and plosive sounds that occur at higher speaking volumes. Ask your fellow teachers and your students! (If you hear that a fellow teacher's sound isn't great, let them know!)
 
 ## Trainee Training
 
 We use Zoom training calls to up-skill our volunteers and students.
 
 * You can find the agenda for such a call here: [Zoom training call overview](zoom-training-call-overview.md)
-* Teachers can request a training call from Neill Bogie on Slack or ask in \#zoom-questions
+* Teachers can request a training call from Neill Bogie on Slack or ask in #zoom-questions
 
 ## Who to ask for help
 
-[Online-teaching: Home](online-teaching.md) \| [Start-of-class checklists](online-start-of-class-checklists.md) \| [Online fun](online-fun.md) \| [Zoom training call overview](zoom-training-call-overview.md)
-
+[Online-teaching: Home](online-teaching.md) | [Start-of-class checklists](online-start-of-class-checklists.md) | [Online fun](online-fun.md) | [Zoom training call overview](zoom-training-call-overview.md)

@@ -24,15 +24,15 @@ CodeYourFuture is unable to reimburse students for any expenditure **which canno
 
 CodeYourFuture aims to remove barriers to learning as much as possible, this can include covering the cost of personal internet for the purposes of studying on the CYF course. This can work one of two ways:
 
-a\) for people with a UK bank account, CYF will reimburse into the individual's bank account upon receipt of a valid receipt \(e.g. monthly mobile data bill\) inline with the above.
+a) for people with a UK bank account, CYF will reimburse into the individual's bank account upon receipt of a valid receipt (e.g. monthly mobile data bill) inline with the above.
 
-b\) for those without a valid UK bank account, CYF will provide a WiFi hotspot unit for you to use.
+b) for those without a valid UK bank account, CYF will provide a WiFi hotspot unit for you to use.
 
 In either instance, students agree to use the internet responsibly and for the purposes of studying on the CYF course. By accepting this agreement, students agree not to use the internet service to access illegal websites, adult content or any other inappropriate content.
 
 **Childcare policy**
 
-We provide financial support for childcare throughout the whole week for any parents who have children under the age of 14 \(or over in case of children with special needs\).
+We provide financial support for childcare throughout the whole week for any parents who have children under the age of 14 (or over in case of children with special needs).
 
 We can cover up to 8 hours of childcare on the weekend and up to 15 hours during the week.
 
@@ -43,4 +43,3 @@ The students will need to present to CodeYourFuture the invoice received by the 
 The financial support provided will be assessed on a case by case basis.
 
 In order to be eligible for childcare support you will need to discuss your requirements and circumstances with your Personal Development mentor and City Coordinator.
-

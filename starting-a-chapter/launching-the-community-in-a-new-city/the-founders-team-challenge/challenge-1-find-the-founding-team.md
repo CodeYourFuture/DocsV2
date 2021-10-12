@@ -8,7 +8,7 @@ The core of the organisation is based on its local founders. No single person sh
 * We are expecting a commitment of 12 months in order to launch the community
 * The founding team will need to commit for 10-20 hours for the first 3 months in order to launch the Intro to Coding Course\*.
 
-\*After the ambassador team is in place, the amount of hours will lower.  
+\*After the ambassador team is in place, the amount of hours will lower.\
 
 
 _Tips: How can I find organisers?_
@@ -17,6 +17,4 @@ _- Speak at local tech events, NGOs, tech for good conferences and Universities_
 
 _- Promote the idea on social media and reach out to social media groups covering a wide range of areas_
 
-_- Organise meetups and events to present the idea of CYF_  
-
-
+_- Organise meetups and events to present the idea of CYF_\

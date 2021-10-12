@@ -1,8 +1,3 @@
----
-id: history
-title: History of Code Your Future
----
-
 # Mission & Values
 
 ## Mission
@@ -22,7 +17,7 @@ Our organisation values are as follows:
 
 ## History
 
-CodeYourFuture \(CYF\) is a UK non-profit organisation that trains refugees and disadvantaged people to become web developers and helps them to find work in the tech industry.
+CodeYourFuture (CYF) is a UK non-profit organisation that trains refugees and disadvantaged people to become web developers and helps them to find work in the tech industry.
 
 CYF students on the Full Stack Course are trained in full-stack web development by professional developers from the industry, putting a strong emphasis on collaboration and product development through tech projects.
 
@@ -34,7 +29,7 @@ In his time in the tech industry, he had met the founders of tech companies acro
 
 At the same time, the European refugee crisis of 2015 had left the UK with a generally negative perception of forcibly displaced people, even though many of those with negative views had never met a refugee or asylum seeker.
 
-Seeking inspiration, Germán reached out to Gijs Cortens, the founder of [HackYourFuture](https://www.hackyourfuture.net/) \(HYF\). Gijs became a guide through the early stages of the process of setting up CodeYourFuture.
+Seeking inspiration, Germán reached out to Gijs Cortens, the founder of [HackYourFuture](https://www.hackyourfuture.net) (HYF). Gijs became a guide through the early stages of the process of setting up CodeYourFuture.
 
 In mid-October 2016, CodeYourFuture had its first class with ten students from Syria, Afghanistan, India, Ethiopia and a stateless person, setting the foundations for our London chapter. An article that describes that first class was published in [Refugees Deeply](https://www.newsdeeply.com/refugees/articles/2016/10/19/welcome-to-londons-refugee-coding-school).
 
@@ -48,18 +43,17 @@ Our goal is to create a grassroots movement that anyone around the world can rep
 
 ## People supporting the core structure of the organisation
 
-* **German Bencci** \(@german\): General Strategy, Expansion, Partnerships
-* **Sally McGrath** \(@Sally McGrath\): Education and Pedagogy
-* **Candy DeRoy** \(@Candy DeRoy\): Volunteers and Personal Development
-* **Alec McCrindle** \(@Alec\): Design and Digital Marketing
-* **Roberta Lifonso** \(@Roberta\): Operations
-* **Liliana Bermudes** \(@Liliana\): Community Building & Partnerships, London coordination
-* **Nima Karimi** \(@nima\): CTO
-* **Gianluca Palombo** \(@Gianluca\): Glasgow coordination
-* **Barny Dathan** \(@Barnaby Dathan\): North West coordination
-* **Claire** **Bickley** \(@Claire\): West Midlands management
-* **Aaishah Khan** \(@Aaishah\): West Midlands coordination
+* **German Bencci** (@german): General Strategy, Expansion, Partnerships
+* **Sally McGrath** (@Sally McGrath): Education and Pedagogy
+* **Candy DeRoy** (@Candy DeRoy): Volunteers and Personal Development
+* **Alec McCrindle** (@Alec): Design and Digital Marketing
+* **Roberta Lifonso** (@Roberta): Operations
+* **Liliana Bermudes** (@Liliana): Community Building & Partnerships, London coordination
+* **Nima Karimi** (@nima): CTO
+* **Gianluca Palombo** (@Gianluca): Glasgow coordination
+* **Barny Dathan** (@Barnaby Dathan): North West coordination
+* **Claire** **Bickley** (@Claire): West Midlands management
+* **Aaishah Khan** (@Aaishah): West Midlands coordination
 * **Hazel Todhunter:** Finance
 
 You may see their names pop up in our Slack channels from time to time!
-

@@ -1,8 +1,3 @@
----
-id: re-entry
-title: Re-Entry To Course
----
-
 # Re-admission to Course
 
 During a course some learners may feel the need to stop their studies due to commitments outside of CodeYourFuture. This is entirely understandable and is often a good decision for some trainees.
@@ -25,7 +20,7 @@ There are several reasons why a trainee may want to drop out of the course and r
 * Childcare time constraints
 * Falling behind in the course content
 * Bereavement
-* Pregnancy/Maternity \([see Pregnancy policy here](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement/student-pregnancy-policy)\)
+* Pregnancy/Maternity ([see Pregnancy policy here](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement/student-pregnancy-policy))
 
 When a trainee removes themselves from the course via a leave of absence, the education and personal development teams should set coursework for the trainee to complete in their own time.
 
@@ -51,11 +46,10 @@ In order to gain re-entry to the course students must:
 1. Complete the entire application process from the beginning including the applicant interview
    * They must show significant improvement in their application from the previous time they applied for the course
 2. Show significant evidence that they will be able to complete the full course this year
-3. \(If required\) show significant improvement in their reading, written and spoken English skill
+3. (If required) show significant improvement in their reading, written and spoken English skill
 
 \*Re-admission will not be considered under any circumstance for students that were removed from their course because of Code of Conduct violations.
 
 ### Resuming Studies
 
 If accepted on the course, learners will have to meet with the Director of Personal Development, and City Coordinator to discuss their returning to study plan.
-

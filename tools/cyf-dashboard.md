@@ -1,19 +1,14 @@
----
-id: cyf-dashboard
-title: Dashboard
----
-
 # Dashboard
 
 ## Dashboard Training
 
-You can find the slides for the dashboard training [here](https://docs.google.com/presentation/d/1XG0KQvT4b7NrXUa4y7bBcvI6cZkMRv6ybejvCA5wIEA/edit#slide=id.g81d5c2e1cb_1_0).
+You can find the slides for the dashboard training [here](https://docs.google.com/presentation/d/1XG0KQvT4b7NrXUa4y7bBcvI6cZkMRv6ybejvCA5wIEA/edit#slide=id.g81d5c2e1cb\_1\_0).
 
 This training is given to people who want to start helping with evaluating applicants on the dashboard.
 
 ## Where is this?
 
-[https://dashboard.codeyourfuture.io/](https://dashboard.codeyourfuture.io/)
+[https://dashboard.codeyourfuture.io/](https://dashboard.codeyourfuture.io)
 
 ## What is this?
 
@@ -44,4 +39,3 @@ As we've grown, we've found that this has become a a bottleneck for the organisa
 ## How do I get access?
 
 You can sign up on the website and then talk to a city coordinator to be accepted.
-

@@ -1,8 +1,3 @@
----
-id: outreach-roles
-title: Roles
----
-
 # Outreach Roles
 
 An outreach volunteer uses their communication or organisational skills to help tell the CodeYourFuture story and run events, to bring in new students, volunteers and corporate partners into our fun, inclusive community.
@@ -10,10 +5,10 @@ An outreach volunteer uses their communication or organisational skills to help 
 **The Outreach team will share responsibilities for the following;**
 
 * Help Promoting the Organisation 
-  * Identify and engage with key social media groups to promote CYF organically \(e.g. promote courses, volunteering opportunities, wider activities\)
+  * Identify and engage with key social media groups to promote CYF organically (e.g. promote courses, volunteering opportunities, wider activities)
   * Write and schedule story posts on social
 * Help building relationships for and with students 
-  * Reach out to NGOs and community organisations and build meaningful relationships to find students \(important orgs in regions, but not key partners\)
+  * Reach out to NGOs and community organisations and build meaningful relationships to find students (important orgs in regions, but not key partners)
   * Reach out to new students to support them in their first step on this journey
   * Organise Demo Day/Graduation 
   * Identify volunteers that can help us reaching out to potential hiring companies
@@ -31,4 +26,3 @@ You don’t have to be a professional content creator - just organised and pro-a
 * Podcasters
 * Writers
 * Illustrators & Artists
-

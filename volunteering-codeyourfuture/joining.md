@@ -1,8 +1,3 @@
----
-id: joining
-title: Joining as a volunteer
----
-
 # Joining
 
 ## How can I join?
@@ -47,4 +42,3 @@ Once you register with us, you will be invited to join an info session.
 During the session, you will learn about CodeYourFuture's mission, program and volunteering opportunities.
 
 A short training session follows - and then you start your volunteering journey as a CYF volunteer.
-

@@ -16,6 +16,4 @@ The challenge:
 
 \*Most likely ⅔ of the team will not complete the challenge.
 
-At the end of the challenge, there should be a team of 5 super committed ambassadors that will stay in place for the duration of the first class   
-
-
+At the end of the challenge, there should be a team of 5 super committed ambassadors that will stay in place for the duration of the first class \

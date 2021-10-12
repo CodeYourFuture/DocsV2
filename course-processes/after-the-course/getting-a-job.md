@@ -1,8 +1,3 @@
----
-id: getting-a-job
-title: Getting a job
----
-
 # Getting a Job
 
 ## CV
@@ -14,35 +9,33 @@ This CV section is relevant for people applying to jobs within the UK.
 * Keep it short and concise, 1-2 pages maximum
 * Put your details at the top. Only these details are necessary:
   * Name
-  * Email \(use a sensible one—no sexy\_lulu@hotmail.com etc.\)
+  * Email (use a sensible one—no sexy_lulu@hotmail.com etc.)
   * Phone number
-  * Your city \(not your full address since this is personal information!
+  *   Your city (not your full address since this is personal information!
 
-    If they need it they'll ask for it later\)
+      If they need it they'll ask for it later)
+  * If you have a LinkedIn profile you can add a link to it here (your LinkedIn profile should have the same information and dates as the rest of your CV)
+*   Use the following sections, and only populate them with relevant details
 
-  * If you have a LinkedIn profile you can add a link to it here \(your LinkedIn profile should have the same information and dates as the rest of your CV\)
-* Use the following sections, and only populate them with relevant details
+    starting from the most recent first:
 
-  starting from the most recent first:
+    1. Profile (optional)
+       * Profile is who you are now, a short 'brag' and what you want to do next in your career
+    2. Skills
+    3. Employment
+       *   Use action verbs for each bullet point
 
-  1. Profile \(optional\)
-     * Profile is who you are now, a short 'brag' and what you want to do next in your career
-  2. Skills
-  3. Employment
-     * Use action verbs for each bullet point
+           (see: [https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out](https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out))
+       *   Show your accomplishments, with numbers if you can
 
-       \(see: [https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out](https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out)\)
-
-     * Show your accomplishments, with numbers if you can
-
-       \(e.g. Improved landing page time to interactive by 50%\)
-  4. Education \(this can go above Employment if the last thing you did was education and not work\)
-  5. Personal projects
-  6. Interests \(optional\)
+           (e.g. Improved landing page time to interactive by 50%)
+    4. Education (this can go above Employment if the last thing you did was education and not work)
+    5. Personal projects
+    6. Interests (optional)
 
 #### Profile section explained
 
-A profile section says who you are now, a quick summary of your skills and experience \(1-2 sentences\), and what you want to do next in your career. It needs to use action verbs and describe the job you're applying to. Change this section depending on the advert you apply to, copying the phrases used in the advert. Don't write "I am" \(1st person\) or "Nick is" \(3rd person\). Aim for a 3rd person impersonal tone:
+A profile section says who you are now, a quick summary of your skills and experience (1-2 sentences), and what you want to do next in your career. It needs to use action verbs and describe the job you're applying to. Change this section depending on the advert you apply to, copying the phrases used in the advert. Don't write "I am" (1st person) or "Nick is" (3rd person). Aim for a 3rd person impersonal tone:
 
 > ~~I am~~ An experienced **front end web developer** who takes pride in creating accessible sites using a variety of tools. ~~I have~~ Experience of working in a dynamic project environment using agile methodologies and tools including Adobe studio and React. ~~I am~~ Now looking for a new challenging position in a young dynamic organisation to build and consolidate skills.
 
@@ -60,7 +53,7 @@ Mirroring the language helps your application. If you are writing a general CV, 
 
 Everything you have delivered in a role can be explained as an achievement. Each achievement is an example of completed work. Ideally, it should have a quantitative element. Each job needs 2-3 achievements. The layout can be something like:
 
-> Jan 2018 – Sept 2019  
+> Jan 2018 – Sept 2019\
 > Front End Web Developer, Acme Web Ltd
 >
 > Acme are an award winning developer based in Glasgow, with a design team of 30 and clients across the UK. Working as part of a wide team and along-side clients, I develop unique web front ends with UI and mobile accessibility in mind. Working with Jira, PHP and Adobe tools.
@@ -84,7 +77,7 @@ Your CV should be a single column. 2-column CVs should be avoided.
 
 ![Equal columns](https://github.com/CodeYourFuture/DocsV2/tree/c60a0ca21c9ddb472e89d72ac437b17d13a84a8b/organisation/assets/students/equal-columns.png)
 
-In the 2-column example above, a 2-column format is applied to the CV text. The top of both columns are likely to contain different content. This makes it more difficult to read and can trip up screen reading and [applicant tracking systems \(ATS\)](https://en.wikipedia.org/wiki/Applicant_tracking_system) if it tries to read across a line. Also, CVs are usually compiled with the most important information at the top of page 1, and the least important at the top of page 2. The 2-column format can distort this, leaving your best information at the bottom of the page.
+In the 2-column example above, a 2-column format is applied to the CV text. The top of both columns are likely to contain different content. This makes it more difficult to read and can trip up screen reading and [applicant tracking systems (ATS)](https://en.wikipedia.org/wiki/Applicant_tracking_system) if it tries to read across a line. Also, CVs are usually compiled with the most important information at the top of page 1, and the least important at the top of page 2. The 2-column format can distort this, leaving your best information at the bottom of the page.
 
 ![Minor column](https://github.com/CodeYourFuture/DocsV2/tree/c60a0ca21c9ddb472e89d72ac437b17d13a84a8b/organisation/assets/students/minor-column.png)
 
@@ -96,9 +89,9 @@ The bottom line is you should avoid the 2-column format since it doesn't gain yo
 
 PDFs should be avoided. They can be tricky to copy and paste from, often adding line breaks to text blocks that line-wrap. Agencies often reformat your CV to fit their house style in order to present it to clients. Making it more difficult to copy and paste will not help them.
 
-DOC or DOCX \(Microsoft Word format\) is preferred by most employers and agents. It's easy to manipulate and copy into systems, and it is still the industry standard CV format. However, never embed macros into the Word document since most email virus systems will filter these by default.
+DOC or DOCX (Microsoft Word format) is preferred by most employers and agents. It's easy to manipulate and copy into systems, and it is still the industry standard CV format. However, never embed macros into the Word document since most email virus systems will filter these by default.
 
-RTF \(rich text format\) is still popular, and if you can make it look good in RTF then it is light and easy to maintain.
+RTF (rich text format) is still popular, and if you can make it look good in RTF then it is light and easy to maintain.
 
 Whatever the format, your CV file size should never be more than 15MB. Keep graphical elements to a minimum.
 
@@ -111,9 +104,9 @@ Whatever the format, your CV file size should never be more than 15MB. Keep grap
 
 * [https://www.livecareer.co.uk/cv-search/r/front-end-web-developer-31839afbd6b640429d637cdda953561c](https://www.livecareer.co.uk/cv-search/r/front-end-web-developer-31839afbd6b640429d637cdda953561c)
 * [https://www.livecareer.co.uk/cv-search/r/front-end-developer-00fdd3a63d27437d899f94a70df420be](https://www.livecareer.co.uk/cv-search/r/front-end-developer-00fdd3a63d27437d899f94a70df420be)
-* [https://www.brookes.ac.uk/students/careers/students-and-graduates/cv-guide/mature-graduate-cv/](https://www.brookes.ac.uk/students/careers/students-and-graduates/cv-guide/mature-graduate-cv/)
+*   [https://www.brookes.ac.uk/students/careers/students-and-graduates/cv-guide/mature-graduate-cv/](https://www.brookes.ac.uk/students/careers/students-and-graduates/cv-guide/mature-graduate-cv/)
 
-  — useful reference for people with gaps in their CV
+    — useful reference for people with gaps in their CV
 
 ## Cover letter
 
@@ -125,20 +118,20 @@ General interview questions
 
 * [https://www.wisebread.com/how-to-answer-23-of-the-most-common-interview-questions](https://www.wisebread.com/how-to-answer-23-of-the-most-common-interview-questions)
 
-Technical interview questions with answers \(intermediate-level\)
+Technical interview questions with answers (intermediate-level)
 
 * [https://github.com/30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews)
 * [https://github.com/FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU)
 
 Questions to ask the company
 
-* [https://github.com/Twipped/InterviewThis](https://github.com/Twipped/InterviewThis)
+*   [https://github.com/Twipped/InterviewThis](https://github.com/Twipped/InterviewThis)
 
-  — some of these questions are great, but some are not so good
+    — some of these questions are great, but some are not so good
 
 Live interview practice
 
-* [https://www.pramp.com/](https://www.pramp.com/)
+* [https://www.pramp.com/](https://www.pramp.com)
 
 ## Personal projects
 
@@ -152,16 +145,15 @@ Inspiration for personal projects
 Walkthroughs of projects
 
 * [https://github.com/tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning)
-* [https://javascript30.com/](https://javascript30.com/)
+* [https://javascript30.com/](https://javascript30.com)
 
 ## Contributing to open source
 
 Easier open source issues for people starting with open source contribution
 
 * [https://github.com/MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
-* [https://firstcontributions.github.io/](https://firstcontributions.github.io/)
+* [https://firstcontributions.github.io/](https://firstcontributions.github.io)
 
 How to contribute to an open source project on GitHub
 
 * [https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-

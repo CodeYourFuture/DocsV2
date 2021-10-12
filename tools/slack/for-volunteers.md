@@ -2,15 +2,15 @@
 
 ## Introduction
 
-[Slack](https://slack.com/) is a workplace environment for team communication. It has many advantages compared to traditional email and instant messaging, but it should not be confused with them. People do not get instant notifications unless they are tagged and have slack downloaded on their phones. Most tech companies use it at work, which offers an opportunity for CYF trainers to be available \(as they can switch among workplaces\).
+[Slack](https://slack.com) is a workplace environment for team communication. It has many advantages compared to traditional email and instant messaging, but it should not be confused with them. People do not get instant notifications unless they are tagged and have slack downloaded on their phones. Most tech companies use it at work, which offers an opportunity for CYF trainers to be available (as they can switch among workplaces).
 
 Slack should be kept tidy and organised to maximise its usefulness.
 
 ### Fundamentals
 
-* Use threaded communication \(replies to a topic should always be in a thread\)
+* Use threaded communication (replies to a topic should always be in a thread)
 * Edit your entries instead of adding extra information that you forgot in a message
-* Learn to tag people and groups \(every class is in a user group\)
+* Learn to tag people and groups (every class is in a user group)
 * Tag people only when you need their attention
 * Use plain text names instead of tags if you don’t require a response from people
 * Start a new thread if you are talking about a completely different topic
@@ -19,13 +19,12 @@ Slack should be kept tidy and organised to maximise its usefulness.
 ### Trainee communication
 
 * Learn to use thumbs up to confirm announcement has been read
-* Communicate in advance if you want to work with another classmate and specify time and topic \(you can tag the class\)
+* Communicate in advance if you want to work with another classmate and specify time and topic (you can tag the class)
 * Ensure you reply in threads to communication and tag relevant people to get their attention to arrange on working together
 * Use the trainee channel for organisation and non-class related discussion
-* Start calls in the channel so that other students can join you.
+*   Start calls in the channel so that other students can join you.
 
-  Ensure that it is titled with clear description of what are you working on
-
+    Ensure that it is titled with clear description of what are you working on
 * Delete any failed group calls to keep the channel clear
 * Inform the class as soon as possible if you are not planning to come or able to come to class
 
@@ -100,11 +99,10 @@ What does the second message do better than the first?
   * Splitting the request out onto separate lines help to break up the post
   * Using bold to highlight the most important parts of the request to get people understand the request quickly.
 * Thread
-  * By tagging relevant people in the thread \(instead of into the post itself\) it encourages people to respond in the thread.
+  * By tagging relevant people in the thread (instead of into the post itself) it encourages people to respond in the thread.
 * Emojis
   * Whilst you shouldn’t use for every request. A line of emojis at the top of the request can help to break the message apart from others in the chat log.
 * Physical space
   * The amount of screen real estate that the message takes up should be in line with how important the message is
 * Short messaging
   * There’s no point in using long, run on sentences in a Slack message. Nobody will read it. Always be succinct.
-
