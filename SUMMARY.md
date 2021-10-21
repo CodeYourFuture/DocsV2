@@ -4,7 +4,7 @@
 * [Syllabus](https://syllabus.codeyourfuture.io)
 * [Teacher Training](https://teachertraining.codeyourfuture.io)
 * [Personal Development](https://personaldevelopment.codeyourfuture.io)
-* [Blue Book](https://docs.google.com/document/d/e/2PACX-1vShE8a-PLDTtYrXk8V9Qa_sRwXrRH7AnW170u4-0O7P81hezIdyhS4Q2GKYue3TCUgLErCyO1nBmOmj/pub)
+* [Blue Book](https://docs.google.com/document/d/e/2PACX-1vShE8a-PLDTtYrXk8V9Qa\_sRwXrRH7AnW170u4-0O7P81hezIdyhS4Q2GKYue3TCUgLErCyO1nBmOmj/pub)
 
 ## 🏨 Organisation
 
@@ -28,10 +28,10 @@
 ## 📜 Our Courses
 
 * [Intro to Coding Course](our-courses/intro-to-coding-course/README.md)
-  * [Course Materials](https://introtocoding.codeyourfuture.io/)
+  * [Course Materials](https://introtocoding.codeyourfuture.io)
 * [Fundamentals Course](our-courses/fundamentals/README.md)
-  * [Course Materials](https://fundamentals.codeyourfuture.io/)
-* [Full Stack Course](our-courses/full-stack-course/README.md)
+  * [Course Materials](https://fundamentals.codeyourfuture.io)
+* [Software Development Course](our-courses/full-stack-course/README.md)
   * [Course Materials](https://syllabus.codeyourfuture.io)
 
 ## 📝 Course Processes
@@ -64,14 +64,17 @@
     * [Online Fun](course-processes/running-the-course/online-teaching/online-fun.md)
   * [Hackathons](course-processes/running-the-course/hackathons.md)
   * [Codewars](course-processes/running-the-course/codewars.md)
-  * [Assessment](course-processes/running-the-course/assessment.md)
+  * [Assessment](course-processes/running-the-course/assessment/README.md)
+    * [Codility](course-processes/running-the-course/assessment/codility.md)
+    * [Milestones](course-processes/running-the-course/assessment/milestones.md)
+    * [Success Criteria](course-processes/running-the-course/assessment/success-criteria.md)
   * [Study Groups](course-processes/running-the-course/study-groups.md)
 * [After the Course](course-processes/after-the-course/README.md)
   * [After Graduation](course-processes/after-the-course/after-graduation.md)
   * [Getting a Job](course-processes/after-the-course/getting-a-job.md)
   * [From Trainee to Volunteer](course-processes/after-the-course/from-trainee-to-volunteer.md)
 
-## 👥 Volunteer Teams <a id="teams"></a>
+## 👥 Volunteer Teams <a href="teams" id="teams"></a>
 
 * [Overview](teams/teams.md)
 * [Education](teams/education/README.md)
@@ -111,7 +114,7 @@
   * [Slack for Volunteers](tools/slack/for-volunteers.md)
   * [Slack for Students](tools/slack/for-students.md)
 
-## ⏩ Volunteering at CodeYourFuture <a id="volunteering-codeyourfuture"></a>
+## ⏩ Volunteering at CodeYourFuture <a href="volunteering-codeyourfuture" id="volunteering-codeyourfuture"></a>
 
 * [Joining](volunteering-codeyourfuture/joining.md)
 * [Onboarding Process](volunteering-codeyourfuture/onboarding-process/README.md)
@@ -165,4 +168,3 @@
   * [Fundraising & budgeting](starting-a-chapter/general-information/fundraising-and-budgeting.md)
   * [Finding a Space](starting-a-chapter/general-information/finding-a-space.md)
   * [Partners](starting-a-chapter/general-information/partners.md)
-
