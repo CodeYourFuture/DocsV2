@@ -4,13 +4,13 @@ description: Steps needed before starting a new Full Stack class.
 
 # Starting a Course
 
-**Note:** This guide is used by **Volunteers and City Coordinators** to setup a new class. If you are a trainee, you do not need to use this guide.
+**Note:** This guide is used by **Volunteers and Programme Managers to **setup a new class. If you are a trainee, you do not need to use this guide.
 
 ## 1) Send Acceptance and Rejection Email
 
 As soon as possible after selection, send the trainees either their Acceptance or Rejection emails to the Full Stack course.
 
-You can find the template Acceptance emails here: [https://drive.google.com/drive/u/1/folders/1tFm22lHTXKTdbTGUJj_F0awRgDP19YAL](https://drive.google.com/drive/u/1/folders/1tFm22lHTXKTdbTGUJj_F0awRgDP19YAL)
+You can find the template Acceptance emails here: [https://drive.google.com/drive/u/1/folders/1tFm22lHTXKTdbTGUJj\_F0awRgDP19YAL](https://drive.google.com/drive/u/1/folders/1tFm22lHTXKTdbTGUJj\_F0awRgDP19YAL)
 
 You can find the template Rejection emails here: [https://docs.google.com/document/d/1jyOVbwjm23YfpIYjq1KUzRNL7cKzSrYEDi2I9Mezt7g/edit](https://docs.google.com/document/d/1jyOVbwjm23YfpIYjq1KUzRNL7cKzSrYEDi2I9Mezt7g/edit)
 
@@ -125,4 +125,4 @@ Finally, send an email to all new Trainees with an overview of
 * If online - send a link to the Zoom where the class will happen
 * If in person - send the address where class will be taking place
 
-It can be useful to attach a Google Form and ask the students to confirm their attendence of the first class by completing it - this was you can tell who hasn't received the email.
+It can be useful to attach a Google Form and ask the trainees to confirm their attendence of the first class by completing it - this was you can tell who hasn't received the email.

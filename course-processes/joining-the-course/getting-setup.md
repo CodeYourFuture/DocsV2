@@ -2,6 +2,8 @@
 
 In this guide we'll explain everything you need to get ready for our course.
 
+
+
 ## 1) Your Laptop
 
 Please make sure that the laptop you are using meets the minimum specification for our course.
@@ -20,7 +22,7 @@ We can offer you a range of support whilst you are studying with us this include
 * Internet access
 * Travel costs
 
-**Please note:** Some of these levels of support may not be possible in the city that you attend. Please check with your city coordinator.
+**Please note:** Some of these levels of support may not be possible in the city that you attend. Please check with your.
 
 Please read [this page](laptops/requesting-a-laptop-or-support.md) for more details on how to access these services.
 
@@ -172,7 +174,7 @@ Please speak to your city coordinator to get invited to your Classes Github team
 
 ### 7.3) Codewars
 
-We'll be using Codewars later in the course help us practice our JavaScript. 
+We'll be using Codewars later in the course help us practice our JavaScript.&#x20;
 
 Follow the setup instructions here to get setup.
 
