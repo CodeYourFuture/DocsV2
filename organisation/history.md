@@ -19,9 +19,9 @@ Our organisation values are as follows:
 
 CodeYourFuture (CYF) is a UK non-profit organisation that trains refugees and disadvantaged people to become web developers and helps them to find work in the tech industry.
 
-CYF students on the Full Stack Course are trained in full-stack web development by professional developers from the industry, putting a strong emphasis on collaboration and product development through tech projects.
+CYF trainees on the Software Development Course are trained in full-stack web development by professional developers from the industry, putting a strong emphasis on collaboration and product development through tech projects.
 
-CYF graduates work in companies like FT, BBC, STV, Ticketmaster and startups like Adzuna, Sensible Object, tlr and WeGotPop.
+CYF graduates work in companies like FT, BBC, Deloitte, STV, Ticketmaster and startups like Adzuna, Sensible Object, tlr and WeGotPop.
 
 The idea behind CodeYourFuture started brewing during the summer of 2016. Germán Bencci was working in the tech industry, and wanted to find a way to create a positive impact in people's lives through technology.
 
@@ -43,17 +43,22 @@ Our goal is to create a grassroots movement that anyone around the world can rep
 
 ## People supporting the core structure of the organisation
 
-* **German Bencci** (@german): General Strategy, Expansion, Partnerships
-* **Sally McGrath** (@Sally McGrath): Education and Pedagogy
-* **Candy DeRoy** (@Candy DeRoy): Volunteers and Personal Development
+* **Aaishah Khan** (@Aaishah): West Midlands Programme Manager
 * **Alec McCrindle** (@Alec): Design and Digital Marketing
-* **Roberta Lifonso** (@Roberta): Operations
-* **Liliana Bermudes** (@Liliana): Community Building & Partnerships, London coordination
-* **Nima Karimi** (@nima): CTO
-* **Gianluca Palombo** (@Gianluca): Glasgow coordination
-* **Barny Dathan** (@Barnaby Dathan): North West coordination
-* **Claire** **Bickley** (@Claire): West Midlands management
-* **Aaishah Khan** (@Aaishah): West Midlands coordination
+* **Alicia Easley: **North West Programme Manager
+* **Barny Dathan** (@Barnaby Dathan): Employability & Tech Projects
+* **Candy DeRoy** (@Candy DeRoy): Volunteers and Personal Development
+* **Claire** **Bickley** (@Claire): West Midlands Regional Manager
+* **German Bencci** (@german): General Strategy, Expansion, Partnerships
+* **Gianluca Palombo** (@Gianluca): Glasgow Programme Manager
 * **Hazel Todhunter:** Finance
+* **Liliana Bermudes** (@Liliana): Programme Innovation & Community Leadership
+* **Mariana Vazquez: **London Programme Manager
+* **Roberta Lifonso** (@Roberta): Operations
+* **Sally McGrath** (@Sally McGrath): Education and Pedagogy
+
+****
+
+****
 
 You may see their names pop up in our Slack channels from time to time!
