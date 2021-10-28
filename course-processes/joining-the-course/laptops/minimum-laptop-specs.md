@@ -4,11 +4,11 @@ description: 'Updated: 19/11/2020'
 
 # Minimum Laptop Specs
 
-These specifications should be used as guidelines for recommending laptops to students and a baseline for laptops that we purchase for students.
+These specifications should be used as guidelines for recommending laptops to trainees and a baseline for laptops that we purchase for students.
 
 ## Operating System
 
-* Linux 
+* Linux&#x20;
 * MacOS Mojave or newer
 
 {% hint style="danger" %}
@@ -17,11 +17,11 @@ We cannot support Windows for development; it costs too much time and energy.
 
 ## Laptop Specs
 
-### Intro to Coding Specs
+### Intro to Digital Specs
 
 These laptops are **only **used by students doing the [Into To Coding Course](../../../our-courses/intro-to-coding-course/). They should be capable of running browser based coding programs and joining video calls.
 
-* 2 GHz Intel i3 processor 
+* 2 GHz Intel i3 processor&#x20;
   * or AMD equivalent
 * 40GB Hard Disk Drive
 * 1600 x 900 or greater screen resolution
