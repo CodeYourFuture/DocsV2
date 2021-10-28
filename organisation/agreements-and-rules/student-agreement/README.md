@@ -1,4 +1,4 @@
-# Student Agreement
+# Trainee Agreement
 
 CodeYourFuture is made possible by teams of Volunteers who give their time to help you.
 
@@ -63,7 +63,7 @@ The following reasons are not permitted for non-completion of coursework
 
 Working together can be one of the key ways that you can learn more information effectively. However, we want to make sure that you are given the opportunity to learn and receive assistance. It’s important that you develop your understanding of the material and not just passively have your work completed by other people.
 
-Our policy is that students must clearly note where they have worked with other students or volunteers on their coursework. This should be given as a clear comment at the top of the coursework.
+Our policy is that trainees must clearly note where they have worked with other students or volunteers on their coursework. This should be given as a clear comment at the top of the coursework.
 
 Coursework submitted without this comment, but with answers shared between students, will be considered copied.
 

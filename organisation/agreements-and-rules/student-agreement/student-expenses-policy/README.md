@@ -1,6 +1,6 @@
-# Student Expenses Policy
+# Trainees Expenses Policy
 
-CodeYourFuture is committed to helping our students undertake their studies by providing financial support where necessary.
+CodeYourFuture is committed to helping our trainees undertake their studies by providing financial support where necessary.
 
 **Any expenses should be agreed in advance.**
 
@@ -16,7 +16,7 @@ In all cases, a receipt or proof of purchase must clearly show **all of the belo
 4. Price of product or service purchased
 5. Proof of payment
 
-In the event that proof of purchase will not be available, the trainee must discuss this **in advance** with the course coordinator, who may be able to provide them with an expense form so that they can self-certify the expenditure.
+In the event that proof of purchase will not be available, the trainee must discuss this **in advance** with the region Programme Manager, who may be able to provide them with an expense form so that they can self-certify the expenditure.
 
 CodeYourFuture is unable to reimburse students for any expenditure **which cannot be evidenced in the above way.**
 
@@ -28,7 +28,7 @@ a) for people with a UK bank account, CYF will reimburse into the individual's b
 
 b) for those without a valid UK bank account, CYF will provide a WiFi hotspot unit for you to use.
 
-In either instance, students agree to use the internet responsibly and for the purposes of studying on the CYF course. By accepting this agreement, students agree not to use the internet service to access illegal websites, adult content or any other inappropriate content.
+In either instance, trainees agree to use the internet responsibly and for the purposes of studying on the CYF course. By accepting this agreement, trainees agree not to use the internet service to access illegal websites, adult content or any other inappropriate content.
 
 **Childcare policy**
 
@@ -38,7 +38,7 @@ We can cover up to 8 hours of childcare on the weekend and up to 15 hours during
 
 The childcare costs will be paid directly to the trainee.
 
-The students will need to present to CodeYourFuture the invoice received by the childcare provider. Claims for reimbursement without proof of payment may not be accepted.
+The trainees will need to present to CodeYourFuture the invoice received by the childcare provider. Claims for reimbursement without proof of payment may not be accepted.
 
 The financial support provided will be assessed on a case by case basis.
 
