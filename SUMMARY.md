@@ -57,7 +57,7 @@
   * [Running a Course](course-processes/running-the-course/running-a-course.md)
   * [Running a Class](course-processes/running-the-course/running-a-class.md)
   * [Online Teaching](course-processes/running-the-course/online-teaching/README.md)
-    * [Teaching Notes](course-processes/running-the-course/online-teaching/online-teaching.md)
+    * [Training Notes](course-processes/running-the-course/online-teaching/online-teaching.md)
     * [Teaching Settings](course-processes/running-the-course/online-teaching/online-teaching-settings.md)
     * [Start of Class Checklist](course-processes/running-the-course/online-teaching/online-start-of-class-checklists.md)
     * [Zoom Training](course-processes/running-the-course/online-teaching/zoom-training-call-overview.md)
