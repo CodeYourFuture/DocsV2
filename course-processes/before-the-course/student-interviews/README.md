@@ -18,7 +18,7 @@ Make sure you have all of the following information before you have your first i
 1. You have access to [the Dashboard](https://dashboard.codeyourfuture.io) (or alternative way of getting information about your applicants)
    * If you do not have access, speak to your coordinator
 2. Read this document fully
-3. Make sure you have access to the interview form 
+3. Make sure you have access to the interview form&#x20;
 4. Make sure you have read the [Interview Technical](https://docs.codeyourfuture.io/course-processes/before-the-course/student-interviews/interview-technical), [Interview English](https://docs.codeyourfuture.io/course-processes/before-the-course/student-interviews/interview-english) and  [Interview Rubric](interview-rubric.md)
 
 ## Roles
@@ -27,22 +27,22 @@ Make sure you have all of the following information before you have your first i
 
 Make sure you have at least two volunteers welcoming the Applicants to the interviews. Record their attendance, give them a tour of the premises and get them a coffee or a tea. These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe.
 
-See below for explaining how the interviews will work. 
+See below for explaining how the interviews will work.&#x20;
 
 ### Greeters (for online interviews)
 
-Make sure you have someone in a  Zoom break out room (which will be the waiting room) welcoming the Applicants to the interviews.  These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe. Take time to explain that the interviews are  so we can get to know them better. Emphasise that they've made it this far, and we think they have great potential.\
+Make sure you have someone in a  Zoom break out room (which will be the waiting room) welcoming the Applicants to the interviews. These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe. Take time to explain that the interviews are  so we can get to know them better. Emphasise that they've made it this far, and we think they have great potential.\
 
 
 #### Set Up
 
-Have them test their camera and microphone to ensure everything is working. Support them to get all their relevant webpages ready on their computer. Ensure everyone knows how to share their screen on Zoom. 
+Have them test their camera and microphone to ensure everything is working. Support them to get all their relevant webpages ready on their computer. Ensure everyone knows how to share their screen on Zoom.&#x20;
 
 #### Interview Process
 
 Explain how the interview will work. The interview has 4 parts.  \
 We will first check their name and identity. \
-So they will need to show  the interviewer their photo ID and confirm the spelling of their name. \
+So they will need to show the interviewer their photo ID and confirm the spelling of their name. \
 Then they will have to talk about what they learned and their motivation for the course. They will need to share their webpage and talk about their code. \
 They will do a short English task. \
 And finally they will wrap up and have an opportunity to ask any questions. \
@@ -97,7 +97,7 @@ Together they should complete this form:
 
 [Trainee Interview Form](https://docs.google.com/forms/d/1msNvvPWXt1MggioGjVsZaewTksxr0UOqgPXGfwxe4-E/edit)
 
-**The class coordinator should duplicate this form for each Class. Please contact your class coordinator for access to this Google form.**
+**The Programme Manager should duplicate this form for each Class. Please contact your Programme Manager for access to this Google form.**
 
 We ask that you arrive at least ten minutes before the interview that you will be attending to prepare.
 
@@ -111,7 +111,7 @@ You can find an English Assessment test [here](https://codepen.io/enz0/full/eYzO
 
 The guide for the assessment can be found [here](interview-english.md)
 
-### Feeding Back on Students
+### Feeding Back on Applicants
 
 When completing the form you should endeavour to write as much as you can for each candidate as this will be our primary resource for deciding who will get a place on the course.
 
@@ -119,7 +119,7 @@ It is important to be firm but fair in grading applicants. Do not give a applica
 
 We will be cross-referencing scores against feedback recorded so it is important to always give a full description of how applicants responded to questions in the interview.
 
-You should make sure you use the [Interview Rubric](interview-rubric.md) to grade students responses.
+You should make sure you use the [Interview Rubric](interview-rubric.md) to applicants responses.
 
 ### Upper Bounds & Lower Bounds
 
@@ -178,7 +178,7 @@ You can let them know that this will be covered in the course and that now might
 
 ### All other questions
 
-For any other questions they can direct them to their city email address
+For any other questions they can direct them to their region email address
 
 * london@codeyourfuture.io
 * west-midlands@codeyourfuture.io

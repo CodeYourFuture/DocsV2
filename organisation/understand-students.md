@@ -1,6 +1,6 @@
-# Our Trainees Backgrounds
+# Our Student Backgrounds
 
-While volunteering with CodeYourFuture, you will meet many kinds of trainees. Broadly, we offer our programme to refugees, asylum seekers and people from a number of disadvantaged backgrounds. This page will help you better understand the situations of some of our trainees as well as the proper etiquette to use.
+While volunteering with CodeYourFuture, you will meet many kinds of students. Broadly, we offer our programme to refugees, asylum seekers and people from a number of disadvantaged backgrounds. This page will help you better understand the situations of some of our students as well as the proper etiquette to use.
 
 **We only work with over 18 people.**
 
@@ -38,7 +38,7 @@ DO
 DON'T
 
 * Ask invasive questions about their past experiences or reasons for leaving their country of origin. It is none of your business and they do not owe you their story. Think. Would you ask someone you barely know about a traumatic event like sexual abuse or a bereavement before you had even had a conversation with them?
-* Betray the trust of trainees. When you say you will do something, do it. This can be as small as getting back to them about homework or solving a big issue for them. Building trust in the community is extremely important.
+* Betray the trust of students. When you say you will do something, do it. This can be as small as getting back to them about homework or solving a big issue for them. Building trust in the community is extremely important.
 * Assume you know everything about being an asylum seeker or refugee. Each case is different and no amount of research will replace a real, lived experience.
 
 ### Resources to learn more or support refugees and asylum seekers

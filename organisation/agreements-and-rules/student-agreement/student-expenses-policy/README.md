@@ -18,7 +18,7 @@ In all cases, a receipt or proof of purchase must clearly show **all of the belo
 
 In the event that proof of purchase will not be available, the trainee must discuss this **in advance** with the region Programme Manager, who may be able to provide them with an expense form so that they can self-certify the expenditure.
 
-CodeYourFuture is unable to reimburse students for any expenditure **which cannot be evidenced in the above way.**
+CodeYourFuture is unable to reimburse trainees for any expenditure **which cannot be evidenced in the above way.**
 
 **Internet**
 
@@ -42,4 +42,4 @@ The trainees will need to present to CodeYourFuture the invoice received by the 
 
 The financial support provided will be assessed on a case by case basis.
 
-In order to be eligible for childcare support you will need to discuss your requirements and circumstances with your Personal Development mentor and City Coordinator.
+In order to be eligible for childcare support you will need to discuss your requirements and circumstances with your Personal Development mentor and Programme Manager.

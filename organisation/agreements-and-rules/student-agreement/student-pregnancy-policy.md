@@ -1,4 +1,4 @@
-# Student Pregnancy Policy
+# Trainee Pregnancy Policy
 
 **Code Your Future policy and practice regarding trainee pregnancy, maternity and paternity**
 
@@ -8,7 +8,7 @@ The Equality Act 2010 includes students in relation to pregnancy, maternity and 
 
 **Scope of the Policy**
 
-This policy covers any trainee who has been accepted onto the CYF Fundamental or Full stack programme (i) who is currently pregnant or becomes pregnant during their studies; (ii) whose partner is pregnant or becomes a parent during their studies; or (iii) who is becoming a parent (e.g. through adoption or fostering). This policy provides advice and guidance in relation to studying, health and safety, and finance.
+This policy covers any trainee who has been accepted onto the CYF Fundamental or Sofware Development programme (i) who is currently pregnant or becomes pregnant during their studies; (ii) whose partner is pregnant or becomes a parent during their studies; or (iii) who is becoming a parent (e.g. through adoption or fostering). This policy provides advice and guidance in relation to studying, health and safety, and finance.
 
 **Policy Statement**
 

@@ -19,7 +19,7 @@
     * [Trainees Expenses Policy](organisation/agreements-and-rules/student-agreement/student-expenses-policy/README.md)
       * [Childcare Expenses Form](organisation/agreements-and-rules/student-agreement/student-expenses-policy/childcare-expenses-form.md)
     * [Course Withdrawal Request](organisation/agreements-and-rules/student-agreement/course-withdrawal-request.md)
-    * [Student Pregnancy Policy](organisation/agreements-and-rules/student-agreement/student-pregnancy-policy.md)
+    * [Trainee Pregnancy Policy](organisation/agreements-and-rules/student-agreement/student-pregnancy-policy.md)
     * [Leave of Absence Request](organisation/agreements-and-rules/student-agreement/leave-of-absence-request.md)
   * [Volunteer Agreement](https://codeyourfuture.eversign.com/embedded/2aafdd0f7b034b448896255f16624939)
   * [Complaints Procedure](https://codeyourfuture.io/about/comments-compliments-complaints/)
@@ -27,7 +27,7 @@
 
 ## 📜 Our Courses
 
-* [Intro to Coding Course](our-courses/intro-to-coding-course/README.md)
+* [Intro to Digital Course](our-courses/intro-to-coding-course/README.md)
   * [Course Materials](https://introtocoding.codeyourfuture.io)
 * [Fundamentals Course](our-courses/fundamentals/README.md)
   * [Course Materials](https://fundamentals.codeyourfuture.io)

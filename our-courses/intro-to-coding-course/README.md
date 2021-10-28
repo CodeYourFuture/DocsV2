@@ -1,4 +1,4 @@
-# Intro to Coding Course
+# Intro to Digital Course
 
 ## Aims
 
@@ -12,7 +12,7 @@
 * **Guide participant’s ability** to work individually and in teams.
 * **Analyse participant’s ability** to take ownership of small digital projects.
 
-Most importantly, completion of the Intro To Coding course **is mandatory** before a trainee can be considered for the Fundamentals Course.
+Most importantly, completion of the Intro To Digital course **is mandatory** before a trainee can be considered for the Fundamentals Course.
 
 ## More Information
 
