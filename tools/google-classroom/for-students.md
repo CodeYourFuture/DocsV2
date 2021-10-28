@@ -1,4 +1,4 @@
-# Google Classroom for Students
+# Google Classroom for Trainees
 
 ## Joining Google Classroom
 
@@ -30,7 +30,7 @@ If you would like to edit a piece of homework, click 'unsubmit', make any edits,
 
 (Trainee and teacher names have been changed to protect privacy.)
 
-The people tab will simply show you a list of teachers (these will be mentors on the course) and a list of your classmates.
+The people tab will simply show you a list of trainers (these will be mentors on the course) and a list of your classmates.
 
 ## Tips on using Google Classroom
 

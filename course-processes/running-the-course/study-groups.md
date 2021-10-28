@@ -10,17 +10,17 @@ By running weekly Study groups we give the trainee a safe space to explore ideas
 
 ## Goals
 
-* To provide support to our trainees during the week outside of classes
-* To keep trainees encouraged throughout the week and stop them becoming discouraged
-* To provide closer one-on-one mentoring or tutorials or our trainees
-* Get to know real developers - many of our trainees have never met one before joining the course!
+* To provide support to our students during the week outside of classes
+* To keep students encouraged throughout the week and stop them becoming discouraged
+* To provide closer one-on-one mentoring or tutorials or our students
+* Get to know real developers - many of our students have never met one before joining the course!
 
 ## Roles
 
 | Role             | Duties                                                                                                                                                                                                                                       |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Coordinator      | The coordinator should be the host of the Zoom call and work to make the event go smoothly for all involved. Does not need to be technical but it helps. They also make sure that the trainees know when and where study group is happening. |
-| Technical Mentor | Work directly with the trainees to answer their questions during the session. Explaining key concepts that the trainees do not understand. Reassuring and coaching students.                                                                 |
+| Coordinator      | The coordinator should be the host of the Zoom call and work to make the event go smoothly for all involved. Does not need to be technical but it helps. They also make sure that the students know when and where study group is happening. |
+| Technical Mentor | Work directly with the students to answer their questions during the session. Explaining key concepts that the students do not understand. Reassuring and coaching students.                                                                 |
 
 ## Example Agenda
 

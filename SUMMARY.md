@@ -109,10 +109,10 @@
 * [Dashboard](tools/cyf-dashboard.md)
 * [Google Classroom](tools/google-classroom/README.md)
   * [Google Classroom For Volunteers](tools/google-classroom/google-classroom-for-volunteers.md)
-  * [Google Classroom for Students](tools/google-classroom/for-students.md)
+  * [Google Classroom for Trainees](tools/google-classroom/for-students.md)
 * [Slack](tools/slack/README.md)
   * [Slack for Volunteers](tools/slack/for-volunteers.md)
-  * [Slack for Students](tools/slack/for-students.md)
+  * [Slack for Trainees](tools/slack/for-students.md)
 
 ## ⏩ Volunteering at CodeYourFuture <a href="volunteering-codeyourfuture" id="volunteering-codeyourfuture"></a>
 
@@ -145,7 +145,7 @@
 
 * [Overview of our Process](starting-a-chapter/overview-of-our-process/README.md)
   * [Outreach Process](starting-a-chapter/overview-of-our-process/outreach-process.md)
-  * [Student Application Process](starting-a-chapter/overview-of-our-process/student-application-process.md)
+  * [Application Process](starting-a-chapter/overview-of-our-process/student-application-process.md)
   * [Student Selection Process](starting-a-chapter/overview-of-our-process/student-selection-process.md)
   * [Volunteering Structure](starting-a-chapter/overview-of-our-process/volunteering-structure.md)
   * [Class Structure](starting-a-chapter/overview-of-our-process/class-structure.md)

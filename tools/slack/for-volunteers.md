@@ -22,7 +22,7 @@ Slack should be kept tidy and organised to maximise its usefulness.
 * Communicate in advance if you want to work with another classmate and specify time and topic (you can tag the class)
 * Ensure you reply in threads to communication and tag relevant people to get their attention to arrange on working together
 * Use the trainee channel for organisation and non-class related discussion
-*   Start calls in the channel so that other students can join you.
+*   Start calls in the channel so that other trainees can join you.
 
     Ensure that it is titled with clear description of what are you working on
 * Delete any failed group calls to keep the channel clear
@@ -30,7 +30,7 @@ Slack should be kept tidy and organised to maximise its usefulness.
 
 ### Volunteer communication
 
-* Make sure to tag students and graduates for events and create user groups for core volunteers
+* Make sure to tag trainees and graduates for events and create user groups for core volunteers
 * Share social meetings and pictures in public channels
 * Summarise meetings in minutes using assigned shared document
 

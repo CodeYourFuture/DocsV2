@@ -7,28 +7,28 @@ There are several roles that you can take when volunteering with the Personal De
 Organising group for each city's Personal Development team.
 
 **Time commitment:** 4-10 hours per week for the duration of the course\
-**Size:** 6-8 people (1 person per 5 trainees in each class, plus 1 for the mentoring program, and support for graduates needing employment)
+**Size:** 6-8 people (1 person per 5 students in each class, plus 1 for the mentoring program, and support for graduates needing employment)
 
 ### Responsibilities
 
-* Develop the strategy for trainee learning and support (overarching goals of removing barriers to trainee’s learning; supporting trainees development of soft skills)
+* Develop the strategy for trainee learning and support (overarching goals of removing barriers to trainee’s learning; supporting students development of soft skills)
 * Meet weekly to plan, share trainee challenges and give support to each other (face to face video calls)
 * One member supports on coordinating new volunteers and funnels them to appropriate roles in PD
 * One member supports on coordinating the Mentoring Program
 * As a team, assess each applicant shortlisted for the course by the Education Team to see if they qualify based on their personal circumstances
-* Each member supports a group of 4-5 trainees  for the duration of the course
+* Each member supports a group of 4-5 students for the duration of the course
 
 **Team coordinates all the PD support for the course:**
 
 PD workshop days (6 sessions throughout the course designed to develop skills needed in the workplace: communication, teamwork, time management, willingness to learn and get feedback)
 
-Weekly online support (check in with trainees , encourage online communication skills)
+Weekly online support (check in with students, encourage online communication skills)
 
 Financial support (transport costs, childcare, lunch on class days)
 
-Laptops (donated from corporate partners, loaned until trainees  get a job)
+Laptops (donated from corporate partners, loaned until students get a job)
 
-Internet (home cost paid or dongle provided, paid until trainees get a job?) Emotional support (trainees  are living in very stressful situations with little or no support)
+Internet (home cost paid or dongle provided, paid until students get a job?) Emotional support (students are living in very stressful situations with little or no support)
 
 Language support (Really English online learning program provided through RefuAid, Code Your Future Language Exchange)
 
@@ -112,4 +112,4 @@ Support one trainee with help on their career journey for the duration of the co
 * Join mentoring Slack group for support (ask questions and contribute suggestions when able)
 * Join mentoring feedback call (once every 3 months for 1 hour)
 * Review trainee CVs
-* Facilitate mock interviews for trainees&#x20;
+* Facilitate mock interviews for students

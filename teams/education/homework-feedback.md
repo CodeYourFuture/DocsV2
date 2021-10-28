@@ -7,7 +7,7 @@ Giving effective, actionable feedback is one of the ways that we can best help o
 Do your code review in public directly on the trainee's Pull Request. Use all the features of GH Code review. It's part of what we are teaching. There are marking guides in many repositories to help with common responses.
 
 {% hint style="info" %}
-Do this short training on Pull Requests to refresh yourself if you haven't worked with Github recently: [https://lab.github.com/githubtraining/reviewing-pull-requests](https://lab.github.com/githubtraining/reviewing-pull-requests)&#x20;
+Do this short training on Pull Requests to refresh yourself if you haven't worked with Github recently: [https://lab.github.com/githubtraining/reviewing-pull-requests](https://lab.github.com/githubtraining/reviewing-pull-requests) 
 {% endhint %}
 
 ### Feedback Advice
@@ -40,13 +40,11 @@ If the bug is a simple compilation or formatting error it's perfectly fine to su
 
 **Prompting to Ask Questions**
 
-Make every error a teaching moment, mention that you see other&#x20;
-
-trainees struggling with the same concepts and that asking questions on Slack can be a way to remedy their problems.
+Make every error a teaching moment, mention that you see other students struggling with the same concepts and that asking questions on Slack can be a way to remedy their problems.
 
 **Explaining an Obvious Mental Model Issue**
 
-When a trainee implements code in a way that seems nonsensical the root cause can often be a misconception in how they have built their [mental model](https://teachtogether.tech/#s:models). If you can obviously tell from their homework what their misunderstanding is then you are encouraged to correct them.&#x20;
+When a trainee implements code in a way that seems nonsensical the root cause can often be a misconception in how they have built their [mental model](https://teachtogether.tech/#s:models). If you can obviously tell from their homework what their misunderstanding is then you are encouraged to correct them. 
 
 If they seem to fundamentally misunderstand a concept then it is best to refer them back to the source material.
 
@@ -64,7 +62,7 @@ You can use the VSCode plugin, which allows you to make comments from directly i
 
 **Use the code review tool in GitHub**
 
-This not only gets the trainees used to using it, but also make it easier for other reviewers to know if work has been reviewed. [The process is documented here at point 7](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request).
+This not only gets the students used to using it, but also make it easier for other reviewers to know if work has been reviewed. [The process is documented here at point 7](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request).
 
 * If the work is good and doesn't require changes, select "Approve"
 * If the work needs work, select "Request changes"
@@ -98,9 +96,9 @@ Grades should be given on the follow criteria
 * How much you believe the trainee understands the content
 * How well executed the homework is
 
-This is, above all else, an indicator of the trainees  abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this.
+This is, above all else, an indicator of the students abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this.
 
-Although grading makes the tracking easier, we aim to give trainees feedback rather than grades.
+Although grading makes the tracking easier, we aim to give students feedback rather than grades.
 
 A rough guide (to be taken with a pinch of salt):
 
@@ -117,13 +115,13 @@ A rough guide (to be taken with a pinch of salt):
 
 ## 3. Mentor Responsibility
 
-Education volunteers are responsible for a group of trainees  to track their progress through the course.
+Education volunteers are responsible for a group of students to track their progress through the course.
 
 **They are responsible for**
 
-* Ensuring that trainees  complete their homework each week
+* Ensuring that students complete their homework each week
 * Giving them feedback
-* Recording the trainee progress for their assigned trainees&#x20;
+* Recording the trainee progress for their assigned students
 
 _Please consult your Class Coordinators for the best place to record this information as it will vary from class to class._
 
@@ -133,6 +131,6 @@ _Please consult your Class Coordinators for the best place to record this inform
 * If you have completed your marking and you feel able to do more
 * Please offer your time to other volunteers to help them
 
-**If trainees haven’t completed their coursework**
+**If students haven’t completed their homework**
 
 * Please liaise with the student’s PD team lead to follow up with that trainee
