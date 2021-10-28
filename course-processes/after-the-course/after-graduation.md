@@ -1,12 +1,12 @@
 # After Graduation
 
-If you are reading this it might mean you have finished the CodeYourFuture Full Stack and can call yourself a graduate. **Congratulations!**
+If you are reading this it might mean you have finished the CodeYourFuture Software Development course and can call yourself a graduate. **Congratulations!**
 
 You might be wondering what will happen next in your post-graduation journey - this page will explain everything you need to know.
 
 ## Further Work & Projects
 
-Even though we've finished teaching you have only scratched the surface of everything you could learn and it important that you keep your skills fresh.
+Even though we've finished the training you have only scratched the surface of everything you could learn and it important that you keep your skills fresh.
 
 The job market will always be competitive so you should continue to learn new technologies, build cool projects and develop your soft skills.
 
@@ -65,7 +65,7 @@ Graduating from CodeYourFuture means that you will forever be a part of our comm
 
 ### Graduate Mentorship Programme
 
-As a recent graduate of CodeYourFuture you are best placed to train the students who come after you.
+As a recent graduate of CodeYourFuture you are best placed to train the trainees who come after you.
 
 As a Graduate Mentor you will be
 

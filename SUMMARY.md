@@ -58,7 +58,7 @@
   * [Running a Class](course-processes/running-the-course/running-a-class.md)
   * [Online Teaching](course-processes/running-the-course/online-teaching/README.md)
     * [Training Notes](course-processes/running-the-course/online-teaching/online-teaching.md)
-    * [Teaching Settings](course-processes/running-the-course/online-teaching/online-teaching-settings.md)
+    * [Training Settings](course-processes/running-the-course/online-teaching/online-teaching-settings.md)
     * [Start of Class Checklist](course-processes/running-the-course/online-teaching/online-start-of-class-checklists.md)
     * [Zoom Training](course-processes/running-the-course/online-teaching/zoom-training-call-overview.md)
     * [Online Fun](course-processes/running-the-course/online-teaching/online-fun.md)
@@ -80,12 +80,12 @@
 * [Education](teams/education/README.md)
   * [Overview](teams/education/overview-education.md)
   * [Roles](teams/education/education-roles/README.md)
-    * [Lead Teacher](teams/education/education-roles/lead-teacher.md)
+    * [Lead Trainer](teams/education/education-roles/lead-teacher.md)
     * [Teaching Assitant](teams/education/education-roles/teaching-assitant.md)
     * [Education Buddy](teams/education/education-roles/education-buddy.md)
     * [Syllabus Team](https://syllabus.codeyourfuture.io/contributing/team)
   * [Coursework Feedback](teams/education/homework-feedback.md)
-  * [Teaching Tips](teams/education/teaching-tips.md)
+  * [Training Tips](teams/education/teaching-tips.md)
 * [Ambassadors](teams/ambassadors/README.md)
   * [Outreach Roles](teams/ambassadors/outreach-roles.md)
   * [Social Media Guide](teams/ambassadors/social-media-guide/README.md)
@@ -102,7 +102,7 @@
 * [Personal Development](teams/personal-development/README.md)
   * [Roles](teams/personal-development/roles.md)
   * [Template Agenda](teams/personal-development/template-agenda.md)
-  * [Mentor Guide](teams/personal-development/mentor-guide.md)
+  * [Buddy Guide](teams/personal-development/mentor-guide.md)
 
 ## 🔨 Tools
 

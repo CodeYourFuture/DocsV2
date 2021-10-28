@@ -1,4 +1,4 @@
-# Training Notes
+# Teaching Notes
 
 [Online-teaching: Home](online-teaching.md) | [Start-of-class checklists](online-start-of-class-checklists.md) | [Online fun](online-fun.md) | [Zoom training call overview](zoom-training-call-overview.md)
 
@@ -28,16 +28,16 @@ Each classroom room should have no more than 25 students and enough breakout roo
 
 It is the responsibility of the Assistant Lead teacher to `Host` the Online Classrooms and make sure the Zoom space is set up correctly for learning. This will involve:
 
-* Making sure all the trainees can access the class correctly
-* Assign all trainees and volunteers to the breakout rooms that they'll be in for the day
+* Making sure all the students can access the class correctly
+* Assign all students and volunteers to the breakout rooms that they'll be in for the day
 * Making all classroom participants `co-hosts` so they can move themselves to and from breakout rooms at their will
 * Enable `simultaneous screen share` by clicking `^` next to their own share button
 
 ## Communication in Class
 
-### Communication between Trainers and Assistants
+### Communication between Teachers
 
-We recommend you use Slack - make and use a custom channel or group chat especially to communicate between traineers and assistants not in the same call. This is important so messages don't get lost and all teachers are kept in the loop.
+We recommend you use Slack - make and use a custom channel or group chat especially to communicate between teachers not in the same call. This is important so messages don't get lost and all teachers are kept in the loop.
 
 London, for example, will use [#london-teachers-during-class](https://app.slack.com/client/T2H71EFLK/C0109KRLYTS/thread/C010D1C41K2-1584699383.012200)
 
@@ -46,22 +46,22 @@ For teachers and TAs in the same virtual classroom you can also use:
 * Audio in the main room! Simple works!
 * A dedicated breakout room for teachers' & TAs - normally the main room is fine
 
-### Communication between Trainees
+### Communication between Students
 
-Trainees should be directed to ask questions in the Slack Channel. We suggest creating a new thread for each teaching section where all questions should be asked. It is the responsibility of one Teaching Assistant to keep track of questions.
+Students should be directed to ask questions in the Slack Channel. We suggest creating a new thread for each teaching section where all questions should be asked. It is the responsibility of one Teaching Assistant to keep track of questions.
 
 ## Classroom Roles
 
 #### Coordinator
 
-* Make sure the trainers understand the content for the week
-* Debug technical problems the trainers are having
-* As trainers and volunteers join, confirm that their video and audio are working
+* Make sure the teachers understand the content for the week
+* Debug technical problems the students are having
+* As students and volunteers join, confirm that their video and audio are working
 
 #### Lead Teacher
 
-* Lead training sessions and deliver content
-* Introduce coursework for the week to the class
+* Lead teaching sessions and deliver content
+* Introduce homework for the week to the class
 
 #### Assistant Lead Teacher
 
@@ -74,7 +74,7 @@ Trainees should be directed to ask questions in the Slack Channel. We suggest cr
   * Make sure that parts of the lesson start and finish on time.
 * Answer calls for help from the breakout rooms
 
-#### Teachers Assistants
+#### Assistant Teachers
 
 * Support the teacher
 * Listen for the teachers' instructions to students

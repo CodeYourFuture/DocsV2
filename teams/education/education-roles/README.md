@@ -8,11 +8,11 @@ There are several roles that you can take when volunteering with the Education T
 
 The module leaders lead the preparation of a module's lessons and exercises and are responsible for delivering its content. The module leaders are normally from within the group of mentors who have been around from the previous cohort and have a good feeling about how to run a class. They don't necessarily teach the full Saturday class though, as they're normally supported by other mentors who wish to teach part of it.
 
-## Lead Teacher (& Assistant Lead Teacher)
+## Lead Trainers (& Assistant Lead Teacher)
 
 **Time Commitment**: 3 consecutive classes plus planning time (5 hours at the weekend, some hours during the week)
 
-Lead Teachers are the people that deliver the content inside our weekly lessons. 
+Lead Trainers are the people that deliver the content inside our weekly lessons.&#x20;
 
 They are responsible for coordinating the classroom. making use of Teaching Assistants, delivering taught content and assigning exercises.
 
@@ -40,7 +40,7 @@ Read more about this role [here](education-buddy.md)
 
 **Time Commitment: **One meeting every two weeks, as much time as you can commit in between
 
-This Syllabus Team is responsible for keeping our develop new content for our Syllabus and keep it up to date. 
+This Syllabus Team is responsible for keeping our develop new content for our Syllabus and keep it up to date.&#x20;
 
 Read more about this [role on the Syllabus](https://syllabus.codeyourfuture.io/contributing/team)
 
@@ -50,9 +50,9 @@ Read more about this [role on the Syllabus](https://syllabus.codeyourfuture.io/c
 
 **Time Commitment**: Flexible
 
-Some mentors can't commit their weekends but they are able to meet students midweek to help with homework, provide group project support, or help them get a better understanding of the concepts they're learning. This is evolving into a parallel stream of work that is just as valued and important as the main Weekend class. 
+Some mentors can't commit their weekends but they are able to meet students midweek to help with homework, provide group project support, or help them get a better understanding of the concepts they're learning. This is evolving into a parallel stream of work that is just as valued and important as the main Weekend class.&#x20;
 
-Normally, volunteer mentors offer help on a certain day of the week (few hours after work for example) and students respond if they can join. This can also be requested by the students by asking if there are mentors available to help on specific day(s). 
+Normally, volunteer mentors offer help on a certain day of the week (few hours after work for example) and students respond if they can join. This can also be requested by the students by asking if there are mentors available to help on specific day(s).&#x20;
 
 All communication is done via the cohort's Slack channel.
 
@@ -66,10 +66,10 @@ The homework is done as Pull Requests on the students' GitHub accounts. Mentors 
 
 **Time Commitment**: Six weeks at the end of the course
 
-The graduation projects, at the end of the course, require developers who are comfortable jumping into several different roles: 
+The graduation projects, at the end of the course, require developers who are comfortable jumping into several different roles:&#x20;
 
 * Being the architect of the project
 * Lead developer taking responsibility of PRs and their quality
-* Project Management and wearing the hat of Scrum master few times. 
+* Project Management and wearing the hat of Scrum master few times.&#x20;
 
 If you'd like to get involved in one or few of those roles, please let one of the lead mentors know.

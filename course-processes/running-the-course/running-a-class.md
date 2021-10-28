@@ -2,19 +2,19 @@
 
 ## Pre-Class Checklist
 
-* Lead Trainers understand the content that they will be facilitating
-  * This includes the content for the day and the coursework
+* Lead Teachers understand the content that they will be teaching
+  * This includes the teaching for the day and the homework
 * All volunteers know when and where they should be attending
 * Volunteers attending for this first time have somebody to greet them and show them how CYF works
-* Trainees know when and where they will be attending the class
+* Students know when and where they will be attending the class
 * Somebody has been chosen to run energisers during the day
 * If lunch is being provided - somebody is in charge of coordinating it
 
 ## Schedule
 
-Here is an example schedule of a day events at an in-person class
+Here is an example schedule of a day events at a normal class
 
-* 9:45 - Trainees and Volunteers Arrive
+* 9:45 - Students and Volunteers Arrive
 * 10:00 - [Arrange Classroom](running-a-class.md#arrange-classroom) & [Morning Energiser](running-a-class.md#energisers)
 * 10:15 - [Students Retrospective](running-a-class.md#student-retrospective) // [Volunteers Kick-off](running-a-class.md#volunteer-kick-off)
 * 10:45 - [Morning Teaching](running-a-class.md#morning-teaching)
@@ -27,15 +27,15 @@ Here is an example schedule of a day events at an in-person class
 
 ## Activity Breakdown
 
-### Arrange space
+### Arrange Classroom
 
 **What is this?**
 
-Before every class we need to layout the space so that it's ready for the day. This usually means arranging the space into small groups of 4 or 5 per table so that people can work together easily.
+Before every class we need to layout the classroom so that it's ready for the day. This usually means arranging the classroom into small groups of 4 or 5 per table so that people can work together easily.
 
 **Who runs this?**
 
-It is normally the responsibility of the trainees to make sure the space is ready for class.
+It is normally the responsibility of the students to make sure the classroom is ready for class.
 
 **Why do we do this?**
 
@@ -49,7 +49,7 @@ Energisers are short - often physical - games that are used to energise our stud
 
 **Who runs this?**
 
-Usually a Personal Development volunteer will run the energisers but it can be run by anyone. We now encourage the trainees to run it.
+Usually a Personal Development volunteer will run the energisers but it can be run by anyone.
 
 **Why do we do this?**
 
@@ -61,13 +61,13 @@ In the afternoon, this helps to pick up the mood after lunch and get people read
 
 **What is this?**
 
-At the start of each day we have our trainees look back on the week's homework and discuss what went well and what they struggled with.
+At the start of each day we have our students look back on the week's homework and discuss what went well and what they struggled with.
 
 **Who runs this?**
 
 **Why do we do this?**
 
-As well as simulating a real life work environment it is helpful for the trainees to understand that they are not alone in not understanding the homework. They will all - at different times - struggle with the coursework and so they should be open to sharing their difficulties.
+As well as simulating a real life work environment it is helpful for the students to understand that they are not alone in not understanding the homework. They will all - at different times - struggle with the homework and so they should be open to sharing their difficulties.
 
 ### Volunteer Kick-off
 
@@ -77,7 +77,7 @@ At the beginning of each day it is important that all of our volunteers understa
 
 * Introducing new volunteers to the group
 * Discussing what will be taught in today's lesson
-* Trainees we should be giving particular help to
+* Students we should be giving particular help to
 * Thanking the volunteers for attending
 
 **Who runs this?**
@@ -88,7 +88,7 @@ The Class Coordinator will normally chair the kick off but anyone can suggest ag
 
 It is important at CodeYourFuture for all volunteers to feel engaged throughout the day and this starts with introductions. Too often, we are so excited to start teaching we forget to make our volunteers feel welcome and appreciated at the start of the day. This really does set the basis for the day and helps grow our community.
 
-### Morning Training
+### Morning Teaching
 
 **What is this?**
 
@@ -110,7 +110,7 @@ It's time to eat, unwind and digest what we've been learning about over the past
 
 This is provided by CodeYourFuture or by a partner organisation or by the students themselves. Please speak to your city coordinator to find out more.
 
-### Afternoon Training
+### Afternoon Teaching
 
 **What is this?**
 
@@ -120,7 +120,7 @@ Teaching is what we're here to do! Normally this section of the day will expand 
 
 This is coordinated and delivered by the Education Team. More information about the classroom roles can be found [here](https://github.com/CodeYourFuture/DocsV2/tree/c265f38db4043052aa0d06e2868151793028f82b/volunteers/education/education-roles/README.md).
 
-### Coursework Briefing
+### Homework Briefing
 
 **What is this?**
 
@@ -128,11 +128,11 @@ Giving the students a summary of their homework and work they are expected to do
 
 **Who runs this?**
 
-This is run by an Education Team Volunteer (preferably one of the  Assistants).
+This is run by an Education Team Volunteer (preferably one of the Classroom Assistants).
 
 **Why do we do this?**
 
-So that the trainees understand what homework they have got to do by the next week of class. Any questions about the coursework can also be covered in this section.
+So that the students understand what homework they have got to do by the next week of class. Any questions about the homework can also be covered in this section.
 
 ### Volunteers Retrospective
 
@@ -140,18 +140,18 @@ So that the trainees understand what homework they have got to do by the next we
 
 We run a short retrospective where we discuss:
 
-* Which trainees did well
-* Which trainees struggled in this lesson
+* Which students did well
+* Which students struggled in this lesson
 * What went well with our teaching and delivery
 * What could be improved for our next lesson
 
 **Who runs this?**
 
-This meeting is chaired by the Leaders or any volunteer of the day but any participant can add agenda points during the meeting.
+This meeting is chaired by the Class Coordinator but any participant can add agenda points during the meeting.
 
 **Why do we do this?**
 
-It's important that trainees are tracked as they move through the course so that we can better support them. Retrospectives are also important so volunteers can improve their facilitation skills.
+It's important that students are tracked as they move through the course so that we can better support them. Retrospectives are also important so volunteers can improve their teaching.
 
 ### Tidy Up
 
@@ -168,7 +168,7 @@ We need to make sure that
 
 **Who runs this?**
 
-This is coordinated and completed by the trainees.
+This is coordinated and completed by the students.
 
 **Why do we do this?**
 
