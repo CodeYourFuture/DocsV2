@@ -35,11 +35,11 @@ Wherever possible direct the trainee to actually type the solution on their lapt
 
 _Ask don’t tell_
 
-As an assistant teacher, your job is not to understand **what** the trainee doesn’t understand but **why** they don’t understand it. You are in the lucky position of working closely with the trainees and so are uniquely placed to fix core misunderstandings in their mental models. The most important question in your arsenal is “_What do you think the answer is?_”.
+As an assistant, your job is not to understand **what** the trainee doesn’t understand but **why** they don’t understand it. You are in the lucky position of working closely with the trainees and so are uniquely placed to fix core misunderstandings in their mental models. The most important question in your arsenal is “_What do you think the answer is?_”.
 
 _Coursework in mind_
 
-When mentoring a trainee you should always have the homework for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the homework to a sufficient level. If you don’t know the homework for the week, ask your Lead Teacher.
+When mentoring a trainee you should always have the coursework for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the homework to a sufficient level. If you don’t know the homework for the week, ask your Lead Trainer.
 
 ## Useful Links
 
