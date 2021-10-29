@@ -81,7 +81,7 @@
   * [Overview](teams/education/overview-education.md)
   * [Roles](teams/education/education-roles/README.md)
     * [Lead Trainer](teams/education/education-roles/lead-teacher.md)
-    * [Teaching Assitant](teams/education/education-roles/teaching-assitant.md)
+    * [Training Assistant](teams/education/education-roles/teaching-assitant.md)
     * [Education Buddy](teams/education/education-roles/education-buddy.md)
     * [Syllabus Team](https://syllabus.codeyourfuture.io/contributing/team)
   * [Coursework Feedback](teams/education/homework-feedback.md)
