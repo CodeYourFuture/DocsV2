@@ -10,9 +10,9 @@ Do your code review in public directly on the trainee's Pull Request. Use all th
 Do this short training on Pull Requests to refresh yourself if you haven't worked with Github recently: [https://lab.github.com/githubtraining/reviewing-pull-requests](https://lab.github.com/githubtraining/reviewing-pull-requests)&#x20;
 {% endhint %}
 
-You can find all the open PRs that have requested your review with the GH search api, like this:&#x20;
+You can find all the open PRs that have requested your review on Github&#x20;
 
-[https://github.com/pulls?q=is%3Apr+review-requested%3ASallyMcGrath+is%3Aopen](https://github.com/pulls?q=is%3Apr+review-requested%3ASallyMcGrath+is%3Aopen)
+[https://github.com/pulls/review-requested](https://github.com/pulls/review-requested)
 
 ### Feedback Advice
 
