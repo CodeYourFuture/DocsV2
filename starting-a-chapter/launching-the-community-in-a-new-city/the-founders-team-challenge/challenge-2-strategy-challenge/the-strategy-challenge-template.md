@@ -12,7 +12,7 @@ _Please describe each one. Make sure to provide an overview of their approaches,
 
 _Having considered the approach of existing provisions, please evaluate the differences between them and CYF. What are their advantages and disadvantages when compared to CYF? What value would CYF add and what provision gaps can CYF fill?_
 
-_These questions should hopefully allow you to identify any existing provisions, as well as potential gaps and shortcomings._** **
+_These questions should hopefully allow you to identify any existing provisions, as well as potential gaps and shortcomings._ ****&#x20;
 
 * **For-profit Coding Bootcamps**
 
@@ -30,37 +30,37 @@ _Definition of disadvantaged background:_
 
 _-Social: Applicants who are refugees or disabled or from minority groups or socially excluded groups (e.g Roma populations, LGBT community)._
 
-_-Age: _
+_-Age:_&#x20;
 
-_-Gender: _
+_-Gender:_&#x20;
 
-_-Language: _
+_-Language:_&#x20;
 
-_-Location: _
+_-Location:_&#x20;
 
-_-Access to Technology: _
+_-Access to Technology:_&#x20;
 
-_-Educational background: _
+_-Educational background:_&#x20;
 
-_-Family background: _
+_-Family background:_&#x20;
 
-_-Financial background: _
+_-Financial background:_&#x20;
 
-_-Criminal background: _
+_-Criminal background:_&#x20;
 
-_-Immigrations status: _
+_-Immigrations status:_&#x20;
 
-_-Time commitment: _
+_-Time commitment:_&#x20;
 
-## **C - Demographics Data **
+## **C - Demographics Data**&#x20;
 
 **How large is the potential pool of applicants?**
 
 _Now that you have considered and outlined your target audience. Please share any data on the potential number of people that you would reach out to in the region using this criteria. Are there any regional population clusters where your target group is overrepresented?_
 
-_This question should hopefully allow you to understand the potential volume of applicants who would qualify to apply for the CYF course.  _
+_This question should hopefully allow you to understand the potential volume of applicants who would qualify to apply for the CYF course._ &#x20;
 
-## **D - Existing Tech Sector **
+## **D - Existing Tech Sector**&#x20;
 
 **What is the current state of the tech sector in your region?**
 

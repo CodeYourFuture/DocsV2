@@ -28,7 +28,7 @@ When a Graduate first volunteers there are a few roles that they would be really
 
 Recent Graduates should not be
 
-* Lead Teachers
+* Lead Trainers
   * Until they have professional experience they won’t have the depth of knowledge required to be a Lead Teacher
 * Buddies
   * Graduates can offer 1:1 support to students but shouldn’t have a whole buddy group to look after as they should be focusing on their Job Search.

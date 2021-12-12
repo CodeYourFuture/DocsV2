@@ -7,12 +7,12 @@
 
 ## Reaching to NGOs for established cities
 
-1. Start calling NGOs - your City Coordinator will give you access to the [**dashboard**](https://docs.codeyourfuture.io/teams/ambassadors/applicant-outreach/ngo-dashboard-step-by-step-guide-for-volunteers)**. **
+1. Start calling NGOs - your City Coordinator will give you access to the [**dashboard**](https://docs.codeyourfuture.io/teams/ambassadors/applicant-outreach/ngo-dashboard-step-by-step-guide-for-volunteers)**.**&#x20;
 2. Making a call takes around 10mins - best done during the day when the NGOs are open. Lunch times have worked well in the past.
 3. The first email will be sent from by a volunteer or CYF staff member with a CYF email address. Your role is to follow up that email with a call.
 4. Try to speak to the right contact at the NGO - or if not, get their name for a follow up call.
 5. As a volunteer, you are likely only to call NGOs once. If you are a new CYF city, you may need to organise that other volunteers call the NGO back. NGOs are often busy doing other things, so a second call, especially to big referrers, is critical.
 
-_Training on how to use the dashboard will be provided in details _
+_Training on how to use the dashboard will be provided in details_&#x20;
 
-__[_F.A.Q_](https://codeyourfuture.io/faq/)_. - especially useful when calling NGOs and Applicants _
+__[_F.A.Q_](https://codeyourfuture.io/faq/)_. - especially useful when calling NGOs and Applicants_&#x20;

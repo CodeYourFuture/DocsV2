@@ -38,7 +38,7 @@ Read more about this role [here](education-buddy.md)
 
 ## Syllabus Team
 
-**Time Commitment: **One meeting every two weeks, as much time as you can commit in between
+**Time Commitment:** One meeting every two weeks, as much time as you can commit in between
 
 This Syllabus Team is responsible for keeping our develop new content for our Syllabus and keep it up to date.&#x20;
 

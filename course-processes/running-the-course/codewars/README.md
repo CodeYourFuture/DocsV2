@@ -21,7 +21,7 @@ To sign up to Codewars visit this link and complete their simple tutorial
 
 After you've signed in you'll want to go to "Account Settings" at the top right of the screen.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2).png>)
 
 ### 3. Join Our Clan
 
@@ -29,7 +29,7 @@ Codewars Clans are teams so that we can track how many challenges we've complete
 
 To join the CodeYourFuture clan you should enter "CodeYourFuture" as you see in the screenshot below
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3).png>)
 
 Make sure you scroll to the bottom of the page and click "Update" to save.
 
@@ -47,7 +47,7 @@ We’ve made collections of kata and synced them to the Syllabus.
 
 Here are the CYF collections:
 
-[https://www.codewars.com/users/CodeYourFuture/authored_collections](https://www.codewars.com/users/CodeYourFuture/authored_collections)
+[https://www.codewars.com/users/CodeYourFuture/authored\_collections](https://www.codewars.com/users/CodeYourFuture/authored\_collections)
 
 To edit these collections, use the pinned thread in #cyf-codewars channel.
 
@@ -55,7 +55,7 @@ To edit these collections, use the pinned thread in #cyf-codewars channel.
 
 ## How To Use Kata
 
-First, click this [link to view all of the CodeYourFuture collections.](https://www.codewars.com/users/CodeYourFuture/authored_collections)
+First, click this [link to view all of the CodeYourFuture collections.](https://www.codewars.com/users/CodeYourFuture/authored\_collections)
 
 Choose a collection by clicking the title. You will see the collection view. If you click the green button marked ‘Train Now’, you’ll cycle through all the kata in this collection. Or you can go right to one you find interesting by clicking the title.
 
@@ -71,13 +71,13 @@ Okay, so this one wants us to calculate the number of milliseconds given in hour
 
 What else does this kata description give us? They don’t all give you the same things, but here are some common clues you might get.
 
-![Input constraints](https://lh4.googleusercontent.com/NesGsI-ZBB67N8XHU24U3VdHaRdHItCbfDPY1xNdGTYbCvQg1mFUHp_aauzdXnJV1HI\_7r_zUODgSP8-gCdtNfyimReqeaSaoI5\_Uqy6d5WlcIHw9juJ0JTIurt0Xvhyo9kDmXh6)
+![Input constraints](https://lh4.googleusercontent.com/NesGsI-ZBB67N8XHU24U3VdHaRdHItCbfDPY1xNdGTYbCvQg1mFUHp\_aauzdXnJV1HI\_7r\_zUODgSP8-gCdtNfyimReqeaSaoI5\_Uqy6d5WlcIHw9juJ0JTIurt0Xvhyo9kDmXh6)
 
 **Input constraints / limits of each value**
 
 They are saying that there aren’t 61 minutes, or 135 minutes in an hour, or a million hours in a day. We don’t need to handle those kinds of values in this kata. We can be sure it’s always going to follow the rules of the 24 hour clock.
 
-![A test case shows inputs and expected result](https://lh6.googleusercontent.com/re-3U15uquZk65F_QliOIqG0PAIG6WDBu_rE-YF5IoZinTfcjVRBaOv6zthK6qvnJ_IJaETvcOE8lxl0Sgk5C-8RF9mNYxII\_\_pjNeUUwGyKJe4MSJgkUk0KbDphhv1urWt7EaCr)
+![A test case shows inputs and expected result](https://lh6.googleusercontent.com/re-3U15uquZk65F\_QliOIqG0PAIG6WDBu\_rE-YF5IoZinTfcjVRBaOv6zthK6qvnJ\_IJaETvcOE8lxl0Sgk5C-8RF9mNYxII\_\_pjNeUUwGyKJe4MSJgkUk0KbDphhv1urWt7EaCr)
 
 And here it gives us a test case -- here are inputs (**h**, **m**, **s**) and outputs (**result**) given. Let’s go into the kata by hitting Train.
 
@@ -85,7 +85,7 @@ And here it gives us a test case -- here are inputs (**h**, **m**, **s**) and ou
 
 And look, we can see the same values over here, in the tests panel.
 
-![](https://lh3.googleusercontent.com/eExx2-au1LgE43ntkF3OUVU0S_olXLZWcsdRv0KAcbNChgIZohehGKOJTP-My-YfeZ20U6h5jpkP3a2ISZdLyjSzioN5rbebl7xOQHaUhfYUs3joT38DWSoPpDWVR0PZLKf4ngCO)
+![](https://lh3.googleusercontent.com/eExx2-au1LgE43ntkF3OUVU0S\_olXLZWcsdRv0KAcbNChgIZohehGKOJTP-My-YfeZ20U6h5jpkP3a2ISZdLyjSzioN5rbebl7xOQHaUhfYUs3joT38DWSoPpDWVR0PZLKf4ngCO)
 
 The tests are showing inputs on the left and the expected output on the right. It’s saying the return value of the function past(), when given those inputs, must be equal to the value given after the comma.
 
@@ -93,7 +93,7 @@ The function **past(0,1,1)** must return the value **61000** for the test to pas
 
 So we could copy these answers into our code and just give the right outputs for the right inputs. We could even delete these other tests.
 
-![](https://lh6.googleusercontent.com/s_YM5EyQIBP1glKG9vszdK\_55RZN9ukTDb3CbzCsMPYbsI8sWI-mzKK6ab2W3NYGVqH_MROQ3x-xHl4RIN6eftkBdep7a2fbt8hWMeQp0loWlNmz-rnBXJ9\_A3aDCzPye-jkqaju)
+![](https://lh6.googleusercontent.com/s\_YM5EyQIBP1glKG9vszdK\_55RZN9ukTDb3CbzCsMPYbsI8sWI-mzKK6ab2W3NYGVqH\_MROQ3x-xHl4RIN6eftkBdep7a2fbt8hWMeQp0loWlNmz-rnBXJ9\_A3aDCzPye-jkqaju)
 
 And look, green! But, would that solve the kata? **No**. If we change the inputs then the answers will be wrong. And the kata will do that for you. If you hit the blue “Attempt” button, it will run through loads more tests and look, now our answer doesn’t work any more.
 
@@ -111,19 +111,19 @@ Now my test is failing as undefined, because I’m not returning anything at all
 
 1. I need to figure out how many milliseconds there are in each of these values
 2. Convert the values to that number
-3. Then add them together. 
+3. Then add them together.&#x20;
 
 How many milliseconds are there in an hour, anyway? I’m gonna google that.
 
-![](https://lh6.googleusercontent.com/Nto7oAm5psoZupQrQGzR0ZSbB4PYccr_drMeab9\_WEtI9\_rAxEjZuFuG8Yk\_30qUX3lfG5f9H36wxQsQoRNBC6JBLLgdR-mf2-rDTl_iyNOpOPCKw_eeuOvkzbc4BWXGdokBSuhk)
+![](https://lh6.googleusercontent.com/Nto7oAm5psoZupQrQGzR0ZSbB4PYccr\_drMeab9\_WEtI9\_rAxEjZuFuG8Yk\_30qUX3lfG5f9H36wxQsQoRNBC6JBLLgdR-mf2-rDTl\_iyNOpOPCKw\_eeuOvkzbc4BWXGdokBSuhk)
 
 Oh look at that - google has a converter right there. Wow, that’s a big number! I’m going to copy and paste that and then hit test. Test often.
 
-![](https://lh6.googleusercontent.com/lVWkyoBHfLJFQt_mnhH3-9C1M3ukhlS_LGZXuzYHDtxiH3fcTrINBm5k6canJYtJqHtAlUeWvaXX6D0RIXsCRq_Mu1l9wOVFEhsxBSjSCL7LyC5Zl9-OLV8-CiWAK2yV5b6WPN4H)
+![](https://lh6.googleusercontent.com/lVWkyoBHfLJFQt\_mnhH3-9C1M3ukhlS\_LGZXuzYHDtxiH3fcTrINBm5k6canJYtJqHtAlUeWvaXX6D0RIXsCRq\_Mu1l9wOVFEhsxBSjSCL7LyC5Zl9-OLV8-CiWAK2yV5b6WPN4H)
 
 Hm, not right yet -- I guess I need to try doing the same thing for the minutes and the seconds and then adding them all together.
 
-![](https://lh3.googleusercontent.com/3sohLqEZR1MGu8Y2JFpawUt4x4w6CIYnCOdvTGTnc0EXZUl3vXBW8smrFkl_XBgZw29HetY2dGQuqG_ZC696h2RcfTQ\_9lkGGBCH3tqAzEeXZC8zpBkqyEORkD0esjJzGyX6kjgu)
+![](https://lh3.googleusercontent.com/3sohLqEZR1MGu8Y2JFpawUt4x4w6CIYnCOdvTGTnc0EXZUl3vXBW8smrFkl\_XBgZw29HetY2dGQuqG\_ZC696h2RcfTQ\_9lkGGBCH3tqAzEeXZC8zpBkqyEORkD0esjJzGyX6kjgu)
 
 ![](https://lh3.googleusercontent.com/91Xf1wxchC6Je2VS472VBwMCRiE8sCyH3RF1-fL6qw2sLlGFonQemRf35nHTE3ocTUTmvySsoZSzXiacJaJ4wvMFjXwYm17MLMMI9DLsXpEAq0kvhArBudqfxmthuHrGHoj3VVdJ)
 
@@ -139,11 +139,11 @@ I’ll hit the blue attempt button (you can attempt over and over, _and you shou
 
 Now I’ve passed all my tests I can refactor and make it all tidy. Maybe I’ll make it a fat arrow function…
 
-![](https://lh5.googleusercontent.com/GWYcCKp-2Ybtp5y2aIprRm2qcH00FlYwXKf4NaF9Di88IA7mU50BRCsr2Xh8y8J_Ar-yaQyZwV7OXEpu1C2DrhW4pzGwjqJYOK2EGnf91xrziEzbe-38JgKZurHhrTNNq866-0IG)
+![](https://lh5.googleusercontent.com/GWYcCKp-2Ybtp5y2aIprRm2qcH00FlYwXKf4NaF9Di88IA7mU50BRCsr2Xh8y8J\_Ar-yaQyZwV7OXEpu1C2DrhW4pzGwjqJYOK2EGnf91xrziEzbe-38JgKZurHhrTNNq866-0IG)
 
 But look, it seems like I’ve solved this kata before so I’ve got my old solutions right here in this tab. What did I say?
 
-![](https://lh6.googleusercontent.com/QA4fyWc0rAtsast5NVzMfKuf1bF8XxaXaUhc34H4\_rD5GLIvovmSvfCkqQxruhZAjCzrMU_pWFBy0pYLTqEXa50GIjfJNeM1yFpmJkY5pSjBT4UIVkcfTaEAcCWRhtd_nYc2sI7J)
+![](https://lh6.googleusercontent.com/QA4fyWc0rAtsast5NVzMfKuf1bF8XxaXaUhc34H4\_rD5GLIvovmSvfCkqQxruhZAjCzrMU\_pWFBy0pYLTqEXa50GIjfJNeM1yFpmJkY5pSjBT4UIVkcfTaEAcCWRhtd\_nYc2sI7J)
 
 That’s a pretty good point. I could one line this, and if I am practising one liners that is what I should do. But when I come back to this kata, I’m not convinced that I would know what these numbers mean. I wouldn’t know what 3.6e+6 meant, for sure. So maybe I should identify these values. I could do it the way I did last time, except I would spell milliseconds correctly. Hit submit.
 
@@ -151,7 +151,7 @@ That’s a pretty good point. I could one line this, and if I am practising one 
 
 And now we get to go and see how other people solved it. Click around the different filters. Look at all these different answers!
 
-![](https://lh3.googleusercontent.com/4bBGC3jaZJxw1Bk2LjQzBdEea_XZq3bNvH5oLJpSPPMR2aUfQnBPEjVDUMAYiPUP2MueiC46TRhd3jFXoSq16nVDDr16SjiGBg5-PdZH7t7a8za0Y7Bq64C_VYQJiBW04cIQxor-)
+![](https://lh3.googleusercontent.com/4bBGC3jaZJxw1Bk2LjQzBdEea\_XZq3bNvH5oLJpSPPMR2aUfQnBPEjVDUMAYiPUP2MueiC46TRhd3jFXoSq16nVDDr16SjiGBg5-PdZH7t7a8za0Y7Bq64C\_VYQJiBW04cIQxor-)
 
 **Ignore** the “best practices” votes. The people voting are just learning and they don't know what best practices are. You will not write good code if you copy the best practices solutions on Codewars. But it’s interesting to see all the different ways to approach the problem - and there are always many many solutions.
 
@@ -173,4 +173,4 @@ So that’s Codewars. [Join the CodeYourFuture clan](https://www.codewars.com/us
 
 Clan name: **CodeYourFuture**\
 Slack Channel: **#cyf-codewars**\
-Collections: [**CYF Modules**](https://www.codewars.com/users/CodeYourFuture/authored_collections)** **
+Collections: [**CYF Modules**](https://www.codewars.com/users/CodeYourFuture/authored\_collections) ****&#x20;

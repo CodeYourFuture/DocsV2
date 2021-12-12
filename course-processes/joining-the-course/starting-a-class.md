@@ -4,7 +4,7 @@ description: Steps needed before starting a new Full Stack class.
 
 # Starting a Course
 
-**Note:** This guide is used by **Volunteers and Programme Managers to **setup a new class. If you are a trainee, you do not need to use this guide.
+**Note:** This guide is used by **Volunteers and Programme Managers to** setup a new class. If you are a trainee, you do not need to use this guide.
 
 ## 1) Send Acceptance and Rejection Email
 

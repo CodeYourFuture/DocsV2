@@ -31,7 +31,7 @@ We are working on going through all our previous tests, quizzes, and other evalu
 
 A test will be opened; a class will be invited by email. Sometimes we will run the test in class. The test will stay open for 7 days. At the end of 7 days the test will be closed and anyone who hasn’t taken it will get a **zero**. A test will be an hour or less.&#x20;
 
-Candidates must **provide their Github url when asked **or we will have to burn valuable volunteer hours/days figuring out who is who.
+Candidates must **provide their Github url when asked** or we will have to burn valuable volunteer hours/days figuring out who is who.
 
 ### What else should we know?
 
@@ -61,7 +61,7 @@ For example, in our pilot, people wasted time adding Bootstrap classes to their 
 
 _**3 - Use the tools**_
 
-There’s an onboarding introduction and a demo. Do the demo! **Use every tool available. **This includes Google and [the Syllabus](https://syllabus.codeyourfuture.io).
+There’s an onboarding introduction and a demo. Do the demo! **Use every tool available.** This includes Google and [the Syllabus](https://syllabus.codeyourfuture.io).
 
 ### FAQs
 

@@ -19,7 +19,7 @@ We cannot support Windows for development; it costs too much time and energy.
 
 ### Intro to Digital Specs
 
-These laptops are **only **used by students doing the [Into To Coding Course](../../../our-courses/intro-to-coding-course/). They should be capable of running browser based coding programs and joining video calls.
+These laptops are **only** used by students doing the [Into To Coding Course](../../../our-courses/intro-to-coding-course/). They should be capable of running browser based coding programs and joining video calls.
 
 * 2 GHz Intel i3 processor&#x20;
   * or AMD equivalent
@@ -59,6 +59,6 @@ These laptops are the recommended specs that we expect students to use to comple
 * A headset including a microphone (can either be USB or plug into the microphone and headphones socket(s))
 * A Keyboard and Mouse (can be included in laptop)
 * Two or more working USB ports
-* An Integrated Graphics Card (a discrete graphics card is **not **required)
+* An Integrated Graphics Card (a discrete graphics card is **not** required)
 * An internet connection – broadband wired or wireless (3G or 4G/LTE)
 * Administrator access to the laptop

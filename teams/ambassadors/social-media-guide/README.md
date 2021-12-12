@@ -1,6 +1,6 @@
 # Social Media Guide
 
-Please review our [**Social Media Deck**](https://docs.google.com/presentation/d/1SlcqZbgei1u7Xl6faddI67-y1GmXjyE0Wnw7Ksp9NHA/edit#slide=id.g8019bb5617\_0\_0)** **that will give you an idea of what we do and why.
+Please review our [**Social Media Deck**](https://docs.google.com/presentation/d/1SlcqZbgei1u7Xl6faddI67-y1GmXjyE0Wnw7Ksp9NHA/edit#slide=id.g8019bb5617\_0\_0) **** that will give you an idea of what we do and why.
 
 _For access to the relevant social media channels, ask your local coordinators._
 

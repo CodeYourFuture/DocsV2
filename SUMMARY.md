@@ -63,7 +63,8 @@
     * [Zoom Training](course-processes/running-the-course/online-teaching/zoom-training-call-overview.md)
     * [Online Fun](course-processes/running-the-course/online-teaching/online-fun.md)
   * [Hackathons](course-processes/running-the-course/hackathons.md)
-  * [Codewars](course-processes/running-the-course/codewars.md)
+  * [Codewars](course-processes/running-the-course/codewars/README.md)
+    * [Codewars Advice from CYFers](course-processes/running-the-course/codewars/codewars-advice-from-cyfers.md)
   * [Assessment](course-processes/running-the-course/assessment/README.md)
     * [Milestones](course-processes/running-the-course/assessment/milestones.md)
     * [Codility](course-processes/running-the-course/assessment/codility.md)
@@ -74,7 +75,7 @@
   * [Getting a Job](course-processes/after-the-course/getting-a-job.md)
   * [From Trainee to Volunteer](course-processes/after-the-course/from-trainee-to-volunteer.md)
 
-## 👥 Volunteer Teams <a href="teams" id="teams"></a>
+## 👥 Volunteer Teams <a href="#teams" id="teams"></a>
 
 * [Overview](teams/teams.md)
 * [Education](teams/education/README.md)
@@ -114,7 +115,7 @@
   * [Slack for Volunteers](tools/slack/for-volunteers.md)
   * [Slack for Trainees](tools/slack/for-students.md)
 
-## ⏩ Volunteering at CodeYourFuture <a href="volunteering-codeyourfuture" id="volunteering-codeyourfuture"></a>
+## ⏩ Volunteering at CodeYourFuture <a href="#volunteering-codeyourfuture" id="volunteering-codeyourfuture"></a>
 
 * [Joining](volunteering-codeyourfuture/joining.md)
 * [Onboarding Process](volunteering-codeyourfuture/onboarding-process/README.md)

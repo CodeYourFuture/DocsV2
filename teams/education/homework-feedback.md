@@ -92,9 +92,9 @@ For our records and to track trainee progress it is important that we track how 
 * Google Classroom
 * Trello Cards
 
-Please consult your Class Coordinators for the best place to record this information as it will vary from class to class.
+Please consult your Programme Managers for the best place to record this information as it will vary according to each programme's priorities and capacities.
 
-Grades should be given on the follow criteria
+If you choose to grade, here are some guidelines. Grades should be given on the following criteria
 
 * The completeness of the homework
 * How much you believe the trainee understands the content
@@ -102,7 +102,7 @@ Grades should be given on the follow criteria
 
 This is, above all else, an indicator of the trainees  abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this.
 
-Although grading makes the tracking easier, we aim to give trainees feedback rather than grades.
+Grading can make tracking progress easier in some cases and if it works for your cohort, do it. In general, we aim to give trainees feedback rather than grades. You should always prioritise **meaningful technical mentorship and personal feedback** over processes like grading. CYF is not a school. It is a community where adults come together to share skills and develop software.&#x20;
 
 A rough guide (to be taken with a pinch of salt):
 
@@ -111,7 +111,7 @@ A rough guide (to be taken with a pinch of salt):
 * 1, 2, 3
   * Work has been handed in but does not meet the criteria/ demonstrates a lack of understanding
 * 4, 5, 6
-  * Work is okay, demonstrate an understanding of this weeks’ material and the task.
+  * Work is okay, demonstrates an understanding of this weeks’ material and the task.
 * 7, 8, 9
   * Work is good, the trainee demonstrates a strong understanding of this weeks’ material and the task and uses it with thought.
 * 10
@@ -119,13 +119,13 @@ A rough guide (to be taken with a pinch of salt):
 
 ## 3. Mentor Responsibility
 
-Education volunteers are responsible for a group of trainees  to track their progress through the course.
+Education volunteers are responsible for a group of trainees from Intro to Digital to Post Graduation&#x20;
 
 **They are responsible for**
 
-* Ensuring that trainees  complete their homework each week
-* Giving them feedback
-* Recording the trainee progress for their assigned trainees&#x20;
+* Code review of trainee coursework and side projects
+* Technical mentorship
+* Recording feedback on trainee progress for their assigned trainees according to the needs of the cohort
 
 _Please consult your Class Coordinators for the best place to record this information as it will vary from class to class._
 

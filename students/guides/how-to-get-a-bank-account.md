@@ -15,11 +15,11 @@ They have the best service and technology in the market (and the best app :)
 
 ## If you are an asylum seeker
 
-Before** **you get your refugee status and when you’re an asylum seeker you are likely to find it difficult to open a current account. You can try one of the following options:
+Before **** you get your refugee status and when you’re an asylum seeker you are likely to find it difficult to open a current account. You can try one of the following options:
 
 ### Option 1 Traditional bank account
 
-These are free to open and have no fees, the only disadvantage is that you are very likely to be rejected. But it is worth trying, we advise to try **METRO bank **in particular. You will need to bring documents as in A) above.
+These are free to open and have no fees, the only disadvantage is that you are very likely to be rejected. But it is worth trying, we advise to try **METRO bank** in particular. You will need to bring documents as in A) above.
 
 ### Option 2 Traditional bank basic account
 

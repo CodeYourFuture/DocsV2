@@ -19,7 +19,7 @@ The one word icebreaker can be used without a lot of preparation, and moves quic
 For teams without a lot of time, this icebreaker does double duty. It acts as a fun and interactive icebreaker but it also kicks off the brainstorming session. Choose a word aligned with the meeting goals, such as the product itself, or the solution it is trying to provide. Ask the team to reconvene and share their answers. The variety of one word answers will be enlightening.\
 ****
 
-**Basic pairing exercises **
+**Basic pairing exercises**&#x20;
 
 Learning name and some interesting info (hobby, etc.) about other person (but probably more exciting things you can do!). We also organised into groups of 6 or 7 volunteers (could use Zoom breakout rooms) to talk about things we were looking forward to and challenges we expected over the next few months.\
 ****\
@@ -46,8 +46,8 @@ This is a good way to get people to think about who influenced them most and wha
 
 [More team building activities](https://www.hotjar.com/blog/virtual-team-building-activities/)[\
 \
-](https://www.hotjar.com/blog/virtual-team-building-activities/)[Virtual Name tags Icebreaker ](https://sites.google.com/site/adultonlineteachingstrategies/virtualicebreakers/virtual-name-tags---not-done) 
+](https://www.hotjar.com/blog/virtual-team-building-activities/)[Virtual Name tags Icebreaker ](https://sites.google.com/site/adultonlineteachingstrategies/virtualicebreakers/virtual-name-tags---not-done)&#x20;
 
-[Beach Ball Icebreaker](https://sites.google.com/site/adultonlineteachingstrategies/virtualicebreakers/beach-ball-icebreaker---not-done) 
+[Beach Ball Icebreaker](https://sites.google.com/site/adultonlineteachingstrategies/virtualicebreakers/beach-ball-icebreaker---not-done)&#x20;
 
 [Where in the World Icebreaker](https://sites.google.com/site/adultonlineteachingstrategies/virtualicebreakers/where-in-the-world---not-done)****

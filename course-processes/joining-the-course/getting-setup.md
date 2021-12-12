@@ -156,7 +156,7 @@ We use this tool to make it easier to use Git since it can be quite hard for a b
 
 ### 7.1) Gmail
 
-We use a lot of Google products in the class so it's essential that everyone has a Gmail address. If you do **not **already have one then please register below.
+We use a lot of Google products in the class so it's essential that everyone has a Gmail address. If you do **not** already have one then please register below.
 
 [Create email address here](https://accounts.google.com/SignUp)
 
@@ -178,4 +178,4 @@ We'll be using Codewars later in the course help us practice our JavaScript.&#x2
 
 Follow the setup instructions here to get setup.
 
-[Setup Codewars](../running-the-course/codewars.md#setup-codewars)
+[Setup Codewars](../running-the-course/codewars/#setup-codewars)

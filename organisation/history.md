@@ -45,7 +45,7 @@ Our goal is to create a grassroots movement that anyone around the world can rep
 
 * **Aaishah Khan** (@Aaishah): West Midlands Programme Manager
 * **Alec McCrindle** (@Alec): Design and Digital Marketing
-* **Alicia Easley: **North West Programme Manager
+* **Alicia Easley:** North West Programme Manager
 * **Barny Dathan** (@Barnaby Dathan): Employability & Tech Projects
 * **Candy DeRoy** (@Candy DeRoy): Volunteers and Personal Development
 * **Claire** **Bickley** (@Claire): West Midlands Regional Manager
@@ -53,7 +53,7 @@ Our goal is to create a grassroots movement that anyone around the world can rep
 * **Gianluca Palombo** (@Gianluca): Glasgow Programme Manager
 * **Hazel Todhunter:** Finance
 * **Liliana Bermudes** (@Liliana): Programme Innovation & Community Leadership
-* **Mariana Vazquez: **London Programme Manager
+* **Mariana Vazquez:** London Programme Manager
 * **Roberta Lifonso** (@Roberta): Operations
 * **Sally McGrath** (@Sally McGrath): Education and Pedagogy
 
