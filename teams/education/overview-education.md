@@ -1,6 +1,10 @@
 # Overview
 
-In this section you'll find all the information to do with the education team.
+In this section you'll find all the information to do with the education team. \
+\
+Most of our work happens in Slack and on Github. **You must join our Github Organisation and your Mentor Team to join the CYF Education team.**&#x20;
+
+[https://github.com/orgs/CodeYourFuture/teams/mentors](https://github.com/orgs/CodeYourFuture/teams/mentors)
 
 ## Responsibilities
 
