@@ -86,13 +86,7 @@ We take plagiarism seriously at Code Your Future.  If you suspect a trainee has 
 
 ## 2. Grading
 
-For our records and to track trainee progress it is important that we track how well the trainee is progressing through our course. This can happen in a variety of places.
-
-* Class Tracking Spreadsheet
-* Google Classroom
-* Trello Cards
-
-Please consult your Programme Managers for the best place to record this information as it will vary according to each programme's priorities and capacities.
+Grading can make tracking progress easier in some cases and if it works for your cohort, do it.  Please consult your Programme Managers for the best place to record this information as it will vary according to each programme's priorities and capacities.
 
 If you choose to grade, here are some guidelines. Grades should be given on the following criteria
 
@@ -102,7 +96,7 @@ If you choose to grade, here are some guidelines. Grades should be given on the 
 
 This is, above all else, an indicator of the trainees  abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this.
 
-Grading can make tracking progress easier in some cases and if it works for your cohort, do it. In general, we aim to give trainees feedback rather than grades. You should always prioritise **meaningful technical mentorship and personal feedback** over processes like grading. CYF is not a school. It is a community where adults come together to share skills and develop software.&#x20;
+In general, we aim to give trainees feedback rather than grades. You should always prioritise **meaningful technical mentorship and personal feedback** over processes like grading. CYF is not a school. It is a community where adults come together to share skills and develop software.&#x20;
 
 A rough guide (to be taken with a pinch of salt):
 
