@@ -10,7 +10,7 @@ description: Common tasks that need to happen to make a CodeYourFuture course wo
 
 ### 1.1) Finding Trainers
 
-CodeYourFuture facilitates seven technical modules (consisting of three weeks each) and eight personal development days. You can find an overview of these sessions [here](https://syllabus.codeyourfuture.io/overview).
+CodeYourFuture facilitates seven modules. You can find an overview of these sessions [here](https://syllabus.codeyourfuture.io/overview).
 
 Each of these sessions require volunteers to be&#x20;
 

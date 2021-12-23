@@ -11,12 +11,9 @@ Once you have completed your general onboarding tasks, you should be invited to 
       * \#scotland-education / #scotland-development-and-outreach channel
       * @scotlandmentors user list
 * GitHub
-  * City mentors group, so that you can review PRs and collaborate on the syllabus
-* Trello
-  * Used for assessment of homework and graduation project work 
-  * Used sometimes for other things like Outreach activities
-* Google Groups
-  * To receive updates and changes for class dates, times and locations (please tell us when you no longer want to receive updates)
+  * City mentors group, so that you can review PRs and collaborate on the syllabus:
+  * [https://github.com/orgs/CodeYourFuture/teams/mentors](https://github.com/orgs/CodeYourFuture/teams/mentors)\
+
 
 Please let us know either on Slack or through your cities contact information if you have not been added to any of the above.
 
