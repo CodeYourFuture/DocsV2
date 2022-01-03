@@ -1,6 +1,6 @@
 # Codewars Advice from Mentor
 
-There are over 9,000 JavaScript katas on Codewars, and _most_ of them are not very useful to you, especially as a complete beginner. Work through the CYF collections first. The CYF kata have been chosen to support your learning.
+There are over 9,000 JavaScript katas on Codewars, and _most_ of them are not very useful to you, especially as a complete beginner. Work through [the CYF collections](https://www.codewars.com/users/CodeYourFuture/authored\_collections) first. The CYF kata have been chosen to support your learning.
 
 It's a good idea to spend around 20 minutes, three times a week on kata. Three kata a week, every week, is much better than burning many hours cramming on Codewars and then leaving it for ages. Burn your hours on building projects, not solving puzzles.
 
