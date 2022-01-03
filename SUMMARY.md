@@ -65,6 +65,7 @@
   * [Hackathons](course-processes/running-the-course/hackathons.md)
   * [Codewars](course-processes/running-the-course/codewars/README.md)
     * [Codewars Advice from CYFers](course-processes/running-the-course/codewars/codewars-advice-from-cyfers.md)
+    * [Codewars Advice from Mentor](course-processes/running-the-course/codewars/codewars-advice-from-mentor.md)
   * [Assessment](course-processes/running-the-course/assessment/README.md)
     * [Milestones](course-processes/running-the-course/assessment/milestones.md)
     * [Codility](course-processes/running-the-course/assessment/codility.md)
