@@ -17,17 +17,7 @@ We cannot support Windows for development; it costs too much time and energy.
 
 ## Laptop Specs
 
-### Intro to Digital Specs
 
-These laptops are **only** used by students doing the [Into To Coding Course](../../../our-courses/intro-to-coding-course/). They should be capable of running browser based coding programs and joining video calls.
-
-* 2 GHz Intel i3 processor&#x20;
-  * or AMD equivalent
-* 40GB Hard Disk Drive
-* 1600 x 900 or greater screen resolution
-* 13” Screen size
-* 8 GB of RAM
-* Access to internet of 1.2Mbps up and down
 
 ### Minimum Specs
 
