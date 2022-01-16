@@ -21,7 +21,7 @@ We cannot support Windows for development; it costs too much time and energy.
 
 ### Minimum Specs
 
-These laptops are the minimum that we expect students to use to complete the [Fundamentals ](../../../our-courses/fundamentals/)and [Full Stack Coding Courses](../../../our-courses/full-stack-course/).
+These laptops are the minimum that we expect students to use.
 
 * 2.1 GHz Intel i3 or Intel i5 or better processor
   * or AMD equivalent
