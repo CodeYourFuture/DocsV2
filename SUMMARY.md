@@ -37,7 +37,7 @@
 ## 📝 Course Processes
 
 * [Before the Course](course-processes/before-the-course/README.md)
-  * [Application Process](course-processes/before-the-course/application-process/README.md)
+  * [Intro to Digital (ITD)](course-processes/before-the-course/application-process/README.md)
     * [Re-application Requirements for Application rejection](course-processes/before-the-course/application-process/untitled.md)
   * [Course Eligibility](course-processes/before-the-course/course-eligibility.md)
   * [Applicant Interviews](course-processes/before-the-course/student-interviews/README.md)
