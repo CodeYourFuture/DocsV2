@@ -110,72 +110,70 @@ They will be getting feedback on this project from one of our volunteers. They h
 
 They need to start with the web page that they completed in the previous step.
 
-&#x20;Read the CYF webpage guideline document [HERE](https://docs.google.com/presentation/d/1WlPrmTLsj8KWElBzV-QXjihmSknZe8HODX6SKc\_JfIM/edit#slide=id.g6597527f42\_0\_9). Use the guidelines to improve your webpage
+Read the CYF webpage guideline document [HERE](https://docs.google.com/presentation/d/1WlPrmTLsj8KWElBzV-QXjihmSknZe8HODX6SKc\_JfIM/edit#slide=id.g6597527f42\_0\_9). Use the guidelines to improve your webpage
 
-## 6: Product Landing Page Challenge _(Applicants Step 4.1)_
+**Rules**
 
-Next step of the application process is the Product Landing Page Challenge. This is the most intensive stage as we expect applicants to apply all the skills they have learnt so far and research additional skills independently in order to successfully complete the challenge. This page will be assessed as part of the selection process and therefore applicants should spend a lot of time iterating the page. Upon completing the first iteration, applicants are asked to share a link to the Product Landing Page on Codepen for assessment.
+The page should implement the feedback they received on how to improve the webpage.
 
-## 7: Product Landing Page Iteration Review and Feedback _(Applicants’ Step 4.2)_
+**Review Test Results**
 
-In order to carry out this step, navigate to the Dashboard and view the Step 3 & Step 4 panels for each trainee.
+Before they submit their code, they need to make sure all 10 tests pass to the dashboard.
 
-![image-20200225161303081](../../../.gitbook/assets/image-20200225161303081.png)
+**Submission**
 
-All applicants should tick all the of the checkboxes before they can complete the step.
+Before submission, **they need to** make sure that that they have completed all of the Acceptance Criteria.&#x20;
 
-## 8: Product Landing Page Iteration _(Applicants’ Step 4.2)_
+When theirweb page is complete, they need to copy and paste the Codepen link to your page in the field below and press Submit.
 
-Iteration is a crucial part of the CYF culture - we want to ensure that students continually learn and strive to improve whatever it is they are doing and developing. That's why it is important to start building this habit from the very beginning. The ways in which applicants respond to feedback can also serve as an indicator of their aptitude for the course.
+5: **Create a career plan**\
+d**escription**
+---------------
 
-![image-20200225161338547](../../../.gitbook/assets/image-20200225161338547.png)
+Now that they have spent some time learning the basics of coding, they take some time to look at the career opportunities available in tech.
 
-## 9: Interview Scheduling and Invites
+1. They need to create an account and go to this course: https://openclassrooms.com/en/courses/5291411-develop-your-career-plan
 
-Schedule a few interview days at least 3 weeks before the course start date to give yourself sufficient time to assess the candidates and make final preparations for the course. It will also help applicants, as they won’t all be available on just one interview day. Once applicants complete at least their first iteration of the Product Landing Page based on the Feedback in Step 7, invite them to an interview day.
+2\. Complete each stage of their career plan and upload the image of theirmind map.&#x20;
 
-Reach out to mentors and volunteers who can act as interviewers on the day. The average interview will take around 30 minutes. We advise having a pair of interviewers conducting each interview - this way you can get two points of feedback for each interview. For a group of 15 interviewers, we recommend having at least 5 interview pairs - this way you can complete interviews within a 3-hour window with some breaks in between.
+3\. When they complete the quiz, upload a screenshot of the quiz result.
 
-## 10: Motivational Letter _(Applicants’ Step 5)_
+4\. They will not get a certificate at the end as this is a free course. They shoulnd't pay for the certificate.
 
-Running up to the interview, ask an applicant to write a 300-word motivation letter discussing in detail why they would like to join CYF, what they would like to do with what they learn at CYF, and where they see themselves in 5 years. From our experience, asking for a motivational letter works best with our target group as a lot of them find this requirement intimidating and are a lot more likely to undertake it later on in the process.
+**Acceptance criteria:**&#x20;
 
-Encourage the applicants to research answers to these questions using search engines. Applicants may not have immediate answers, but they will need to research these questions and this can be very helpful for their motivation and understanding of coding as a career choice.
+1. Skills and experiences table completed&#x20;
+2. 5 experiences are listed&#x20;
+3. At least 1 skill is listed for each experience&#x20;
+4. Each skill is labeled with a skill level&#x20;
+5. Each skill is accompanied by evidence&#x20;
+6. Mind map completed&#x20;
+7. Mind Map includes information related to personal exploration&#x20;
+8. Mind map includes information related to professional interests&#x20;
+9. Mind map includes evaluation of how easy it will be to achieve imagined job
 
-This letter can also help to assess the level of English of an applicant – the course is delivered in English and places significant emphasis on the students' verbal and written communication skills. The earlier we can identify the potential problems with English, the sooner we can address them and suggest learning resources to applicants.
+## 6: Motivational Letter
 
-The motivation letter must:
+At this stage, they have completed all the learning steps! We hope that this course has made them eager to keep learning more tech and soft skills in our Fundamentals and Full Software Development course.
 
-* Show why they want to be a programmer
-* Show why they are committed to our course
-* Use good English
-* Be longer than 300 words
+Write a 500 word motivation letter answering the following questions:&#x20;
 
-## 11: Applicant Needs Survey
+1. Why do you want to learn with CodeYourFuture?
+2. Please explain how your background makes you eligible for our program.&#x20;
+3. Why would you like to have a career in tech?&#x20;
+4. What skills do you already have that will help you to learn tech skills?
 
-At this stage it is important to carry out an applicant survey to make sure that we are well aware of their support needs well in advance. Some applicants (and later students) will need help with travel, childcare, and/or internet expenses. Some won’t have laptops of their own. Some of them will not have bank accounts - making remote money transfers complicated. These need to be flagged early on to ensure that applicants who are invited to the interview days are able to attend and are not kept out of the course because they are unable to afford to travel to an interview or because they have caring responsibilities and are unable to cover childcare expenses.
+**Acceptance criteria**
 
-## 12: Interviews
+1. &#x20;Motivation letter is not longer than 500 words&#x20;
+2. Motivation letter has been spell checked
+3. Motivation letter has been checked for grammar errors&#x20;
+4. Motivation letter answers all the required questions
 
-Interviews combine personal and technical assessment, with the goal of evaluating current circumstances, effort put into the application process and potential of the candidate. It is important to highlight that interviews intend to ascertain a candidate's potential. CYF are not looking for people who are developers already, instead we are looking for people who have the potential to become developers in 8 months’ time with our support.
+##
 
-Throughout the day and while students are waiting for their interview, engage students in activities and ask them to help each other. Teamwork is a crucial component of the course and you can use this time to make some preliminary evaluations about how interviewees interact within a group.
+##
 
-Split interviewers into pairs - you will need at least 1 technical mentor in each pair to ensure that the technical aspects of the Product Landing Page can be assessed. All interviewers in an interview group should fill in their own interviewer form - this way we can get 2 or more feedback points for each interview.
+##
 
-Please review the [Trainee Interview](../student-interviews/) section for more details.
-
-## 14: Selection Day
-
-In this step we try to work out who should be given a place on the course.
-
-Please read more details on the [Selection Day](../selection-day.md) page
-
-## 15: Selection
-
-Once all data is collected, you can make suggestions for applicant offers or next steps. These are:
-
-* Offer - applicant shows clear aptitude for the course and scores highly in at least 2 of the 3 categories. It is important to make it clear that all offers extended to applicants are conditional on their performance running up to and during the course.
-* No Offer - applicant is not currently ready to join the course and will be encouraged to continue studying in order to be considered for the next course.
-
-Once the summary is complete and proposals for offers have been made, share the summary with the team to ensure a fair assessment and selection process. Ask members to review offer proposals to be made and provide feedback with regards to any concerns they may have.
+##
