@@ -43,7 +43,6 @@ Our goal is to create a grassroots movement that anyone around the world can rep
 
 ## People supporting the core structure of the organisation
 
-* **Aaishah Khan** (@Aaishah): West Midlands Programme Manager
 * **Alec McCrindle** (@Alec): Design and Digital Marketing
 * **Alicia Easley:** North West Programme Manager
 * **Barny Dathan** (@Barnaby Dathan): Employability & Tech Projects
