@@ -156,19 +156,18 @@ Now that they have spent some time learning the basics of coding, they take some
 
 At this stage, they have completed all the learning steps! We hope that this course has made them eager to keep learning more tech and soft skills in our Fundamentals and Full Software Development course.
 
-Write a 500 word motivation letter answering the following questions:&#x20;
+Write a motivation letter answering the following questions:&#x20;
 
 1. Why do you want to learn with CodeYourFuture?
 2. Please explain how your background makes you eligible for our program.&#x20;
 3. Why would you like to have a career in tech?&#x20;
 4. What skills do you already have that will help you to learn tech skills?
 
-**Acceptance criteria**
+**Acceptance criteria**&#x20;
 
-1. &#x20;Motivation letter is not longer than 500 words&#x20;
-2. Motivation letter has been spell checked
-3. Motivation letter has been checked for grammar errors&#x20;
-4. Motivation letter answers all the required questions
+1. Motivation letter has been spell checked
+2. Motivation letter has been checked for grammar errors&#x20;
+3. Motivation letter answers all the required questions
 
 ##
 
