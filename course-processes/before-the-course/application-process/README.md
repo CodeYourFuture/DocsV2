@@ -73,7 +73,7 @@ Applicants **can do these steps on a smartphone or using a laptop/desktop comput
 
 **Rules**
 
-Do shoud not copy the HTML/CSS code of the sample solution FCC page. Your submission must be significantly different from the sample solution.[****\
+Do not copy the HTML/CSS code of the sample solution FCC page. Your submission must be significantly different from the sample solution.[****\
 ****](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)****
 
 **Submission**
