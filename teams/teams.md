@@ -31,7 +31,7 @@ CYF local leadership team is divided in four teams: _Outreach, Personal Developm
 
 **Education**
 
-* The team and supporting members will start review the steps submitted by the students and start getting to know applicants during the application process
+* The team and supporting members will start by reviewing the steps submitted by the students and start getting to know applicants during the application process
 * The team will then coordinates the onboarding of trainers and TA to run the classes. They organise training sessions to support new trainers that will be leading sessions and for the groups to get to know each other
 * The team collects the feedback from classes and weekly homework review and discusses weekly the performance of the students
 * The team members work together with PD team to exchange feedback on students and find ways to increase support of those that are underperforming
